@@ -1,0 +1,1703 @@
+{
+  "chapter": 12,
+  "title": "The Nervous System",
+  "title_ar": "الجهاز العصبي",
+  "title_en": "The Nervous System",
+  "description": "المصطلحات الطبية المتعلقة بالجهاز العصبي المركزي والمحيطي والأمراض العصبية والإجراءات التشخيصية والعلاجية",
+  "description_en": "Medical terminology related to the central and peripheral nervous systems, neurological diseases, diagnostic and therapeutic procedures",
+  "terms": [
+    {
+      "id": 9501,
+      "term": "nervous system",
+      "arabic": "الجهاز العصبي",
+      "latin": "systema nervosum",
+      "pronunciation": "نير-فَس سيس-تم",
+      "definition": "الجهاز المسؤول عن استقبال المعلومات من البيئة الداخلية والخارجية ومعالجتها وتنسيق استجابة الجسم لها",
+      "definition_en": "The system responsible for receiving information from the internal and external environment, processing it, and coordinating the body's response",
+      "englishSentence": "The nervous system is the body's communication and control network, responsible for coordinating all bodily functions.",
+      "parts": {
+        "root": {
+          "value": "neur/o",
+          "meaning": "عصب",
+          "function": "يشير إلى العصب أو الجهاز العصبي"
+        },
+        "suffix": {
+          "value": "-ous",
+          "meaning": "متعلق بـ",
+          "function": "صفة"
+        }
+      },
+      "type": "system",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "التحكم والتنسيق بين أجهزة الجسم المختلفة",
+      "systemFunction_en": "Control and coordination of the body's various systems",
+      "location": "الدماغ والحبل الشوكي والأعصاب في جميع أنحاء الجسم",
+      "location_en": "Brain, spinal cord, and nerves throughout the body",
+      "nearbyOrgans": [
+        "الدماغ",
+        "الحبل الشوكي",
+        "الأعصاب الطرفية",
+        "الغدد الكظرية"
+      ],
+      "nearbyOrgans_en": [
+        "Brain",
+        "Spinal cord",
+        "Peripheral nerves",
+        "Adrenal glands"
+      ],
+      "diseases": [
+        {
+          "name": "التصلب المتعدد",
+          "name_en": "Multiple Sclerosis",
+          "symptoms": [
+            "ضعف عضلي",
+            "اضطرابات بصرية",
+            "تنميل"
+          ],
+          "symptoms_en": [
+            "Muscle weakness",
+            "Visual disturbances",
+            "Numbness"
+          ],
+          "treatments": [
+            "أدوية معدِّلة للمرض",
+            "كورتيكوستيرويدات",
+            "علاج طبيعي"
+          ],
+          "treatments_en": [
+            "Disease-modifying drugs",
+            "Corticosteroids",
+            "Physical therapy"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "CNS",
+        "PNS",
+        "neural",
+        "جهاز عصبي"
+      ]
+    },
+    {
+      "id": 9502,
+      "term": "neuron",
+      "arabic": "خلية عصبية / نيورون",
+      "latin": "neuron",
+      "pronunciation": "نيو-رون",
+      "definition": "الوحدة الوظيفية الأساسية للجهاز العصبي، وهي خلية متخصصة في نقل الإشارات الكهربائية والكيميائية",
+      "definition_en": "The basic functional unit of the nervous system; a specialized cell that transmits electrical and chemical signals",
+      "englishSentence": "A neuron is the basic unit of the nervous system that transmits nerve impulses.",
+      "parts": {
+        "root": {
+          "value": "neur/o",
+          "meaning": "عصب",
+          "function": "يشير إلى الخلية العصبية"
+        },
+        "suffix": {
+          "value": "-on",
+          "meaning": "وحدة",
+          "function": "يشير إلى الوحدة الأساسية"
+        }
+      },
+      "type": "cell",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "نقل السيالات العصبية",
+      "systemFunction_en": "Transmission of nerve impulses",
+      "location": "الدماغ والحبل الشوكي والأعصاب الطرفية",
+      "location_en": "Brain, spinal cord, and peripheral nerves",
+      "nearbyOrgans": [
+        "الدماغ",
+        "الحبل الشوكي",
+        "العقد العصبية"
+      ],
+      "nearbyOrgans_en": [
+        "Brain",
+        "Spinal cord",
+        "Ganglia"
+      ],
+      "diseases": [
+        {
+          "name": "التنكس العصبي",
+          "name_en": "Neurodegeneration",
+          "symptoms": [
+            "فقدان الذاكرة",
+            "ضعف الحركة",
+            "اضطراب الإدراك"
+          ],
+          "symptoms_en": [
+            "Memory loss",
+            "Motor weakness",
+            "Cognitive impairment"
+          ],
+          "treatments": [
+            "علاج داعم",
+            "دواء لتخفيف الأعراض"
+          ],
+          "treatments_en": [
+            "Supportive care",
+            "Symptomatic medication"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "nerve cell",
+        "axon",
+        "dendrite",
+        "synapse"
+      ]
+    },
+    {
+      "id": 9503,
+      "term": "cerebrum",
+      "arabic": "المخ / الدماغ الكبير",
+      "latin": "cerebrum",
+      "pronunciation": "سير-إي-برم",
+      "definition": "الجزء الأكبر من الدماغ، يتحكم في التفكير والذاكرة والحركة والإحساس",
+      "definition_en": "The largest part of the brain, controlling thinking, memory, movement, and sensation",
+      "englishSentence": "The cerebrum is the largest part of the brain and is responsible for higher cognitive functions.",
+      "parts": {
+        "root": {
+          "value": "cerebr/o",
+          "meaning": "دماغ كبير",
+          "function": "يشير إلى الجزء الأكبر من الدماغ"
+        }
+      },
+      "type": "anatomy",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "التحكم في الوظائف العليا كالتفكير والإدراك والحركة الإرادية",
+      "systemFunction_en": "Control of higher functions such as thinking, cognition, and voluntary movement",
+      "location": "أعلى الجمجمة",
+      "location_en": "Upper skull",
+      "nearbyOrgans": [
+        "المخيخ",
+        "جذع الدماغ",
+        "الفصوص الدماغية"
+      ],
+      "nearbyOrgans_en": [
+        "Cerebellum",
+        "Brainstem",
+        "Cerebral lobes"
+      ],
+      "diseases": [
+        {
+          "name": "السكتة الدماغية",
+          "name_en": "Stroke (CVA)",
+          "symptoms": [
+            "شلل مفاجئ",
+            "اضطراب الكلام",
+            "صداع شديد",
+            "فقدان الرؤية"
+          ],
+          "symptoms_en": [
+            "Sudden paralysis",
+            "Speech disturbance",
+            "Severe headache",
+            "Vision loss"
+          ],
+          "treatments": [
+            "tPA (مذيب الجلطة)",
+            "جراحة",
+            "إعادة تأهيل"
+          ],
+          "treatments_en": [
+            "tPA (thrombolytic)",
+            "Surgery",
+            "Rehabilitation"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "cerebral",
+        "cortex",
+        "brain",
+        "dماغ"
+      ]
+    },
+    {
+      "id": 9504,
+      "term": "cerebellum",
+      "arabic": "المخيخ",
+      "latin": "cerebellum",
+      "pronunciation": "سير-إي-بيل-م",
+      "definition": "الجزء الخلفي السفلي من الدماغ المسؤول عن تنسيق الحركة والتوازن",
+      "definition_en": "The posterior inferior part of the brain responsible for coordinating movement and balance",
+      "englishSentence": "The cerebellum coordinates voluntary movements and maintains balance and posture.",
+      "parts": {
+        "root": {
+          "value": "cerebell/o",
+          "meaning": "مخيخ",
+          "function": "يشير إلى المخيخ"
+        },
+        "suffix": {
+          "value": "-um",
+          "meaning": "بنية تشريحية",
+          "function": "يشير إلى هيكل تشريحي"
+        }
+      },
+      "type": "anatomy",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "تنسيق الحركة والتوازن والوضعية",
+      "systemFunction_en": "Coordination of movement, balance, and posture",
+      "location": "مؤخرة الجمجمة تحت المخ",
+      "location_en": "Posterior skull below the cerebrum",
+      "nearbyOrgans": [
+        "المخ",
+        "جذع الدماغ",
+        "الرابع من البطينات الدماغية"
+      ],
+      "nearbyOrgans_en": [
+        "Cerebrum",
+        "Brainstem",
+        "Fourth ventricle"
+      ],
+      "diseases": [
+        {
+          "name": "ترنح المخيخ",
+          "name_en": "Cerebellar Ataxia",
+          "symptoms": [
+            "اضطراب التوازن",
+            "تعذر الأداء الحركي",
+            "رجفة"
+          ],
+          "symptoms_en": [
+            "Balance disorder",
+            "Motor dyscoordination",
+            "Tremor"
+          ],
+          "treatments": [
+            "علاج المسبب",
+            "علاج طبيعي",
+            "أدوية"
+          ],
+          "treatments_en": [
+            "Treat underlying cause",
+            "Physical therapy",
+            "Medications"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "cerebellar",
+        "balance",
+        "coordination",
+        "توازن"
+      ]
+    },
+    {
+      "id": 9505,
+      "term": "meninges",
+      "arabic": "السحايا",
+      "latin": "meninges",
+      "pronunciation": "مي-نين-جيز",
+      "definition": "ثلاث طبقات من الأغشية الواقية التي تغطي الدماغ والحبل الشوكي: الأم الجافية، الأم العنكبوتية، الأم الحنون",
+      "definition_en": "Three layers of protective membranes covering the brain and spinal cord: dura mater, arachnoid mater, pia mater",
+      "englishSentence": "The meninges are three protective membranes that surround the brain and spinal cord.",
+      "parts": {
+        "root": {
+          "value": "mening/o",
+          "meaning": "سحايا",
+          "function": "يشير إلى أغشية الدماغ"
+        },
+        "suffix": {
+          "value": "-es",
+          "meaning": "جمع",
+          "function": "يشير إلى التعدد"
+        }
+      },
+      "type": "anatomy",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "حماية الدماغ والحبل الشوكي",
+      "systemFunction_en": "Protection of the brain and spinal cord",
+      "location": "تحيط بالدماغ والحبل الشوكي",
+      "location_en": "Surrounding the brain and spinal cord",
+      "nearbyOrgans": [
+        "الدماغ",
+        "الحبل الشوكي",
+        "السائل الدماغي الشوكي"
+      ],
+      "nearbyOrgans_en": [
+        "Brain",
+        "Spinal cord",
+        "Cerebrospinal fluid"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب السحايا",
+          "name_en": "Meningitis",
+          "symptoms": [
+            "صداع شديد",
+            "تيبس الرقبة",
+            "حمى",
+            "حساسية للضوء"
+          ],
+          "symptoms_en": [
+            "Severe headache",
+            "Neck stiffness",
+            "Fever",
+            "Photophobia"
+          ],
+          "treatments": [
+            "مضادات حيوية",
+            "مضادات فيروسية",
+            "كورتيكوستيرويدات"
+          ],
+          "treatments_en": [
+            "Antibiotics",
+            "Antivirals",
+            "Corticosteroids"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "meningitis",
+        "dura mater",
+        "pia mater",
+        "سحايا"
+      ]
+    },
+    {
+      "id": 9506,
+      "term": "neuralgia",
+      "arabic": "ألم عصبي",
+      "latin": "neuralgia",
+      "pronunciation": "نيو-رال-جيا",
+      "definition": "ألم حاد وشديد يتبع مسار عصب أو أكثر، غالباً بدون سبب واضح للالتهاب",
+      "definition_en": "Sharp, severe pain that follows the path of one or more nerves, often without obvious inflammation",
+      "englishSentence": "Neuralgia is intense pain along the course of a nerve.",
+      "parts": {
+        "root": {
+          "value": "neur/o",
+          "meaning": "عصب",
+          "function": "يشير إلى العصب"
+        },
+        "suffix": {
+          "value": "-algia",
+          "meaning": "ألم",
+          "function": "يشير إلى الألم"
+        }
+      },
+      "type": "condition",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "الإحساس والإشارات الألمية",
+      "systemFunction_en": "Sensation and pain signaling",
+      "location": "على امتداد مسار الأعصاب",
+      "location_en": "Along nerve pathways",
+      "nearbyOrgans": [
+        "الأعصاب الطرفية",
+        "الحبل الشوكي"
+      ],
+      "nearbyOrgans_en": [
+        "Peripheral nerves",
+        "Spinal cord"
+      ],
+      "diseases": [
+        {
+          "name": "ألم العصب ثلاثي التوائم",
+          "name_en": "Trigeminal Neuralgia",
+          "symptoms": [
+            "ألم وجهي حاد مفاجئ",
+            "حساسية للمس",
+            "تشنج عضلي"
+          ],
+          "symptoms_en": [
+            "Sudden sharp facial pain",
+            "Touch sensitivity",
+            "Muscle spasm"
+          ],
+          "treatments": [
+            "كاربامازيبين",
+            "جراحة",
+            "تقنية الجلفنة"
+          ],
+          "treatments_en": [
+            "Carbamazepine",
+            "Surgery",
+            "Galvanic technique"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "nerve pain",
+        "neuropathy",
+        "ألم عصبي"
+      ]
+    },
+    {
+      "id": 9507,
+      "term": "encephalitis",
+      "arabic": "التهاب الدماغ",
+      "latin": "encephalitis",
+      "pronunciation": "إن-سيف-ا-لاي-تس",
+      "definition": "التهاب في أنسجة الدماغ، غالباً بسبب عدوى فيروسية أو بكتيرية أو استجابة مناعية ذاتية",
+      "definition_en": "Inflammation of brain tissue, usually due to viral or bacterial infection or autoimmune response",
+      "englishSentence": "Encephalitis is inflammation of the brain, most commonly caused by a viral infection.",
+      "parts": {
+        "root": {
+          "value": "encephal/o",
+          "meaning": "دماغ",
+          "function": "يشير إلى الدماغ"
+        },
+        "suffix": {
+          "value": "-itis",
+          "meaning": "التهاب",
+          "function": "يشير إلى الالتهاب"
+        }
+      },
+      "type": "disease",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "وظائف الدماغ",
+      "systemFunction_en": "Brain functions",
+      "location": "أنسجة الدماغ",
+      "location_en": "Brain tissue",
+      "nearbyOrgans": [
+        "السحايا",
+        "الحبل الشوكي",
+        "الجهاز اللمفاوي"
+      ],
+      "nearbyOrgans_en": [
+        "Meninges",
+        "Spinal cord",
+        "Lymphatic system"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب الدماغ الفيروسي",
+          "name_en": "Viral Encephalitis",
+          "symptoms": [
+            "حمى",
+            "صداع",
+            "اضطراب الوعي",
+            "نوبات تشنجية"
+          ],
+          "symptoms_en": [
+            "Fever",
+            "Headache",
+            "Altered consciousness",
+            "Seizures"
+          ],
+          "treatments": [
+            "مضادات فيروسية (أسيكلوفير)",
+            "دعم داخل المستشفى",
+            "مضادات التشنج"
+          ],
+          "treatments_en": [
+            "Antivirals (Acyclovir)",
+            "Inpatient support",
+            "Anticonvulsants"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "brain inflammation",
+        "viral",
+        "encephalo",
+        "التهاب الدماغ"
+      ]
+    },
+    {
+      "id": 9508,
+      "term": "epilepsy",
+      "arabic": "الصرع",
+      "latin": "epilepsia",
+      "pronunciation": "إيب-إي-لب-سي",
+      "definition": "اضطراب عصبي مزمن يتميز بنوبات متكررة ناتجة عن نشاط كهربائي غير طبيعي في الدماغ",
+      "definition_en": "Chronic neurological disorder characterized by recurrent seizures due to abnormal electrical activity in the brain",
+      "englishSentence": "Epilepsy is a neurological disorder characterized by recurrent unprovoked seizures.",
+      "parts": {
+        "root": {
+          "value": "epileps/o",
+          "meaning": "نوبة تشنجية",
+          "function": "يشير إلى النشاط التشنجي"
+        },
+        "suffix": {
+          "value": "-y",
+          "meaning": "حالة",
+          "function": "يشير إلى الحالة المرضية"
+        }
+      },
+      "type": "disease",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "النشاط الكهربائي الدماغي الطبيعي",
+      "systemFunction_en": "Normal brain electrical activity",
+      "location": "الدماغ",
+      "location_en": "Brain",
+      "nearbyOrgans": [
+        "المخ",
+        "المخيخ",
+        "جذع الدماغ"
+      ],
+      "nearbyOrgans_en": [
+        "Cerebrum",
+        "Cerebellum",
+        "Brainstem"
+      ],
+      "diseases": [
+        {
+          "name": "نوبة الصرع الكبرى",
+          "name_en": "Tonic-Clonic Seizure (Grand Mal)",
+          "symptoms": [
+            "فقدان الوعي",
+            "تشنجات عضلية",
+            "عض اللسان",
+            "احتقان البول"
+          ],
+          "symptoms_en": [
+            "Loss of consciousness",
+            "Muscle convulsions",
+            "Tongue biting",
+            "Urinary incontinence"
+          ],
+          "treatments": [
+            "مضادات الصرع",
+            "ديازيبام للطوارئ",
+            "جراحة عند الضرورة"
+          ],
+          "treatments_en": [
+            "Antiepileptics",
+            "Diazepam for emergencies",
+            "Surgery when necessary"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "seizure",
+        "convulsion",
+        "anticonvulsant",
+        "صرع",
+        "تشنج"
+      ]
+    },
+    {
+      "id": 9509,
+      "term": "Alzheimer's disease",
+      "arabic": "مرض الزهايمر",
+      "latin": "morbus Alzheimer",
+      "pronunciation": "آلز-هاي-مرز دي-زيز",
+      "definition": "مرض تنكسي عصبي تدريجي يسبب تدهوراً في الذاكرة والتفكير والسلوك، وهو الشكل الأكثر شيوعاً لمرض الخرف",
+      "definition_en": "A progressive neurodegenerative disease causing deterioration in memory, thinking, and behavior; the most common form of dementia",
+      "englishSentence": "Alzheimer's disease is the most common cause of dementia, characterized by progressive memory loss.",
+      "parts": {
+        "root": {
+          "value": "Alzheimer (علم شخصي)",
+          "meaning": "نسبة إلى الطبيب ألويس الزهايمر",
+          "function": "اكتشف المرض عام 1906"
+        }
+      },
+      "type": "disease",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "الذاكرة والتفكير والسلوك",
+      "systemFunction_en": "Memory, thinking, and behavior",
+      "location": "قشرة الدماغ والحصين (Hippocampus)",
+      "location_en": "Cerebral cortex and hippocampus",
+      "nearbyOrgans": [
+        "المخ",
+        "الحصين",
+        "الفص الجبهي"
+      ],
+      "nearbyOrgans_en": [
+        "Cerebrum",
+        "Hippocampus",
+        "Frontal lobe"
+      ],
+      "diseases": [
+        {
+          "name": "الخرف",
+          "name_en": "Dementia",
+          "symptoms": [
+            "فقدان الذاكرة",
+            "الارتباك",
+            "صعوبة الكلام",
+            "تغييرات سلوكية"
+          ],
+          "symptoms_en": [
+            "Memory loss",
+            "Confusion",
+            "Speech difficulty",
+            "Behavioral changes"
+          ],
+          "treatments": [
+            "مثبطات الكولينستيراز",
+            "ميمانتين",
+            "رعاية داعمة"
+          ],
+          "treatments_en": [
+            "Cholinesterase inhibitors",
+            "Memantine",
+            "Supportive care"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "dementia",
+        "memory loss",
+        "neurodegenerative",
+        "زهايمر",
+        "خرف"
+      ]
+    },
+    {
+      "id": 9510,
+      "term": "Parkinson's disease",
+      "arabic": "مرض باركنسون",
+      "latin": "morbus Parkinson",
+      "pronunciation": "بار-كن-سنز دي-زيز",
+      "definition": "اضطراب حركي تدريجي ناتج عن نقص الدوبامين في الدماغ، يتميز بالرعشة والتيبس وبطء الحركة",
+      "definition_en": "A progressive movement disorder caused by dopamine deficiency in the brain, characterized by tremor, rigidity, and bradykinesia",
+      "englishSentence": "Parkinson's disease is a neurodegenerative disorder affecting movement, causing tremor and rigidity.",
+      "parts": {
+        "root": {
+          "value": "Parkinson (علم شخصي)",
+          "meaning": "نسبة إلى الطبيب جيمس باركنسون",
+          "function": "وصف المرض عام 1817"
+        }
+      },
+      "type": "disease",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "التحكم الحركي الدقيق",
+      "systemFunction_en": "Fine motor control",
+      "location": "العقد القاعدية والمادة السوداء في الدماغ",
+      "location_en": "Basal ganglia and substantia nigra",
+      "nearbyOrgans": [
+        "العقد القاعدية",
+        "المادة السوداء",
+        "الدوبامين العصبي"
+      ],
+      "nearbyOrgans_en": [
+        "Basal ganglia",
+        "Substantia nigra",
+        "Dopaminergic neurons"
+      ],
+      "diseases": [
+        {
+          "name": "التنكس العصبي الدوباميني",
+          "name_en": "Dopaminergic Neurodegeneration",
+          "symptoms": [
+            "رعشة في الراحة",
+            "تيبس عضلي",
+            "بطء الحركة",
+            "اضطراب التوازن"
+          ],
+          "symptoms_en": [
+            "Resting tremor",
+            "Muscle rigidity",
+            "Bradykinesia",
+            "Postural instability"
+          ],
+          "treatments": [
+            "ليفودوبا",
+            "ناهضات الدوبامين",
+            "جراحة التحفيز العميق للدماغ"
+          ],
+          "treatments_en": [
+            "Levodopa",
+            "Dopamine agonists",
+            "Deep brain stimulation surgery"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "tremor",
+        "dopamine",
+        "movement disorder",
+        "باركنسون",
+        "رعشة"
+      ]
+    },
+    {
+      "id": 9511,
+      "term": "stroke",
+      "arabic": "السكتة الدماغية",
+      "latin": "ictus cerebri / apoplexia",
+      "pronunciation": "ستروك",
+      "definition": "انقطاع مفاجئ في إمداد الدم لجزء من الدماغ إما بسبب انسداد وعاء دموي (إقفاري) أو نزيف (نزفي)",
+      "definition_en": "Sudden interruption of blood supply to part of the brain due to either vessel blockage (ischemic) or hemorrhage (hemorrhagic)",
+      "englishSentence": "A stroke occurs when blood supply to part of the brain is cut off, causing brain damage.",
+      "parts": {
+        "root": {
+          "value": "cerebrovascular (ischemic/hemorrhagic)",
+          "meaning": "إصابة وعائية دماغية",
+          "function": "تصنيف المرض"
+        }
+      },
+      "type": "disease",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "الإمداد الدموي للدماغ",
+      "systemFunction_en": "Blood supply to the brain",
+      "location": "الدماغ - الشرايين الدماغية",
+      "location_en": "Brain - cerebral arteries",
+      "nearbyOrgans": [
+        "الشرايين الدماغية",
+        "القلب",
+        "الأوعية الدموية الكبرى"
+      ],
+      "nearbyOrgans_en": [
+        "Cerebral arteries",
+        "Heart",
+        "Major blood vessels"
+      ],
+      "diseases": [
+        {
+          "name": "السكتة الإقفارية",
+          "name_en": "Ischemic Stroke",
+          "symptoms": [
+            "شلل مفاجئ في جهة واحدة",
+            "اضطراب الكلام",
+            "فقدان الرؤية",
+            "صداع مفاجئ شديد"
+          ],
+          "symptoms_en": [
+            "Sudden one-sided paralysis",
+            "Speech disturbance",
+            "Vision loss",
+            "Sudden severe headache"
+          ],
+          "treatments": [
+            "tPA (أقل من 4.5 ساعة)",
+            "استخراج الجلطة",
+            "مضادات التخثر",
+            "إعادة تأهيل"
+          ],
+          "treatments_en": [
+            "tPA (within 4.5 hours)",
+            "Thrombectomy",
+            "Anticoagulants",
+            "Rehabilitation"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "CVA",
+        "TIA",
+        "ischemic",
+        "hemorrhagic",
+        "سكتة دماغية",
+        "جلطة دماغية"
+      ]
+    },
+    {
+      "id": 9512,
+      "term": "multiple sclerosis",
+      "arabic": "التصلب اللويحي / التصلب المتعدد",
+      "latin": "sclerosis multiplex",
+      "pronunciation": "مَل-تيبل سكلي-رو-سس",
+      "definition": "مرض مناعي ذاتي يصيب الجهاز العصبي المركزي حيث يهاجم الجهاز المناعي غمد المايلين المحيط بالأعصاب",
+      "definition_en": "An autoimmune disease affecting the central nervous system where the immune system attacks the myelin sheath surrounding nerves",
+      "englishSentence": "Multiple sclerosis is an autoimmune disease causing demyelination of nerves in the CNS.",
+      "parts": {
+        "root": {
+          "value": "scler/o",
+          "meaning": "صلب / متصلب",
+          "function": "يشير إلى تكوّن اللويحات الصلبة"
+        },
+        "suffix": {
+          "value": "-osis",
+          "meaning": "حالة",
+          "function": "يشير إلى الحالة المرضية"
+        }
+      },
+      "type": "disease",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "توصيل السيالات العصبية",
+      "systemFunction_en": "Nerve impulse conduction",
+      "location": "الدماغ والحبل الشوكي",
+      "location_en": "Brain and spinal cord",
+      "nearbyOrgans": [
+        "غمد المايلين",
+        "المحور العصبي",
+        "الجهاز المناعي"
+      ],
+      "nearbyOrgans_en": [
+        "Myelin sheath",
+        "Axon",
+        "Immune system"
+      ],
+      "diseases": [
+        {
+          "name": "إزالة الميالين",
+          "name_en": "Demyelination",
+          "symptoms": [
+            "ضعف عضلي",
+            "تنميل وخز",
+            "اضطراب بصري",
+            "إعياء شديد"
+          ],
+          "symptoms_en": [
+            "Muscle weakness",
+            "Numbness and tingling",
+            "Visual disturbance",
+            "Severe fatigue"
+          ],
+          "treatments": [
+            "إنترفيرون بيتا",
+            "ناتاليزوماب",
+            "أوكريليزوماب",
+            "علاج داعم"
+          ],
+          "treatments_en": [
+            "Interferon beta",
+            "Natalizumab",
+            "Ocrelizumab",
+            "Supportive therapy"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "MS",
+        "myelin",
+        "demyelination",
+        "autoimmune",
+        "تصلب متعدد"
+      ]
+    },
+    {
+      "id": 9513,
+      "term": "neuropathy",
+      "arabic": "اعتلال الأعصاب",
+      "latin": "neuropathia",
+      "pronunciation": "نيو-روب-أ-ثي",
+      "definition": "مصطلح عام يصف مرض أو تلف الأعصاب الطرفية مما يسبب ضعفاً أو خدراً أو ألماً",
+      "definition_en": "General term describing disease or damage to peripheral nerves causing weakness, numbness, or pain",
+      "englishSentence": "Neuropathy refers to damage to the peripheral nerves, often causing tingling, pain, or weakness.",
+      "parts": {
+        "root": {
+          "value": "neur/o",
+          "meaning": "عصب",
+          "function": "يشير إلى الأعصاب"
+        },
+        "suffix": {
+          "value": "-pathy",
+          "meaning": "مرض",
+          "function": "يشير إلى الاعتلال"
+        }
+      },
+      "type": "condition",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "توصيل الإشارات العصبية الطرفية",
+      "systemFunction_en": "Peripheral nerve signal conduction",
+      "location": "الأعصاب الطرفية",
+      "location_en": "Peripheral nerves",
+      "nearbyOrgans": [
+        "الحبل الشوكي",
+        "الأطراف",
+        "الجلد"
+      ],
+      "nearbyOrgans_en": [
+        "Spinal cord",
+        "Extremities",
+        "Skin"
+      ],
+      "diseases": [
+        {
+          "name": "الاعتلال العصبي السكري",
+          "name_en": "Diabetic Neuropathy",
+          "symptoms": [
+            "خدر القدمين",
+            "ألم حارق",
+            "فقدان الإحساس",
+            "ضعف عضلي"
+          ],
+          "symptoms_en": [
+            "Foot numbness",
+            "Burning pain",
+            "Loss of sensation",
+            "Muscle weakness"
+          ],
+          "treatments": [
+            "ضبط السكر",
+            "مسكنات الألم",
+            "غابابنتين",
+            "علاج طبيعي"
+          ],
+          "treatments_en": [
+            "Blood sugar control",
+            "Analgesics",
+            "Gabapentin",
+            "Physical therapy"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "peripheral nerve",
+        "diabetic neuropathy",
+        "خدر",
+        "اعتلال عصبي"
+      ]
+    },
+    {
+      "id": 9514,
+      "term": "spinal cord",
+      "arabic": "الحبل الشوكي",
+      "latin": "medulla spinalis",
+      "pronunciation": "سباي-نال كورد",
+      "definition": "حزمة من الأنسجة العصبية تمتد من جذع الدماغ عبر العمود الفقري، تنقل الإشارات بين الدماغ وبقية الجسم",
+      "definition_en": "A bundle of neural tissue extending from the brainstem through the vertebral column, transmitting signals between the brain and the rest of the body",
+      "englishSentence": "The spinal cord is a bundle of nerves that transmits signals between the brain and the body.",
+      "parts": {
+        "root": {
+          "value": "spin/o",
+          "meaning": "عمود فقري",
+          "function": "يشير إلى الفقرات"
+        }
+      },
+      "type": "anatomy",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "نقل الإشارات العصبية الحركية والحسية",
+      "systemFunction_en": "Transmission of motor and sensory nerve signals",
+      "location": "داخل القناة الشوكية للعمود الفقري",
+      "location_en": "Inside the vertebral canal",
+      "nearbyOrgans": [
+        "الفقرات",
+        "الأقراص الفقرية",
+        "الجذور العصبية"
+      ],
+      "nearbyOrgans_en": [
+        "Vertebrae",
+        "Intervertebral discs",
+        "Nerve roots"
+      ],
+      "diseases": [
+        {
+          "name": "إصابة الحبل الشوكي",
+          "name_en": "Spinal Cord Injury",
+          "symptoms": [
+            "شلل كلي أو جزئي",
+            "فقدان الإحساس",
+            "خلل في التحكم بالمثانة"
+          ],
+          "symptoms_en": [
+            "Complete or partial paralysis",
+            "Loss of sensation",
+            "Bladder control dysfunction"
+          ],
+          "treatments": [
+            "استقرار العمود الفقري",
+            "كورتيكوستيرويدات",
+            "إعادة تأهيل مكثف"
+          ],
+          "treatments_en": [
+            "Spinal stabilization",
+            "Corticosteroids",
+            "Intensive rehabilitation"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "spinal cord injury",
+        "paraplegia",
+        "quadriplegia",
+        "حبل شوكي"
+      ]
+    },
+    {
+      "id": 9515,
+      "term": "migraine",
+      "arabic": "الشقيقة / الصداع النصفي",
+      "latin": "hemicrania / migraena",
+      "pronunciation": "ماي-غرين",
+      "definition": "صداع نوبي شديد عادةً في جهة واحدة من الرأس، يصاحبه أحياناً غثيان وتقيؤ وحساسية للضوء والصوت",
+      "definition_en": "Recurrent severe headache usually on one side of the head, often accompanied by nausea, vomiting, and sensitivity to light and sound",
+      "englishSentence": "Migraine is a recurrent, throbbing headache often accompanied by nausea and light sensitivity.",
+      "parts": {
+        "root": {
+          "value": "hemi-",
+          "meaning": "نصف",
+          "function": "يشير إلى تأثر نصف الرأس"
+        },
+        "suffix": {
+          "value": "crania",
+          "meaning": "جمجمة / رأس",
+          "function": "يشير إلى الرأس"
+        }
+      },
+      "type": "condition",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "الإحساس بالألم في الرأس",
+      "systemFunction_en": "Head pain sensation",
+      "location": "الرأس - عادةً جهة واحدة",
+      "location_en": "Head - usually one side",
+      "nearbyOrgans": [
+        "الأعصاب القحفية",
+        "الأوعية الدماغية",
+        "الجيوب الأنفية"
+      ],
+      "nearbyOrgans_en": [
+        "Cranial nerves",
+        "Cerebral vessels",
+        "Sinuses"
+      ],
+      "diseases": [
+        {
+          "name": "الصداع النصفي مع أورة",
+          "name_en": "Migraine with Aura",
+          "symptoms": [
+            "ومضات بصرية قبل الصداع",
+            "صداع نابض شديد",
+            "غثيان",
+            "تقيؤ"
+          ],
+          "symptoms_en": [
+            "Visual flashes before headache",
+            "Severe throbbing headache",
+            "Nausea",
+            "Vomiting"
+          ],
+          "treatments": [
+            "تريبتان",
+            "مضادات القيء",
+            "مسكنات",
+            "أدوية وقائية"
+          ],
+          "treatments_en": [
+            "Triptans",
+            "Antiemetics",
+            "Analgesics",
+            "Preventive medications"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "headache",
+        "aura",
+        "hemicrania",
+        "صداع نصفي",
+        "شقيقة"
+      ]
+    },
+    {
+      "id": 9516,
+      "term": "EEG (electroencephalography)",
+      "arabic": "تخطيط الدماغ الكهربائي",
+      "latin": "electroencephalographia",
+      "pronunciation": "إي-إي-جي",
+      "definition": "اختبار تشخيصي يسجل النشاط الكهربائي للدماغ من خلال أقطاب كهربائية توضع على فروة الرأس",
+      "definition_en": "Diagnostic test recording the electrical activity of the brain through electrodes placed on the scalp",
+      "englishSentence": "An EEG records the brain's electrical activity and is used to diagnose epilepsy and other neurological conditions.",
+      "type": "procedure",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "تشخيص اضطرابات النشاط الكهربائي الدماغي",
+      "systemFunction_en": "Diagnosis of brain electrical activity disorders",
+      "location": "فروة الرأس - قياس لنشاط الدماغ",
+      "location_en": "Scalp - measuring brain activity",
+      "nearbyOrgans": [
+        "الدماغ",
+        "القشرة الدماغية"
+      ],
+      "nearbyOrgans_en": [
+        "Brain",
+        "Cerebral cortex"
+      ],
+      "diseases": [
+        {
+          "name": "الصرع",
+          "name_en": "Epilepsy",
+          "symptoms": [
+            "نشاط كهربائي غير طبيعي"
+          ],
+          "symptoms_en": [
+            "Abnormal electrical activity"
+          ],
+          "treatments": [
+            "يستخدم لتشخيص وتصنيف نوع الصرع"
+          ],
+          "treatments_en": [
+            "Used to diagnose and classify seizure type"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "brain waves",
+        "seizure diagnosis",
+        "تخطيط دماغي"
+      ]
+    },
+    {
+      "id": 9517,
+      "term": "lumbar puncture",
+      "arabic": "البزل القطني / ثقب العمود الفقري",
+      "latin": "punctio lumbalis",
+      "pronunciation": "لَم-بار بَنك-تشر",
+      "definition": "إجراء طبي يُدخل فيه إبرة بين الفقرات القطنية لسحب عينة من السائل الدماغي الشوكي للتحليل",
+      "definition_en": "A medical procedure inserting a needle between lumbar vertebrae to withdraw cerebrospinal fluid for analysis",
+      "englishSentence": "A lumbar puncture, or spinal tap, collects cerebrospinal fluid for laboratory analysis.",
+      "type": "procedure",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "تشخيص التهاب السحايا والأمراض العصبية",
+      "systemFunction_en": "Diagnosis of meningitis and neurological diseases",
+      "location": "منطقة أسفل الظهر - الفضاء تحت العنكبوتية",
+      "location_en": "Lower back - subarachnoid space",
+      "nearbyOrgans": [
+        "الفقرات القطنية",
+        "السائل الدماغي الشوكي",
+        "السحايا"
+      ],
+      "nearbyOrgans_en": [
+        "Lumbar vertebrae",
+        "Cerebrospinal fluid",
+        "Meninges"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب السحايا",
+          "name_en": "Meningitis",
+          "symptoms": [
+            "تشخيص بتحليل السائل الشوكي"
+          ],
+          "symptoms_en": [
+            "Diagnosis via CSF analysis"
+          ],
+          "treatments": [
+            "يساعد في تحديد العامل المسبب ونوع العلاج"
+          ],
+          "treatments_en": [
+            "Helps identify causative agent and treatment type"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "spinal tap",
+        "CSF",
+        "cerebrospinal fluid",
+        "بزل قطني"
+      ]
+    },
+    {
+      "id": 9518,
+      "term": "hemiplegia",
+      "arabic": "شلل نصفي",
+      "latin": "hemiplegia",
+      "pronunciation": "هيم-إي-بلي-جيا",
+      "definition": "شلل يصيب جهة واحدة من الجسم (اليمنى أو اليسرى) بسبب تلف في المخ أو الحبل الشوكي",
+      "definition_en": "Paralysis affecting one side of the body (right or left) due to damage in the brain or spinal cord",
+      "englishSentence": "Hemiplegia is paralysis of one side of the body, often resulting from a stroke.",
+      "parts": {
+        "prefix": {
+          "value": "hemi-",
+          "meaning": "نصف",
+          "function": "يشير إلى جانب واحد"
+        },
+        "suffix": {
+          "value": "-plegia",
+          "meaning": "شلل",
+          "function": "يشير إلى الشلل التام"
+        }
+      },
+      "type": "condition",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "الحركة الإرادية",
+      "systemFunction_en": "Voluntary movement",
+      "location": "الجهة المصابة من الجسم",
+      "location_en": "Affected side of the body",
+      "nearbyOrgans": [
+        "المخ (الجانب المقابل)",
+        "العضلات",
+        "الأعصاب الحركية"
+      ],
+      "nearbyOrgans_en": [
+        "Cerebrum (contralateral)",
+        "Muscles",
+        "Motor nerves"
+      ],
+      "diseases": [
+        {
+          "name": "السكتة الدماغية",
+          "name_en": "Stroke",
+          "symptoms": [
+            "شلل في ذراع وساق من جهة واحدة",
+            "صعوبة الكلام",
+            "انحراف الفم"
+          ],
+          "symptoms_en": [
+            "Paralysis of arm and leg on one side",
+            "Speech difficulty",
+            "Facial droop"
+          ],
+          "treatments": [
+            "إعادة التأهيل العصبي",
+            "العلاج الطبيعي",
+            "مضادات التخثر"
+          ],
+          "treatments_en": [
+            "Neurological rehabilitation",
+            "Physical therapy",
+            "Anticoagulants"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "paralysis",
+        "stroke",
+        "one-sided",
+        "شلل نصفي"
+      ]
+    },
+    {
+      "id": 9519,
+      "term": "coma",
+      "arabic": "الغيبوبة",
+      "latin": "coma",
+      "pronunciation": "كو-ما",
+      "definition": "حالة من فقدان الوعي العميق لا يستجيب فيها المريض للمنبهات الخارجية ولا يمكنه الاستيقاظ",
+      "definition_en": "A state of deep unconsciousness where the patient cannot be awakened and does not respond to stimuli",
+      "englishSentence": "A coma is a deep state of unconsciousness in which a person cannot be awakened.",
+      "type": "condition",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "الوعي والاستجابة",
+      "systemFunction_en": "Consciousness and response",
+      "location": "الدماغ - جذع الدماغ",
+      "location_en": "Brain - brainstem",
+      "nearbyOrgans": [
+        "جذع الدماغ",
+        "القشرة الدماغية",
+        "الجهاز الشبكي المنشط"
+      ],
+      "nearbyOrgans_en": [
+        "Brainstem",
+        "Cerebral cortex",
+        "Reticular activating system"
+      ],
+      "diseases": [
+        {
+          "name": "الغيبوبة العميقة",
+          "name_en": "Deep Coma",
+          "symptoms": [
+            "عدم الاستجابة",
+            "غياب ردود الفعل",
+            "اضطراب التنفس"
+          ],
+          "symptoms_en": [
+            "Unresponsiveness",
+            "Absent reflexes",
+            "Breathing disturbance"
+          ],
+          "treatments": [
+            "دعم في وحدة العناية المركزة",
+            "علاج المسبب",
+            "تغذية اصطناعية"
+          ],
+          "treatments_en": [
+            "ICU support",
+            "Treat underlying cause",
+            "Artificial nutrition"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "unconsciousness",
+        "GCS",
+        "brain death",
+        "غيبوبة"
+      ]
+    },
+    {
+      "id": 9520,
+      "term": "cerebrospinal fluid (CSF)",
+      "arabic": "السائل الدماغي الشوكي",
+      "latin": "liquor cerebrospinalis",
+      "pronunciation": "سِر-إي-برو-سباي-نال فلويد",
+      "definition": "سائل شفاف عديم اللون يحيط بالدماغ والحبل الشوكي ويحميهما من الصدمات، كما ينقل المواد الغذائية",
+      "definition_en": "A clear, colorless fluid surrounding the brain and spinal cord, protecting them from trauma and transporting nutrients",
+      "englishSentence": "Cerebrospinal fluid cushions the brain and spinal cord and removes waste products.",
+      "type": "anatomy",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "حماية الدماغ والحبل الشوكي ونقل المواد الغذائية",
+      "systemFunction_en": "Protect brain and spinal cord, transport nutrients",
+      "location": "البطينات الدماغية والقناة الشوكية",
+      "location_en": "Brain ventricles and spinal canal",
+      "nearbyOrgans": [
+        "البطينات الدماغية",
+        "السحايا",
+        "الحبل الشوكي"
+      ],
+      "nearbyOrgans_en": [
+        "Brain ventricles",
+        "Meninges",
+        "Spinal cord"
+      ],
+      "diseases": [
+        {
+          "name": "استسقاء الدماغ",
+          "name_en": "Hydrocephalus",
+          "symptoms": [
+            "تضخم الرأس (عند الأطفال)",
+            "صداع",
+            "اضطراب الرؤية"
+          ],
+          "symptoms_en": [
+            "Head enlargement (infants)",
+            "Headache",
+            "Vision disturbance"
+          ],
+          "treatments": [
+            "تصريف صناعي للسائل (shunt)",
+            "جراحة"
+          ],
+          "treatments_en": [
+            "Shunt procedure",
+            "Surgery"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "CSF",
+        "lumbar puncture",
+        "hydrocephalus",
+        "سائل شوكي"
+      ]
+    },
+    {
+      "id": 9521,
+      "term": "autonomic nervous system",
+      "arabic": "الجهاز العصبي اللاإرادي",
+      "latin": "systema nervosum autonomicum",
+      "pronunciation": "أو-تو-نو-ميك نير-فَس سيس-تم",
+      "definition": "الجزء من الجهاز العصبي المسؤول عن التحكم في وظائف الجسم اللاإرادية كضربات القلب والهضم والتنفس",
+      "definition_en": "The part of the nervous system controlling involuntary body functions such as heartbeat, digestion, and breathing",
+      "englishSentence": "The autonomic nervous system controls involuntary functions such as heart rate, breathing, and digestion.",
+      "type": "system",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "التحكم في الوظائف اللاإرادية",
+      "systemFunction_en": "Control of involuntary functions",
+      "location": "يمتد في جميع أنحاء الجسم",
+      "location_en": "Extends throughout the body",
+      "nearbyOrgans": [
+        "القلب",
+        "الرئتان",
+        "الجهاز الهضمي",
+        "الغدد"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Lungs",
+        "Digestive system",
+        "Glands"
+      ],
+      "diseases": [
+        {
+          "name": "خلل الجهاز العصبي اللاإرادي",
+          "name_en": "Autonomic Dysfunction",
+          "symptoms": [
+            "انخفاض ضغط الدم الانتصابي",
+            "اضطراب معدل القلب",
+            "عدم التنظيم الحراري"
+          ],
+          "symptoms_en": [
+            "Orthostatic hypotension",
+            "Heart rate dysregulation",
+            "Thermoregulatory dysfunction"
+          ],
+          "treatments": [
+            "إدارة الأعراض",
+            "أدوية ضبط القلب",
+            "تعديل النشاط"
+          ],
+          "treatments_en": [
+            "Symptom management",
+            "Heart rate medications",
+            "Activity modification"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "ANS",
+        "sympathetic",
+        "parasympathetic",
+        "لاإرادي"
+      ]
+    },
+    {
+      "id": 9522,
+      "term": "cranial nerves",
+      "arabic": "الأعصاب القحفية",
+      "latin": "nervi craniales",
+      "pronunciation": "كري-نيال نيرفز",
+      "definition": "اثنا عشر زوجاً من الأعصاب تنشأ مباشرةً من الدماغ وتتحكم في وظائف الرأس والرقبة والأعضاء الحيوية",
+      "definition_en": "Twelve pairs of nerves originating directly from the brain, controlling functions of the head, neck, and vital organs",
+      "englishSentence": "The 12 pairs of cranial nerves originate from the brain and control functions of the head and neck.",
+      "type": "anatomy",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "التحكم في حواس ووظائف الرأس والرقبة",
+      "systemFunction_en": "Control of head and neck senses and functions",
+      "location": "قاع الجمجمة",
+      "location_en": "Base of the skull",
+      "nearbyOrgans": [
+        "الدماغ",
+        "العيون",
+        "الأذنان",
+        "اللسان",
+        "الأوجه"
+      ],
+      "nearbyOrgans_en": [
+        "Brain",
+        "Eyes",
+        "Ears",
+        "Tongue",
+        "Face"
+      ],
+      "diseases": [
+        {
+          "name": "شلل بيل (شلل العصب السابع)",
+          "name_en": "Bell's Palsy (VII nerve palsy)",
+          "symptoms": [
+            "شلل الوجه من جهة واحدة",
+            "انحراف الفم",
+            "صعوبة إغلاق العين"
+          ],
+          "symptoms_en": [
+            "One-sided facial paralysis",
+            "Mouth drooping",
+            "Difficulty closing eye"
+          ],
+          "treatments": [
+            "كورتيكوستيرويدات",
+            "مضادات فيروسية",
+            "رعاية العين"
+          ],
+          "treatments_en": [
+            "Corticosteroids",
+            "Antivirals",
+            "Eye care"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "cranial nerves",
+        "vagus",
+        "trigeminal",
+        "facial nerve",
+        "أعصاب قحفية"
+      ]
+    },
+    {
+      "id": 9523,
+      "term": "aphasia",
+      "arabic": "فقدان القدرة على الكلام / الحبسة الكلامية",
+      "latin": "aphasia",
+      "pronunciation": "أي-في-زيا",
+      "definition": "اضطراب في القدرة على الكلام أو فهم اللغة أو القراءة أو الكتابة بسبب تلف في مراكز اللغة بالدماغ",
+      "definition_en": "A disorder in the ability to speak, understand language, read, or write due to damage in language centers of the brain",
+      "englishSentence": "Aphasia is a language disorder caused by damage to the brain's language areas, often after a stroke.",
+      "parts": {
+        "prefix": {
+          "value": "a-",
+          "meaning": "بدون / نفي",
+          "function": "ينفي القدرة"
+        },
+        "root": {
+          "value": "phas/o",
+          "meaning": "كلام / لغة",
+          "function": "يشير إلى اللغة والكلام"
+        },
+        "suffix": {
+          "value": "-ia",
+          "meaning": "حالة",
+          "function": "يشير إلى الحالة المرضية"
+        }
+      },
+      "type": "condition",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "التواصل اللغوي",
+      "systemFunction_en": "Language communication",
+      "location": "مراكز اللغة في الفص الصدغي والجبهي الأيسر",
+      "location_en": "Language centers in the left temporal and frontal lobes",
+      "nearbyOrgans": [
+        "الفص الصدغي",
+        "منطقة بروكا",
+        "منطقة ويرنيك"
+      ],
+      "nearbyOrgans_en": [
+        "Temporal lobe",
+        "Broca's area",
+        "Wernicke's area"
+      ],
+      "diseases": [
+        {
+          "name": "حبسة بروكا (تعبيرية)",
+          "name_en": "Broca's Aphasia (Expressive)",
+          "symptoms": [
+            "صعوبة إنتاج الكلام",
+            "جمل متقطعة",
+            "فهم جيد"
+          ],
+          "symptoms_en": [
+            "Difficulty producing speech",
+            "Broken sentences",
+            "Good comprehension"
+          ],
+          "treatments": [
+            "علاج النطق",
+            "إعادة التأهيل اللغوي"
+          ],
+          "treatments_en": [
+            "Speech therapy",
+            "Language rehabilitation"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "speech disorder",
+        "language loss",
+        "Broca",
+        "Wernicke",
+        "حبسة كلامية"
+      ]
+    },
+    {
+      "id": 9524,
+      "term": "MRI (Magnetic Resonance Imaging)",
+      "arabic": "التصوير بالرنين المغناطيسي",
+      "latin": "imago resonantiae magneticae",
+      "pronunciation": "إم-آر-آي",
+      "definition": "تقنية تصوير تشخيصي تستخدم المجالات المغناطيسية وموجات الراديو لإنتاج صور تفصيلية للدماغ والأعضاء الداخلية",
+      "definition_en": "A diagnostic imaging technique using magnetic fields and radio waves to produce detailed images of the brain and internal organs",
+      "englishSentence": "MRI uses magnetic fields and radio waves to create detailed images of the brain and nervous system.",
+      "type": "procedure",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "التشخيص التصويري للدماغ والحبل الشوكي",
+      "systemFunction_en": "Imaging diagnosis of brain and spinal cord",
+      "location": "يُستخدم لتصوير الدماغ والحبل الشوكي والأنسجة الرخوة",
+      "location_en": "Used to image brain, spinal cord, and soft tissues",
+      "nearbyOrgans": [
+        "الدماغ",
+        "الحبل الشوكي",
+        "جميع الأعضاء الرخوة"
+      ],
+      "nearbyOrgans_en": [
+        "Brain",
+        "Spinal cord",
+        "All soft tissue organs"
+      ],
+      "diseases": [
+        {
+          "name": "الأورام الدماغية",
+          "name_en": "Brain Tumors",
+          "symptoms": [
+            "يُكشف عنها بالتصوير"
+          ],
+          "symptoms_en": [
+            "Detected by imaging"
+          ],
+          "treatments": [
+            "يحدد موقع وحجم الورم"
+          ],
+          "treatments_en": [
+            "Determines tumor location and size"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "brain imaging",
+        "neuroimaging",
+        "رنين مغناطيسي",
+        "تصوير"
+      ]
+    },
+    {
+      "id": 9525,
+      "term": "syncope",
+      "arabic": "الإغماء",
+      "latin": "syncope",
+      "pronunciation": "سين-كو-بي",
+      "definition": "فقدان مؤقت للوعي وتوتر العضلات الوضعية ناتج عن انخفاض مؤقت في تدفق الدم إلى الدماغ",
+      "definition_en": "Temporary loss of consciousness and postural muscle tone caused by transient decrease in blood flow to the brain",
+      "englishSentence": "Syncope, or fainting, is a brief loss of consciousness caused by reduced blood flow to the brain.",
+      "type": "symptom",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "الوعي والتوتر العضلي",
+      "systemFunction_en": "Consciousness and muscle tone",
+      "location": "الدماغ - نقص الإمداد الدموي",
+      "location_en": "Brain - reduced blood supply",
+      "nearbyOrgans": [
+        "القلب",
+        "الأوعية الدموية",
+        "الدماغ"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Blood vessels",
+        "Brain"
+      ],
+      "diseases": [
+        {
+          "name": "الإغماء الوعائي المبهمي",
+          "name_en": "Vasovagal Syncope",
+          "symptoms": [
+            "دوخة قبل الإغماء",
+            "تعرق",
+            "شحوب"
+          ],
+          "symptoms_en": [
+            "Dizziness before fainting",
+            "Sweating",
+            "Pallor"
+          ],
+          "treatments": [
+            "اليقظة من المحفزات",
+            "زيادة تناول الملح والسوائل",
+            "الأدوية عند الحاجة"
+          ],
+          "treatments_en": [
+            "Trigger awareness",
+            "Increase salt and fluid intake",
+            "Medications if needed"
+          ]
+        }
+      ],
+      "chapter": 12,
+      "keywords": [
+        "fainting",
+        "loss of consciousness",
+        "vasovagal",
+        "إغماء"
+      ]
+    }
+  ]
+}

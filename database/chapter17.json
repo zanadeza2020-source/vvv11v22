@@ -1,0 +1,1597 @@
+{
+  "chapter": 17,
+  "title": "Bacteriology",
+  "title_ar": "علم البكتيريا",
+  "title_en": "Bacteriology",
+  "description": "جميع أنواع البكتيريا وأشكالها وخصائصها وأمراضها وطرق علاجها في الطب والتمريض",
+  "terms": [
+    {
+      "id": 1701,
+      "term": "bacterium",
+      "arabic": "البكتيريا",
+      "latin": "bacterium",
+      "pronunciation": "باك-تير-يم",
+      "definition": "كائن حي وحيد الخلية بدائي النواة (بدون نواة حقيقية)، يتكاثر بالانشطار الثنائي وقد يكون ضاراً أو نافعاً",
+      "definition_en": "A single-celled prokaryotic organism (no true nucleus) that reproduces by binary fission and may be harmful or beneficial",
+      "englishSentence": "Bacteria are single-celled microorganisms that can cause infection or be beneficial to the body.",
+      "type": "concept",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "قد تسبب مرضاً أو تنتج مواد مفيدة أو جزء من الميكروبيوم الطبيعي",
+      "systemFunction_en": "May cause disease, produce useful substances, or be part of normal microbiome",
+      "location": "في كل مكان في الطبيعة وعلى وفي جسم الإنسان",
+      "location_en": "Everywhere in nature and on/in the human body",
+      "nearbyOrgans": [
+        "الجهاز الهضمي",
+        "الجهاز التنفسي",
+        "الجلد",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Digestive system",
+        "Respiratory system",
+        "Skin",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "الإنتان (تعفن الدم)",
+          "name_en": "Sepsis",
+          "symptoms": [
+            "حمى أو انخفاض حرارة",
+            "ارتفاع نبض",
+            "ضغط دم منخفض",
+            "تغيير وعي"
+          ],
+          "symptoms_en": [
+            "Fever or hypothermia",
+            "Tachycardia",
+            "Low BP",
+            "Altered consciousness"
+          ],
+          "treatments": [
+            "مضادات حيوية واسعة الطيف",
+            "إماهة وريدية",
+            "دعم الأعضاء"
+          ],
+          "treatments_en": [
+            "Broad-spectrum antibiotics",
+            "IV fluids",
+            "Organ support"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "bacteria",
+        "prokaryote",
+        "binary fission",
+        "microorganism",
+        "بكتيريا",
+        "ميكروب"
+      ]
+    },
+    {
+      "id": 1702,
+      "term": "cocci (spherical bacteria)",
+      "arabic": "المكورات (بكتيريا كروية الشكل)",
+      "latin": "coccus",
+      "pronunciation": "كوك-اي",
+      "definition": "بكتيريا كروية الشكل، تُصنَّف حسب ترتيبها إلى: متقاطرات (ثنائية) وسلسلية ومكورات عنقودية ورباعية وثماني",
+      "definition_en": "Spherical-shaped bacteria classified by arrangement: diplococci (pairs), streptococci (chains), staphylococci (clusters), tetrads, sarcinae",
+      "englishSentence": "Cocci are spherical bacteria including Staphylococcus and Streptococcus species.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب طيفاً واسعاً من الأمراض البكتيرية",
+      "systemFunction_en": "Cause a wide spectrum of bacterial diseases",
+      "location": "الجلد والحلق والجهاز التنفسي",
+      "location_en": "Skin, throat, respiratory tract",
+      "nearbyOrgans": [
+        "الجلد",
+        "الحلق",
+        "الرئتان",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Throat",
+        "Lungs",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب الحلق العقدي",
+          "name_en": "Streptococcal Pharyngitis",
+          "symptoms": [
+            "ألم حلق شديد",
+            "حمى",
+            "تضخم اللوزتين"
+          ],
+          "symptoms_en": [
+            "Severe sore throat",
+            "Fever",
+            "Tonsil enlargement"
+          ],
+          "treatments": [
+            "أموكسيسيلين أو بنيسيلين"
+          ],
+          "treatments_en": [
+            "Amoxicillin or Penicillin"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "cocci",
+        "spherical",
+        "Staphylococcus",
+        "Streptococcus",
+        "مكورات",
+        "كروي"
+      ]
+    },
+    {
+      "id": 1703,
+      "term": "bacilli (rod-shaped bacteria)",
+      "arabic": "العصيات (بكتيريا عصوية الشكل)",
+      "latin": "bacillus",
+      "pronunciation": "باسيل-اي",
+      "definition": "بكتيريا أسطوانية العصا الشكل، من أكثر الأشكال البكتيرية شيوعاً، تشمل الإيشريشيا كولاي والمتفطرة السلية وغيرها",
+      "definition_en": "Rod-shaped cylindrical bacteria, one of the most common bacterial forms, including E. coli, Mycobacterium tuberculosis, and others",
+      "englishSentence": "Bacilli are rod-shaped bacteria including E. coli, Salmonella, and Mycobacterium tuberculosis.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب أمراض معوية وجهاز تنفسي وغيرها",
+      "systemFunction_en": "Cause intestinal, respiratory, and other diseases",
+      "location": "الأمعاء والرئتان والتربة والبيئة",
+      "location_en": "Intestines, lungs, soil, and environment",
+      "nearbyOrgans": [
+        "الجهاز الهضمي",
+        "الرئتان",
+        "الجهاز البولي"
+      ],
+      "nearbyOrgans_en": [
+        "Digestive system",
+        "Lungs",
+        "Urinary system"
+      ],
+      "diseases": [
+        {
+          "name": "السل الرئوي",
+          "name_en": "Pulmonary Tuberculosis",
+          "symptoms": [
+            "سعال مزمن",
+            "حمى ليلية",
+            "نفث الدم",
+            "فقدان وزن"
+          ],
+          "symptoms_en": [
+            "Chronic cough",
+            "Night fever",
+            "Hemoptysis",
+            "Weight loss"
+          ],
+          "treatments": [
+            "RIPE (ريفامبيسين+إيزونيازيد+بيرازيناميد+إيثامبيوتول)"
+          ],
+          "treatments_en": [
+            "RIPE regimen"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "bacilli",
+        "rod-shaped",
+        "E. coli",
+        "TB",
+        "عصيات",
+        "عصوي"
+      ]
+    },
+    {
+      "id": 1704,
+      "term": "spirochetes",
+      "arabic": "الحلزونيات (اللولبيات)",
+      "latin": "spirochaeta",
+      "pronunciation": "سباي-رو-كيتس",
+      "definition": "بكتيريا طويلة ملتوية حلزونية الشكل تتحرك بحركة لولبية، تشمل التريبونيما الشاحبة (سبب السفلس) وبوريليا (سبب مرض لايم)",
+      "definition_en": "Long, spiral-shaped bacteria that move in a corkscrew motion, including Treponema pallidum (syphilis) and Borrelia (Lyme disease)",
+      "englishSentence": "Spirochetes are spiral bacteria that cause diseases like syphilis and Lyme disease.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب أمراضاً جهازية معقدة كالسفلس ومرض لايم",
+      "systemFunction_en": "Cause complex systemic diseases like syphilis and Lyme disease",
+      "location": "الدم والأعضاء الداخلية",
+      "location_en": "Blood and internal organs",
+      "nearbyOrgans": [
+        "الدم",
+        "الجلد",
+        "القلب",
+        "الدماغ"
+      ],
+      "nearbyOrgans_en": [
+        "Blood",
+        "Skin",
+        "Heart",
+        "Brain"
+      ],
+      "diseases": [
+        {
+          "name": "السفلس",
+          "name_en": "Syphilis",
+          "symptoms": [
+            "قرحة تناسلية غير مؤلمة",
+            "طفح جلدي",
+            "إصابة جهازية متأخرة"
+          ],
+          "symptoms_en": [
+            "Painless genital ulcer",
+            "Rash",
+            "Late systemic involvement"
+          ],
+          "treatments": [
+            "بنيسيلين G"
+          ],
+          "treatments_en": [
+            "Penicillin G"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "spirochete",
+        "Treponema",
+        "Borrelia",
+        "syphilis",
+        "Lyme",
+        "حلزوني",
+        "لولبي"
+      ]
+    },
+    {
+      "id": 1705,
+      "term": "vibrios",
+      "arabic": "الضمات (بكتيريا فاصلة الشكل)",
+      "latin": "vibrio",
+      "pronunciation": "فيب-ريو",
+      "definition": "بكتيريا على شكل فاصلة، أشهرها ضمة الكوليرا (Vibrio cholerae) المسببة للكوليرا وضمة ال parahaemolyticus المسببة لالتهاب المعدة",
+      "definition_en": "Comma-shaped bacteria; most notable is Vibrio cholerae causing cholera and V. parahaemolyticus causing gastroenteritis",
+      "englishSentence": "Vibrio cholerae is a comma-shaped bacterium that causes cholera through contaminated water.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب عدوى الجهاز الهضمي",
+      "systemFunction_en": "Cause gastrointestinal infections",
+      "location": "المياه الملوثة والجهاز الهضمي",
+      "location_en": "Contaminated water and gastrointestinal tract",
+      "nearbyOrgans": [
+        "الأمعاء الدقيقة",
+        "القولون"
+      ],
+      "nearbyOrgans_en": [
+        "Small intestine",
+        "Colon"
+      ],
+      "diseases": [
+        {
+          "name": "الكوليرا",
+          "name_en": "Cholera",
+          "symptoms": [
+            "إسهال مائي غزير (ماء الأرز)",
+            "جفاف شديد",
+            "تقلصات عضلية"
+          ],
+          "symptoms_en": [
+            "Profuse watery diarrhea (rice-water)",
+            "Severe dehydration",
+            "Muscle cramps"
+          ],
+          "treatments": [
+            "إماهة فموية أو وريدية",
+            "دوكسيسيكلين"
+          ],
+          "treatments_en": [
+            "Oral or IV rehydration",
+            "Doxycycline"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Vibrio",
+        "cholera",
+        "rice-water stool",
+        "ضمة",
+        "كوليرا"
+      ]
+    },
+    {
+      "id": 1706,
+      "term": "Staphylococcus aureus",
+      "arabic": "المكورة العنقودية الذهبية",
+      "latin": "Staphylococcus aureus",
+      "pronunciation": "ستاف-إي-لو-كوك-س أو-ري-س",
+      "definition": "بكتيريا إيجابية الغرام على شكل عناقيد، من أكثر البكتيريا المسببة للأمراض في الإنسان، تُنتج سموماً متعددة",
+      "definition_en": "Gram-positive cocci in clusters, one of the most common human pathogens, producing multiple toxins",
+      "englishSentence": "Staphylococcus aureus causes skin infections, pneumonia, and sepsis, and may be antibiotic-resistant (MRSA).",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب طيفاً واسعاً من الأمراض",
+      "systemFunction_en": "Causes a wide spectrum of diseases",
+      "location": "الجلد والأغشية المخاطية والدم",
+      "location_en": "Skin, mucous membranes, blood",
+      "nearbyOrgans": [
+        "الجلد",
+        "الرئتان",
+        "القلب",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Lungs",
+        "Heart",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "MRSA (المقاوم للميثيسيلين)",
+          "name_en": "MRSA (Methicillin-Resistant S. aureus)",
+          "symptoms": [
+            "خراجات جلدية",
+            "التهاب رئوي",
+            "تعفن دم"
+          ],
+          "symptoms_en": [
+            "Skin abscesses",
+            "Pneumonia",
+            "Septicemia"
+          ],
+          "treatments": [
+            "فانكوميسين",
+            "لينيزوليد",
+            "دابتوميسين"
+          ],
+          "treatments_en": [
+            "Vancomycin",
+            "Linezolid",
+            "Daptomycin"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "MRSA",
+        "Staph",
+        "golden",
+        "عنقودية ذهبية",
+        "MRSA"
+      ]
+    },
+    {
+      "id": 1707,
+      "term": "Streptococcus",
+      "arabic": "المكورة السبحية",
+      "latin": "Streptococcus",
+      "pronunciation": "ستريب-تو-كوك-س",
+      "definition": "بكتيريا إيجابية الغرام تترتب في سلاسل، تشمل أنواعاً عديدة: S. pyogenes (التهاب الحلق والحمى القرمزية) وS. pneumoniae (ذات الرئة) وS. agalactiae",
+      "definition_en": "Gram-positive bacteria arranged in chains; includes S. pyogenes (throat infection, scarlet fever), S. pneumoniae (pneumonia), and S. agalactiae",
+      "englishSentence": "Streptococcus species cause throat infections, pneumonia, meningitis, and scarlet fever.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب أمراض الجهاز التنفسي والجهاز العصبي وغيرها",
+      "systemFunction_en": "Cause respiratory, nervous system, and other diseases",
+      "location": "الحلق والرئتان والدم",
+      "location_en": "Throat, lungs, blood",
+      "nearbyOrgans": [
+        "الحلق",
+        "الرئتان",
+        "الدماغ",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Throat",
+        "Lungs",
+        "Brain",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "الحمى الروماتيزمية",
+          "name_en": "Rheumatic Fever",
+          "symptoms": [
+            "ألم مفاصل",
+            "حمى",
+            "التهاب القلب",
+            "طفح جلدي خاص"
+          ],
+          "symptoms_en": [
+            "Joint pain",
+            "Fever",
+            "Carditis",
+            "Characteristic rash"
+          ],
+          "treatments": [
+            "بنيسيلين طويل الأمد (وقائي)",
+            "مضادات الالتهاب"
+          ],
+          "treatments_en": [
+            "Long-term penicillin (prophylaxis)",
+            "Anti-inflammatories"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Streptococcus",
+        "Group A",
+        "Group B",
+        "pneumococcus",
+        "سبحية",
+        "عقدية"
+      ]
+    },
+    {
+      "id": 1708,
+      "term": "Escherichia coli (E. coli)",
+      "arabic": "الإيشريشيا كولاي",
+      "latin": "Escherichia coli",
+      "pronunciation": "إيش-إي-ريك-يا كو-لاي",
+      "definition": "عصية إيجابية الغرام تعيش طبيعياً في الأمعاء الغليظة، لكن أنواعاً معينة تسبب الإسهال والتهاب المسالك البولية والإنتان",
+      "definition_en": "Gram-negative rod living normally in the colon, but certain strains cause diarrhea, urinary tract infections, and sepsis",
+      "englishSentence": "E. coli is a normal intestinal bacterium, but certain strains cause urinary infections, diarrhea, and sepsis.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "جزء من الميكروبيوم الطبيعي، لكن الأنواع الممرضة تسبب أمراضاً",
+      "systemFunction_en": "Part of normal microbiome, but pathogenic strains cause diseases",
+      "location": "الأمعاء الغليظة والمسالك البولية",
+      "location_en": "Large intestine and urinary tract",
+      "nearbyOrgans": [
+        "القولون",
+        "المثانة",
+        "الكلى",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Colon",
+        "Bladder",
+        "Kidneys",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب المسالك البولية",
+          "name_en": "Urinary Tract Infection (UTI)",
+          "symptoms": [
+            "حرقة التبول",
+            "كثرة التبول",
+            "ألم أسفل البطن",
+            "بيلة دموية"
+          ],
+          "symptoms_en": [
+            "Burning urination",
+            "Frequent urination",
+            "Lower abdominal pain",
+            "Hematuria"
+          ],
+          "treatments": [
+            "تريميثوبريم-سولفاميثوكسازول",
+            "نيتروفورانتوين",
+            "سيبروفلوكساسين"
+          ],
+          "treatments_en": [
+            "Trimethoprim-sulfamethoxazole",
+            "Nitrofurantoin",
+            "Ciprofloxacin"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "E. coli",
+        "UTI",
+        "ETEC",
+        "EHEC",
+        "O157:H7",
+        "إيشريشيا"
+      ]
+    },
+    {
+      "id": 1709,
+      "term": "Mycobacterium tuberculosis",
+      "arabic": "المتفطرة السلية",
+      "latin": "Mycobacterium tuberculosis",
+      "pronunciation": "ماي-كو-باك-تير-يم تيو-بير-كيو-لو-سس",
+      "definition": "بكتيريا عصوية بطيئة النمو صعبة الصباغة (ليست إيجابية ولا سلبية الغرام) مسببة السل الرئوي وخارج الرئوي",
+      "definition_en": "A slow-growing rod-shaped bacterium that is difficult to stain (neither Gram-positive nor negative) causing pulmonary and extrapulmonary tuberculosis",
+      "englishSentence": "Mycobacterium tuberculosis is the causative agent of tuberculosis, infecting the lungs and other organs.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب مرض السل",
+      "systemFunction_en": "Causes tuberculosis disease",
+      "location": "الرئتان والعقد اللمفاوية والعظام والدماغ",
+      "location_en": "Lungs, lymph nodes, bones, brain",
+      "nearbyOrgans": [
+        "الرئتان",
+        "الغدد اللمفاوية",
+        "الكلى",
+        "الدماغ"
+      ],
+      "nearbyOrgans_en": [
+        "Lungs",
+        "Lymph nodes",
+        "Kidneys",
+        "Brain"
+      ],
+      "diseases": [
+        {
+          "name": "السل الرئوي",
+          "name_en": "Pulmonary Tuberculosis",
+          "symptoms": [
+            "سعال 3 أسابيع أو أكثر",
+            "نفث دم",
+            "حمى ليلية",
+            "تعرق ليلي",
+            "فقدان وزن"
+          ],
+          "symptoms_en": [
+            "Cough ≥3 weeks",
+            "Hemoptysis",
+            "Night fever",
+            "Night sweats",
+            "Weight loss"
+          ],
+          "treatments": [
+            "RIPE: ريفامبيسين+إيزونيازيد+بيرازيناميد+إيثامبيوتول (6 أشهر)"
+          ],
+          "treatments_en": [
+            "RIPE regimen for 6 months"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "TB",
+        "AFB",
+        "acid-fast",
+        "RIPE",
+        "سل",
+        "متفطرة"
+      ]
+    },
+    {
+      "id": 1710,
+      "term": "Salmonella",
+      "arabic": "السالمونيلا",
+      "latin": "Salmonella",
+      "pronunciation": "سالـ-مو-نيل-ا",
+      "definition": "بكتيريا عصوية سلبية الغرام تنتقل عن طريق الطعام الملوث وتسبب حمى التيفوئيد والتهاب المعدة والأمعاء",
+      "definition_en": "Gram-negative rod transmitted through contaminated food, causing typhoid fever and gastroenteritis",
+      "englishSentence": "Salmonella causes typhoid fever (S. typhi) and food poisoning (S. enteritidis) through contaminated food.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب التيفوئيد والتسمم الغذائي",
+      "systemFunction_en": "Causes typhoid and food poisoning",
+      "location": "الجهاز الهضمي والدم",
+      "location_en": "Gastrointestinal tract and blood",
+      "nearbyOrgans": [
+        "الأمعاء الدقيقة",
+        "الكبد",
+        "الطحال",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Small intestine",
+        "Liver",
+        "Spleen",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "حمى التيفوئيد",
+          "name_en": "Typhoid Fever",
+          "symptoms": [
+            "حمى متصاعدة",
+            "صداع",
+            "بقع وردية على الجذع",
+            "إمساك ثم إسهال"
+          ],
+          "symptoms_en": [
+            "Stepwise fever",
+            "Headache",
+            "Rose spots on trunk",
+            "Constipation then diarrhea"
+          ],
+          "treatments": [
+            "أزيثروميسين",
+            "سيفترياكسون",
+            "فلوروكينولون"
+          ],
+          "treatments_en": [
+            "Azithromycin",
+            "Ceftriaxone",
+            "Fluoroquinolone"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Salmonella",
+        "typhoid",
+        "food poisoning",
+        "تيفوئيد",
+        "سالمونيلا"
+      ]
+    },
+    {
+      "id": 1711,
+      "term": "Helicobacter pylori",
+      "arabic": "الملوية البوابية",
+      "latin": "Helicobacter pylori",
+      "pronunciation": "هيل-إي-كو-باك-تير بايلو-راي",
+      "definition": "بكتيريا حلزونية سلبية الغرام تعيش في المعدة وتسبب التهاب المعدة المزمن وقرحة الاثني عشر وسرطان المعدة",
+      "definition_en": "A spiral, Gram-negative bacterium living in the stomach causing chronic gastritis, duodenal ulcer, and gastric cancer",
+      "englishSentence": "H. pylori infects the stomach lining, causing gastritis, ulcers, and increasing risk of stomach cancer.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب التهاب المعدة والقرحة الهضمية وسرطان المعدة",
+      "systemFunction_en": "Causes gastritis, peptic ulcer, and gastric cancer",
+      "location": "الغشاء المخاطي للمعدة",
+      "location_en": "Gastric mucosa",
+      "nearbyOrgans": [
+        "المعدة",
+        "الاثني عشر"
+      ],
+      "nearbyOrgans_en": [
+        "Stomach",
+        "Duodenum"
+      ],
+      "diseases": [
+        {
+          "name": "قرحة الاثني عشر",
+          "name_en": "Duodenal Ulcer",
+          "symptoms": [
+            "ألم فوق السرة يريح مع الأكل",
+            "غثيان",
+            "نزيف هضمي"
+          ],
+          "symptoms_en": [
+            "Epigastric pain relieved by food",
+            "Nausea",
+            "GI bleeding"
+          ],
+          "treatments": [
+            "ثلاثي: بروتون بامب إنهيبيتور + كلاريثروميسين + أموكسيسيلين"
+          ],
+          "treatments_en": [
+            "Triple therapy: PPI + clarithromycin + amoxicillin"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "H. pylori",
+        "peptic ulcer",
+        "gastric cancer",
+        "ملوية",
+        "هيليكوباكتر"
+      ]
+    },
+    {
+      "id": 1712,
+      "term": "Gram staining",
+      "arabic": "صبغة غرام",
+      "latin": "coloratio Gram",
+      "pronunciation": "غرام ستيننج",
+      "definition": "تقنية تشخيصية تُصنّف البكتيريا إلى إيجابية الغرام (تحتفظ بالصبغة البنفسجية لجدار خلوي سميك) وسلبية الغرام (تفقدها لجدار رفيع ومحاطة بطبقة دهنية)",
+      "definition_en": "A diagnostic technique classifying bacteria as Gram-positive (retain violet dye; thick cell wall) or Gram-negative (lose dye; thin wall with lipid outer membrane)",
+      "englishSentence": "Gram staining classifies bacteria as Gram-positive or Gram-negative, guiding antibiotic selection.",
+      "type": "procedure",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تصنيف البكتيريا وتوجيه اختيار المضادات الحيوية",
+      "systemFunction_en": "Classify bacteria and guide antibiotic selection",
+      "location": "المختبر",
+      "location_en": "Laboratory",
+      "nearbyOrgans": [
+        "البكتيريا",
+        "خلايا الدم",
+        "السائل الدماغي الشوكي"
+      ],
+      "nearbyOrgans_en": [
+        "Bacteria",
+        "Blood cells",
+        "Cerebrospinal fluid"
+      ],
+      "diseases": [
+        {
+          "name": "دليل اختيار المضاد الحيوي",
+          "name_en": "Antibiotic Selection Guide",
+          "symptoms": [
+            "إيجابية الغرام: بنيسيلين وفانكوميسين",
+            "سلبية الغرام: سيفالوسبورين وكاربابينيم"
+          ],
+          "symptoms_en": [
+            "Gram-positive: penicillin, vancomycin",
+            "Gram-negative: cephalosporins, carbapenems"
+          ],
+          "treatments": [
+            "يوجه اختيار المضاد الحيوي الأمثل"
+          ],
+          "treatments_en": [
+            "Guides optimal antibiotic selection"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Gram stain",
+        "Gram-positive",
+        "Gram-negative",
+        "صبغة غرام",
+        "مختبر"
+      ]
+    },
+    {
+      "id": 1713,
+      "term": "Pseudomonas aeruginosa",
+      "arabic": "الزائفة الزنجارية",
+      "latin": "Pseudomonas aeruginosa",
+      "pronunciation": "سيو-دو-مو-ناس أير-يو-جي-نو-سا",
+      "definition": "بكتيريا عصوية سلبية الغرام فرصية خطيرة تصيب المرضى ذوي المناعة الضعيفة وتتميز بمقاومتها لكثير من المضادات الحيوية",
+      "definition_en": "A dangerous opportunistic Gram-negative rod infecting immunocompromised patients and notable for its resistance to many antibiotics",
+      "englishSentence": "Pseudomonas aeruginosa is an opportunistic pathogen causing severe infections in immunocompromised patients.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب عدوى فرصية خطيرة في المستشفيات",
+      "systemFunction_en": "Causes serious opportunistic hospital infections",
+      "location": "الجروح والرئتان والمسالك البولية",
+      "location_en": "Wounds, lungs, urinary tract",
+      "nearbyOrgans": [
+        "الرئتان",
+        "الجلد",
+        "المسالك البولية",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Lungs",
+        "Skin",
+        "Urinary tract",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب رئة المستشفى",
+          "name_en": "Hospital-Acquired Pneumonia",
+          "symptoms": [
+            "حمى",
+            "ضيق تنفس",
+            "بلغم أخضر",
+            "مقاومة علاج"
+          ],
+          "symptoms_en": [
+            "Fever",
+            "Dyspnea",
+            "Green sputum",
+            "Treatment resistance"
+          ],
+          "treatments": [
+            "بيبيراسيلين-تازوباكتام",
+            "سيفتازيديم",
+            "إيميبينيم"
+          ],
+          "treatments_en": [
+            "Piperacillin-tazobactam",
+            "Ceftazidime",
+            "Imipenem"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Pseudomonas",
+        "MDR",
+        "hospital infection",
+        "nosocomial",
+        "زائفة"
+      ]
+    },
+    {
+      "id": 1714,
+      "term": "Clostridium",
+      "arabic": "العصوانية",
+      "latin": "Clostridium",
+      "pronunciation": "كلوس-تريد-يم",
+      "definition": "بكتيريا عصوية إيجابية الغرام لاهوائية إلزامية تُنتج أبواغاً وسموماً قوية، تشمل C. difficile وC. tetani وC. botulinum",
+      "definition_en": "Obligate anaerobic Gram-positive rod-forming bacteria that produce spores and powerful toxins, including C. difficile, C. tetani, C. botulinum",
+      "englishSentence": "Clostridium species cause tetanus, botulism, and C. difficile colitis through potent toxins.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب أمراضاً بواسطة سموم قوية",
+      "systemFunction_en": "Cause disease through potent toxins",
+      "location": "الأمعاء والتربة والجروح",
+      "location_en": "Intestines, soil, wounds",
+      "nearbyOrgans": [
+        "القولون",
+        "الجهاز العصبي",
+        "الجروح"
+      ],
+      "nearbyOrgans_en": [
+        "Colon",
+        "Nervous system",
+        "Wounds"
+      ],
+      "diseases": [
+        {
+          "name": "الكزاز (التيتانوس)",
+          "name_en": "Tetanus",
+          "symptoms": [
+            "تيبس الفك (trismus)",
+            "تقلصات عضلية",
+            "تشنجات عامة"
+          ],
+          "symptoms_en": [
+            "Trismus (lockjaw)",
+            "Muscle rigidity",
+            "Generalized spasms"
+          ],
+          "treatments": [
+            "غلوبيولين مناعي مضاد للكزاز",
+            "مضادات حيوية",
+            "التحكم بالتشنجات",
+            "تهوية"
+          ],
+          "treatments_en": [
+            "Tetanus immune globulin",
+            "Antibiotics",
+            "Spasm control",
+            "Ventilation"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Clostridium",
+        "tetanus",
+        "botulism",
+        "C. diff",
+        "عصوانية",
+        "كزاز"
+      ]
+    },
+    {
+      "id": 1715,
+      "term": "Mycobacterium leprae",
+      "arabic": "المتفطرة الجذامية",
+      "latin": "Mycobacterium leprae",
+      "pronunciation": "ماي-كو-باك-تير-يم لي-بري",
+      "definition": "بكتيريا بطيئة النمو جداً تسبب الجذام (مرض هانسن)، تصيب الأعصاب الطرفية والجلد والأغشية المخاطية",
+      "definition_en": "A very slow-growing bacterium causing leprosy (Hansen's disease), infecting peripheral nerves, skin, and mucous membranes",
+      "englishSentence": "Mycobacterium leprae causes leprosy (Hansen's disease), affecting the skin and peripheral nerves.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب الجذام بإصابة الأعصاب الطرفية والجلد",
+      "systemFunction_en": "Causes leprosy by infecting peripheral nerves and skin",
+      "location": "الأعصاب الطرفية والجلد والأغشية المخاطية",
+      "location_en": "Peripheral nerves, skin, mucous membranes",
+      "nearbyOrgans": [
+        "الجلد",
+        "الأعصاب",
+        "الأنف"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Nerves",
+        "Nose"
+      ],
+      "diseases": [
+        {
+          "name": "الجذام (مرض هانسن)",
+          "name_en": "Leprosy (Hansen's Disease)",
+          "symptoms": [
+            "بقع جلدية فاقدة الإحساس",
+            "تشوه الأطراف",
+            "رفيع الأعصاب"
+          ],
+          "symptoms_en": [
+            "Anesthetic skin patches",
+            "Limb deformity",
+            "Nerve thickening"
+          ],
+          "treatments": [
+            "ريفامبيسين+داباسون+كلوفازيمين (MDT لمدة سنة)"
+          ],
+          "treatments_en": [
+            "Rifampicin + Dapsone + Clofazimine (MDT for 1 year)"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "leprosy",
+        "Hansen",
+        "AFB",
+        "جذام",
+        "متفطرة"
+      ]
+    },
+    {
+      "id": 1716,
+      "term": "Neisseria",
+      "arabic": "النيسيريا",
+      "latin": "Neisseria",
+      "pronunciation": "ناي-سير-يا",
+      "definition": "مكورات ثنائية سلبية الغرام، أشهرها N. meningitidis (التهاب السحايا) وN. gonorrhoeae (السيلان)",
+      "definition_en": "Gram-negative diplococci; most notable are N. meningitidis (meningitis) and N. gonorrhoeae (gonorrhea)",
+      "englishSentence": "Neisseria meningitidis causes bacterial meningitis, while N. gonorrhoeae causes the STI gonorrhea.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب التهاب السحايا والسيلان",
+      "systemFunction_en": "Causes meningitis and gonorrhea",
+      "location": "الحلق والجهاز التناسلي والدماغ",
+      "location_en": "Throat, genitals, and brain",
+      "nearbyOrgans": [
+        "السحايا",
+        "الأعضاء التناسلية",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Meninges",
+        "Genitalia",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب السحايا البكتيري",
+          "name_en": "Bacterial Meningitis",
+          "symptoms": [
+            "صداع شديد",
+            "تيبس الرقبة",
+            "حمى",
+            "نفور من الضوء",
+            "طفح بقعي"
+          ],
+          "symptoms_en": [
+            "Severe headache",
+            "Neck stiffness",
+            "Fever",
+            "Photophobia",
+            "Petechial rash"
+          ],
+          "treatments": [
+            "سيفترياكسون + دكساميثازون فوراً"
+          ],
+          "treatments_en": [
+            "Immediate ceftriaxone + dexamethasone"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Neisseria",
+        "meningitis",
+        "gonorrhea",
+        "diplococci",
+        "نيسيريا",
+        "سيلان"
+      ]
+    },
+    {
+      "id": 1717,
+      "term": "Klebsiella pneumoniae",
+      "arabic": "الكليبسيلة الرئوية",
+      "latin": "Klebsiella pneumoniae",
+      "pronunciation": "كليب-سيل-ا نيو-مو-ني-ي",
+      "definition": "عصية سلبية الغرام محاطة بمحفظة تحميها من المناعة، تسبب ذات رئة شديدة وعدوى مسالك بولية وتُعدّ من الجراثيم المستشفوية",
+      "definition_en": "A Gram-negative rod with a capsule protecting it from immunity, causing severe pneumonia, UTIs, and is a common hospital pathogen",
+      "englishSentence": "Klebsiella pneumoniae causes severe hospital-acquired pneumonia and UTIs, often with antibiotic resistance.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب ذات الرئة وعدوى المستشفيات",
+      "systemFunction_en": "Causes pneumonia and hospital infections",
+      "location": "الرئتان والمسالك البولية والدم",
+      "location_en": "Lungs, urinary tract, blood",
+      "nearbyOrgans": [
+        "الرئتان",
+        "الكلى",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Lungs",
+        "Kidneys",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "ذات الرئة الكليبسيلية",
+          "name_en": "Klebsiella Pneumonia",
+          "symptoms": [
+            "بلغم دموي (جيلي التوت)",
+            "ذات رئة حادة",
+            "خراج رئوي"
+          ],
+          "symptoms_en": [
+            "Bloody sputum (currant jelly)",
+            "Acute pneumonia",
+            "Lung abscess"
+          ],
+          "treatments": [
+            "كاربابينيم (ميروبينيم)",
+            "أميكاسين",
+            "كوليستين للأنواع شديدة المقاومة"
+          ],
+          "treatments_en": [
+            "Carbapenem (meropenem)",
+            "Amikacin",
+            "Colistin for extreme resistance"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Klebsiella",
+        "ESBL",
+        "MDR",
+        "hospital",
+        "كليبسيلة"
+      ]
+    },
+    {
+      "id": 1718,
+      "term": "antibiotic resistance",
+      "arabic": "مقاومة المضادات الحيوية",
+      "latin": "resistentia antibiotica",
+      "pronunciation": "انتي-باي-أوتيك ري-زيستنس",
+      "definition": "قدرة البكتيريا على مقاومة تأثير المضادات الحيوية من خلال آليات متعددة كتحلل الدواء أو تغيير الهدف أو ضخ الدواء للخارج",
+      "definition_en": "The ability of bacteria to resist the effect of antibiotics through mechanisms like drug inactivation, target modification, or drug efflux pumps",
+      "englishSentence": "Antibiotic resistance occurs when bacteria evolve mechanisms to survive antibiotic treatment, posing a global health threat.",
+      "type": "concept",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تتحدى العلاج بالمضادات الحيوية وتُصعّب إدارة العدوى",
+      "systemFunction_en": "Challenges antibiotic treatment and complicates infection management",
+      "location": "في جميع مواقع العدوى البكتيرية",
+      "location_en": "In all bacterial infection sites",
+      "nearbyOrgans": [
+        "الجهاز المناعي",
+        "الدم",
+        "الأعضاء المصابة"
+      ],
+      "nearbyOrgans_en": [
+        "Immune system",
+        "Blood",
+        "Infected organs"
+      ],
+      "diseases": [
+        {
+          "name": "MRSA و ESBL و CRE",
+          "name_en": "MRSA, ESBL, CRE",
+          "symptoms": [
+            "فشل العلاج بالمضادات الحيوية المعتادة"
+          ],
+          "symptoms_en": [
+            "Failure of standard antibiotic treatment"
+          ],
+          "treatments": [
+            "لينيزوليد، فانكوميسين، كوليستين حسب النوع"
+          ],
+          "treatments_en": [
+            "Linezolid, vancomycin, colistin depending on type"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "AMR",
+        "MRSA",
+        "ESBL",
+        "MDR",
+        "XDR",
+        "مقاومة مضادات حيوية"
+      ]
+    },
+    {
+      "id": 1719,
+      "term": "bacterial culture and sensitivity",
+      "arabic": "زرع البكتيريا وحساسية المضادات",
+      "latin": "cultura et antibiogramma",
+      "pronunciation": "باك-تير-يال كَل-تشر",
+      "definition": "اختبار مختبري يُزرع فيه العينة (دم، بول، بلغم) على وسط غذائي لتعريف البكتيريا المسببة ومعرفة المضادات الفعالة ضدها",
+      "definition_en": "A laboratory test where a sample (blood, urine, sputum) is grown on culture media to identify the causative bacteria and determine effective antibiotics",
+      "englishSentence": "Blood culture and sensitivity testing identifies the infecting bacterium and the most effective antibiotic.",
+      "type": "procedure",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تحديد البكتيريا المسببة وأفضل مضاد حيوي",
+      "systemFunction_en": "Identify causative bacteria and best antibiotic",
+      "location": "المختبر",
+      "location_en": "Laboratory",
+      "nearbyOrgans": [
+        "الدم",
+        "البول",
+        "الجروح",
+        "الجهاز التنفسي"
+      ],
+      "nearbyOrgans_en": [
+        "Blood",
+        "Urine",
+        "Wounds",
+        "Respiratory tract"
+      ],
+      "diseases": [
+        {
+          "name": "العدوى البكتيرية",
+          "name_en": "Bacterial Infections",
+          "symptoms": [
+            "يُستخدم لتشخيص سبب العدوى"
+          ],
+          "symptoms_en": [
+            "Used to diagnose infection cause"
+          ],
+          "treatments": [
+            "يُوجّه العلاج المحدد والمثالي"
+          ],
+          "treatments_en": [
+            "Guides specific and optimal treatment"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "C&S",
+        "culture",
+        "sensitivity",
+        "antibiogram",
+        "زرع مختبري",
+        "حساسية"
+      ]
+    },
+    {
+      "id": 1720,
+      "term": "Streptococcus pneumoniae",
+      "arabic": "المكورة الرئوية",
+      "latin": "Streptococcus pneumoniae",
+      "pronunciation": "ستريب-تو-كوك-س نيو-مو-ني-ي",
+      "definition": "مكورات سبحية إيجابية الغرام محاطة بمحفظة، المسبب الرئيسي لذات الرئة المجتمعية والتهاب السحايا والتهاب الأذن",
+      "definition_en": "Gram-positive encapsulated diplococci, the leading cause of community-acquired pneumonia, meningitis, and otitis media",
+      "englishSentence": "Streptococcus pneumoniae is the most common cause of bacterial pneumonia and a major cause of meningitis in adults.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب ذات الرئة والتهاب السحايا والتهاب الأذن",
+      "systemFunction_en": "Causes pneumonia, meningitis, and otitis media",
+      "location": "الرئتان والسحايا والأذن الوسطى",
+      "location_en": "Lungs, meninges, middle ear",
+      "nearbyOrgans": [
+        "الرئتان",
+        "الدماغ",
+        "الأذن الوسطى"
+      ],
+      "nearbyOrgans_en": [
+        "Lungs",
+        "Brain",
+        "Middle ear"
+      ],
+      "diseases": [
+        {
+          "name": "ذات الرئة المجتمعية",
+          "name_en": "Community-Acquired Pneumonia",
+          "symptoms": [
+            "حمى مفاجئة",
+            "قشعريرة",
+            "ألم صدري جنبي",
+            "بلغم صدئ"
+          ],
+          "symptoms_en": [
+            "Sudden fever",
+            "Rigors",
+            "Pleuritic chest pain",
+            "Rusty sputum"
+          ],
+          "treatments": [
+            "أموكسيسيلين أو أزيثروميسين للخفيف",
+            "سيفترياكسون للمدخل"
+          ],
+          "treatments_en": [
+            "Amoxicillin or azithromycin for mild",
+            "Ceftriaxone for admitted"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "pneumococcus",
+        "CAP",
+        "meningitis",
+        "رئوية",
+        "ذات رئة"
+      ]
+    },
+    {
+      "id": 1721,
+      "term": "Campylobacter jejuni",
+      "arabic": "العطيفة الصائمية",
+      "latin": "Campylobacter jejuni",
+      "pronunciation": "كام-بيلو-باك-تر جي-يو-ناي",
+      "definition": "بكتيريا سلبية الغرام حلزونية الشكل، أكثر أسباب الإسهال البكتيري شيوعاً في العالم المتقدم، تنتقل من الدجاج غير المطهو جيداً",
+      "definition_en": "A Gram-negative spiral bacterium, the most common cause of bacterial diarrhea in developed countries, transmitted through undercooked chicken",
+      "englishSentence": "Campylobacter jejuni is the leading cause of bacterial gastroenteritis, usually transmitted through poultry.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب التهاب المعدة والأمعاء الحاد",
+      "systemFunction_en": "Causes acute gastroenteritis",
+      "location": "الجهاز الهضمي",
+      "location_en": "Gastrointestinal tract",
+      "nearbyOrgans": [
+        "الأمعاء الدقيقة",
+        "القولون"
+      ],
+      "nearbyOrgans_en": [
+        "Small intestine",
+        "Colon"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب المعدة والأمعاء الحاد",
+          "name_en": "Acute Gastroenteritis",
+          "symptoms": [
+            "إسهال دموي",
+            "تقلصات شديدة",
+            "حمى",
+            "غثيان"
+          ],
+          "symptoms_en": [
+            "Bloody diarrhea",
+            "Severe cramps",
+            "Fever",
+            "Nausea"
+          ],
+          "treatments": [
+            "إماهة",
+            "أزيثروميسين للحالات الشديدة"
+          ],
+          "treatments_en": [
+            "Hydration",
+            "Azithromycin for severe cases"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Campylobacter",
+        "GBS",
+        "poultry",
+        "عطيفة",
+        "إسهال"
+      ]
+    },
+    {
+      "id": 1722,
+      "term": "normal flora (microbiome)",
+      "arabic": "الميكروبيوم الطبيعي (النبيت البكتيري)",
+      "latin": "flora normalis",
+      "pronunciation": "نورمال فلورا",
+      "definition": "مجموعة البكتيريا والكائنات الدقيقة الغير ضارة التي تعيش بشكل طبيعي في ومع الإنسان وتلعب أدواراً حيوية في الحماية والهضم والمناعة",
+      "definition_en": "The community of harmless microorganisms naturally living in and on the human body, playing vital roles in protection, digestion, and immunity",
+      "englishSentence": "Normal flora protects against pathogens, aids digestion, and is essential for a healthy immune system.",
+      "type": "concept",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "الحماية من الجراثيم الضارة ودعم الهضم والمناعة",
+      "systemFunction_en": "Protection against pathogens, digestion support, and immunity",
+      "location": "الجلد والأمعاء والفم والمهبل",
+      "location_en": "Skin, intestines, mouth, vagina",
+      "nearbyOrgans": [
+        "الجهاز الهضمي",
+        "الجلد",
+        "الفم",
+        "المهبل"
+      ],
+      "nearbyOrgans_en": [
+        "Digestive system",
+        "Skin",
+        "Mouth",
+        "Vagina"
+      ],
+      "diseases": [
+        {
+          "name": "خلل الميكروبيوم (Dysbiosis)",
+          "name_en": "Dysbiosis",
+          "symptoms": [
+            "إسهال مزمن",
+            "التهاب أمعاء",
+            "ضعف مناعة"
+          ],
+          "symptoms_en": [
+            "Chronic diarrhea",
+            "Bowel inflammation",
+            "Weakened immunity"
+          ],
+          "treatments": [
+            "بروبيوتيك",
+            "تعديل النظام الغذائي",
+            "زرع ميكروبيوم البراز"
+          ],
+          "treatments_en": [
+            "Probiotics",
+            "Diet modification",
+            "Fecal microbiota transplant"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "microbiome",
+        "normal flora",
+        "gut bacteria",
+        "probiotics",
+        "ميكروبيوم",
+        "نبيت طبيعي"
+      ]
+    },
+    {
+      "id": 1723,
+      "term": "Treponema pallidum",
+      "arabic": "اللولبية الشاحبة",
+      "latin": "Treponema pallidum",
+      "pronunciation": "تريبو-نيما باليدم",
+      "definition": "بكتيريا حلزونية دقيقة سبب مرض السفلس (الزهري)، تنتقل جنسياً أو من الأم للجنين، وتمر بثلاث مراحل سريرية",
+      "definition_en": "A delicate spiral bacterium causing syphilis, transmitted sexually or from mother to fetus, progressing through three clinical stages",
+      "englishSentence": "Treponema pallidum causes syphilis, an STI that progresses through primary, secondary, and tertiary stages.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب السفلس بمراحله الثلاث",
+      "systemFunction_en": "Causes syphilis through its three stages",
+      "location": "الأعضاء التناسلية والدم والدماغ والقلب",
+      "location_en": "Genitals, blood, brain, heart",
+      "nearbyOrgans": [
+        "الأعضاء التناسلية",
+        "الدم",
+        "الدماغ",
+        "القلب",
+        "الوليد"
+      ],
+      "nearbyOrgans_en": [
+        "Genitals",
+        "Blood",
+        "Brain",
+        "Heart",
+        "Newborn"
+      ],
+      "diseases": [
+        {
+          "name": "السفلس (الزهري)",
+          "name_en": "Syphilis",
+          "symptoms": [
+            "المرحلة الأولى: قرحة painless",
+            "الثانية: طفح جلدي جهازي",
+            "الثالثة: تأثير على القلب والدماغ"
+          ],
+          "symptoms_en": [
+            "Primary: painless ulcer",
+            "Secondary: systemic rash",
+            "Tertiary: heart and brain involvement"
+          ],
+          "treatments": [
+            "بنيسيلين G (اختيار أول)",
+            "دوكسيسيكلين لمن يعاني حساسية بنيسيلين"
+          ],
+          "treatments_en": [
+            "Penicillin G (first choice)",
+            "Doxycycline for penicillin allergy"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "syphilis",
+        "VDRL",
+        "RPR",
+        "congenital syphilis",
+        "لولبية",
+        "زهري"
+      ]
+    },
+    {
+      "id": 1724,
+      "term": "Borrelia burgdorferi",
+      "arabic": "البوريلية بورغدورفيري",
+      "latin": "Borrelia burgdorferi",
+      "pronunciation": "بو-ريل-يا بيرغ-دور-فيري",
+      "definition": "بكتيريا حلزونية سبب مرض لايم، تنتقل عبر لدغة القراد، تسبب طفح جلدي مميز (الحلقة المستهدفة) ثم أعراضاً جهازية",
+      "definition_en": "A spiral bacterium causing Lyme disease, transmitted by tick bite, causing a characteristic target-like rash then systemic symptoms",
+      "englishSentence": "Borrelia burgdorferi causes Lyme disease through tick bites, presenting with a characteristic bull's-eye rash.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب مرض لايم",
+      "systemFunction_en": "Causes Lyme disease",
+      "location": "الجلد ثم الدم والمفاصل والجهاز العصبي",
+      "location_en": "Skin then blood, joints, and nervous system",
+      "nearbyOrgans": [
+        "الجلد",
+        "المفاصل",
+        "القلب",
+        "الدماغ"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Joints",
+        "Heart",
+        "Brain"
+      ],
+      "diseases": [
+        {
+          "name": "مرض لايم",
+          "name_en": "Lyme Disease",
+          "symptoms": [
+            "طفح الحلقة المستهدفة",
+            "ألم مفاصل",
+            "إرهاق",
+            "تضخم قلبي"
+          ],
+          "symptoms_en": [
+            "Bull's-eye rash",
+            "Joint pain",
+            "Fatigue",
+            "Cardiac involvement"
+          ],
+          "treatments": [
+            "دوكسيسيكلين أو أموكسيسيلين 14-21 يوم",
+            "سيفترياكسون للحالات المتقدمة"
+          ],
+          "treatments_en": [
+            "Doxycycline or amoxicillin 14-21 days",
+            "Ceftriaxone for advanced cases"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Lyme disease",
+        "tick",
+        "bulls-eye rash",
+        "بوريليا",
+        "لايم"
+      ]
+    },
+    {
+      "id": 1725,
+      "term": "Chlamydia trachomatis",
+      "arabic": "الكلاميديا تراخوماتيس",
+      "latin": "Chlamydia trachomatis",
+      "pronunciation": "كلا-ميد-يا ترا-كو-ما-تس",
+      "definition": "بكتيريا داخل الخلية إلزامية لا تستطيع إنتاج ATP، أكثر الأمراض المنقولة جنسياً شيوعاً، وقد تكون بدون أعراض",
+      "definition_en": "An obligate intracellular bacterium that cannot produce ATP; the most common STI, often asymptomatic",
+      "englishSentence": "Chlamydia trachomatis is the most common bacterial STI, often causing no symptoms but leading to complications if untreated.",
+      "type": "bacteria",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تسبب العدوى المنقولة جنسياً والعقم",
+      "systemFunction_en": "Causes STI and infertility",
+      "location": "عنق الرحم والإحليل والعين",
+      "location_en": "Cervix, urethra, and eye",
+      "nearbyOrgans": [
+        "عنق الرحم",
+        "الإحليل",
+        "البوق",
+        "العين"
+      ],
+      "nearbyOrgans_en": [
+        "Cervix",
+        "Urethra",
+        "Fallopian tube",
+        "Eye"
+      ],
+      "diseases": [
+        {
+          "name": "الكلاميديا التناسلية",
+          "name_en": "Genital Chlamydia",
+          "symptoms": [
+            "بدون أعراض في 70%",
+            "إفرازات",
+            "حرقة",
+            "عقم إذا لم تعالج"
+          ],
+          "symptoms_en": [
+            "70% asymptomatic",
+            "Discharge",
+            "Burning",
+            "Infertility if untreated"
+          ],
+          "treatments": [
+            "آزيثروميسين 1g جرعة واحدة أو دوكسيسيكلين 7 أيام"
+          ],
+          "treatments_en": [
+            "Azithromycin 1g single dose or doxycycline 7 days"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "Chlamydia",
+        "STI",
+        "PID",
+        "trachoma",
+        "كلاميديا"
+      ]
+    },
+    {
+      "id": 1726,
+      "term": "biofilm",
+      "arabic": "الغشاء الحيوي",
+      "latin": "biofilma",
+      "pronunciation": "باي-أو-فيلم",
+      "definition": "طبقة منظمة من البكتيريا تلتصق بالأسطح محاطة بمصفوفة متعددة السكريات، تمنحها مقاومة عالية للمضادات الحيوية",
+      "definition_en": "An organized layer of bacteria adhering to surfaces surrounded by a polysaccharide matrix, giving them high resistance to antibiotics",
+      "englishSentence": "Biofilms are bacterial communities on surfaces that are highly resistant to antibiotics and cause chronic infections.",
+      "type": "concept",
+      "system": "علم الأحياء الدقيقة",
+      "system_en": "Microbiology",
+      "systemFunction": "تحمي البكتيريا وتجعل العدوى مزمنة وصعبة العلاج",
+      "systemFunction_en": "Protects bacteria and makes infection chronic and hard to treat",
+      "location": "القسطرات والمفاصل الاصطناعية والصمامات",
+      "location_en": "Catheters, prosthetic joints, valves",
+      "nearbyOrgans": [
+        "القسطرات",
+        "المفاصل الاصطناعية",
+        "صمامات القلب"
+      ],
+      "nearbyOrgans_en": [
+        "Catheters",
+        "Prosthetic joints",
+        "Heart valves"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب الشغاف المتعلق بالقسطرة",
+          "name_en": "Catheter-Related Endocarditis",
+          "symptoms": [
+            "حمى مستمرة",
+            "نفضان",
+            "آفات جلدية",
+            "نفخة قلبية"
+          ],
+          "symptoms_en": [
+            "Persistent fever",
+            "Rigors",
+            "Skin lesions",
+            "Heart murmur"
+          ],
+          "treatments": [
+            "إزالة القسطرة أو الجهاز",
+            "مضادات حيوية طويلة الأمد"
+          ],
+          "treatments_en": [
+            "Remove catheter or device",
+            "Long-term antibiotics"
+          ]
+        }
+      ],
+      "chapter": 17,
+      "keywords": [
+        "biofilm",
+        "chronic infection",
+        "catheter",
+        "CAUTI",
+        "غشاء حيوي"
+      ]
+    }
+  ]
+}

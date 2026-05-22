@@ -1,0 +1,2201 @@
+{
+  "chapter": 8,
+  "title": "The Digestive System",
+  "arabicTitle": "الجهاز الهضمي",
+  "description": "شرح تركيب ووظائف الجهاز الهضمي، بما في ذلك القناة الهضمية والأعضاء الملحقة، بالإضافة إلى الأمراض والاضطرابات الشائعة والإجراءات التشخيصية والجراحية المرتبطة بها.",
+  "description_en": "Explanation of the structure and functions of the digestive system, including the gastrointestinal tract and accessory organs, as well as common diseases and disorders and associated diagnostic and surgical procedures.",
+  "terms": [
+    {
+      "id": 801,
+      "term": "digestive system",
+      "arabic": "الجهاز الهضمي",
+      "latin": "systema digestorium",
+      "pronunciation": "داي-جيس-تيف سيس-تم",
+      "definition": "الجهاز المسؤول عن هضم الطعام وامتصاص العناصر الغذائية والتخلص من الفضلات. تشمل الهياكل الرئيسية الفم والبلعوم والمريء والمعدة والأمعاء الدقيقة والأمعاء الغليظة والمستقيم والشرج.",
+      "definition_en": "The system responsible for digesting food, absorbing nutrients, and eliminating waste. The main structures include the mouth, pharynx, esophagus, stomach, small intestine, large intestine, rectum, and anus.",
+      "englishSentence": "The digestive system breaks down food, absorbs nutrients, and eliminates waste.",
+      "parts": {
+        "root": { "value": "digest", "meaning": "هضم", "function": "يشير إلى الهضم" },
+        "suffix": { "value": "ive", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "system",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "هضم الطعام، امتصاص العناصر الغذائية، التخلص من الفضلات",
+      "systemFunction_en": "Digest food, absorb nutrients, eliminate waste",
+      "location": "من الفم إلى الشرج",
+      "location_en": "From mouth to anus",
+      "nearbyOrgans": ["الكبد", "المرارة", "البنكرياس", "الطحال", "الكلى"],
+      "nearbyOrgans_en": ["Liver", "Gallbladder", "Pancreas", "Spleen", "Kidneys"],
+      "diseases": [
+        {
+          "name": "مرض الجزر المعدي المريئي",
+          "name_en": "GERD",
+          "symptoms": ["حرقة", "قلس حمضي", "ألم صدر"],
+          "symptoms_en": ["Heartburn", "Acid reflux", "Chest pain"],
+          "treatments": ["مضادات حموضة", "مثبطات مضخة البروتون", "تغيير نمط الحياة"],
+          "treatments_en": ["Antacids", "Proton pump inhibitors", "Lifestyle changes"]
+        },
+        {
+          "name": "متلازمة القولون العصبي",
+          "name_en": "Irritable bowel syndrome",
+          "symptoms": ["ألم بطني", "انتفاخ", "إمساك", "إسهال"],
+          "symptoms_en": ["Abdominal pain", "Bloating", "Constipation", "Diarrhea"],
+          "treatments": ["تغيير النظام الغذائي", "أدوية", "تقليل التوتر"],
+          "treatments_en": ["Dietary changes", "Medications", "Stress reduction"]
+        }
+      ],
+      "keywords": ["gastrointestinal system", "GI tract"],
+      "chapter": 8
+    },
+    {
+      "id": 802,
+      "term": "accessory organs of digestion",
+      "arabic": "الأعضاء الملحقة بالجهاز الهضمي",
+      "latin": "organa digestionis accessoria",
+      "pronunciation": "آك-سيس-أو-ري أور-غانز أوف داي-جيس-تيون",
+      "definition": "أعضاء تساعد في عملية الهضم ولكنها ليست جزءاً من القناة الهضمية، وتشمل الكبد والمرارة والبنكرياس.",
+      "definition_en": "Organs that aid in digestion but are not part of the gastrointestinal tract, including the liver, gallbladder, and pancreas.",
+      "englishSentence": "The accessory organs of digestion include the liver, gallbladder, and pancreas.",
+      "parts": {
+        "root": { "value": "access", "meaning": "ملحق", "function": "يشير إلى الإضافة" },
+        "suffix": { "value": "ory", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "organ",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إنتاج وإفراز إنزيمات هضمية وعصارات تساعد في الهضم",
+      "systemFunction_en": "Produce and secrete digestive enzymes and juices that aid digestion",
+      "location": "البطن، حول القناة الهضمية",
+      "location_en": "Abdomen, around GI tract",
+      "nearbyOrgans": ["المعدة", "الأمعاء الدقيقة", "الاثني عشر", "الطحال"],
+      "nearbyOrgans_en": ["Stomach", "Small intestine", "Duodenum", "Spleen"],
+      "diseases": [
+        {
+          "name": "التهاب البنكرياس",
+          "name_en": "Pancreatitis",
+          "symptoms": ["ألم بطني شديد", "غثيان", "قيء", "حمى"],
+          "symptoms_en": ["Severe abdominal pain", "Nausea", "Vomiting", "Fever"],
+          "treatments": ["صيام", "سوائل وريدية", "مسكنات"],
+          "treatments_en": ["Fasting", "IV fluids", "Pain relievers"]
+        },
+        {
+          "name": "حصوات المرارة",
+          "name_en": "Gallstones",
+          "symptoms": ["ألم في الربع العلوي الأيمن", "غثيان", "قيء"],
+          "symptoms_en": ["Right upper quadrant pain", "Nausea", "Vomiting"],
+          "treatments": ["استئصال المرارة", "أدوية"],
+          "treatments_en": ["Cholecystectomy", "Medications"]
+        }
+      ],
+      "keywords": ["liver", "gallbladder", "pancreas"],
+      "chapter": 8
+    },
+    {
+      "id": 803,
+      "term": "gastrointestinal tract",
+      "arabic": "القناة الهضمية (الجهاز الهضمي)",
+      "latin": "tractus gastrointestinalis",
+      "pronunciation": "غاس-ترو-إن-تيس-تي-نال تراكت",
+      "definition": "المسار الذي يمر من خلاله الطعام عبر الجهاز الهضمي، ويشمل الفم والمريء والمعدة والأمعاء.",
+      "definition_en": "The path through which food passes through the digestive system, including the mouth, esophagus, stomach, and intestines.",
+      "englishSentence": "The gastrointestinal tract is the path food takes through the digestive system.",
+      "parts": {
+        "root1": { "value": "gastr/o", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "root2": { "value": "intestin", "meaning": "أمعاء", "function": "يشير إلى الأمعاء" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "abbreviation": "GI tract",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "نقل وهضم وامتصاص الطعام",
+      "systemFunction_en": "Transport, digest, and absorb food",
+      "location": "من الفم إلى الشرج",
+      "location_en": "From mouth to anus",
+      "nearbyOrgans": ["الكبد", "البنكرياس", "المرارة", "الطحال"],
+      "nearbyOrgans_en": ["Liver", "Pancreas", "Gallbladder", "Spleen"],
+      "diseases": [],
+      "keywords": ["GI tract", "alimentary canal"],
+      "chapter": 8
+    },
+    {
+      "id": 804,
+      "term": "upper GI tract",
+      "arabic": "الجزء العلوي من القناة الهضمية",
+      "latin": "tractus gastrointestinalis superior",
+      "pronunciation": "أبر جي-آي تراكت",
+      "definition": "يتكون من الفم والمريء والمعدة.",
+      "definition_en": "Consists of the mouth, esophagus, and stomach.",
+      "englishSentence": "The upper GI tract consists of the mouth, esophagus, and stomach.",
+      "parts": {},
+      "type": "structure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "بدء عملية الهضم (مضغ، بلع، هضم أولي)",
+      "systemFunction_en": "Initiate digestion (chewing, swallowing, initial digestion)",
+      "location": "الرأس والرقبة وأعلى البطن",
+      "location_en": "Head, neck, and upper abdomen",
+      "nearbyOrgans": ["البلعوم", "الحنجرة", "الحجاب الحاجز"],
+      "nearbyOrgans_en": ["Pharynx", "Larynx", "Diaphragm"],
+      "diseases": [
+        {
+          "name": "قرحة المعدة",
+          "name_en": "Gastric ulcer",
+          "symptoms": ["ألم في أعلى البطن", "حرقة", "غثيان"],
+          "symptoms_en": ["Upper abdominal pain", "Heartburn", "Nausea"],
+          "treatments": ["مضادات حموضة", "مضادات حيوية", "مثبطات مضخة البروتون"],
+          "treatments_en": ["Antacids", "Antibiotics", "Proton pump inhibitors"]
+        }
+      ],
+      "keywords": ["mouth", "esophagus", "stomach"],
+      "chapter": 8
+    },
+    {
+      "id": 805,
+      "term": "lower GI tract",
+      "arabic": "الجزء السفلي من القناة الهضمية",
+      "latin": "tractus gastrointestinalis inferior",
+      "pronunciation": "لوير جي-آي تراكت",
+      "definition": "يتكون من الأمعاء الدقيقة والأمعاء الغليظة (التي يشار إليها أحياناً بالأمعاء)، بالإضافة إلى المستقيم والشرج.",
+      "definition_en": "Consists of the small intestine and large intestine (sometimes referred to as the bowels), as well as the rectum and anus.",
+      "englishSentence": "The lower GI tract includes the small and large intestines, rectum, and anus.",
+      "parts": {},
+      "type": "structure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "استكمال الهضم، امتصاص العناصر الغذائية والماء، التخلص من الفضلات",
+      "systemFunction_en": "Complete digestion, absorb nutrients and water, eliminate waste",
+      "location": "البطن والحوض",
+      "location_en": "Abdomen and pelvis",
+      "nearbyOrgans": ["الكبد", "المرارة", "البنكرياس", "المثانة", "الأعضاء التناسلية"],
+      "nearbyOrgans_en": ["Liver", "Gallbladder", "Pancreas", "Bladder", "Reproductive organs"],
+      "diseases": [
+        {
+          "name": "التهاب القولون التقرحي",
+          "name_en": "Ulcerative colitis",
+          "symptoms": ["إسهال دموي", "ألم بطني", "إلحاح"],
+          "symptoms_en": ["Bloody diarrhea", "Abdominal pain", "Urgency"],
+          "treatments": ["مضادات التهاب", "مثبطات مناعة", "جراحة"],
+          "treatments_en": ["Anti-inflammatories", "Immunosuppressants", "Surgery"]
+        }
+      ],
+      "keywords": ["small intestine", "large intestine", "bowels", "rectum", "anus"],
+      "chapter": 8
+    },
+    {
+      "id": 806,
+      "term": "aphthous ulcers",
+      "arabic": "قرح قلاعية",
+      "latin": "ulcera aphthosa",
+      "pronunciation": "آف-ثوس أول-سرز",
+      "definition": "حفر رمادية بيضاء ذات حدود حمراء في الأنسجة الرخوة المبطنة للفم، وتُعرف أيضاً باسم تقرحات الفم.",
+      "definition_en": "Grey-white pits with a red border in the soft tissue lining the mouth, also known as canker sores.",
+      "englishSentence": "Aphthous ulcers are grey-white pits with a red border in the lining of the mouth.",
+      "parts": {
+        "root": { "value": "aphth", "meaning": "قلاعي", "function": "يشير إلى القرح القلاعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "حماية وتذوق الطعام",
+      "systemFunction_en": "Protect and taste food",
+      "location": "الغشاء المخاطي للفم",
+      "location_en": "Oral mucosa",
+      "nearbyOrgans": ["اللسان", "اللثة", "الحلق", "الشفتين"],
+      "nearbyOrgans_en": ["Tongue", "Gums", "Throat", "Lips"],
+      "diseases": [
+        {
+          "name": "قرح فموية",
+          "name_en": "Canker sores",
+          "symptoms": ["ألم", "حرقة", "صعوبة في الأكل"],
+          "symptoms_en": ["Pain", "Burning", "Difficulty eating"],
+          "treatments": ["مسكنات موضعية", "غسول فم", "تجنب المهيجات"],
+          "treatments_en": ["Topical analgesics", "Mouthwash", "Avoid irritants"]
+        }
+      ],
+      "keywords": ["canker sores", "mouth ulcers"],
+      "chapter": 8
+    },
+    {
+      "id": 807,
+      "term": "cheilosis",
+      "arabic": "تشقق الشفتين (التهاب الشفة)",
+      "latin": "cheilosis",
+      "pronunciation": "كي-لو-سيس",
+      "definition": "اضطراب في الشفتين يتميز بتقرحات تشبه الشقوق في زوايا الفم.",
+      "definition_en": "A disorder of the lips characterized by crack-like sores at the corners of the mouth.",
+      "englishSentence": "Cheilosis is a disorder of the lips with crack-like sores at the corners of the mouth.",
+      "parts": {
+        "root": { "value": "cheil", "meaning": "شفة", "function": "يشير إلى الشفة" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إغلاق الفم والمشاركة في الكلام",
+      "systemFunction_en": "Close mouth and participate in speech",
+      "location": "زوايا الفم",
+      "location_en": "Corners of mouth",
+      "nearbyOrgans": ["الشفتين", "الفم", "الجلد حول الفم"],
+      "nearbyOrgans_en": ["Lips", "Mouth", "Perioral skin"],
+      "diseases": [
+        {
+          "name": "تشقق زوايا الفم",
+          "name_en": "Angular cheilitis",
+          "symptoms": ["تشققات", "احمرار", "ألم"],
+          "symptoms_en": ["Cracks", "Redness", "Pain"],
+          "treatments": ["مرطبات", "مضادات فطريات", "فيتامينات"],
+          "treatments_en": ["Moisturizers", "Antifungals", "Vitamins"]
+        }
+      ],
+      "keywords": ["cheilitis", "angular cheilitis"],
+      "chapter": 8
+    },
+    {
+      "id": 808,
+      "term": "cheilitis",
+      "arabic": "التهاب الشفة",
+      "latin": "cheilitis",
+      "pronunciation": "كي-لاي-تس",
+      "definition": "التهاب الشفتين، مرادف لـ cheilosis.",
+      "definition_en": "Inflammation of the lips, synonymous with cheilosis.",
+      "englishSentence": "Cheilitis is inflammation of the lips.",
+      "parts": {
+        "root": { "value": "cheil", "meaning": "شفة", "function": "يشير إلى الشفة" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إغلاق الفم والمشاركة في الكلام",
+      "systemFunction_en": "Close mouth and participate in speech",
+      "location": "الشفتين",
+      "location_en": "Lips",
+      "nearbyOrgans": ["الفم", "الجلد حول الفم"],
+      "nearbyOrgans_en": ["Mouth", "Perioral skin"],
+      "diseases": [],
+      "keywords": ["lip inflammation"],
+      "chapter": 8
+    },
+    {
+      "id": 809,
+      "term": "herpes labialis",
+      "arabic": "هربس شفوي (قرحة باردة)",
+      "latin": "herpes labialis",
+      "pronunciation": "هير-بيز لاي-بي-آ-ليس",
+      "definition": "تقرحات على الشفتين والأنسجة الوجهية المجاورة، يسببها فيروس الهربس البسيط الفموي من النوع 1 (HSV-1).",
+      "definition_en": "Sores on the lips and adjacent facial tissue, caused by oral herpes simplex virus type 1 (HSV-1).",
+      "englishSentence": "Herpes labialis, or cold sores, are caused by the herpes simplex virus type 1.",
+      "parts": {
+        "root1": { "value": "herp", "meaning": "هربس", "function": "يشير إلى الهربس" },
+        "root2": { "value": "labi", "meaning": "شفة", "function": "يشير إلى الشفة" },
+        "suffix": { "value": "alis", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "infection",
+      "system": "الجهاز الهضمي والجلدي",
+      "system_en": "Digestive and Integumentary System",
+      "systemFunction": "حماية وتذوق الطعام",
+      "systemFunction_en": "Protect and taste food",
+      "location": "الشفتين والجلد حول الفم",
+      "location_en": "Lips and perioral skin",
+      "nearbyOrgans": ["الشفتين", "الفم", "الوجه"],
+      "nearbyOrgans_en": ["Lips", "Mouth", "Face"],
+      "diseases": [
+        {
+          "name": "قرحة باردة",
+          "name_en": "Cold sore",
+          "symptoms": ["بثور", "حرقة", "حكة", "ألم"],
+          "symptoms_en": ["Blisters", "Burning", "Itching", "Pain"],
+          "treatments": ["مضادات فيروسات", "مسكنات", "كمادات باردة"],
+          "treatments_en": ["Antivirals", "Pain relievers", "Cold compresses"]
+        }
+      ],
+      "keywords": ["cold sores", "fever blisters", "HSV-1"],
+      "chapter": 8
+    },
+    {
+      "id": 810,
+      "term": "stomatomycosis",
+      "arabic": "فطار فموي (مرض فطري في الفم)",
+      "latin": "stomatomycosis",
+      "pronunciation": "ستو-ما-تو-ماي-كو-سيس",
+      "definition": "أي مرض يصيب الفم بسبب الفطريات.",
+      "definition_en": "Any disease of the mouth due to a fungus.",
+      "englishSentence": "Stomatomycosis is any disease of the mouth due to a fungus.",
+      "parts": {
+        "root1": { "value": "stomat/o", "meaning": "فم", "function": "يشير إلى الفم" },
+        "root2": { "value": "myc", "meaning": "فطر", "function": "يشير إلى الفطريات" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تذوق وبدء هضم الطعام",
+      "systemFunction_en": "Taste and initiate food digestion",
+      "location": "الفم",
+      "location_en": "Mouth",
+      "nearbyOrgans": ["اللسان", "الحلق", "اللثة"],
+      "nearbyOrgans_en": ["Tongue", "Throat", "Gums"],
+      "diseases": [
+        {
+          "name": "القلاع الفموي",
+          "name_en": "Oral thrush",
+          "symptoms": ["بقع بيضاء", "ألم", "صعوبة بلع"],
+          "symptoms_en": ["White patches", "Pain", "Difficulty swallowing"],
+          "treatments": ["مضادات فطريات"],
+          "treatments_en": ["Antifungals"]
+        }
+      ],
+      "keywords": ["oral fungal infection", "thrush"],
+      "chapter": 8
+    },
+    {
+      "id": 811,
+      "term": "cleft lip",
+      "arabic": "الشفة المشقوقة (الأرنبية)",
+      "latin": "labium fissum",
+      "pronunciation": "كليفت ليب",
+      "definition": "عيب خلقي يوجد فيه أخدود عميق في الشفة يمتد لأعلى نحو الأنف نتيجة فشل هذا الجزء من الشفة في الانغلاق أثناء نمو ما قبل الولادة.",
+      "definition_en": "A birth defect in which there is a deep groove in the lip extending upward toward the nose, resulting from failure of this part of the lip to close during prenatal development.",
+      "englishSentence": "A cleft lip is a birth defect where the lip fails to close during prenatal development.",
+      "parts": {
+        "root": { "value": "cleft", "meaning": "شق", "function": "يشير إلى الشق" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إغلاق الفم والمشاركة في الكلام",
+      "systemFunction_en": "Close mouth and participate in speech",
+      "location": "الشفة العليا",
+      "location_en": "Upper lip",
+      "nearbyOrgans": ["الأنف", "الحنك", "الفم"],
+      "nearbyOrgans_en": ["Nose", "Palate", "Mouth"],
+      "diseases": [
+        {
+          "name": "الشفة المشقوقة",
+          "name_en": "Cleft lip",
+          "symptoms": ["شق في الشفة", "صعوبة في الرضاعة"],
+          "symptoms_en": ["Split in lip", "Difficulty feeding"],
+          "treatments": ["جراحة ترميمية"],
+          "treatments_en": ["Repair surgery"]
+        }
+      ],
+      "keywords": ["harelip", "orofacial cleft"],
+      "chapter": 8
+    },
+    {
+      "id": 812,
+      "term": "dysphagia",
+      "arabic": "عسر البلع",
+      "latin": "dysphagia",
+      "pronunciation": "ديس-فاي-جيا",
+      "definition": "صعوبة في البلع.",
+      "definition_en": "Difficulty in swallowing.",
+      "englishSentence": "Dysphagia is difficulty in swallowing.",
+      "parts": {
+        "prefix": { "value": "dys", "meaning": "خلل", "function": "يشير إلى الخلل" },
+        "suffix": { "value": "phagia", "meaning": "بلع", "function": "يشير إلى البلع" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "نقل الطعام من الفم إلى المعدة",
+      "systemFunction_en": "Transport food from mouth to stomach",
+      "location": "البلعوم والمريء",
+      "location_en": "Pharynx and esophagus",
+      "nearbyOrgans": ["الحنجرة", "القصبة الهوائية"],
+      "nearbyOrgans_en": ["Larynx", "Trachea"],
+      "diseases": [
+        {
+          "name": "تعذر الارتخاء المريئي",
+          "name_en": "Achalasia",
+          "symptoms": ["صعوبة بلع", "قلس", "ألم صدر"],
+          "symptoms_en": ["Difficulty swallowing", "Regurgitation", "Chest pain"],
+          "treatments": ["توسيع بالبالون", "جراحة"],
+          "treatments_en": ["Balloon dilation", "Surgery"]
+        }
+      ],
+      "keywords": ["swallowing difficulty"],
+      "chapter": 8
+    },
+    {
+      "id": 813,
+      "term": "gastroesophageal reflux disease",
+      "arabic": "داء الارتداد المعدي المريئي",
+      "latin": "morbus refluxus gastrooesophagealis",
+      "pronunciation": "غاس-ترو-إي-سوف-آ-جي-آل ري-فلكس دي-زيز",
+      "definition": "التدفق الصاعد للحمض من المعدة إلى المريء.",
+      "definition_en": "The upward flow of acid from the stomach into the esophagus.",
+      "englishSentence": "GERD is the upward flow of acid from the stomach into the esophagus.",
+      "parts": {
+        "root1": { "value": "gastr/o", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "root2": { "value": "esophag", "meaning": "مريء", "function": "يشير إلى المريء" },
+        "suffix": { "value": "eal", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "abbreviation": "GERD",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "منع ارتجاع الحمض",
+      "systemFunction_en": "Prevent acid reflux",
+      "location": "المريء والمعدة",
+      "location_en": "Esophagus and stomach",
+      "nearbyOrgans": ["الحجاب الحاجز", "القلب"],
+      "nearbyOrgans_en": ["Diaphragm", "Heart"],
+      "diseases": [
+        {
+          "name": "داء الارتداد المعدي المريئي",
+          "name_en": "GERD",
+          "symptoms": ["حرقة", "قلس", "ألم صدر", "سعال مزمن"],
+          "symptoms_en": ["Heartburn", "Regurgitation", "Chest pain", "Chronic cough"],
+          "treatments": ["مثبطات مضخة البروتون", "مضادات حموضة", "تغيير نمط الحياة", "جراحة"],
+          "treatments_en": ["Proton pump inhibitors", "Antacids", "Lifestyle changes", "Surgery"]
+        }
+      ],
+      "keywords": ["GERD", "acid reflux"],
+      "chapter": 8
+    },
+    {
+      "id": 814,
+      "term": "pyrosis",
+      "arabic": "حرقة فم المعدة",
+      "latin": "pyrosis",
+      "pronunciation": "باي-رو-سيس",
+      "definition": "الإحساس بالحرقان الناجم عن عودة محتويات المعدة الحمضية إلى المريء.",
+      "definition_en": "The burning sensation caused by the return of acidic stomach contents to the esophagus.",
+      "englishSentence": "Pyrosis, or heartburn, is the burning sensation caused by stomach acid reflux.",
+      "parts": {
+        "root": { "value": "pyr", "meaning": "نار", "function": "يشير إلى الحرارة" },
+        "suffix": { "value": "osis", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "منع ارتجاع الحمض",
+      "systemFunction_en": "Prevent acid reflux",
+      "location": "المريء",
+      "location_en": "Esophagus",
+      "nearbyOrgans": ["المعدة", "القلب"],
+      "nearbyOrgans_en": ["Stomach", "Heart"],
+      "diseases": [],
+      "keywords": ["heartburn"],
+      "chapter": 8
+    },
+    {
+      "id": 815,
+      "term": "hiatal hernia",
+      "arabic": "فتق حجابي",
+      "latin": "hernia hiatus oesophagei",
+      "pronunciation": "هاي-آي-تال هير-ني-آ",
+      "definition": "حالة يبرز فيها جزء من المعدة إلى أعلى داخل الصدر، من خلال فتحة في الحجاب الحاجز.",
+      "definition_en": "A condition in which a portion of the stomach protrudes upward into the chest, through an opening in the diaphragm.",
+      "englishSentence": "A hiatal hernia is when a portion of the stomach protrudes upward into the chest through the diaphragm.",
+      "parts": {
+        "root": { "value": "hiatus", "meaning": "فتحة", "function": "يشير إلى الفتحة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "فصل الصدر عن البطن",
+      "systemFunction_en": "Separate chest from abdomen",
+      "location": "الحجاب الحاجز والمعدة",
+      "location_en": "Diaphragm and stomach",
+      "nearbyOrgans": ["المعدة", "المريء", "القلب", "الرئتين"],
+      "nearbyOrgans_en": ["Stomach", "Esophagus", "Heart", "Lungs"],
+      "diseases": [
+        {
+          "name": "فتق حجابي",
+          "name_en": "Hiatal hernia",
+          "symptoms": ["حرقة", "قلس", "ألم صدر"],
+          "symptoms_en": ["Heartburn", "Regurgitation", "Chest pain"],
+          "treatments": ["أدوية", "تغيير نمط الحياة", "جراحة"],
+          "treatments_en": ["Medications", "Lifestyle changes", "Surgery"]
+        }
+      ],
+      "keywords": ["diaphragmatic hernia"],
+      "chapter": 8
+    },
+    {
+      "id": 816,
+      "term": "hernia",
+      "arabic": "فتق",
+      "latin": "hernia",
+      "pronunciation": "هير-ني-آ",
+      "definition": "بروز جزء أو تركيب من خلال الأنسجة التي تحتويه عادة.",
+      "definition_en": "The protrusion of a part or structure through the tissues that normally contain it.",
+      "englishSentence": "A hernia is the protrusion of a part through the tissues that normally contain it.",
+      "parts": {
+        "root": { "value": "hern", "meaning": "فتق", "function": "يشير إلى الفتق" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "عام",
+      "system_en": "General",
+      "systemFunction": "احتواء الأعضاء",
+      "systemFunction_en": "Contain organs",
+      "location": "متعدد (البطن، الأربية، الحجاب الحاجز)",
+      "location_en": "Multiple (abdominal, inguinal, hiatal)",
+      "nearbyOrgans": ["حسب موقع الفتق"],
+      "nearbyOrgans_en": ["Depends on hernia location"],
+      "diseases": [
+        {
+          "name": "فتق إربي",
+          "name_en": "Inguinal hernia",
+          "symptoms": ["انتفاخ", "ألم", "ثقل"],
+          "symptoms_en": ["Bulge", "Pain", "Heaviness"],
+          "treatments": ["جراحة", "مراقبة"],
+          "treatments_en": ["Surgery", "Observation"]
+        }
+      ],
+      "keywords": ["rupture", "protrusion"],
+      "chapter": 8
+    },
+    {
+      "id": 817,
+      "term": "gastritis",
+      "arabic": "التهاب المعدة",
+      "latin": "gastritis",
+      "pronunciation": "غاس-تراي-تس",
+      "definition": "التهاب شائع في بطانة المعدة غالباً ما تسببه بكتيريا هيليكوباكتر بيلوري.",
+      "definition_en": "Common inflammation of the stomach lining, often caused by Helicobacter pylori bacteria.",
+      "englishSentence": "Gastritis is inflammation of the stomach lining, often caused by Helicobacter pylori.",
+      "parts": {
+        "root": { "value": "gastr", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "هضم الطعام",
+      "systemFunction_en": "Digest food",
+      "location": "المعدة",
+      "location_en": "Stomach",
+      "nearbyOrgans": ["المريء", "الاثني عشر", "البنكرياس"],
+      "nearbyOrgans_en": ["Esophagus", "Duodenum", "Pancreas"],
+      "diseases": [
+        {
+          "name": "التهاب المعدة",
+          "name_en": "Gastritis",
+          "symptoms": ["ألم في أعلى البطن", "غثيان", "قيء", "فقدان شهية"],
+          "symptoms_en": ["Upper abdominal pain", "Nausea", "Vomiting", "Loss of appetite"],
+          "treatments": ["مضادات حموضة", "مضادات حيوية", "تجنب المهيجات"],
+          "treatments_en": ["Antacids", "Antibiotics", "Avoid irritants"]
+        }
+      ],
+      "keywords": ["stomach inflammation"],
+      "chapter": 8
+    },
+    {
+      "id": 818,
+      "term": "gastrorrhea",
+      "arabic": "إفراط إفراز المعدة",
+      "latin": "gastrorrhoea",
+      "pronunciation": "غاس-ترو-ري-آ",
+      "definition": "إفراز مفرط للعصارة المعدية أو المخاط في المعدة.",
+      "definition_en": "Excessive secretion of gastric juice or mucus in the stomach.",
+      "englishSentence": "Gastrorrhea is excessive secretion of gastric juice or mucus in the stomach.",
+      "parts": {
+        "root": { "value": "gastr/o", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "suffix": { "value": "rrhea", "meaning": "إفراز", "function": "يشير إلى الإفراز" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إفراز العصارة المعدية",
+      "systemFunction_en": "Secrete gastric juice",
+      "location": "المعدة",
+      "location_en": "Stomach",
+      "nearbyOrgans": ["المعدة", "الاثني عشر"],
+      "nearbyOrgans_en": ["Stomach", "Duodenum"],
+      "diseases": [],
+      "keywords": ["gastric hypersecretion"],
+      "chapter": 8
+    },
+    {
+      "id": 819,
+      "term": "peptic ulcers",
+      "arabic": "قرح هضمية",
+      "latin": "ulcera peptica",
+      "pronunciation": "بيب-تيك أول-سرز",
+      "definition": "تقرحات تؤثر على الأغشية المخاطية للجهاز الهضمي. تسببها بكتيريا هيليكوباكتر بيلوري أو أدوية مثل الأسبرين التي تهيج الأغشية المخاطية.",
+      "definition_en": "Sores affecting the mucous membranes of the digestive system. Caused by Helicobacter pylori bacteria or medications like aspirin that irritate the mucous membranes.",
+      "englishSentence": "Peptic ulcers are sores affecting the mucous membranes of the digestive system.",
+      "parts": {
+        "root": { "value": "pept", "meaning": "هضم", "function": "يشير إلى الهضم" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "هضم الطعام",
+      "systemFunction_en": "Digest food",
+      "location": "المعدة والاثني عشر",
+      "location_en": "Stomach and duodenum",
+      "nearbyOrgans": ["المعدة", "الاثني عشر", "المريء"],
+      "nearbyOrgans_en": ["Stomach", "Duodenum", "Esophagus"],
+      "diseases": [
+        {
+          "name": "قرحة هضمية",
+          "name_en": "Peptic ulcer",
+          "symptoms": ["ألم", "حرقة", "غثيان", "نزيف"],
+          "symptoms_en": ["Pain", "Heartburn", "Nausea", "Bleeding"],
+          "treatments": ["مضادات حموضة", "مضادات حيوية", "مثبطات مضخة البروتون"],
+          "treatments_en": ["Antacids", "Antibiotics", "Proton pump inhibitors"]
+        }
+      ],
+      "keywords": ["gastric ulcers", "duodenal ulcers"],
+      "chapter": 8
+    },
+    {
+      "id": 820,
+      "term": "ulcer",
+      "arabic": "قرحة",
+      "latin": "ulcus",
+      "pronunciation": "أول-سر",
+      "definition": "تآكل في الجلد أو الغشاء المخاطي.",
+      "definition_en": "An erosion of the skin or mucous membrane.",
+      "englishSentence": "An ulcer is an erosion of the skin or mucous membrane.",
+      "parts": {
+        "root": { "value": "ulc", "meaning": "قرحة", "function": "يشير إلى القرحة" },
+        "suffix": { "value": "er", "meaning": "اسم", "function": "يشير إلى الشيء" }
+      },
+      "type": "lesion",
+      "system": "عام",
+      "system_en": "General",
+      "systemFunction": "حماية الأنسجة",
+      "systemFunction_en": "Protect tissues",
+      "location": "الجلد أو الأغشية المخاطية",
+      "location_en": "Skin or mucous membranes",
+      "nearbyOrgans": ["حسب الموقع"],
+      "nearbyOrgans_en": ["Depends on location"],
+      "diseases": [],
+      "keywords": ["erosion", "sore"],
+      "chapter": 8
+    },
+    {
+      "id": 821,
+      "term": "gastric ulcers",
+      "arabic": "قرح معدية",
+      "latin": "ulcera gastrica",
+      "pronunciation": "غاس-تريك أول-سرز",
+      "definition": "قرح هضمية تحدث في المعدة.",
+      "definition_en": "Peptic ulcers that occur in the stomach.",
+      "englishSentence": "Gastric ulcers are peptic ulcers that occur in the stomach.",
+      "parts": {
+        "root": { "value": "gastr", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "هضم الطعام",
+      "systemFunction_en": "Digest food",
+      "location": "المعدة",
+      "location_en": "Stomach",
+      "nearbyOrgans": ["الاثني عشر", "المريء"],
+      "nearbyOrgans_en": ["Duodenum", "Esophagus"],
+      "diseases": [],
+      "keywords": ["stomach ulcers"],
+      "chapter": 8
+    },
+    {
+      "id": 822,
+      "term": "duodenal ulcers",
+      "arabic": "قرح إثنا عشرية",
+      "latin": "ulcera duodenalia",
+      "pronunciation": "دو-أو-دي-نال أول-سرز",
+      "definition": "قرح هضمية تحدث في الجزء العلوي من الأمعاء الدقيقة (الاثني عشر).",
+      "definition_en": "Peptic ulcers that occur in the upper part of the small intestine (duodenum).",
+      "englishSentence": "Duodenal ulcers are peptic ulcers that occur in the upper part of the small intestine.",
+      "parts": {
+        "root": { "value": "duoden", "meaning": "اثنا عشر", "function": "يشير إلى الاثني عشر" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "استكمال الهضم",
+      "systemFunction_en": "Complete digestion",
+      "location": "الاثني عشر",
+      "location_en": "Duodenum",
+      "nearbyOrgans": ["المعدة", "البنكرياس", "الكبد"],
+      "nearbyOrgans_en": ["Stomach", "Pancreas", "Liver"],
+      "diseases": [],
+      "keywords": ["duodenal peptic ulcers"],
+      "chapter": 8
+    },
+    {
+      "id": 823,
+      "term": "anorexia",
+      "arabic": "فقدان الشهية",
+      "latin": "anorexia",
+      "pronunciation": "آن-أو-ريك-سي-آ",
+      "definition": "فقدان الشهية للطعام، خاصة عندما يسببه المرض.",
+      "definition_en": "Loss of appetite for food, especially when caused by disease.",
+      "englishSentence": "Anorexia is the loss of appetite for food, especially when caused by disease.",
+      "parts": {
+        "prefix": { "value": "an", "meaning": "بدون", "function": "يشير إلى النفي" },
+        "root": { "value": "orex", "meaning": "شهية", "function": "يشير إلى الشهية" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تنظيم تناول الطعام",
+      "systemFunction_en": "Regulate food intake",
+      "location": "مركز الشهية في الدماغ",
+      "location_en": "Appetite center in brain",
+      "nearbyOrgans": ["الدماغ", "الجهاز الهضمي"],
+      "nearbyOrgans_en": ["Brain", "Digestive system"],
+      "diseases": [
+        {
+          "name": "فقدان الشهية العصبي",
+          "name_en": "Anorexia nervosa",
+          "symptoms": ["رفض الطعام", "فقدان وزن شديد", "خوف من السمنة"],
+          "symptoms_en": ["Food refusal", "Severe weight loss", "Fear of obesity"],
+          "treatments": ["علاج نفسي", "دعم غذائي", "أدوية"],
+          "treatments_en": ["Psychotherapy", "Nutritional support", "Medications"]
+        }
+      ],
+      "keywords": ["loss of appetite"],
+      "chapter": 8
+    },
+    {
+      "id": 824,
+      "term": "dehydration",
+      "arabic": "جفاف",
+      "latin": "dehydratio",
+      "pronunciation": "دي-هاي-دراي-شن",
+      "definition": "حالة يتجاوز فيها فقدان السوائل تناول السوائل، مما يخل بالتوازن الطبيعي للكهارل في الجسم.",
+      "definition_en": "A condition in which fluid loss exceeds fluid intake, disrupting the body's normal electrolyte balance.",
+      "englishSentence": "Dehydration is when fluid loss exceeds fluid intake, disrupting electrolyte balance.",
+      "parts": {
+        "prefix": { "value": "de", "meaning": "إزالة", "function": "يشير إلى الإزالة" },
+        "root": { "value": "hydr", "meaning": "ماء", "function": "يشير إلى الماء" },
+        "suffix": { "value": "ation", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "condition",
+      "system": "عام",
+      "system_en": "General",
+      "systemFunction": "الحفاظ على توازن السوائل",
+      "systemFunction_en": "Maintain fluid balance",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout body",
+      "nearbyOrgans": ["الكلى", "الجلد", "الجهاز الهضمي"],
+      "nearbyOrgans_en": ["Kidneys", "Skin", "Digestive system"],
+      "diseases": [
+        {
+          "name": "جفاف",
+          "name_en": "Dehydration",
+          "symptoms": ["عطش", "جفاف فم", "قلة بول", "دوار"],
+          "symptoms_en": ["Thirst", "Dry mouth", "Decreased urine", "Dizziness"],
+          "treatments": ["تعويض السوائل", "محاليل وريدية"],
+          "treatments_en": ["Fluid replacement", "IV fluids"]
+        }
+      ],
+      "keywords": ["fluid deficit"],
+      "chapter": 8
+    },
+    {
+      "id": 825,
+      "term": "malnutrition",
+      "arabic": "سوء تغذية",
+      "latin": "malnutritio",
+      "pronunciation": "مال-نيو-تري-شن",
+      "definition": "نقص الغذاء أو العناصر الغذائية المناسبة في الجسم بسبب نقص الغذاء أو عادات الأكل السيئة أو عدم قدرة الجسم على هضم وامتصاص وتوزيع هذه العناصر الغذائية.",
+      "definition_en": "A lack of proper food or nutrients in the body due to food shortage, poor eating habits, or the body's inability to digest, absorb, and distribute these nutrients.",
+      "englishSentence": "Malnutrition is a lack of proper food or nutrients in the body.",
+      "parts": {
+        "prefix": { "value": "mal", "meaning": "سوء", "function": "يشير إلى السوء" },
+        "root": { "value": "nutrit", "meaning": "تغذية", "function": "يشير إلى التغذية" },
+        "suffix": { "value": "ion", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "توفير العناصر الغذائية",
+      "systemFunction_en": "Provide nutrients",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout body",
+      "nearbyOrgans": ["الجهاز الهضمي", "الكبد", "الأنسجة"],
+      "nearbyOrgans_en": ["Digestive system", "Liver", "Tissues"],
+      "diseases": [
+        {
+          "name": "سوء تغذية",
+          "name_en": "Malnutrition",
+          "symptoms": ["فقدان وزن", "تعب", "ضعف", "تأخر نمو"],
+          "symptoms_en": ["Weight loss", "Fatigue", "Weakness", "Growth delay"],
+          "treatments": ["دعم غذائي", "علاج السبب"],
+          "treatments_en": ["Nutritional support", "Treat cause"]
+        }
+      ],
+      "keywords": ["undernutrition", "nutrient deficiency"],
+      "chapter": 8
+    },
+    {
+      "id": 826,
+      "term": "malabsorption",
+      "arabic": "سوء الامتصاص",
+      "latin": "malabsorptio",
+      "pronunciation": "مال-آب-سورب-شن",
+      "definition": "حالة لا تستطيع فيها الأمعاء الدقيقة امتصاص العناصر الغذائية من الطعام الذي يمر عبرها.",
+      "definition_en": "A condition in which the small intestine cannot absorb nutrients from the food passing through it.",
+      "englishSentence": "Malabsorption is when the small intestine cannot absorb nutrients from food.",
+      "parts": {
+        "prefix": { "value": "mal", "meaning": "سوء", "function": "يشير إلى السوء" },
+        "root": { "value": "absorpt", "meaning": "امتصاص", "function": "يشير إلى الامتصاص" },
+        "suffix": { "value": "ion", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "امتصاص العناصر الغذائية",
+      "systemFunction_en": "Absorb nutrients",
+      "location": "الأمعاء الدقيقة",
+      "location_en": "Small intestine",
+      "nearbyOrgans": ["البنكرياس", "الكبد", "المرارة"],
+      "nearbyOrgans_en": ["Pancreas", "Liver", "Gallbladder"],
+      "diseases": [
+        {
+          "name": "الداء البطني",
+          "name_en": "Celiac disease",
+          "symptoms": ["إسهال", "نقص وزن", "تعب", "انتفاخ"],
+          "symptoms_en": ["Diarrhea", "Weight loss", "Fatigue", "Bloating"],
+          "treatments": ["حمية خالية من الغلوتين"],
+          "treatments_en": ["Gluten-free diet"]
+        }
+      ],
+      "keywords": ["nutrient absorption failure"],
+      "chapter": 8
+    },
+    {
+      "id": 827,
+      "term": "obesity",
+      "arabic": "سمنة",
+      "latin": "obesitas",
+      "pronunciation": "أو-بي-سي-تي",
+      "definition": "تراكم مفرط للدهون في الجسم. يُستخدم عادةً للإشارة إلى الأفراد الذين يزيد وزنهم عن 20٪ - 30٪ فوق معايير الوزن المحددة لطولهم وعمرهم وجنسهم.",
+      "definition_en": "Excessive accumulation of fat in the body. Usually used to refer to individuals who are 20% - 30% over established weight standards for their height, age, and sex.",
+      "englishSentence": "Obesity is an excessive accumulation of fat in the body.",
+      "parts": {
+        "root": { "value": "obes", "meaning": "سمين", "function": "يشير إلى السمنة" },
+        "suffix": { "value": "ity", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "عام",
+      "system_en": "General",
+      "systemFunction": "تخزين الطاقة",
+      "systemFunction_en": "Energy storage",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout body",
+      "nearbyOrgans": ["القلب", "الكبد", "المفاصل"],
+      "nearbyOrgans_en": ["Heart", "Liver", "Joints"],
+      "diseases": [
+        {
+          "name": "سمنة",
+          "name_en": "Obesity",
+          "symptoms": ["زيادة وزن", "ضيق تنفس", "تعب"],
+          "symptoms_en": ["Weight gain", "Shortness of breath", "Fatigue"],
+          "treatments": ["حمية", "تمارين", "أدوية", "جراحة"],
+          "treatments_en": ["Diet", "Exercise", "Medications", "Surgery"]
+        }
+      ],
+      "keywords": ["overweight", "adiposity"],
+      "chapter": 8
+    },
+    {
+      "id": 828,
+      "term": "dyspepsia",
+      "arabic": "عسر الهضم",
+      "latin": "dyspepsia",
+      "pronunciation": "ديس-بيب-سي-آ",
+      "definition": "ألم أو عدم راحة في الهضم، ويُعرف أيضاً باسم عسر الهضم.",
+      "definition_en": "Pain or discomfort in digestion, also known as indigestion.",
+      "englishSentence": "Dyspepsia, or indigestion, is pain or discomfort in digestion.",
+      "parts": {
+        "prefix": { "value": "dys", "meaning": "خلل", "function": "يشير إلى الخلل" },
+        "suffix": { "value": "pepsia", "meaning": "هضم", "function": "يشير إلى الهضم" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "هضم الطعام",
+      "systemFunction_en": "Digest food",
+      "location": "المعدة والجهاز الهضمي العلوي",
+      "location_en": "Stomach and upper GI tract",
+      "nearbyOrgans": ["المعدة", "المريء", "الاثني عشر"],
+      "nearbyOrgans_en": ["Stomach", "Esophagus", "Duodenum"],
+      "diseases": [
+        {
+          "name": "عسر الهضم الوظيفي",
+          "name_en": "Functional dyspepsia",
+          "symptoms": ["ألم", "انتفاخ", "شبع مبكر"],
+          "symptoms_en": ["Pain", "Bloating", "Early satiety"],
+          "treatments": ["أدوية", "تغيير نمط الحياة"],
+          "treatments_en": ["Medications", "Lifestyle changes"]
+        }
+      ],
+      "keywords": ["indigestion"],
+      "chapter": 8
+    },
+    {
+      "id": 829,
+      "term": "emesis",
+      "arabic": "تقيؤ",
+      "latin": "emesis",
+      "pronunciation": "إم-إ-سيس",
+      "definition": "الانعكاسي لمحتويات المعدة عبر الفم.",
+      "definition_en": "The reflex ejection of stomach contents through the mouth.",
+      "englishSentence": "Emesis, or vomiting, is the reflex ejection of stomach contents through the mouth.",
+      "parts": {
+        "root": { "value": "em", "meaning": "قيء", "function": "يشير إلى التقيؤ" },
+        "suffix": { "value": "esis", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "reflex",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "طرد محتويات المعدة",
+      "systemFunction_en": "Expel stomach contents",
+      "location": "المعدة والجهاز العصبي",
+      "location_en": "Stomach and nervous system",
+      "nearbyOrgans": ["المعدة", "الدماغ", "الحجاب الحاجز"],
+      "nearbyOrgans_en": ["Stomach", "Brain", "Diaphragm"],
+      "diseases": [],
+      "keywords": ["vomiting"],
+      "chapter": 8
+    },
+    {
+      "id": 830,
+      "term": "hematemesis",
+      "arabic": "تقيؤ الدم",
+      "latin": "haematemesis",
+      "pronunciation": "هي-ما-تيم-إ-سيس",
+      "definition": "تقيؤ الدم.",
+      "definition_en": "The vomiting of blood.",
+      "englishSentence": "Hematemesis is the vomiting of blood.",
+      "parts": {
+        "root": { "value": "hemat", "meaning": "دم", "function": "يشير إلى الدم" },
+        "suffix": { "value": "emesis", "meaning": "تقيؤ", "function": "يشير إلى التقيؤ" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "هضم الطعام",
+      "systemFunction_en": "Digest food",
+      "location": "الجهاز الهضمي العلوي",
+      "location_en": "Upper GI tract",
+      "nearbyOrgans": ["المعدة", "المريء", "الاثني عشر"],
+      "nearbyOrgans_en": ["Stomach", "Esophagus", "Duodenum"],
+      "diseases": [
+        {
+          "name": "نزيف دوالي المريء",
+          "name_en": "Esophageal varices bleeding",
+          "symptoms": ["تقيؤ دم", "براز أسود", "هبوط ضغط"],
+          "symptoms_en": ["Hematemesis", "Melena", "Hypotension"],
+          "treatments": ["تنظير", "ربط", "أدوية"],
+          "treatments_en": ["Endoscopy", "Banding", "Medications"]
+        }
+      ],
+      "keywords": ["vomiting blood"],
+      "chapter": 8
+    },
+    {
+      "id": 831,
+      "term": "nausea",
+      "arabic": "غثيان",
+      "latin": "nausea",
+      "pronunciation": "ناو-زي-آ",
+      "definition": "الرغبة في التقيؤ.",
+      "definition_en": "The urge to vomit.",
+      "englishSentence": "Nausea is the urge to vomit.",
+      "parts": {
+        "root": { "value": "naus", "meaning": "غثيان", "function": "يشير إلى الغثيان" },
+        "suffix": { "value": "ea", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تحذير من سموم",
+      "systemFunction_en": "Warning of toxins",
+      "location": "المعدة والجهاز العصبي",
+      "location_en": "Stomach and nervous system",
+      "nearbyOrgans": ["المعدة", "الدماغ"],
+      "nearbyOrgans_en": ["Stomach", "Brain"],
+      "diseases": [],
+      "keywords": ["queasiness", "sick to stomach"],
+      "chapter": 8
+    },
+    {
+      "id": 832,
+      "term": "enteritis",
+      "arabic": "التهاب الأمعاء الدقيقة",
+      "latin": "enteritis",
+      "pronunciation": "إن-تير-آي-تس",
+      "definition": "التهاب في الأمعاء الدقيقة.",
+      "definition_en": "Inflammation of the small intestine.",
+      "englishSentence": "Enteritis is inflammation of the small intestine.",
+      "parts": {
+        "root": { "value": "enter", "meaning": "أمعاء دقيقة", "function": "يشير إلى الأمعاء الدقيقة" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "امتصاص العناصر الغذائية",
+      "systemFunction_en": "Absorb nutrients",
+      "location": "الأمعاء الدقيقة",
+      "location_en": "Small intestine",
+      "nearbyOrgans": ["المعدة", "الأمعاء الغليظة", "البنكرياس"],
+      "nearbyOrgans_en": ["Stomach", "Large intestine", "Pancreas"],
+      "diseases": [
+        {
+          "name": "التهاب المعدة والأمعاء",
+          "name_en": "Gastroenteritis",
+          "symptoms": ["إسهال", "قيء", "ألم بطني", "حمى"],
+          "symptoms_en": ["Diarrhea", "Vomiting", "Abdominal pain", "Fever"],
+          "treatments": ["سوائل", "راحة", "أدوية"],
+          "treatments_en": ["Fluids", "Rest", "Medications"]
+        }
+      ],
+      "keywords": ["small intestine inflammation"],
+      "chapter": 8
+    },
+    {
+      "id": 833,
+      "term": "irritable bowel syndrome",
+      "arabic": "متلازمة القولون العصبي",
+      "latin": "syndroma intestini irritabilis",
+      "pronunciation": "إير-ري-تا-بل باول سين-دروم",
+      "definition": "حالة شائعة غير معروفة السبب مع أعراض يمكن أن تشمل تقلصات متقطعة في البطن وانتفاخاً وإمساكاً وإسهالاً.",
+      "definition_en": "A common condition of unknown cause with symptoms that can include intermittent abdominal cramps, bloating, constipation, and diarrhea.",
+      "englishSentence": "Irritable bowel syndrome (IBS) is a common condition with symptoms like cramping and bloating.",
+      "parts": {
+        "root": { "value": "irrit", "meaning": "تهيج", "function": "يشير إلى التهيج" },
+        "suffix": { "value": "able", "meaning": "قابل", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "abbreviation": "IBS",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "امتصاص الماء والكهارل",
+      "systemFunction_en": "Absorb water and electrolytes",
+      "location": "الأمعاء الغليظة",
+      "location_en": "Large intestine",
+      "nearbyOrgans": ["الأمعاء الدقيقة", "المستقيم"],
+      "nearbyOrgans_en": ["Small intestine", "Rectum"],
+      "diseases": [
+        {
+          "name": "متلازمة القولون العصبي",
+          "name_en": "IBS",
+          "symptoms": ["ألم بطني", "انتفاخ", "إمساك", "إسهال"],
+          "symptoms_en": ["Abdominal pain", "Bloating", "Constipation", "Diarrhea"],
+          "treatments": ["تغيير النظام الغذائي", "أدوية", "تقليل التوتر"],
+          "treatments_en": ["Dietary changes", "Medications", "Stress reduction"]
+        }
+      ],
+      "keywords": ["IBS", "spastic colon"],
+      "chapter": 8
+    },
+    {
+      "id": 834,
+      "term": "colorectal carcinoma",
+      "arabic": "سرطان القولون والمستقيم",
+      "latin": "carcinoma colorectal",
+      "pronunciation": "كو-لو-ريك-تال كار-سي-نو-ما",
+      "definition": "سرطان القولون، وغالباً ما يظهر أولاً في الزوائد اللحمية (في القولون).",
+      "definition_en": "Colon cancer, often first appearing in polyps in the colon.",
+      "englishSentence": "Colorectal carcinoma, or colon cancer, often first appears in polyps in the colon.",
+      "parts": {
+        "root1": { "value": "col/o", "meaning": "قولون", "function": "يشير إلى القولون" },
+        "root2": { "value": "rect", "meaning": "مستقيم", "function": "يشير إلى المستقيم" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "tumor",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "امتصاص الماء وتكوين البراز",
+      "systemFunction_en": "Absorb water and form stool",
+      "location": "القولون والمستقيم",
+      "location_en": "Colon and rectum",
+      "nearbyOrgans": ["الأمعاء الدقيقة", "الشرج", "المثانة"],
+      "nearbyOrgans_en": ["Small intestine", "Anus", "Bladder"],
+      "diseases": [
+        {
+          "name": "سرطان القولون",
+          "name_en": "Colon cancer",
+          "symptoms": ["تغير عادات التبرز", "دم في البراز", "ألم بطني", "فقدان وزن"],
+          "symptoms_en": ["Change in bowel habits", "Blood in stool", "Abdominal pain", "Weight loss"],
+          "treatments": ["جراحة", "علاج كيميائي", "علاج إشعاعي"],
+          "treatments_en": ["Surgery", "Chemotherapy", "Radiation therapy"]
+        }
+      ],
+      "keywords": ["colon cancer", "bowel cancer"],
+      "chapter": 8
+    },
+    {
+      "id": 835,
+      "term": "ulcerative colitis",
+      "arabic": "التهاب القولون التقرحي",
+      "latin": "colitis ulcerativa",
+      "pronunciation": "أول-سير-آي-تيف كو-لاي-تس",
+      "definition": "حالة مزمنة غير معروفة السبب تسبب نوبات متكررة من الالتهاب في المستقيم والأمعاء الغليظة، مما يؤدي إلى تقرحات وتهيج.",
+      "definition_en": "A chronic condition of unknown cause causing recurrent episodes of inflammation in the rectum and large intestine, leading to ulcers and irritation.",
+      "englishSentence": "Ulcerative colitis is a chronic condition with inflammation and ulcers in the rectum and colon.",
+      "parts": {
+        "root": { "value": "ulcer", "meaning": "قرحة", "function": "يشير إلى القرحة" },
+        "suffix": { "value": "ative", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "امتصاص الماء وتكوين البراز",
+      "systemFunction_en": "Absorb water and form stool",
+      "location": "المستقيم والقولون",
+      "location_en": "Rectum and colon",
+      "nearbyOrgans": ["الأمعاء الدقيقة", "الشرج"],
+      "nearbyOrgans_en": ["Small intestine", "Anus"],
+      "diseases": [
+        {
+          "name": "التهاب القولون التقرحي",
+          "name_en": "Ulcerative colitis",
+          "symptoms": ["إسهال دموي", "ألم بطني", "إلحاح", "تعب"],
+          "symptoms_en": ["Bloody diarrhea", "Abdominal pain", "Urgency", "Fatigue"],
+          "treatments": ["مضادات التهاب", "مثبطات مناعة", "أدوية بيولوجية", "جراحة"],
+          "treatments_en": ["Anti-inflammatories", "Immunosuppressants", "Biologics", "Surgery"]
+        }
+      ],
+      "keywords": ["UC", "inflammatory bowel disease"],
+      "chapter": 8
+    },
+    {
+      "id": 836,
+      "term": "Crohn's disease",
+      "arabic": "داء كرون",
+      "latin": "morbus Crohn",
+      "pronunciation": "كرونز دي-زيز",
+      "definition": "اضطراب مناعي ذاتي مزمن يمكن أن يحدث في أي مكان في الجهاز الهضمي، ولكنه يوجد غالباً في اللفائفي والقولون.",
+      "definition_en": "A chronic autoimmune disorder that can occur anywhere in the digestive tract, but is most often found in the ileum and colon.",
+      "englishSentence": "Crohn's disease is a chronic autoimmune disorder that can occur anywhere in the digestive tract.",
+      "parts": {},
+      "type": "condition",
+      "abbreviation": "CD",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "هضم وامتصاص الطعام",
+      "systemFunction_en": "Digest and absorb food",
+      "location": "الجهاز الهضمي بأكمله (غالباً اللفائفي والقولون)",
+      "location_en": "Entire GI tract (often ileum and colon)",
+      "nearbyOrgans": ["الأمعاء الدقيقة", "الأمعاء الغليظة", "العقد اللمفاوية"],
+      "nearbyOrgans_en": ["Small intestine", "Large intestine", "Lymph nodes"],
+      "diseases": [
+        {
+          "name": "داء كرون",
+          "name_en": "Crohn's disease",
+          "symptoms": ["ألم بطني", "إسهال", "فقدان وزن", "تعب", "حمى"],
+          "symptoms_en": ["Abdominal pain", "Diarrhea", "Weight loss", "Fatigue", "Fever"],
+          "treatments": ["مضادات التهاب", "مثبطات مناعة", "أدوية بيولوجية", "جراحة"],
+          "treatments_en": ["Anti-inflammatories", "Immunosuppressants", "Biologics", "Surgery"]
+        }
+      ],
+      "keywords": ["CD", "inflammatory bowel disease"],
+      "chapter": 8
+    },
+    {
+      "id": 837,
+      "term": "intestinal obstruction",
+      "arabic": "انسداد معوي",
+      "latin": "obstructio intestini",
+      "pronunciation": "إن-تيس-تي-نال أوب-ستروك-شن",
+      "definition": "الانسداد الجزئي أو الكامل للأمعاء الدقيقة و/أو الغليظة الناجم عن انسداد مادي. يمكن أن ينتج هذا الانسداد عن أسباب عديدة مثل النسيج الندبي أو الورم.",
+      "definition_en": "Partial or complete blockage of the small and/or large intestine caused by a physical obstruction. This blockage can result from many causes such as scar tissue or tumor.",
+      "englishSentence": "Intestinal obstruction is a partial or complete blockage of the intestines.",
+      "parts": {
+        "root": { "value": "obstruct", "meaning": "انسداد", "function": "يشير إلى الانسداد" },
+        "suffix": { "value": "ion", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "نقل المحتويات عبر الأمعاء",
+      "systemFunction_en": "Transport contents through intestines",
+      "location": "الأمعاء الدقيقة أو الغليظة",
+      "location_en": "Small or large intestine",
+      "nearbyOrgans": ["الأمعاء", "المساريقا", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Intestines", "Mesentery", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "انسداد معوي",
+          "name_en": "Intestinal obstruction",
+          "symptoms": ["ألم بطني", "انتفاخ", "إمساك", "قيء"],
+          "symptoms_en": ["Abdominal pain", "Distension", "Constipation", "Vomiting"],
+          "treatments": ["أنبوب أنفي معدي", "سوائل", "جراحة"],
+          "treatments_en": ["Nasogastric tube", "Fluids", "Surgery"]
+        }
+      ],
+      "keywords": ["bowel obstruction"],
+      "chapter": 8
+    },
+    {
+      "id": 838,
+      "term": "volvulus",
+      "arabic": "انفتال الأمعاء",
+      "latin": "volvulus",
+      "pronunciation": "فول-فيو-لوس",
+      "definition": "التواء الأمعاء على نفسها مما يسبب انسداداً، وعادة ما تحدث هذه الحالة في مرحلة الطفولة.",
+      "definition_en": "Twisting of the intestine on itself causing obstruction, usually occurring in childhood.",
+      "englishSentence": "Volvulus is the twisting of the intestine on itself, causing an obstruction.",
+      "parts": {
+        "root": { "value": "volv", "meaning": "يلتف", "function": "يشير إلى الالتواء" },
+        "suffix": { "value": "ulus", "meaning": "صغير", "function": "يشير إلى التصغير" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "نقل المحتويات عبر الأمعاء",
+      "systemFunction_en": "Transport contents through intestines",
+      "location": "الأمعاء (غالباً السيني أو الأعور)",
+      "location_en": "Intestine (often sigmoid or cecum)",
+      "nearbyOrgans": ["الأمعاء", "المساريقا", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Intestine", "Mesentery", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "انفتال الأمعاء",
+          "name_en": "Volvulus",
+          "symptoms": ["ألم بطني", "انتفاخ", "إمساك", "قيء"],
+          "symptoms_en": ["Abdominal pain", "Distension", "Constipation", "Vomiting"],
+          "treatments": ["جراحة طارئة"],
+          "treatments_en": ["Emergency surgery"]
+        }
+      ],
+      "keywords": ["intestinal torsion"],
+      "chapter": 8
+    },
+    {
+      "id": 839,
+      "term": "strangulated hernia",
+      "arabic": "فتق مختنق",
+      "latin": "hernia incarcerata",
+      "pronunciation": "ستران-غيو-لاي-تيد هير-ني-آ",
+      "definition": "يحدث عندما يتم انقباض جزء من الأمعاء داخل الفتق وينقطع إمداد الدم عنه.",
+      "definition_en": "Occurs when a portion of the intestine is constricted within the hernia and its blood supply is cut off.",
+      "englishSentence": "A strangulated hernia occurs when the intestine is constricted and its blood supply is cut off.",
+      "parts": {
+        "root": { "value": "strangul", "meaning": "خنق", "function": "يشير إلى الخنق" },
+        "suffix": { "value": "ated", "meaning": "مصاب بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "احتواء الأعضاء",
+      "systemFunction_en": "Contain organs",
+      "location": "موقع الفتق",
+      "location_en": "Hernia site",
+      "nearbyOrgans": ["الأمعاء", "الأنسجة المحيطة", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Intestine", "Surrounding tissues", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "فتق مختنق",
+          "name_en": "Strangulated hernia",
+          "symptoms": ["ألم شديد", "غثيان", "قيء", "احمرار"],
+          "symptoms_en": ["Severe pain", "Nausea", "Vomiting", "Redness"],
+          "treatments": ["جراحة طارئة"],
+          "treatments_en": ["Emergency surgery"]
+        }
+      ],
+      "keywords": ["incarcerated hernia"],
+      "chapter": 8
+    },
+    {
+      "id": 840,
+      "term": "anal fissure",
+      "arabic": "شق شرجي",
+      "latin": "fissura ani",
+      "pronunciation": "آي-نال في-شر",
+      "definition": "قرحة صغيرة تشبه الشق في جلد الشرج يمكن أن تسبب ألماً شديداً أثناء حركة الأمعاء.",
+      "definition_en": "A small crack-like sore in the skin of the anus that can cause severe pain during a bowel movement.",
+      "englishSentence": "An anal fissure is a small crack-like sore in the skin of the anus.",
+      "parts": {
+        "root": { "value": "fiss", "meaning": "شق", "function": "يشير إلى الشق" },
+        "suffix": { "value": "ure", "meaning": "نتوء", "function": "يشير إلى شيء" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "التحكم في التبرز",
+      "systemFunction_en": "Control defecation",
+      "location": "الشرج",
+      "location_en": "Anus",
+      "nearbyOrgans": ["المستقيم", "العضلة العاصرة الشرجية"],
+      "nearbyOrgans_en": ["Rectum", "Anal sphincter"],
+      "diseases": [
+        {
+          "name": "شق شرجي",
+          "name_en": "Anal fissure",
+          "symptoms": ["ألم أثناء التبرز", "دم على البراز"],
+          "symptoms_en": ["Pain during defecation", "Blood on stool"],
+          "treatments": ["ملينات", "مراهم", "حمامات دافئة", "جراحة"],
+          "treatments_en": ["Stool softeners", "Ointments", "Warm baths", "Surgery"]
+        }
+      ],
+      "keywords": ["anal tear"],
+      "chapter": 8
+    },
+    {
+      "id": 841,
+      "term": "hepatitis",
+      "arabic": "التهاب الكبد",
+      "latin": "hepatitis",
+      "pronunciation": "هيب-آ-تاي-تس",
+      "definition": "التهاب في الكبد. هناك خمسة أنواع فيروسية: A, B, C, D, E.",
+      "definition_en": "Inflammation of the liver. There are five viral types: A, B, C, D, E.",
+      "englishSentence": "Hepatitis is inflammation of the liver, with five viral varieties: A, B, C, D, E.",
+      "parts": {
+        "root": { "value": "hepat", "meaning": "كبد", "function": "يشير إلى الكبد" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إزالة السموم، إنتاج الصفراء، استقلاب",
+      "systemFunction_en": "Detoxification, bile production, metabolism",
+      "location": "الكبد",
+      "location_en": "Liver",
+      "nearbyOrgans": ["المرارة", "البنكرياس", "المعدة"],
+      "nearbyOrgans_en": ["Gallbladder", "Pancreas", "Stomach"],
+      "diseases": [
+        {
+          "name": "التهاب الكبد الفيروسي",
+          "name_en": "Viral hepatitis",
+          "symptoms": ["يرقان", "تعب", "غثيان", "ألم بطني"],
+          "symptoms_en": ["Jaundice", "Fatigue", "Nausea", "Abdominal pain"],
+          "treatments": ["علاج داعم", "مضادات فيروسات", "تطعيم"],
+          "treatments_en": ["Supportive care", "Antivirals", "Vaccination"]
+        }
+      ],
+      "keywords": ["liver inflammation"],
+      "chapter": 8
+    },
+    {
+      "id": 842,
+      "term": "hepatitis A virus",
+      "arabic": "فيروس التهاب الكبد A",
+      "latin": "virus hepatitis A",
+      "pronunciation": "هيب-آ-تاي-تس أي فاي-رس",
+      "definition": "النوع الأكثر انتشاراً من التهاب الكبد. يسببه فيروس HAV شديد العدوى وينتقل بشكل رئيسي عن طريق الطعام والماء الملوثين.",
+      "definition_en": "The most common type of hepatitis. Caused by the highly contagious HAV virus and transmitted mainly through contaminated food and water.",
+      "englishSentence": "Hepatitis A virus (HAV) is transmitted mainly through contaminated food and water.",
+      "parts": {},
+      "type": "virus",
+      "abbreviation": "HAV",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إزالة السموم، إنتاج الصفراء",
+      "systemFunction_en": "Detoxification, bile production",
+      "location": "الكبد",
+      "location_en": "Liver",
+      "nearbyOrgans": ["الكبد", "الجهاز الهضمي"],
+      "nearbyOrgans_en": ["Liver", "Digestive tract"],
+      "diseases": [
+        {
+          "name": "التهاب الكبد A",
+          "name_en": "Hepatitis A",
+          "symptoms": ["حمى", "تعب", "يرقان", "غثيان"],
+          "symptoms_en": ["Fever", "Fatigue", "Jaundice", "Nausea"],
+          "treatments": ["راحة", "سوائل", "دعم غذائي", "تطعيم للوقاية"],
+          "treatments_en": ["Rest", "Fluids", "Nutritional support", "Vaccine for prevention"]
+        }
+      ],
+      "keywords": ["HAV", "infectious hepatitis"],
+      "chapter": 8
+    },
+    {
+      "id": 843,
+      "term": "hepatitis B virus",
+      "arabic": "فيروس التهاب الكبد B",
+      "latin": "virus hepatitis B",
+      "pronunciation": "هيب-آ-تاي-تس بي فاي-رس",
+      "definition": "مرض ينتقل عن طريق الدم وينتقل عن طريق الاتصال بالدم وسوائل الجسم الأخرى الملوثة بهذا الفيروس. يتوفر لقاح لتوفير المناعة ضد HBV.",
+      "definition_en": "A bloodborne disease transmitted through contact with blood and other body fluids contaminated with this virus. A vaccine is available to provide immunity against HBV.",
+      "englishSentence": "Hepatitis B virus (HBV) is a bloodborne disease transmitted through contact with infected blood or body fluids.",
+      "parts": {},
+      "type": "virus",
+      "abbreviation": "HBV",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إزالة السموم، إنتاج الصفراء",
+      "systemFunction_en": "Detoxification, bile production",
+      "location": "الكبد",
+      "location_en": "Liver",
+      "nearbyOrgans": ["الكبد"],
+      "nearbyOrgans_en": ["Liver"],
+      "diseases": [
+        {
+          "name": "التهاب الكبد B",
+          "name_en": "Hepatitis B",
+          "symptoms": ["يرقان", "تعب", "ألم بطني", "غثيان"],
+          "symptoms_en": ["Jaundice", "Fatigue", "Abdominal pain", "Nausea"],
+          "treatments": ["مضادات فيروسات", "مراقبة", "زراعة كبد"],
+          "treatments_en": ["Antivirals", "Monitoring", "Liver transplant"]
+        }
+      ],
+      "keywords": ["HBV", "serum hepatitis"],
+      "chapter": 8
+    },
+    {
+      "id": 844,
+      "term": "hepatitis C virus",
+      "arabic": "فيروس التهاب الكبد C",
+      "latin": "virus hepatitis C",
+      "pronunciation": "هيب-آ-تاي-تس سي فاي-رس",
+      "definition": "مرض ينتقل عن طريق الدم ينتشر عن طريق الاتصال بالدم وسوائل الجسم الأخرى الملوثة بهذا الفيروس. يوصف بأنه وباء صامت لأنه يمكن أن يتواجد في الجسم لسنوات ويدمر الكبد قبل ظهور أي أعراض. لا يوجد لقاح متاح للوقاية من هذا الشكل من التهاب الكبد.",
+      "definition_en": "A bloodborne disease spread through contact with blood and other body fluids contaminated with this virus. Described as a silent epidemic because it can be present in the body for years destroying the liver before any symptoms appear. No vaccine is available to prevent this form of hepatitis.",
+      "englishSentence": "Hepatitis C virus (HCV) is a bloodborne disease that can silently destroy the liver over years.",
+      "parts": {},
+      "type": "virus",
+      "abbreviation": "HCV",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إزالة السموم، إنتاج الصفراء",
+      "systemFunction_en": "Detoxification, bile production",
+      "location": "الكبد",
+      "location_en": "Liver",
+      "nearbyOrgans": ["الكبد"],
+      "nearbyOrgans_en": ["Liver"],
+      "diseases": [
+        {
+          "name": "التهاب الكبد C",
+          "name_en": "Hepatitis C",
+          "symptoms": ["غالباً بدون أعراض", "تعب", "تليف كبدي", "سرطان كبد"],
+          "symptoms_en": ["Often asymptomatic", "Fatigue", "Cirrhosis", "Liver cancer"],
+          "treatments": ["مضادات فيروسات", "زراعة كبد"],
+          "treatments_en": ["Antivirals", "Liver transplant"]
+        }
+      ],
+      "keywords": ["HCV", "silent epidemic"],
+      "chapter": 8
+    },
+    {
+      "id": 845,
+      "term": "hepatitis D virus",
+      "arabic": "فيروس التهاب الكبد D",
+      "latin": "virus hepatitis D",
+      "pronunciation": "هيب-آ-تاي-تس دي فاي-رس",
+      "definition": "مرض ينتقل عن طريق الدم يحدث فقط كعدوى مشتركة مع عدوى B. على الرغم من عدم وجود لقاح محدد لـ HDV، يجب إعطاء لقاح التهاب الكبد B للوقاية من العدوى المشتركة HBV/HDV.",
+      "definition_en": "A bloodborne disease that only occurs as a co-infection with hepatitis B. Although there is no specific vaccine for HDV, hepatitis B vaccine should be given to prevent HBV/HDV co-infection.",
+      "englishSentence": "Hepatitis D virus (HDV) only occurs as a co-infection with hepatitis B.",
+      "parts": {},
+      "type": "virus",
+      "abbreviation": "HDV",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إزالة السموم، إنتاج الصفراء",
+      "systemFunction_en": "Detoxification, bile production",
+      "location": "الكبد",
+      "location_en": "Liver",
+      "nearbyOrgans": ["الكبد"],
+      "nearbyOrgans_en": ["Liver"],
+      "diseases": [
+        {
+          "name": "التهاب الكبد D",
+          "name_en": "Hepatitis D",
+          "symptoms": ["أعراض أكثر شدة من التهاب B وحده"],
+          "symptoms_en": ["More severe symptoms than hepatitis B alone"],
+          "treatments": ["مضادات فيروسات"],
+          "treatments_en": ["Antivirals"]
+        }
+      ],
+      "keywords": ["HDV", "delta hepatitis"],
+      "chapter": 8
+    },
+    {
+      "id": 846,
+      "term": "hepatitis E virus",
+      "arabic": "فيروس التهاب الكبد E",
+      "latin": "virus hepatitis E",
+      "pronunciation": "هيب-آ-تاي-تس إي فاي-رس",
+      "definition": "ينتقل عن طريق الطعام والماء الملوثين، وهو ليس شائعاً في الولايات المتحدة.",
+      "definition_en": "Transmitted through contaminated food and water, not common in the United States.",
+      "englishSentence": "Hepatitis E virus (HEV) is transmitted through contaminated food and water.",
+      "parts": {},
+      "type": "virus",
+      "abbreviation": "HEV",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إزالة السموم، إنتاج الصفراء",
+      "systemFunction_en": "Detoxification, bile production",
+      "location": "الكبد",
+      "location_en": "Liver",
+      "nearbyOrgans": ["الكبد"],
+      "nearbyOrgans_en": ["Liver"],
+      "diseases": [
+        {
+          "name": "التهاب الكبد E",
+          "name_en": "Hepatitis E",
+          "symptoms": ["حمى", "يرقان", "تعب", "غثيان"],
+          "symptoms_en": ["Fever", "Jaundice", "Fatigue", "Nausea"],
+          "treatments": ["دعمي"],
+          "treatments_en": ["Supportive"]
+        }
+      ],
+      "keywords": ["HEV"],
+      "chapter": 8
+    },
+    {
+      "id": 847,
+      "term": "hepatomegaly",
+      "arabic": "تضخم الكبد",
+      "latin": "hepatomegalia",
+      "pronunciation": "هيب-آ-تو-ميغ-آ-لي",
+      "definition": "تضخم غير طبيعي للكبد.",
+      "definition_en": "Abnormal enlargement of the liver.",
+      "englishSentence": "Hepatomegaly is abnormal enlargement of the liver.",
+      "parts": {
+        "root": { "value": "hepat/o", "meaning": "كبد", "function": "يشير إلى الكبد" },
+        "suffix": { "value": "megaly", "meaning": "تضخم", "function": "يشير إلى التضخم" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إزالة السموم، إنتاج الصفراء، استقلاب",
+      "systemFunction_en": "Detoxification, bile production, metabolism",
+      "location": "الكبد",
+      "location_en": "Liver",
+      "nearbyOrgans": ["المرارة", "البنكرياس", "الطحال"],
+      "nearbyOrgans_en": ["Gallbladder", "Pancreas", "Spleen"],
+      "diseases": [
+        {
+          "name": "تضخم الكبد",
+          "name_en": "Hepatomegaly",
+          "symptoms": ["ألم في الربع العلوي الأيمن", "شعور بالامتلاء"],
+          "symptoms_en": ["Right upper quadrant pain", "Feeling of fullness"],
+          "treatments": ["علاج السبب"],
+          "treatments_en": ["Treat cause"]
+        }
+      ],
+      "keywords": ["enlarged liver"],
+      "chapter": 8
+    },
+    {
+      "id": 848,
+      "term": "jaundice",
+      "arabic": "يرقان",
+      "latin": "icterus",
+      "pronunciation": "جون-ديس",
+      "definition": "تلون الجلد والأغشية المخاطية والعينين باللون الأصفر، بسبب كميات أكبر من المعتاد من البيليروبين في الدم.",
+      "definition_en": "Yellow discoloration of the skin, mucous membranes, and eyes, due to larger than normal amounts of bilirubin in the blood.",
+      "englishSentence": "Jaundice is a yellow discoloration caused by excess bilirubin in the blood.",
+      "parts": {
+        "root": { "value": "jaund", "meaning": "يرقان", "function": "يشير إلى اليرقان" },
+        "suffix": { "value": "ice", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "sign",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "معالجة البيليروبين",
+      "systemFunction_en": "Process bilirubin",
+      "location": "الجلد والعينين",
+      "location_en": "Skin and eyes",
+      "nearbyOrgans": ["الكبد", "المرارة", "البنكرياس"],
+      "nearbyOrgans_en": ["Liver", "Gallbladder", "Pancreas"],
+      "diseases": [],
+      "keywords": ["icterus", "hyperbilirubinemia"],
+      "chapter": 8
+    },
+    {
+      "id": 849,
+      "term": "cirrhosis",
+      "arabic": "تليف كبدي",
+      "latin": "cirrhosis hepatis",
+      "pronunciation": "سير-رو-سيس",
+      "definition": "مرض تنكسي تقدمي للكبد غالباً ما يسببه الإفراط في استهلاك الكحول أو التهاب الكبد الفيروسي B أو C. يتميز بتكوين مناطق من النسيج الكبدي المتندب المليء بالدهون.",
+      "definition_en": "A progressive degenerative liver disease often caused by excessive alcohol consumption or viral hepatitis B or C. Characterized by formation of areas of scarred, fat-laden liver tissue.",
+      "englishSentence": "Cirrhosis is a progressive degenerative liver disease often caused by alcohol or viral hepatitis.",
+      "parts": {
+        "root": { "value": "cirrh", "meaning": "أصفر برتقالي", "function": "يشير إلى اللون الأصفر" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إزالة السموم، إنتاج الصفراء، استقلاب",
+      "systemFunction_en": "Detoxification, bile production, metabolism",
+      "location": "الكبد",
+      "location_en": "Liver",
+      "nearbyOrgans": ["المرارة", "البنكرياس", "الطحال", "المريء"],
+      "nearbyOrgans_en": ["Gallbladder", "Pancreas", "Spleen", "Esophagus"],
+      "diseases": [
+        {
+          "name": "تليف كبدي",
+          "name_en": "Cirrhosis",
+          "symptoms": ["تعب", "يرقان", "استسقاء", "حكة", "سهولة النزيف"],
+          "symptoms_en": ["Fatigue", "Jaundice", "Ascites", "Itching", "Easy bleeding"],
+          "treatments": ["علاج السبب", "مدرات بول", "زراعة كبد"],
+          "treatments_en": ["Treat cause", "Diuretics", "Liver transplant"]
+        }
+      ],
+      "keywords": ["liver scarring", "end-stage liver disease"],
+      "chapter": 8
+    },
+    {
+      "id": 850,
+      "term": "ascites",
+      "arabic": "استسقاء بطني",
+      "latin": "ascites",
+      "pronunciation": "آ-ساي-تيز",
+      "definition": "تراكم غير طبيعي للسائل المصلي في التجويف البريتوني.",
+      "definition_en": "Abnormal accumulation of serous fluid in the peritoneal cavity.",
+      "englishSentence": "Ascites is an abnormal accumulation of serous fluid in the peritoneal cavity.",
+      "parts": {
+        "root": { "value": "ascit", "meaning": "استسقاء", "function": "يشير إلى الاستسقاء" },
+        "suffix": { "value": "es", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تخزين وحماية الأعضاء",
+      "systemFunction_en": "Store and protect organs",
+      "location": "التجويف البريتوني",
+      "location_en": "Peritoneal cavity",
+      "nearbyOrgans": ["الكبد", "الأمعاء", "المعدة", "الطحال"],
+      "nearbyOrgans_en": ["Liver", "Intestines", "Stomach", "Spleen"],
+      "diseases": [
+        {
+          "name": "استسقاء بطني",
+          "name_en": "Ascites",
+          "symptoms": ["انتفاخ البطن", "ضيق تنفس", "ثقل"],
+          "symptoms_en": ["Abdominal distension", "Shortness of breath", "Heaviness"],
+          "treatments": ["مدرات بول", "بزل", "تقييد الملح", "علاج السبب"],
+          "treatments_en": ["Diuretics", "Paracentesis", "Salt restriction", "Treat cause"]
+        }
+      ],
+      "keywords": ["abdominal fluid", "peritoneal effusion"],
+      "chapter": 8
+    },
+    {
+      "id": 851,
+      "term": "cholangitis",
+      "arabic": "التهاب القناة الصفراوية",
+      "latin": "cholangitis",
+      "pronunciation": "كو-لان-جاي-تس",
+      "definition": "عدوى حادة في القناة الصفراوية تتميز بألم في الربع العلوي الأيمن من البطن والحمى واليرقان.",
+      "definition_en": "Acute infection of the bile duct characterized by right upper quadrant abdominal pain, fever, and jaundice.",
+      "englishSentence": "Cholangitis is an acute infection of the bile duct with pain, fever, and jaundice.",
+      "parts": {
+        "root": { "value": "choleang", "meaning": "قناة صفراوية", "function": "يشير إلى القناة الصفراوية" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "نقل الصفراء",
+      "systemFunction_en": "Transport bile",
+      "location": "القناة الصفراوية",
+      "location_en": "Bile duct",
+      "nearbyOrgans": ["الكبد", "المرارة", "الاثني عشر"],
+      "nearbyOrgans_en": ["Liver", "Gallbladder", "Duodenum"],
+      "diseases": [
+        {
+          "name": "التهاب القناة الصفراوية",
+          "name_en": "Cholangitis",
+          "symptoms": ["ألم", "حمى", "يرقان"],
+          "symptoms_en": ["Pain", "Fever", "Jaundice"],
+          "treatments": ["مضادات حيوية", "تصريف بالمنظار"],
+          "treatments_en": ["Antibiotics", "Endoscopic drainage"]
+        }
+      ],
+      "keywords": ["bile duct infection"],
+      "chapter": 8
+    },
+    {
+      "id": 852,
+      "term": "cholecystalgia",
+      "arabic": "ألم المرارة",
+      "latin": "cholecystalgia",
+      "pronunciation": "كو-لي-سيس-تال-جيا",
+      "definition": "ألم في المرارة.",
+      "definition_en": "Pain in the gallbladder.",
+      "englishSentence": "Cholecystalgia is pain in the gallbladder.",
+      "parts": {
+        "root": { "value": "cholecyst", "meaning": "مرارة", "function": "يشير إلى المرارة" },
+        "suffix": { "value": "algia", "meaning": "ألم", "function": "يشير إلى وجود ألم" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تخزين وتركيز الصفراء",
+      "systemFunction_en": "Store and concentrate bile",
+      "location": "المرارة",
+      "location_en": "Gallbladder",
+      "nearbyOrgans": ["الكبد", "القناة الصفراوية", "الاثني عشر"],
+      "nearbyOrgans_en": ["Liver", "Bile duct", "Duodenum"],
+      "diseases": [],
+      "keywords": ["gallbladder pain"],
+      "chapter": 8
+    },
+    {
+      "id": 853,
+      "term": "cholecystitis",
+      "arabic": "التهاب المرارة",
+      "latin": "cholecystitis",
+      "pronunciation": "كو-لي-سيس-تاي-تس",
+      "definition": "التهاب المرارة، يرتبط عادةً بحصوات المرارة التي تسد تدفق الصفراء.",
+      "definition_en": "Inflammation of the gallbladder, usually associated with gallstones blocking the flow of bile.",
+      "englishSentence": "Cholecystitis is inflammation of the gallbladder, usually associated with gallstones.",
+      "parts": {
+        "root": { "value": "cholecyst", "meaning": "مرارة", "function": "يشير إلى المرارة" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تخزين وتركيز الصفراء",
+      "systemFunction_en": "Store and concentrate bile",
+      "location": "المرارة",
+      "location_en": "Gallbladder",
+      "nearbyOrgans": ["الكبد", "القناة الصفراوية", "الاثني عشر"],
+      "nearbyOrgans_en": ["Liver", "Bile duct", "Duodenum"],
+      "diseases": [
+        {
+          "name": "التهاب المرارة",
+          "name_en": "Cholecystitis",
+          "symptoms": ["ألم في الربع العلوي الأيمن", "حمى", "غثيان", "قيء"],
+          "symptoms_en": ["Right upper quadrant pain", "Fever", "Nausea", "Vomiting"],
+          "treatments": ["مضادات حيوية", "استئصال المرارة"],
+          "treatments_en": ["Antibiotics", "Cholecystectomy"]
+        }
+      ],
+      "keywords": ["gallbladder inflammation"],
+      "chapter": 8
+    },
+    {
+      "id": 854,
+      "term": "gallstone",
+      "arabic": "حصوة المرارة",
+      "latin": "calculus biliaris",
+      "pronunciation": "غول-ستون",
+      "definition": "رواسب صلبة تتكون في المرارة والقنوات الصفراوية بسبب تكتل مكونات الصفراء.",
+      "definition_en": "Solid deposits that form in the gallbladder and bile ducts due to clumping of bile components.",
+      "englishSentence": "A gallstone is a hard deposit formed in the gallbladder and bile ducts.",
+      "parts": {
+        "root": { "value": "gall", "meaning": "مرارة", "function": "يشير إلى المرارة" },
+        "root2": { "value": "stone", "meaning": "حصوة", "function": "يشير إلى الحصوة" }
+      },
+      "type": "lesion",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تخزين وتركيز الصفراء",
+      "systemFunction_en": "Store and concentrate bile",
+      "location": "المرارة أو القنوات الصفراوية",
+      "location_en": "Gallbladder or bile ducts",
+      "nearbyOrgans": ["المرارة", "القناة الصفراوية"],
+      "nearbyOrgans_en": ["Gallbladder", "Bile duct"],
+      "diseases": [
+        {
+          "name": "تحص صفراوي",
+          "name_en": "Cholelithiasis",
+          "symptoms": ["ألم", "غثيان", "قيء"],
+          "symptoms_en": ["Pain", "Nausea", "Vomiting"],
+          "treatments": ["استئصال المرارة", "أدوية"],
+          "treatments_en": ["Cholecystectomy", "Medications"]
+        }
+      ],
+      "keywords": ["biliary calculus", "cholelith"],
+      "chapter": 8
+    },
+    {
+      "id": 855,
+      "term": "biliary calculus",
+      "arabic": "حصوة صفراوية",
+      "latin": "calculus biliaris",
+      "pronunciation": "بيل-ي-إري كال-كيو-لس",
+      "definition": "مصطلح آخر لحصوة المرارة.",
+      "definition_en": "Another term for a gallstone.",
+      "englishSentence": "Biliary calculus is another term for a gallstone.",
+      "parts": {
+        "root": { "value": "bili", "meaning": "صفراء", "function": "يشير إلى الصفراء" },
+        "suffix": { "value": "ary", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "lesion",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تخزين وتركيز الصفراء",
+      "systemFunction_en": "Store and concentrate bile",
+      "location": "المرارة أو القنوات الصفراوية",
+      "location_en": "Gallbladder or bile ducts",
+      "nearbyOrgans": ["المرارة", "القناة الصفراوية"],
+      "nearbyOrgans_en": ["Gallbladder", "Bile duct"],
+      "diseases": [],
+      "keywords": ["gallstone"],
+      "chapter": 8
+    },
+    {
+      "id": 856,
+      "term": "cholelith",
+      "arabic": "حصاة صفراوية",
+      "latin": "cholelithus",
+      "pronunciation": "كو-لي-ليث",
+      "definition": "مصطلح آخر لحصوة المرارة.",
+      "definition_en": "Another term for a gallstone.",
+      "englishSentence": "A cholelith is a gallstone.",
+      "parts": {
+        "root1": { "value": "chole", "meaning": "صفراء", "function": "يشير إلى الصفراء" },
+        "root2": { "value": "lith", "meaning": "حصاة", "function": "يشير إلى الحصاة" }
+      },
+      "type": "lesion",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تخزين وتركيز الصفراء",
+      "systemFunction_en": "Store and concentrate bile",
+      "location": "المرارة أو القنوات الصفراوية",
+      "location_en": "Gallbladder or bile ducts",
+      "nearbyOrgans": ["المرارة", "القناة الصفراوية"],
+      "nearbyOrgans_en": ["Gallbladder", "Bile duct"],
+      "diseases": [],
+      "keywords": ["gallstone"],
+      "chapter": 8
+    },
+    {
+      "id": 857,
+      "term": "cholelithiasis",
+      "arabic": "تحص صفراوي",
+      "latin": "cholelithiasis",
+      "pronunciation": "كو-لي-لي-ثاي-آ-سيس",
+      "definition": "وجود حصوات في المرارة أو القنوات الصفراوية.",
+      "definition_en": "The presence of gallstones in the gallbladder or bile ducts.",
+      "englishSentence": "Cholelithiasis is the presence of gallstones in the gallbladder or bile ducts.",
+      "parts": {
+        "root": { "value": "chole", "meaning": "صفراء", "function": "يشير إلى الصفراء" },
+        "suffix": { "value": "lithiasis", "meaning": "تحص", "function": "يشير إلى تكون حصوات" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تخزين وتركيز الصفراء",
+      "systemFunction_en": "Store and concentrate bile",
+      "location": "المرارة أو القنوات الصفراوية",
+      "location_en": "Gallbladder or bile ducts",
+      "nearbyOrgans": ["المرارة", "القناة الصفراوية", "الكبد"],
+      "nearbyOrgans_en": ["Gallbladder", "Bile duct", "Liver"],
+      "diseases": [],
+      "keywords": ["gallstones", "biliary calculi"],
+      "chapter": 8
+    },
+    {
+      "id": 858,
+      "term": "abdominal ultrasound",
+      "arabic": "موجات فوق صوتية على البطن",
+      "latin": "ultrasonographia abdominalis",
+      "pronunciation": "آب-دوم-إي-نال أل-ترا-ساوند",
+      "definition": "اختبار غير اجتياحي يستخدم لتصوير الأعضاء الداخلية باستخدام موجات صوتية عالية التردد.",
+      "definition_en": "A noninvasive test used to visualize internal organs using high-frequency sound waves.",
+      "englishSentence": "An abdominal ultrasound uses high-frequency sound waves to visualize internal organs.",
+      "parts": {
+        "prefix": { "value": "ultra", "meaning": "فوق", "function": "يشير إلى ما وراء" },
+        "root": { "value": "son", "meaning": "صوت", "function": "يشير إلى الصوت" },
+        "suffix": { "value": "ound", "meaning": "موجة", "function": "يشير إلى الموجة" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تشخيص أمراض البطن",
+      "systemFunction_en": "Diagnose abdominal diseases",
+      "location": "البطن",
+      "location_en": "Abdomen",
+      "nearbyOrgans": ["الكبد", "المرارة", "البنكرياس", "الكلى", "الطحال"],
+      "nearbyOrgans_en": ["Liver", "Gallbladder", "Pancreas", "Kidneys", "Spleen"],
+      "diseases": [],
+      "keywords": ["sonogram", "ultrasonography"],
+      "chapter": 8
+    },
+    {
+      "id": 859,
+      "term": "anoscopy",
+      "arabic": "تنظير الشرج",
+      "latin": "anoscopia",
+      "pronunciation": "آي-نوس-كو-بي",
+      "definition": "الفحص البصري للقناة الشرجية والمستقيم السفلي باستخدام منظار الشرج.",
+      "definition_en": "Visual examination of the anal canal and lower rectum using an anoscope.",
+      "englishSentence": "Anoscopy is the visual examination of the anal canal and lower rectum.",
+      "parts": {
+        "root": { "value": "an/o", "meaning": "شرج", "function": "يشير إلى الشرج" },
+        "suffix": { "value": "scopy", "meaning": "فحص بصري", "function": "يشير إلى الفحص بالمنظار" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تشخيص أمراض الشرج والمستقيم",
+      "systemFunction_en": "Diagnose anal and rectal diseases",
+      "location": "القناة الشرجية والمستقيم السفلي",
+      "location_en": "Anal canal and lower rectum",
+      "nearbyOrgans": ["الشرج", "المستقيم", "العضلة العاصرة"],
+      "nearbyOrgans_en": ["Anus", "Rectum", "Sphincter"],
+      "diseases": [],
+      "keywords": ["anal examination"],
+      "chapter": 8
+    },
+    {
+      "id": 860,
+      "term": "Hemoccult test",
+      "arabic": "اختبار الهيموكولت (اختبار الدم الخفي في البراز)",
+      "latin": "probatio Hemoccult",
+      "pronunciation": "هي-مو-كولت تيست",
+      "definition": "اختبار معملي للكشف عن الدم الخفي في البراز.",
+      "definition_en": "A laboratory test to detect hidden blood in the stool.",
+      "englishSentence": "The Hemoccult test is a laboratory test for hidden blood in the stools.",
+      "parts": {},
+      "type": "procedure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "فحص نزيف الجهاز الهضمي",
+      "systemFunction_en": "Screen for GI bleeding",
+      "location": "عينة براز",
+      "location_en": "Stool sample",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["fecal occult blood test", "FOBT"],
+      "chapter": 8
+    },
+    {
+      "id": 861,
+      "term": "fecal occult blood test",
+      "arabic": "اختبار الدم الخفي في البراز",
+      "latin": "probatio sanguinis occulti in faece",
+      "pronunciation": "في-كال أو-كالت بلاد تيست",
+      "definition": "اختبار معملي للكشف عن الدم الخفي في البراز.",
+      "definition_en": "A laboratory test to detect hidden blood in the stool.",
+      "englishSentence": "The fecal occult blood test (FOBT) detects hidden blood in the stool.",
+      "parts": {
+        "root": { "value": "fec", "meaning": "براز", "function": "يشير إلى البراز" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "procedure",
+      "abbreviation": "FOBT",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "فحص نزيف الجهاز الهضمي",
+      "systemFunction_en": "Screen for GI bleeding",
+      "location": "عينة براز",
+      "location_en": "Stool sample",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["FOBT", "Hemoccult"],
+      "chapter": 8
+    },
+    {
+      "id": 862,
+      "term": "colonoscopy",
+      "arabic": "تنظير القولون",
+      "latin": "colonoscopia",
+      "pronunciation": "كو-لون-وس-كو-بي",
+      "definition": "الفحص البصري المباشر للسطح الداخلي للقولون بأكمله من المستقيم إلى الأعور.",
+      "definition_en": "Direct visual examination of the inner surface of the entire colon from the rectum to the cecum.",
+      "englishSentence": "Colonoscopy is the direct visual examination of the inner surface of the entire colon.",
+      "parts": {
+        "root": { "value": "colon/o", "meaning": "قولون", "function": "يشير إلى القولون" },
+        "suffix": { "value": "scopy", "meaning": "فحص بصري", "function": "يشير إلى الفحص بالمنظار" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تشخيص وعلاج أمراض القولون",
+      "systemFunction_en": "Diagnose and treat colon diseases",
+      "location": "القولون بأكمله",
+      "location_en": "Entire colon",
+      "nearbyOrgans": ["المستقيم", "الأمعاء الدقيقة"],
+      "nearbyOrgans_en": ["Rectum", "Small intestine"],
+      "diseases": [],
+      "keywords": ["colon examination", "colorectal cancer screening"],
+      "chapter": 8
+    },
+    {
+      "id": 863,
+      "term": "virtual colonoscopy",
+      "arabic": "تنظير قولون افتراضي",
+      "latin": "colonoscopia virtualis",
+      "pronunciation": "فير-تشو-آل كو-لون-وس-كو-بي",
+      "definition": "يستخدم الأشعة السينية وأجهزة الكمبيوتر لإنتاج صور ثنائية وثلاثية الأبعاد للقولون.",
+      "definition_en": "Uses x-rays and computers to produce two- and three-dimensional images of the colon.",
+      "englishSentence": "Virtual colonoscopy uses x-rays and computers to produce images of the colon.",
+      "parts": {
+        "root": { "value": "virtual", "meaning": "افتراضي", "function": "يشير إلى الافتراضي" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تشخيص أمراض القولون بدون تنظير",
+      "systemFunction_en": "Diagnose colon diseases without endoscopy",
+      "location": "القولون",
+      "location_en": "Colon",
+      "nearbyOrgans": ["المستقيم"],
+      "nearbyOrgans_en": ["Rectum"],
+      "diseases": [],
+      "keywords": ["CT colonography"],
+      "chapter": 8
+    },
+    {
+      "id": 864,
+      "term": "sigmoidoscopy",
+      "arabic": "تنظير السيني",
+      "latin": "sigmoidoscopia",
+      "pronunciation": "سيغ-موي-دوس-كو-بي",
+      "definition": "الفحص بالمنظار لداخل المستقيم والقولون السيني وربما جزء من القولون النازل.",
+      "definition_en": "Endoscopic examination of the inside of the rectum and sigmoid colon, and possibly part of the descending colon.",
+      "englishSentence": "Sigmoidoscopy is the endoscopic examination of the rectum and sigmoid colon.",
+      "parts": {
+        "root": { "value": "sigmoid/o", "meaning": "قولون سيني", "function": "يشير إلى القولون السيني" },
+        "suffix": { "value": "scopy", "meaning": "فحص بصري", "function": "يشير إلى الفحص بالمنظار" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تشخيص أمراض القولون السفلي",
+      "systemFunction_en": "Diagnose lower colon diseases",
+      "location": "المستقيم والقولون السيني",
+      "location_en": "Rectum and sigmoid colon",
+      "nearbyOrgans": ["القولون النازل", "الشرج"],
+      "nearbyOrgans_en": ["Descending colon", "Anus"],
+      "diseases": [],
+      "keywords": ["sigmoid colon examination"],
+      "chapter": 8
+    },
+    {
+      "id": 865,
+      "term": "gastrectomy",
+      "arabic": "استئصال المعدة",
+      "latin": "gastrectomia",
+      "pronunciation": "غاس-تريك-تو-مي",
+      "definition": "الاستئصال الجراحي لكل أو جزء من المعدة.",
+      "definition_en": "Surgical removal of all or part of the stomach.",
+      "englishSentence": "Gastrectomy is the surgical removal of all or a part of the stomach.",
+      "parts": {
+        "root": { "value": "gastr", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "suffix": { "value": "ectomy", "meaning": "استئصال", "function": "يشير إلى الإزالة الجراحية" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "علاج أمراض المعدة",
+      "systemFunction_en": "Treat stomach diseases",
+      "location": "المعدة",
+      "location_en": "Stomach",
+      "nearbyOrgans": ["المريء", "الاثني عشر"],
+      "nearbyOrgans_en": ["Esophagus", "Duodenum"],
+      "diseases": [],
+      "keywords": ["stomach removal"],
+      "chapter": 8
+    },
+    {
+      "id": 866,
+      "term": "nasogastric intubation",
+      "arabic": "تنبيب أنفي معدي",
+      "latin": "intubatio nasogastrica",
+      "pronunciation": "ناي-زو-غاس-تريك إن-تو-باي-شن",
+      "definition": "وضع أنبوب تغذية عبر الأنف وإلى المعدة. يوفر هذا الأنبوب، الذي يوضع مؤقتاً، التغذية للمرضى الذين لا يستطيعون تناول ما يكفي من العناصر الغذائية عن طريق الفم.",
+      "definition_en": "Placement of a feeding tube through the nose and into the stomach. This temporarily placed tube provides nutrition for patients unable to take in enough nutrients by mouth.",
+      "englishSentence": "Nasogastric intubation places a feeding tube through the nose and into the stomach.",
+      "parts": {
+        "root1": { "value": "nas/o", "meaning": "أنف", "function": "يشير إلى الأنف" },
+        "root2": { "value": "gastr", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "procedure",
+      "abbreviation": "NG tube",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "توفير التغذية أو تفريغ المعدة",
+      "systemFunction_en": "Provide nutrition or empty stomach",
+      "location": "من الأنف إلى المعدة",
+      "location_en": "From nose to stomach",
+      "nearbyOrgans": ["البلعوم", "المريء", "المعدة"],
+      "nearbyOrgans_en": ["Pharynx", "Esophagus", "Stomach"],
+      "diseases": [],
+      "keywords": ["NG tube", "enteral feeding"],
+      "chapter": 8
+    },
+    {
+      "id": 867,
+      "term": "total parenteral nutrition",
+      "arabic": "تغذية بالحقن الكاملة",
+      "latin": "nutritio parenteralis totalis",
+      "pronunciation": "تو-تال با-رين-تير-آل نيو-تري-شن",
+      "definition": "تُعطى للمرضى الذين لا يستطيعون، أو لا ينبغي لهم، الحصول على التغذية عن طريق الأكل. يتم تلبية جميع الاحتياجات الغذائية للمريض من خلال سائل غذائي يُعطى عن طريق الوريد لمدة 10-12 ساعة، مرة واحدة يومياً أو خمس مرات في الأسبوع.",
+      "definition_en": "Given to patients who cannot, or should not, receive nutrition by eating. All of the patient's nutritional needs are met through a nutritional fluid given intravenously for 10-12 hours, once daily or five times a week.",
+      "englishSentence": "Total parenteral nutrition (TPN) provides all nutritional requirements intravenously.",
+      "parts": {
+        "prefix": { "value": "para", "meaning": "بجانب", "function": "يشير إلى خارج" },
+        "root": { "value": "enter", "meaning": "أمعاء", "function": "يشير إلى الأمعاء" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "procedure",
+      "abbreviation": "TPN",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "توفير التغذية للمرضى الذين لا يستطيعون الأكل",
+      "systemFunction_en": "Provide nutrition for patients unable to eat",
+      "location": "الوريد",
+      "location_en": "Vein",
+      "nearbyOrgans": ["الجهاز الوريدي"],
+      "nearbyOrgans_en": ["Venous system"],
+      "diseases": [],
+      "keywords": ["TPN", "intravenous feeding"],
+      "chapter": 8
+    },
+    {
+      "id": 868,
+      "term": "parenteral",
+      "arabic": "بالحقن (خارج الجهاز الهضمي)",
+      "latin": "parenteralis",
+      "pronunciation": "با-رين-تير-آل",
+      "definition": "ليس في الجهاز الهضمي أو من خلاله.",
+      "definition_en": "Not in, or through, the digestive system.",
+      "englishSentence": "Parenteral means not in, or through, the digestive system.",
+      "parts": {
+        "prefix": { "value": "para", "meaning": "بجانب", "function": "يشير إلى خارج" },
+        "root": { "value": "enter", "meaning": "أمعاء", "function": "يشير إلى الأمعاء" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "system": "عام",
+      "system_en": "General",
+      "systemFunction": "توصيل المواد خارج الجهاز الهضمي",
+      "systemFunction_en": "Deliver substances outside GI tract",
+      "location": "خارج الجهاز الهضمي",
+      "location_en": "Outside digestive system",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["intravenous", "non-enteral"],
+      "chapter": 8
+    },
+    {
+      "id": 869,
+      "term": "colectomy",
+      "arabic": "استئصال القولون",
+      "latin": "colectomia",
+      "pronunciation": "كو-ليك-تو-مي",
+      "definition": "الاستئصال الجراحي لكل أو جزء من القولون.",
+      "definition_en": "Surgical removal of all or part of the colon.",
+      "englishSentence": "A colectomy is the surgical removal of all, or part of, the colon.",
+      "parts": {
+        "root": { "value": "col", "meaning": "قولون", "function": "يشير إلى القولون" },
+        "suffix": { "value": "ectomy", "meaning": "استئصال", "function": "يشير إلى الإزالة الجراحية" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "علاج أمراض القولون",
+      "systemFunction_en": "Treat colon diseases",
+      "location": "القولون",
+      "location_en": "Colon",
+      "nearbyOrgans": ["الأمعاء الدقيقة", "المستقيم"],
+      "nearbyOrgans_en": ["Small intestine", "Rectum"],
+      "diseases": [],
+      "keywords": ["colon removal"],
+      "chapter": 8
+    }
+  ]
+}

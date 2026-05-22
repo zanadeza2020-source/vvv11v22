@@ -1,0 +1,1253 @@
+{
+  "chapter": 24,
+  "title": "الجهاز العضلي",
+  "title_ar": "الجهاز العضلي",
+  "title_en": "Muscular System",
+  "description": "مصطلحات الجهاز العضلي المستخرجة من كتاب تشريح ووظائف الأعضاء",
+  "description_en": "Terms for Muscular System extracted from Anatomy and Physiology textbook",
+  "terms": [
+    {
+      "id": 3503,
+      "term": "excitability",
+      "arabic": "القابلية للاستثارة",
+      "latin": "excitabilitas",
+      "pronunciation": "إكسايتابيليتي",
+      "definition": "إحدى الخصائص الأربع للعضلة. القدرة على استقبال المنبهات والاستجابة لها بتوليد إشارة كهربائية (جهد فعل) على طول غشاء خلية العضلة.",
+      "definition_en": "One of four muscle properties. The ability to receive stimuli and respond by generating an electrical signal (action potential) along the muscle cell membrane.",
+      "englishSentence": "The excitability of muscle allows it to respond to nerve signals by initiating a contraction.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "muscle property",
+        "stimulus",
+        "action potential",
+        "استثارة",
+        "منبه عضلي"
+      ]
+    },
+    {
+      "id": 3504,
+      "term": "contractility",
+      "arabic": "الانقباضية",
+      "latin": "contractilitas",
+      "pronunciation": "كونتراكتيليتي",
+      "definition": "إحدى الخصائص الأربع للعضلة. القدرة الفريدة للعضلة على التقصير بقوة عند تنبيهها وهي الخاصية التي تُنتج الحركة.",
+      "definition_en": "One of four muscle properties. The unique ability of muscle to shorten forcibly when stimulated, the property that produces movement.",
+      "englishSentence": "Contractility is what distinguishes muscle tissue from all other tissue types in the body.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "shortening",
+        "force",
+        "movement",
+        "انقباضية",
+        "تقصير"
+      ]
+    },
+    {
+      "id": 3505,
+      "term": "extensibility",
+      "arabic": "القابلية للتمدد",
+      "latin": "extensibilitas",
+      "pronunciation": "إكستينسيبيليتي",
+      "definition": "إحدى الخصائص الأربع للعضلة. القدرة على التمدد أو الاطالة عند الشد دون تلف الخلايا مما يسمح للعضلة بالتحرك ضمن نطاق الحركة الكامل.",
+      "definition_en": "One of four muscle properties. The ability to be stretched or extended beyond resting length without cell damage, allowing muscle to move through its full range of motion.",
+      "englishSentence": "The extensibility of muscle allows it to lengthen when the antagonist muscle contracts.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "stretching",
+        "lengthening",
+        "range of motion",
+        "تمدد",
+        "إطالة عضلية"
+      ]
+    },
+    {
+      "id": 3506,
+      "term": "elasticity",
+      "arabic": "المرونة العضلية",
+      "latin": "elasticitas musculi",
+      "pronunciation": "إيلاستيسيتي",
+      "definition": "إحدى الخصائص الأربع للعضلة. القدرة على العودة إلى طولها الطبيعي في حالة الراحة بعد التمدد أو الانقباض.",
+      "definition_en": "One of four muscle properties. The ability to recoil and resume its resting length after being stretched or contracted.",
+      "englishSentence": "Elasticity prevents muscles from remaining in a stretched or contracted state after the stimulus ends.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "recoil",
+        "resting length",
+        "recovery",
+        "مرونة",
+        "عودة للطول"
+      ]
+    },
+    {
+      "id": 3507,
+      "term": "origin",
+      "arabic": "مبدأ العضلة (المنشأ)",
+      "latin": "origo musculi",
+      "pronunciation": "أوريجين",
+      "definition": "نقطة ارتكاز العضلة الأقل تحركاً (عادةً القريبة) حيث يتصل الوتر بالعظم الثابت نسبياً. يبقى هذا الارتباط ثابتاً أثناء الانقباض بينما يتحرك مدغم العضلة.",
+      "definition_en": "The less movable attachment point of a muscle (usually proximal) where the tendon connects to the relatively fixed bone. This attachment stays stationary during contraction.",
+      "englishSentence": "The origin of the biceps brachii is at the scapula, which remains stationary when the muscle contracts to flex the forearm.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "attachment",
+        "fixed point",
+        "proximal",
+        "منشأ عضلة",
+        "ارتكاز"
+      ]
+    },
+    {
+      "id": 3508,
+      "term": "insertion",
+      "arabic": "مدغم العضلة",
+      "latin": "insertio musculi",
+      "pronunciation": "إنسيرشن",
+      "definition": "نقطة ارتكاز العضلة الأكثر تحركاً (عادةً البعيدة) حيث يتصل الوتر بالعظم المتحرك. يتحرك هذا الارتباط نحو المنشأ أثناء الانقباض.",
+      "definition_en": "The more movable attachment point of a muscle (usually distal) where the tendon connects to the moving bone. This attachment moves toward the origin during contraction.",
+      "englishSentence": "The insertion of the biceps brachii is at the radius, which moves toward the origin when the forearm flexes.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "movable attachment",
+        "distal",
+        "moving bone",
+        "مدغم",
+        "ارتباط متحرك"
+      ]
+    },
+    {
+      "id": 3509,
+      "term": "aponeurosis",
+      "arabic": "التوترية (الصفاق العضلي)",
+      "latin": "aponeurosis",
+      "pronunciation": "أبونيوروسيس",
+      "definition": "وتر عريض رقيق على شكل صفيحة يربط العضلة بالعظم أو بالأنسجة الأخرى. يُعوّض عن الوتر الاعتيادي في بعض العضلات ذات البنية المسطحة مثل عضلات البطن.",
+      "definition_en": "A broad flat tendon that attaches muscle to bone or other tissues. Replaces the regular tendon in some flat muscles, like abdominal muscles.",
+      "englishSentence": "The abdominal muscles are connected to the linea alba through a wide aponeurosis rather than a tendon.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "broad tendon",
+        "flat muscle",
+        "abdominal",
+        "توترية",
+        "صفاق"
+      ]
+    },
+    {
+      "id": 3510,
+      "term": "fascicle",
+      "arabic": "الحزمة العضلية",
+      "latin": "fasciculus muscularis",
+      "pronunciation": "فاسيكل",
+      "definition": "مجموعة من ألياف العضلة ملفوفة معاً بطبقة من النسيج الضام تُسمى المحيطة بالحزمة (الباريميزيم). يُشكّل العضو العضلي مجموعة من الحزم.",
+      "definition_en": "A bundle of muscle fibers wrapped together by a connective tissue layer called perimysium. A muscle organ is made of groups of fascicles.",
+      "englishSentence": "Each fascicle contains dozens of muscle fibers that all contract together when stimulated.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "muscle bundle",
+        "perimysium",
+        "fibers",
+        "حزمة عضلية",
+        "ألياف"
+      ]
+    },
+    {
+      "id": 3511,
+      "term": "muscle fiber",
+      "arabic": "الليف العضلي (خلية العضلة)",
+      "latin": "fibra muscularis",
+      "pronunciation": "ماسل فايبر",
+      "definition": "الخلية العضلية الهيكلية الواحدة. خلية طويلة أسطوانية متعددة النوى. النوى مُهمَّشة تحت الغشاء (السركوليما). تُشكّل وحدة الانقباض الأساسية.",
+      "definition_en": "A single skeletal muscle cell. Long, cylindrical, and multinucleated. Nuclei are peripheral (under the sarcolemma). Forms the basic unit of muscle contraction.",
+      "englishSentence": "A single muscle fiber can extend the entire length of a short muscle.",
+      "type": "cell_type",
+      "chapter": 24,
+      "keywords": [
+        "muscle cell",
+        "multinucleated",
+        "cylindrical",
+        "ليف عضلي",
+        "خلية عضلية"
+      ]
+    },
+    {
+      "id": 3512,
+      "term": "sarcolemma",
+      "arabic": "السركوليما (الغشاء العضلي)",
+      "latin": "sarcolemma",
+      "pronunciation": "ساركوليما",
+      "definition": "الغشاء البلازمي للخلية العضلية. يحتوي على قنوات خاصة لنقل الشوارد ويُشكّل نُبيبات T التي تنقل جهد الفعل إلى عمق الخلية العضلية.",
+      "definition_en": "The plasma membrane of the muscle cell. Contains specialized channels for ion transport and forms T-tubules that conduct action potentials deep into the muscle cell.",
+      "englishSentence": "Action potentials travel along the sarcolemma and into T-tubules to trigger calcium release from the SR.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "plasma membrane",
+        "T-tubules",
+        "action potential",
+        "سركوليما",
+        "غشاء عضلي"
+      ]
+    },
+    {
+      "id": 3513,
+      "term": "sarcoplasm",
+      "arabic": "السركوبلازم",
+      "latin": "sarcoplasma",
+      "pronunciation": "ساركوبلازم",
+      "definition": "السيتوبلازم الخاص بالخلية العضلية. يحتوي على الميوفيبريلات والميتوكوندريا وجلايكوجين (احتياطي طاقة) والميوغلوبين (بروتين تخزين الأكسجين).",
+      "definition_en": "The cytoplasm of the muscle cell. Contains myofibrils, mitochondria, glycogen (energy reserve), and myoglobin (oxygen-storing protein that gives red muscles their color).",
+      "englishSentence": "The sarcoplasm is packed with mitochondria to meet the high energy demands of muscle contraction.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "muscle cytoplasm",
+        "myoglobin",
+        "glycogen",
+        "سركوبلازم",
+        "سيتوبلازم عضلي"
+      ]
+    },
+    {
+      "id": 3514,
+      "term": "sarcoplasmic reticulum",
+      "arabic": "الشبكة السركوبلازمية",
+      "latin": "reticulum sarcoplasmaticum",
+      "pronunciation": "ساركوبلازميك ريتيكيولم",
+      "definition": "نوع خاص من الشبكة الإندوبلازمية الناعمة في الخلية العضلية. وظيفتها الرئيسية تخزين أيونات الكالسيوم وإطلاقها عند وصول جهد الفعل لبدء الانقباض واسترجاعها لإنهاء الانقباض.",
+      "definition_en": "A specialized smooth ER in muscle cells. Main function: stores calcium ions and releases them when action potential arrives (triggering contraction) then resequesters them (ending contraction).",
+      "englishSentence": "The sarcoplasmic reticulum releases Ca2+ to trigger contraction and pumps it back to cause relaxation.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "calcium storage",
+        "ER",
+        "contraction trigger",
+        "شبكة سركوبلازمية",
+        "كالسيوم"
+      ]
+    },
+    {
+      "id": 3515,
+      "term": "myofibril",
+      "arabic": "الليف العضلي الدقيق (الميوفيبريل)",
+      "latin": "myofibrilla",
+      "pronunciation": "مايوفيبريل",
+      "definition": "هياكل خيطية رفيعة تملأ السيتوبلازم العضلي. كل خلية عضلية تحتوي مئات منها. تتكون من خيوط سميكة (مايوسين) ورفيعة (أكتين) مرتبة في وحدات متكررة تُسمى السركوميرات.",
+      "definition_en": "Threadlike structures filling the muscle cytoplasm. Each muscle cell contains hundreds. Composed of thick (myosin) and thin (actin) filaments arranged in repeating units called sarcomeres.",
+      "englishSentence": "Myofibrils are the contractile elements of muscle; their shortening produces visible muscle contraction.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "contractile unit",
+        "sarcomere",
+        "actin",
+        "myosin",
+        "ميوفيبريل",
+        "ألياف دقيقة"
+      ]
+    },
+    {
+      "id": 3516,
+      "term": "sarcomere",
+      "arabic": "السركوميرة (الوحدة الانقباضية)",
+      "latin": "sarcomeron",
+      "pronunciation": "ساركوميير",
+      "definition": "الوحدة الوظيفية والانقباضية الأساسية للميوفيبريل. تمتد من خط Z إلى خط Z التالي. تحتوي على خيوط مايوسين السميكة في المنتصف وخيوط الأكتين الرفيعة على الجانبين.",
+      "definition_en": "The basic functional and contractile unit of the myofibril. Extends from one Z line to the next. Contains thick myosin filaments centrally and thin actin filaments laterally.",
+      "englishSentence": "When a sarcomere contracts, the Z lines are pulled closer together as the thin filaments slide over the thick ones.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "Z line",
+        "contractile unit",
+        "myosin",
+        "actin",
+        "سركوميرة",
+        "وحدة انقباضية"
+      ]
+    },
+    {
+      "id": 3517,
+      "term": "myosin",
+      "arabic": "المايوسين",
+      "latin": "myosinum",
+      "pronunciation": "مايوسين",
+      "definition": "بروتين الخيط السميك في السركوميرة. يمتلك رؤوساً (جسوراً عرضية) تتصل بالأكتين وتنفصل منه مستهلكةً ATP لتُنتج حركة الانزلاق. مكوّن أساسي لآلية الانزلاق الخيطي.",
+      "definition_en": "The thick filament protein of the sarcomere. Has cross-bridge heads that attach to and detach from actin, consuming ATP to produce sliding motion. Essential component of sliding filament mechanism.",
+      "englishSentence": "Myosin heads act like molecular motors, pulling actin filaments toward the center of the sarcomere during contraction.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "thick filament",
+        "cross bridges",
+        "ATP",
+        "مايوسين",
+        "خيط سميك"
+      ]
+    },
+    {
+      "id": 3518,
+      "term": "actin",
+      "arabic": "الأكتين",
+      "latin": "actinum",
+      "pronunciation": "أكتين",
+      "definition": "بروتين الخيط الرفيع في السركوميرة. كل جزيء أكتين يحتوي على موقع ربط لرأس المايوسين. في حالة الراحة يُغطّي بروتين التروبوميوسين هذه المواقع لمنع ارتباط المايوسين.",
+      "definition_en": "The thin filament protein of the sarcomere. Each actin molecule has a myosin-binding site. At rest, tropomyosin covers these sites to prevent myosin attachment.",
+      "englishSentence": "Actin filaments are the tracks along which myosin cross bridges pull to shorten the sarcomere.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "thin filament",
+        "binding site",
+        "tropomyosin",
+        "أكتين",
+        "خيط رفيع"
+      ]
+    },
+    {
+      "id": 3519,
+      "term": "tropomyosin",
+      "arabic": "التروبوميوسين",
+      "latin": "tropomyosinum",
+      "pronunciation": "تروبوميوسين",
+      "definition": "بروتين تنظيمي يُغطّي مواقع ربط المايوسين على خيط الأكتين في حالة الراحة مما يمنع تكوّن الجسور العرضية. ينزاح جانباً بواسطة التروبونين عند ارتباط Ca²⁺ ليكشف مواقع الربط.",
+      "definition_en": "A regulatory protein covering myosin-binding sites on actin filaments at rest, preventing cross-bridge formation. Displaced by troponin when Ca²⁺ binds to expose binding sites.",
+      "englishSentence": "Tropomyosin acts like a molecular blocker, keeping actin's binding sites covered until calcium arrives.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "regulatory protein",
+        "blocking",
+        "calcium",
+        "تروبوميوسين",
+        "بروتين تنظيمي"
+      ]
+    },
+    {
+      "id": 3520,
+      "term": "troponin",
+      "arabic": "التروبونين",
+      "latin": "troponinum",
+      "pronunciation": "تروبونين",
+      "definition": "بروتين تنظيمي مرتبط بالتروبوميوسين على خيط الأكتين. عند ارتباط أيونات Ca²⁺ به يتغير شكله فيُزيح التروبوميوسين لكشف مواقع ربط المايوسين على الأكتين وبدء الانقباض.",
+      "definition_en": "A regulatory protein bound to tropomyosin on actin filaments. When Ca²⁺ ions bind to it, it changes shape, moving tropomyosin to expose myosin-binding sites on actin, initiating contraction.",
+      "englishSentence": "Troponin is the calcium sensor of muscle; elevated blood troponin levels indicate cardiac muscle damage.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "calcium sensor",
+        "regulatory",
+        "cardiac marker",
+        "تروبونين",
+        "كالسيوم"
+      ]
+    },
+    {
+      "id": 3521,
+      "term": "sliding filament theory",
+      "arabic": "نظرية الانزلاق الخيطي",
+      "latin": "theoria filamentorum gliscentium",
+      "pronunciation": "سلايدينغ فيلامنت ثيوري",
+      "definition": "النظرية التي تُفسّر آلية الانقباض العضلي. تنص على أن خيوط الأكتين الرفيعة تنزلق على خيوط المايوسين السميكة نحو مركز السركوميرة مما يُقصّرها دون أن تتغير أطوال الخيوط نفسها.",
+      "definition_en": "The theory explaining muscle contraction mechanism. States that thin actin filaments slide over thick myosin filaments toward the center of the sarcomere, shortening it without changing individual filament lengths.",
+      "englishSentence": "The sliding filament theory explains why muscle shortens during contraction as actin slides past myosin.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "contraction mechanism",
+        "sliding",
+        "actin",
+        "myosin",
+        "نظرية انزلاق",
+        "انقباض"
+      ]
+    },
+    {
+      "id": 3522,
+      "term": "neuromuscular junction",
+      "arabic": "الوصل العصبي العضلي",
+      "latin": "junctio neuromuscularis",
+      "pronunciation": "نيورومَسكيولار جانكشن",
+      "definition": "نقطة التشابك بين المحور العصبي الحركي وخلية العضلة. يتكون من: الطرف المحوري (يُفرز أستيل كولين)، والشق التشابكي، ولوحة النهاية الحركية (على السركوليما). إطلاق أستيل كولين يُولّد جهد فعل على السركوليما.",
+      "definition_en": "The synapse between a motor neuron axon terminal and a muscle cell. Consists of: axon terminal (releases ACh), synaptic cleft, and motor end plate (on sarcolemma). ACh release generates an action potential on the sarcolemma.",
+      "englishSentence": "Nerve agents like sarin block the neuromuscular junction, causing uncontrolled muscle contraction and paralysis.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "synapse",
+        "acetylcholine",
+        "motor end plate",
+        "وصل عصبي عضلي",
+        "أستيل كولين"
+      ]
+    },
+    {
+      "id": 3523,
+      "term": "acetylcholine",
+      "arabic": "الأستيل كولين",
+      "latin": "acetylcholinum",
+      "pronunciation": "أستيل كولين",
+      "definition": "الناقل العصبي المُفرَز من الطرف المحوري في الوصل العصبي العضلي. يرتبط بمستقبلات على لوحة النهاية الحركية لتوليد جهد فعل على السركوليما وبدء الانقباض. يُكسَّر بعد الإفراز بإنزيم الكولينستيراز.",
+      "definition_en": "The neurotransmitter released from the axon terminal at the NMJ. Binds to receptors on the motor end plate to generate an action potential on the sarcolemma and initiate contraction. Broken down by acetylcholinesterase.",
+      "englishSentence": "Acetylcholine is the key chemical signal that bridges the gap between nerve impulse and muscle contraction.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "neurotransmitter",
+        "NMJ",
+        "motor end plate",
+        "أستيل كولين",
+        "ناقل عصبي"
+      ]
+    },
+    {
+      "id": 3524,
+      "term": "T-tubules",
+      "arabic": "النبيبات المستعرضة (النبيبات T)",
+      "latin": "tubuli transversi",
+      "pronunciation": "تي تيوبيولز",
+      "definition": "امتدادات أنبوبية من السركوليما تخترق الخلية العضلية بعمق بين الميوفيبريلات. تنقل جهد الفعل من سطح الخلية إلى الشبكة السركوبلازمية لتُحرّر الكالسيوم ويبدأ الانقباض في جميع أجزاء الخلية آنياً.",
+      "definition_en": "Tubular extensions of the sarcolemma that penetrate deep into the muscle cell between myofibrils. Conduct action potentials from cell surface to sarcoplasmic reticulum, triggering calcium release and simultaneous contraction throughout the cell.",
+      "englishSentence": "T-tubules ensure that all parts of the muscle fiber contract simultaneously by rapidly transmitting the action potential.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "transverse tubules",
+        "action potential",
+        "calcium release",
+        "نبيبات T",
+        "كالسيوم"
+      ]
+    },
+    {
+      "id": 3525,
+      "term": "cross bridges",
+      "arabic": "الجسور العرضية",
+      "latin": "pontes transversi",
+      "pronunciation": "كروس بريجز",
+      "definition": "رؤوس جزيئات المايوسين التي تتصل بمواقع الربط على خيوط الأكتين لتُنتج حركة التدفع (power stroke) التي تُزحزح الأكتين نحو مركز السركوميرة. تحتاج إلى ATP للارتباط والانفصال.",
+      "definition_en": "The heads of myosin molecules that attach to binding sites on actin filaments to produce the power stroke that moves actin toward the sarcomere center. Require ATP for both attachment and detachment.",
+      "englishSentence": "Cross bridge cycling between myosin and actin is the molecular basis of all muscle contraction.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "myosin heads",
+        "power stroke",
+        "ATP",
+        "جسور عرضية",
+        "رؤوس مايوسين"
+      ]
+    },
+    {
+      "id": 3526,
+      "term": "motor unit",
+      "arabic": "الوحدة الحركية",
+      "latin": "unitas motoria",
+      "pronunciation": "موتور يونيت",
+      "definition": "نيورون حركي واحد مع جميع ألياف العضلة التي يُعصّبها. كل ألياف الوحدة تنقبض معاً عند إطلاق النيورون. الوحدات الصغيرة (عضلات العين) تُتيح حركات دقيقة، والكبيرة (عضلات الظهر) تُتيح قوة أكبر.",
+      "definition_en": "A single motor neuron and all the muscle fibers it innervates. All fibers in a unit contract together when the neuron fires. Small units (eye muscles) allow fine movements; large units (back muscles) allow more force.",
+      "englishSentence": "A finger movement uses small motor units for precision, while lifting a heavy object recruits large motor units for maximum force.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "motor neuron",
+        "muscle fibers",
+        "precision",
+        "وحدة حركية",
+        "نيورون حركي"
+      ]
+    },
+    {
+      "id": 3527,
+      "term": "muscle tone",
+      "arabic": "التوتر العضلي",
+      "latin": "tonus muscularis",
+      "pronunciation": "ماسل تون",
+      "definition": "الانقباض الجزئي المستمر للعضلة حتى في حالة الراحة الظاهرية. يُحافظ على صلابة العضلة وجاهزيتها للانقباض ويُدعم الوضعية. يستمر بسبب التحفيز المتناوب للوحدات الحركية المختلفة.",
+      "definition_en": "The sustained partial contraction of muscle even at apparent rest. Maintains muscle firmness and readiness for contraction, supporting posture. Maintained by alternating stimulation of different motor units.",
+      "englishSentence": "Muscle tone keeps the neck muscles slightly contracted so the head doesn't fall forward during normal standing.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "partial contraction",
+        "posture",
+        "resting state",
+        "توتر عضلي",
+        "وضعية"
+      ]
+    },
+    {
+      "id": 3528,
+      "term": "isotonic contraction",
+      "arabic": "الانقباض المتساوي التوتر",
+      "latin": "contractio isotonica",
+      "pronunciation": "أيسوتونيك كونتراكشن",
+      "definition": "نوع من الانقباض العضلي يتغير فيه طول العضلة مع ثبات نسبي في قوة الشد. ينقسم إلى: انقباض مركّزي (تقصير العضلة - كرفع حمل) وانقباض لا مركّزي (إطالة العضلة مع المقاومة - كإنزال حمل).",
+      "definition_en": "Muscle contraction where muscle length changes with relatively constant tension. Two types: concentric (muscle shortens - lifting a load) and eccentric (muscle lengthens under load - lowering a weight).",
+      "englishSentence": "Walking, running, and most sports activities involve isotonic contractions that produce visible movement.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "concentric",
+        "eccentric",
+        "movement",
+        "انقباض متساوي توتر",
+        "حركة"
+      ]
+    },
+    {
+      "id": 3529,
+      "term": "isometric contraction",
+      "arabic": "الانقباض المتساوي الطول",
+      "latin": "contractio isometrica",
+      "pronunciation": "أيسومتريك كونتراكشن",
+      "definition": "انقباض عضلي يزيد فيه التوتر (القوة) دون تغيّر في طول العضلة. لا يحدث حركة مفصلية. يُستخدم للحفاظ على الوضعية والثبات. مثال: الضغط على حائط ثابت أو حمل حقيبة ثقيلة بالذراع الممدودة.",
+      "definition_en": "Muscle contraction where tension increases but muscle length does not change. No joint movement occurs. Used for posture and stabilization. Example: pushing against a wall or holding a heavy bag with outstretched arm.",
+      "englishSentence": "Holding a plank position requires isometric contraction of core muscles to maintain stability without movement.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "no movement",
+        "posture",
+        "stabilization",
+        "انقباض متساوي طول",
+        "ثبات"
+      ]
+    },
+    {
+      "id": 3530,
+      "term": "creatine phosphate",
+      "arabic": "فوسفات الكرياتين",
+      "latin": "phosphocreatinum",
+      "pronunciation": "كرياتين فوسفيت",
+      "definition": "مركب فوسفاتي عالي الطاقة مُخزَّن في الخلايا العضلية. يُجدّد ATP بسرعة فائقة خلال الثواني العشر الأولى من النشاط الشديد بنقل مجموعة الفوسفات مباشرة إلى ADP.",
+      "definition_en": "A high-energy phosphate compound stored in muscle cells. Rapidly regenerates ATP during the first 10 seconds of intense activity by directly transferring its phosphate group to ADP.",
+      "englishSentence": "Creatine phosphate provides the immediate energy burst needed for explosive movements like jumping and sprinting.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "energy storage",
+        "ATP regeneration",
+        "short burst",
+        "فوسفات كرياتين",
+        "طاقة فورية"
+      ]
+    },
+    {
+      "id": 3531,
+      "term": "muscle fatigue",
+      "arabic": "الإجهاد العضلي",
+      "latin": "fatigatio muscularis",
+      "pronunciation": "ماسل فاتيغ",
+      "definition": "عجز العضلة عن الانقباض أو الحفاظ على قوتها رغم الاستمرار في التحفيز. ينتج عن نضوب ATP وتراكم حمض اللاكتيك وانخفاض الأكسجين والمستقبلات العصبية.",
+      "definition_en": "The inability of a muscle to contract or maintain force despite continued stimulation. Results from ATP depletion, lactic acid accumulation, decreased oxygen, and neural fatigue.",
+      "englishSentence": "Muscle fatigue during a marathon forces runners to slow down as lactic acid builds up in their leg muscles.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "ATP depletion",
+        "lactic acid",
+        "exhaustion",
+        "إجهاد عضلي",
+        "تعب"
+      ]
+    },
+    {
+      "id": 3532,
+      "term": "oxygen debt",
+      "arabic": "عجز الأكسجين",
+      "latin": "debitum oxygeni",
+      "pronunciation": "أوكسيجن ديت",
+      "definition": "كمية الأكسجين الزائدة التي يحتاجها الجسم بعد التمرين الشاق لاستعادة حالة الراحة: إعادة الاتحاد الكيميائي لحمض اللاكتيك وإعادة شحن فوسفات الكرياتين وATP واستعادة الأكسجين للميوغلوبين.",
+      "definition_en": "The extra oxygen needed after strenuous exercise to restore the resting state: reconverting lactic acid, recharging creatine phosphate and ATP, and restoring oxygen to myoglobin.",
+      "englishSentence": "The heavy breathing after intense exercise represents the body repaying its oxygen debt.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "post-exercise",
+        "lactic acid",
+        "recovery",
+        "عجز أكسجين",
+        "تعافي"
+      ]
+    },
+    {
+      "id": 3533,
+      "term": "hypertrophy",
+      "arabic": "الضخامة العضلية",
+      "latin": "hypertrophia muscularis",
+      "pronunciation": "هايبيرتروفي",
+      "definition": "زيادة في حجم العضلة نتيجة التمرين المنتظم. لا تزداد عدد ألياف العضلة بل يزيد حجمها وعدد الميوفيبريلات وكمية الميتوكوندريا والجلايكوجين والميوغلوبين.",
+      "definition_en": "Increase in muscle size due to regular exercise. Number of fibers doesn't increase but their size grows, along with more myofibrils, mitochondria, glycogen, and myoglobin.",
+      "englishSentence": "Bodybuilders achieve muscle hypertrophy through progressive resistance training that stresses muscle fibers.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "muscle growth",
+        "exercise",
+        "enlarged fibers",
+        "ضخامة عضلية",
+        "تضخم"
+      ]
+    },
+    {
+      "id": 3534,
+      "term": "atrophy",
+      "arabic": "ضمور العضلة",
+      "latin": "atrophia muscularis",
+      "pronunciation": "أتروفي",
+      "definition": "تقلّص حجم العضلة وضعفها بسبب قلة الاستخدام أو قطع التعصيب أو المرض. تفقد خلايا العضلة بروتيناتها وميوفيبريلاتها. الضمور الشديد يؤدي إلى استبدال العضلة بنسيج ليفي دهني.",
+      "definition_en": "Muscle wasting and weakness due to disuse, denervation, or disease. Muscle cells lose their proteins and myofibrils. Severe atrophy leads to replacement with fibrous and fatty tissue.",
+      "englishSentence": "Limb muscles atrophy quickly when immobilized in a cast, requiring rehabilitation after the cast is removed.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "muscle wasting",
+        "disuse",
+        "denervation",
+        "ضمور عضلي",
+        "تآكل عضلة"
+      ]
+    },
+    {
+      "id": 3535,
+      "term": "flexion",
+      "arabic": "الانثناء",
+      "latin": "flexio",
+      "pronunciation": "فليكشن",
+      "definition": "حركة تُقلّص الزاوية بين عظمتين في مفصل. عادةً تحريك الجزء البعيد نحو الجزء القريب. مثال: انثناء الكوع (تقريب الساعد من العضد)، وانثناء الركبة.",
+      "definition_en": "A movement that decreases the angle between two bones at a joint. Usually moving the distal part toward the proximal part. Example: elbow flexion (forearm toward upper arm), knee flexion.",
+      "englishSentence": "Flexion of the knee brings the heel toward the buttocks.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "decrease angle",
+        "bending",
+        "elbow",
+        "knee",
+        "انثناء",
+        "ثني مفصل"
+      ]
+    },
+    {
+      "id": 3536,
+      "term": "extension",
+      "arabic": "المد",
+      "latin": "extensio",
+      "pronunciation": "إكستينشن",
+      "definition": "حركة تزيد الزاوية بين عظمتين في مفصل. تُعيد الجزء المنثني إلى وضعه المستقيم. فرط المد (hyperextension) يتجاوز الوضع التشريحي الطبيعي كإمالة الرأس للخلف.",
+      "definition_en": "A movement that increases the angle between two bones at a joint. Returns a flexed part to its straight position. Hyperextension exceeds anatomical position, like tilting head backward.",
+      "englishSentence": "Extension of the knee straightens the leg after it has been flexed.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "increase angle",
+        "straightening",
+        "hyperextension",
+        "مد",
+        "إعادة مد"
+      ]
+    },
+    {
+      "id": 3537,
+      "term": "abduction",
+      "arabic": "الإبعاد",
+      "latin": "abductio",
+      "pronunciation": "أبداكشن",
+      "definition": "حركة الطرف بعيداً عن خط المنتصف للجسم. مثال: رفع الذراع جانباً، وفتح أصابع اليد.",
+      "definition_en": "Movement of a limb away from the midline of the body. Example: raising the arm to the side (lateral), spreading fingers apart.",
+      "englishSentence": "Abduction of the hip lifts the leg out to the side, as in the starting position of a jumping jack.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "away from midline",
+        "lateral movement",
+        "arm raise",
+        "إبعاد",
+        "بعد عن المحور"
+      ]
+    },
+    {
+      "id": 3538,
+      "term": "adduction",
+      "arabic": "التقريب",
+      "latin": "adductio",
+      "pronunciation": "أداكشن",
+      "definition": "حركة الطرف نحو خط المنتصف للجسم. عكس الإبعاد. مثال: خفض الذراع المرفوعة إلى جانب الجسم، وضم أصابع اليد.",
+      "definition_en": "Movement of a limb toward the midline of the body. Opposite of abduction. Example: lowering the raised arm to the side, bringing fingers together.",
+      "englishSentence": "Adduction of the hip brings the leg back to the midline after it has been abducted.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "toward midline",
+        "medial movement",
+        "opposite abduction",
+        "تقريب",
+        "نحو المحور"
+      ]
+    },
+    {
+      "id": 3539,
+      "term": "rotation",
+      "arabic": "الدوران",
+      "latin": "rotatio",
+      "pronunciation": "روتيشن",
+      "definition": "دوران العظمة حول محورها الطولي. الدوران الإنسي (الداخلي): دوران الوجه الأمامي للطرف نحو الداخل. الدوران الجانبي (الخارجي): دوران الوجه الأمامي للطرف للخارج.",
+      "definition_en": "Turning of a bone around its own long axis. Medial (internal) rotation: turning the anterior surface inward. Lateral (external) rotation: turning the anterior surface outward.",
+      "englishSentence": "Lateral rotation of the hip is needed to sit cross-legged on the floor.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "medial",
+        "lateral",
+        "long axis",
+        "دوران",
+        "تحوّل"
+      ]
+    },
+    {
+      "id": 3540,
+      "term": "circumduction",
+      "arabic": "الدوران المخروطي",
+      "latin": "circumductio",
+      "pronunciation": "سيركمداكشن",
+      "definition": "حركة تصف فيها طرف الطرف مخروطاً وهي مزيج من الانثناء والمد والإبعاد والتقريب. تحدث في المفاصل الكروية كالكتف والورك.",
+      "definition_en": "A movement where the distal end of a limb describes a cone; a combination of flexion, extension, abduction, and adduction. Occurs in ball-and-socket joints like shoulder and hip.",
+      "englishSentence": "Windmill-style arm rotations in swimming warm-up exercises involve circumduction of the shoulder joint.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "cone movement",
+        "combination",
+        "ball-and-socket",
+        "دوران مخروطي",
+        "كتف ورك"
+      ]
+    },
+    {
+      "id": 3541,
+      "term": "supination",
+      "arabic": "الاستلقاء (تدوير الساعد للأعلى)",
+      "latin": "supinatio",
+      "pronunciation": "سوبينيشن",
+      "definition": "دوران الساعد بحيث تتجه راحة اليد للأمام أو للأعلى (الوضع التشريحي). العظمتان الكعبرة والزند تكونان متوازيتين في هذا الوضع.",
+      "definition_en": "Rotation of the forearm so the palm faces anteriorly or upward (anatomical position). The radius and ulna are parallel in this position.",
+      "englishSentence": "You supinate your forearm to carry a bowl of soup in your palm.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "palm up",
+        "forearm rotation",
+        "anatomical position",
+        "استلقاء",
+        "راحة اليد"
+      ]
+    },
+    {
+      "id": 3542,
+      "term": "pronation",
+      "arabic": "الإبطان (تدوير الساعد للأسفل)",
+      "latin": "pronatio",
+      "pronunciation": "برونيشن",
+      "definition": "دوران الساعد بحيث تتجه راحة اليد للخلف أو للأسفل. تتقاطع الكعبرة فوق الزند في هذا الوضع.",
+      "definition_en": "Rotation of the forearm so the palm faces posteriorly or downward. The radius crosses over the ulna in this position.",
+      "englishSentence": "You pronate your forearm when you type on a keyboard or turn a doorknob counterclockwise.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "palm down",
+        "forearm rotation",
+        "radius over ulna",
+        "إبطان",
+        "دوران ساعد"
+      ]
+    },
+    {
+      "id": 3543,
+      "term": "dorsiflexion",
+      "arabic": "الثني الظهري للقدم",
+      "latin": "dorsiflexio",
+      "pronunciation": "دورسيفليكشن",
+      "definition": "رفع القدم نحو أعلى الساق (نحو الجانب الظهري). تُقلّص الزاوية بين ظهر القدم وأمام الساق. ضرورية للمشي الطبيعي وصعود السلالم.",
+      "definition_en": "Lifting the foot upward toward the shin (dorsal side). Decreases the angle between foot dorsum and anterior leg. Essential for normal walking and stair climbing.",
+      "englishSentence": "Standing on your heels with your toes lifted is an example of dorsiflexion.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "foot up",
+        "ankle movement",
+        "walking",
+        "ثني ظهري",
+        "رفع قدم"
+      ]
+    },
+    {
+      "id": 3544,
+      "term": "plantar flexion",
+      "arabic": "الثني الأخمصي للقدم",
+      "latin": "flexio plantaris",
+      "pronunciation": "بلانتار فليكشن",
+      "definition": "إنزال القدم للأسفل (الوقوف على رأس الأصابع). تزيد الزاوية بين أخمص القدم والساق. تستخدمها عضلتا الساق الرئيستان (الساقية والنعلية) عبر وتر أخيل.",
+      "definition_en": "Pointing the foot downward (like standing on tiptoes). Increases the angle between the foot sole and leg. Used by calf muscles (gastrocnemius and soleus) via the Achilles tendon.",
+      "englishSentence": "Ballet dancers use extreme plantar flexion to dance en pointe on the tips of their toes.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "foot down",
+        "tiptoe",
+        "calf muscles",
+        "Achilles",
+        "ثني أخمصي",
+        "رأس الأصابع"
+      ]
+    },
+    {
+      "id": 3545,
+      "term": "frontalis",
+      "arabic": "العضلة الجبهية",
+      "latin": "musculus frontalis",
+      "pronunciation": "فرونتاليس",
+      "definition": "عضلة الجبهة التي ترفع الحاجبين وتُجعّد الجبهة وتوسّع عيون الدهشة. تنتمي إلى عضلات التعبير الوجهي.",
+      "definition_en": "The forehead muscle that raises the eyebrows, wrinkles the forehead, and widens the eyes in surprise. Part of facial expression muscles.",
+      "englishSentence": "The frontalis muscle raises the eyebrows when expressing surprise or concern.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "forehead",
+        "eyebrow raise",
+        "facial expression",
+        "عضلة جبهية",
+        "حاجب"
+      ]
+    },
+    {
+      "id": 3546,
+      "term": "orbicularis oculi",
+      "arabic": "العضلة الدائرية للعين",
+      "latin": "musculus orbicularis oculi",
+      "pronunciation": "أوربيكيولاريس أوكيولاي",
+      "definition": "عضلة دائرية تُغلق الجفن وتُقلّص منطقة العين. وظيفتها إغلاق العين والرمش والبكاء وحماية العين من الضوء الساطع.",
+      "definition_en": "A circular muscle that closes the eyelid and constricts the eye area. Functions: closing the eye, blinking, squinting, and protecting the eye from bright light.",
+      "englishSentence": "The orbicularis oculi tightly closes the eye to protect it from foreign particles.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "eyelid",
+        "blinking",
+        "eye closure",
+        "عضلة دائرية عين",
+        "جفن"
+      ]
+    },
+    {
+      "id": 3547,
+      "term": "orbicularis oris",
+      "arabic": "العضلة الدائرية للفم",
+      "latin": "musculus orbicularis oris",
+      "pronunciation": "أوربيكيولاريس أوريس",
+      "definition": "عضلة دائرية تُحيط بالفم. تُغلق الشفتين وتُمدّهما للأمام كالتقبيل والصفير والمص. عضلة أساسية في الكلام والمضغ.",
+      "definition_en": "A circular muscle surrounding the mouth. Closes and protrudes the lips (kissing, whistling, sucking). Essential muscle for speech and chewing.",
+      "englishSentence": "The orbicularis oris is called the 'kissing muscle' because it purses the lips.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "lips",
+        "kissing",
+        "whistling",
+        "speech",
+        "عضلة دائرية فم",
+        "شفتان"
+      ]
+    },
+    {
+      "id": 3548,
+      "term": "zygomaticus",
+      "arabic": "العضلة الوجنية",
+      "latin": "musculus zygomaticus",
+      "pronunciation": "زايغوماتيكوس",
+      "definition": "عضلة التعبير الوجهي المسؤولة عن الابتسامة. تشد زاوية الفم للأعلى والخارج. تُعرف بعضلة الابتسامة.",
+      "definition_en": "The facial expression muscle responsible for smiling. Draws the corner of the mouth upward and laterally. Known as the 'smiling muscle'.",
+      "englishSentence": "The zygomaticus is called the 'smiling muscle' and connects the cheekbone to the corner of the mouth.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "smiling",
+        "facial expression",
+        "cheekbone",
+        "عضلة وجنية",
+        "ابتسامة"
+      ]
+    },
+    {
+      "id": 3549,
+      "term": "masseter",
+      "arabic": "عضلة الماضغ",
+      "latin": "musculus masseter",
+      "pronunciation": "ماسيتر",
+      "definition": "أقوى عضلة في الجسم نسبةً إلى حجمها. المسؤولة الرئيسية عن إغلاق الفك وعض الطعام. تنشأ من القوس الوجني وتُدغَم في الجانب الخارجي لزاوية الفك السفلي.",
+      "definition_en": "The strongest muscle in the body relative to its size. Primary jaw-closing and chewing muscle. Originates from zygomatic arch and inserts on the lateral surface of the mandibular angle.",
+      "englishSentence": "The masseter generates enough force to crack a walnut; it's the primary muscle used in chewing.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "chewing",
+        "jaw closing",
+        "strongest",
+        "ماضغ",
+        "عضلة مضغ"
+      ]
+    },
+    {
+      "id": 3550,
+      "term": "sternocleidomastoid",
+      "arabic": "العضلة القصية الترقوية الخشائية",
+      "latin": "musculus sternocleidomastoideus",
+      "pronunciation": "ستيرنوكلايدوماستويد",
+      "definition": "أهم عضلات العنق الأمامية. تنقبض في جانب واحد فتُدير الرأس للجانب المعاكس وتُميله للجانب نفسه. تنقبض الاثنتان معاً فتُثني الرقبة وترفع الرأس. تُعصَّب بالعصب الإضافي (XI).",
+      "definition_en": "The most important anterior neck muscles. One side contracts to rotate head to opposite side and tilt to same side. Both contract to flex neck and raise head. Innervated by accessory nerve (XI).",
+      "englishSentence": "The sternocleidomastoid creates the prominent neck muscle seen when you turn your head against resistance.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "neck muscle",
+        "head rotation",
+        "sternum",
+        "mastoid",
+        "قصية ترقوية خشائية",
+        "رقبة"
+      ]
+    },
+    {
+      "id": 3551,
+      "term": "trapezius",
+      "arabic": "عضلة الشبه المنحرف",
+      "latin": "musculus trapezius",
+      "pronunciation": "ترابيزيوس",
+      "definition": "العضلة المسطحة المثلثية الكبيرة التي تُغطي معظم الجزء الخلفي العلوي من الجذع والرقبة. تُحرك الكتف وتُثبّته وترفع الترقوة. مشدودة في الضغط النفسي.",
+      "definition_en": "Large triangular flat muscle covering most of the upper posterior trunk and neck. Moves and stabilizes the scapula, raises the clavicle. Tightens during psychological stress.",
+      "englishSentence": "The trapezius shrugs the shoulders and pulls the head backward; tension here is a common cause of headaches.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "shoulder blade",
+        "upper back",
+        "posture",
+        "شبه منحرف",
+        "ظهر علوي"
+      ]
+    },
+    {
+      "id": 3552,
+      "term": "deltoid",
+      "arabic": "العضلة الدالية",
+      "latin": "musculus deltoideus",
+      "pronunciation": "ديلتويد",
+      "definition": "العضلة الكتفية المثلثة التي تُعطي الكتف شكله المستدير. الجزء الأوسط يُبعد الذراع. الجزء الأمامي يُثني الكتف، والخلفي يمده. موقع الحقن العضلي الشائع.",
+      "definition_en": "The triangular shoulder muscle giving it its rounded shape. Middle portion abducts the arm. Anterior part flexes shoulder, posterior part extends it. Common intramuscular injection site.",
+      "englishSentence": "The deltoid abducts the arm from 15-90 degrees; it's also a common site for intramuscular injections.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "shoulder muscle",
+        "abduction",
+        "injection site",
+        "دالية",
+        "كتف"
+      ]
+    },
+    {
+      "id": 3553,
+      "term": "rotator cuff",
+      "arabic": "مجموعة عضلات الكفة المُدوِّرة",
+      "latin": "musculotendinous rotator cuff",
+      "pronunciation": "روتيتور كاف",
+      "definition": "أربع عضلات صغيرة تُثبّت مفصل الكتف وتُحرّكه: العضلة الشوكية فوق (Supraspinatus) والعضلة الشوكية تحت (Infraspinatus) والعضلة الصغيرة المستديرة (Teres minor) والعضلة تحت الكتف (Subscapularis). اختصاراً SITS.",
+      "definition_en": "Four small muscles that stabilize and move the shoulder joint: Supraspinatus, Infraspinatus, Teres minor, Subscapularis (SITS). Torn rotator cuff is a common sports injury.",
+      "englishSentence": "Rotator cuff tears are common in baseball pitchers due to the repetitive overhead throwing motion.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "SITS",
+        "shoulder stability",
+        "supraspinatus",
+        "كفة مدوّرة",
+        "كتف"
+      ]
+    },
+    {
+      "id": 3554,
+      "term": "biceps brachii",
+      "arabic": "عضلة ذات الرأسين العضدية",
+      "latin": "musculus biceps brachii",
+      "pronunciation": "بايسيبس برايكاي",
+      "definition": "عضلة العضد الأمامية ذات الرأسين. تنثني الكوع (تُقرّب الساعد من العضد) وتستلقي الساعد (تدير الراحة للأمام). رأسها الطويل يُساعد في تثبيت مفصل الكتف.",
+      "definition_en": "The two-headed anterior upper arm muscle. Flexes the elbow (brings forearm toward upper arm) and supinates the forearm (turns palm forward). Long head helps stabilize the shoulder joint.",
+      "englishSentence": "The biceps brachii flexes the elbow to lift a dumbbell and supinates the forearm to use a screwdriver.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "elbow flexion",
+        "supination",
+        "two heads",
+        "ثنائية الرأس",
+        "كوع"
+      ]
+    },
+    {
+      "id": 3555,
+      "term": "triceps brachii",
+      "arabic": "عضلة ذات الرؤوس الثلاثة العضدية",
+      "latin": "musculus triceps brachii",
+      "pronunciation": "ترايسيبس برايكاي",
+      "definition": "عضلة العضد الخلفية ذات الرؤوس الثلاثة. المسؤولة الرئيسية عن مد الكوع (تُبعد الساعد عن العضد). مضادة للثنائية العضدية. ضرورية للدفع والرمي.",
+      "definition_en": "Three-headed posterior upper arm muscle. The primary elbow extensor (straightens the forearm). Antagonist of biceps brachii. Essential for pushing and throwing.",
+      "englishSentence": "The triceps brachii is the muscle used to straighten the arm during a push-up or when throwing a ball.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "elbow extension",
+        "three heads",
+        "pushing",
+        "ثلاثية الرؤوس",
+        "مد كوع"
+      ]
+    },
+    {
+      "id": 3556,
+      "term": "rectus abdominis",
+      "arabic": "عضلة المستقيم البطني",
+      "latin": "musculus rectus abdominis",
+      "pronunciation": "ريكتوس أبدومينيس",
+      "definition": "العضلة العمودية في مقدمة البطن. مسؤولة عن ثني الجذع (الانحناء) ودعم البطن وضغط الأحشاء. تُشكّل 'عضلات البطن السداسية' عند تطوّرها. تفصلها اللبنة البيضاء في المنتصف.",
+      "definition_en": "The vertical anterior abdominal muscle. Responsible for trunk flexion (sit-ups), abdominal wall support, and compressing viscera. Forms 'six-pack' when developed. Divided by linea alba.",
+      "englishSentence": "The rectus abdominis is the 'six-pack' muscle that flexes the trunk during sit-ups.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "six-pack",
+        "trunk flexion",
+        "linea alba",
+        "مستقيم بطني",
+        "بطن"
+      ]
+    },
+    {
+      "id": 3557,
+      "term": "external oblique",
+      "arabic": "العضلة المائلة الخارجية",
+      "latin": "musculus obliquus externus abdominis",
+      "pronunciation": "إكستيرنال أوبليك",
+      "definition": "أسطح العضلة البطنية الخارجية الأوسع. ألياف تتجه نحو أسفل الداخل. تدعم البطن وتضغطه وتثني الجذع وتدوّره.",
+      "definition_en": "The most superficial broad abdominal wall muscle. Fibers directed inferiorly and medially. Supports and compresses the abdomen, flexes and rotates the trunk.",
+      "englishSentence": "The external obliques are responsible for trunk rotation and lateral bending of the spine.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "abdominal wall",
+        "trunk rotation",
+        "superficial",
+        "مائلة خارجية",
+        "بطن"
+      ]
+    },
+    {
+      "id": 3558,
+      "term": "iliopsoas",
+      "arabic": "العضلة الحرقفية القطنية",
+      "latin": "musculus iliopsoas",
+      "pronunciation": "إيليوسواس",
+      "definition": "أقوى عضلة مثنية للورك تتكون من عضلتين: القطنية الكبرى والحرقفية. تثني الفخذ على البطن (مثل رفع الركبة أثناء المشي والجري). مهمة للحفاظ على الوضعية الرأسية.",
+      "definition_en": "The most powerful hip flexor composed of two muscles: psoas major and iliacus. Flexes the thigh on the abdomen (lifting knee during walking and running). Important for upright posture.",
+      "englishSentence": "The iliopsoas pulls the thigh forward with each step during walking and running.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "hip flexor",
+        "psoas",
+        "iliacus",
+        "thigh",
+        "حرقفية قطنية",
+        "ثني ورك"
+      ]
+    },
+    {
+      "id": 3559,
+      "term": "gluteus maximus",
+      "arabic": "العضلة الألوية الكبرى",
+      "latin": "musculus gluteus maximus",
+      "pronunciation": "غلوتيوس ماكسيموس",
+      "definition": "أكبر عضلة في الجسم وأقواها. تمد الفخذ وتُدوّره خارجياً. ضرورية للقفز والجري وصعود السلالم والوقوف من الجلوس. تُشكّل كتلة الأردف.",
+      "definition_en": "The largest and most powerful muscle in the body. Extends and laterally rotates the thigh. Essential for jumping, running, climbing stairs, and rising from sitting. Forms the buttock mass.",
+      "englishSentence": "The gluteus maximus is activated powerfully when climbing stairs, sprinting, or rising from a squat.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "buttocks",
+        "hip extension",
+        "largest muscle",
+        "ألوية كبرى",
+        "أرداف"
+      ]
+    },
+    {
+      "id": 3560,
+      "term": "gluteus medius",
+      "arabic": "العضلة الألوية المتوسطة",
+      "latin": "musculus gluteus medius",
+      "pronunciation": "غلوتيوس ميديوس",
+      "definition": "عضلة على الجانب الخارجي للورك تُبعد الفخذ وتُثبّت الحوض أثناء المشي. شلّها يُسبّب مشية 'التواء الحوض' (مشية Trendelenburg). موقع شائع للحقن العضلي.",
+      "definition_en": "The lateral hip muscle that abducts the thigh and stabilizes the pelvis during walking. Its paralysis causes Trendelenburg gait (hip dropping). Common intramuscular injection site.",
+      "englishSentence": "The gluteus medius stabilizes the pelvis when standing on one leg, as in each step during walking.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "hip abductor",
+        "pelvic stability",
+        "Trendelenburg",
+        "ألوية متوسطة",
+        "ورك"
+      ]
+    },
+    {
+      "id": 3561,
+      "term": "quadriceps femoris",
+      "arabic": "عضلة ذات الرؤوس الأربعة الفخذية",
+      "latin": "musculus quadriceps femoris",
+      "pronunciation": "كواد ريسيبس فيموريس",
+      "definition": "مجموعة من أربع عضلات في مقدمة الفخذ تشترك في تمديد الركبة: المستقيمة الفخذية والواسعة الجانبية والواسعة الإنسية والواسعة المتوسطة. أقوى مجموعة عضلية في الجسم.",
+      "definition_en": "A group of four anterior thigh muscles that share knee extension: rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius. The most powerful muscle group in the body.",
+      "englishSentence": "The quadriceps femoris extends the knee to kick a ball and absorbs impact when landing from a jump.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "knee extension",
+        "four heads",
+        "anterior thigh",
+        "رباعية الرؤوس",
+        "ركبة"
+      ]
+    },
+    {
+      "id": 3562,
+      "term": "hamstrings",
+      "arabic": "عضلات الوتر المأبضي (المأبضية)",
+      "latin": "musculi ischiocurales",
+      "pronunciation": "هامسترينغز",
+      "definition": "مجموعة عضلات الفخذ الخلفية: ثنائية الرؤوس الفخذية، شبه الوتري، وشبه الغشائية. تثني الركبة وتمد الورك. كثيراً ما تُصاب بالشد أو التمزق في الرياضيين.",
+      "definition_en": "The posterior thigh muscle group: biceps femoris, semitendinosus, and semimembranosus. Flex the knee and extend the hip. Commonly strained or torn in athletes.",
+      "englishSentence": "The hamstrings decelerate the leg during running and help prevent the knee from hyperextending.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "posterior thigh",
+        "knee flexion",
+        "hip extension",
+        "مأبضية",
+        "فخذ خلفي"
+      ]
+    },
+    {
+      "id": 3563,
+      "term": "gastrocnemius",
+      "arabic": "عضلة الساق الضامة (الساقية)",
+      "latin": "musculus gastrocnemius",
+      "pronunciation": "غاستروكنيميوس",
+      "definition": "العضلة السطحية ذات الرأسين في الساق الخلفية. تُشكّل معظم بروز الساق. تثني الركبة وتُنفّذ الثني الأخمصي للقدم. تعمل مع النعلية عبر وتر أخيل.",
+      "definition_en": "The two-headed superficial calf muscle. Forms most of the calf bulge. Flexes the knee and performs plantar flexion. Works with soleus through the Achilles tendon.",
+      "englishSentence": "The gastrocnemius powers the push-off during walking and provides explosive force for jumping.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "calf muscle",
+        "plantar flexion",
+        "knee flexion",
+        "ساقية",
+        "بطة الساق"
+      ]
+    },
+    {
+      "id": 3564,
+      "term": "soleus",
+      "arabic": "عضلة النعلية",
+      "latin": "musculus soleus",
+      "pronunciation": "سوليوس",
+      "definition": "عضلة عميقة في الساق الخلفية تحت الساقية. تُنفّذ الثني الأخمصي للقدم فقط (لا تثني الركبة). تعمل مع الساقية عبر وتر أخيل. مهمة للوقوف والمشي ومنع تدفق الدم الوريدي للخلف.",
+      "definition_en": "A deep posterior leg muscle beneath the gastrocnemius. Performs plantar flexion only (doesn't flex knee). Works with gastrocnemius via Achilles tendon. Vital for standing, walking, and venous blood return.",
+      "englishSentence": "The soleus is called the 'peripheral heart' because its contractions help pump venous blood back to the heart.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "plantar flexion",
+        "deep calf",
+        "venous return",
+        "نعلية",
+        "ساق"
+      ]
+    },
+    {
+      "id": 3565,
+      "term": "tibialis anterior",
+      "arabic": "عضلة القصبة الأمامية",
+      "latin": "musculus tibialis anterior",
+      "pronunciation": "تيبياليس أنتيريور",
+      "definition": "العضلة الأمامية الرئيسية في الساق. تُنفّذ الثني الظهري للقدم (رفع الأصابع) وتُعكسها (تُميل القدم للداخل). ضرورية للمشي لمنع تلاشي أصابع القدم.",
+      "definition_en": "The primary anterior leg muscle. Performs dorsiflexion (raises foot) and foot inversion (tilts sole medially). Essential for walking to prevent toe dragging.",
+      "englishSentence": "Weakness of the tibialis anterior causes foot drop, where the toes drag along the ground during walking.",
+      "type": "muscle",
+      "chapter": 24,
+      "keywords": [
+        "dorsiflexion",
+        "inversion",
+        "foot drop",
+        "قصبة أمامية",
+        "رفع قدم"
+      ]
+    },
+    {
+      "id": 3566,
+      "term": "Achilles tendon",
+      "arabic": "وتر أخيل (وتر العرقوب)",
+      "latin": "tendo calcaneus",
+      "pronunciation": "أكيليز تيندون",
+      "definition": "أقوى وأسمك وتر في الجسم. يربط عضلتي الساقية والنعلية بعظمة الكعب (الكالكانيوس). يُنقل من خلاله قوة الثني الأخمصي. التهابه شائع في الرياضيين وقد يتمزق عند الجهد الشديد.",
+      "definition_en": "The strongest and thickest tendon in the body. Connects the gastrocnemius and soleus muscles to the calcaneus bone. Transmits plantar flexion force. Inflammation and rupture common in athletes.",
+      "englishSentence": "An Achilles tendon rupture produces a sudden sharp pain in the heel and inability to push off during walking.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "strongest tendon",
+        "calcaneus",
+        "calf muscles",
+        "وتر أخيل",
+        "كعب"
+      ]
+    },
+    {
+      "id": 3567,
+      "term": "linea alba",
+      "arabic": "اللبنة البيضاء",
+      "latin": "linea alba",
+      "pronunciation": "لينيا ألبا",
+      "definition": "شريط من الأنسجة الليفية يمتد عمودياً في منتصف البطن من الخنجرية إلى ارتفاق العانة. يفصل العضلتين المستقيمتين البطنيتين. تنتج عنه الفتق السري.",
+      "definition_en": "A band of fibrous tissue running vertically down the midline of the abdomen from xiphoid to pubic symphysis. Separates the two rectus abdominis muscles. Umbilical hernias form here.",
+      "englishSentence": "The linea alba is the central tendon where all abdominal muscles meet at the midline.",
+      "type": "concept",
+      "chapter": 24,
+      "keywords": [
+        "midline",
+        "abdominal tendon",
+        "umbilical hernia",
+        "لبنة بيضاء",
+        "وسط بطن"
+      ]
+    }
+  ]
+}

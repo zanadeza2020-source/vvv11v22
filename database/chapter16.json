@@ -1,0 +1,1548 @@
+{
+  "chapter": 16,
+  "title": "Human Cells",
+  "title_ar": "خلايا جسم الإنسان",
+  "title_en": "Human Cells",
+  "description": "جميع أنواع الخلايا في جسم الإنسان وبنيتها ووظائفها وأمراضها",
+  "terms": [
+    {
+      "id": 1601,
+      "term": "cell",
+      "arabic": "الخلية",
+      "latin": "cellula",
+      "pronunciation": "سيل",
+      "definition": "الوحدة الهيكلية والوظيفية الأساسية لجميع الكائنات الحية، يحتوي جسم الإنسان على نحو 37 تريليون خلية",
+      "definition_en": "The basic structural and functional unit of all living organisms; the human body contains approximately 37 trillion cells",
+      "englishSentence": "The cell is the basic unit of life; all tissues and organs are composed of specialized cells.",
+      "type": "concept",
+      "system": "علم الخلية",
+      "system_en": "Cell Biology",
+      "systemFunction": "تنفيذ جميع وظائف الحياة",
+      "systemFunction_en": "Execute all life functions",
+      "location": "جميع أنسجة وأعضاء الجسم",
+      "location_en": "All body tissues and organs",
+      "nearbyOrgans": [
+        "الأنسجة",
+        "الأعضاء",
+        "الغشاء الخلوي"
+      ],
+      "nearbyOrgans_en": [
+        "Tissues",
+        "Organs",
+        "Cell membrane"
+      ],
+      "diseases": [
+        {
+          "name": "سرطان الخلايا",
+          "name_en": "Cell Carcinoma",
+          "symptoms": [
+            "نمو غير منضبط",
+            "انتشار للأعضاء",
+            "ضعف عام"
+          ],
+          "symptoms_en": [
+            "Uncontrolled growth",
+            "Organ spread",
+            "General weakness"
+          ],
+          "treatments": [
+            "كيماوي",
+            "إشعاع",
+            "علاج موجه"
+          ],
+          "treatments_en": [
+            "Chemotherapy",
+            "Radiation",
+            "Targeted therapy"
+          ]
+        },
+        {
+          "name": "التلف الخلوي",
+          "name_en": "Cellular Damage",
+          "symptoms": [
+            "خلل وظيفي في الأعضاء",
+            "إجهاد عام"
+          ],
+          "symptoms_en": [
+            "Organ dysfunction",
+            "General fatigue"
+          ],
+          "treatments": [
+            "علاج السبب الأساسي",
+            "مضادات أكسدة"
+          ],
+          "treatments_en": [
+            "Treat underlying cause",
+            "Antioxidants"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "cell biology",
+        "cytology",
+        "خلية",
+        "37 trillion"
+      ]
+    },
+    {
+      "id": 1602,
+      "term": "red blood cell (erythrocyte)",
+      "arabic": "كرية الدم الحمراء (الكريه الحمراء)",
+      "latin": "erythrocytus",
+      "pronunciation": "ريد بلد سيل",
+      "definition": "خلية دم متخصصة تحتوي على الهيموغلوبين لنقل الأكسجين من الرئتين إلى أنسجة الجسم وثاني أكسيد الكربون بالاتجاه العكسي",
+      "definition_en": "A specialized blood cell containing hemoglobin to carry oxygen from the lungs to body tissues and CO2 in return",
+      "englishSentence": "Red blood cells contain hemoglobin that binds oxygen and delivers it to all body tissues.",
+      "type": "cell",
+      "system": "الجهاز الدوري",
+      "system_en": "Circulatory System",
+      "systemFunction": "نقل الأكسجين وثاني أكسيد الكربون",
+      "systemFunction_en": "Transport oxygen and CO2",
+      "location": "الدم والأوعية الدموية",
+      "location_en": "Blood and blood vessels",
+      "nearbyOrgans": [
+        "القلب",
+        "الرئتان",
+        "نخاع العظم"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Lungs",
+        "Bone marrow"
+      ],
+      "diseases": [
+        {
+          "name": "فقر الدم بالمنجل",
+          "name_en": "Sickle Cell Anemia",
+          "symptoms": [
+            "ألم شديد",
+            "تعب",
+            "فقر دم",
+            "أزمات انسداد الأوعية"
+          ],
+          "symptoms_en": [
+            "Severe pain",
+            "Fatigue",
+            "Anemia",
+            "Vaso-occlusive crises"
+          ],
+          "treatments": [
+            "هيدروكسيوريا",
+            "مسكنات",
+            "نقل دم",
+            "زرع خلايا جذعية"
+          ],
+          "treatments_en": [
+            "Hydroxyurea",
+            "Analgesics",
+            "Blood transfusion",
+            "Stem cell transplant"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "RBC",
+        "hemoglobin",
+        "erythrocyte",
+        "anemia",
+        "كرية حمراء",
+        "هيموغلوبين"
+      ]
+    },
+    {
+      "id": 1603,
+      "term": "white blood cell (leukocyte)",
+      "arabic": "كرية الدم البيضاء (الكريه البيضاء)",
+      "latin": "leucocytus",
+      "pronunciation": "وايت بلد سيل",
+      "definition": "مجموعة من خلايا الدم المتخصصة في الدفاع المناعي ضد العدوى والأجسام الغريبة، تشمل نيوتروفيل وليمفوسيت وحيدات وحامضيات وقاعديات",
+      "definition_en": "A group of blood cells specialized in immune defense against infections and foreign bodies, including neutrophils, lymphocytes, monocytes, eosinophils, and basophils",
+      "englishSentence": "White blood cells are the body's immune cells that defend against infections and foreign substances.",
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الدفاع المناعي وقتل الجراثيم والخلايا السرطانية",
+      "systemFunction_en": "Immune defense, killing germs and cancer cells",
+      "location": "الدم والأنسجة اللمفاوية",
+      "location_en": "Blood and lymphoid tissues",
+      "nearbyOrgans": [
+        "نخاع العظم",
+        "الطحال",
+        "الغدد اللمفاوية",
+        "الثيموس"
+      ],
+      "nearbyOrgans_en": [
+        "Bone marrow",
+        "Spleen",
+        "Lymph nodes",
+        "Thymus"
+      ],
+      "diseases": [
+        {
+          "name": "اللوكيميا (ابيضاض الدم)",
+          "name_en": "Leukemia",
+          "symptoms": [
+            "ارتفاع مفرط في كريات الدم البيضاء",
+            "عدوى متكررة",
+            "نزيف",
+            "إرهاق"
+          ],
+          "symptoms_en": [
+            "Excess WBC",
+            "Recurrent infection",
+            "Bleeding",
+            "Fatigue"
+          ],
+          "treatments": [
+            "كيماوي",
+            "إشعاع",
+            "زرع نخاع العظم"
+          ],
+          "treatments_en": [
+            "Chemotherapy",
+            "Radiation",
+            "Bone marrow transplant"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "WBC",
+        "leukocyte",
+        "neutrophil",
+        "lymphocyte",
+        "immunity",
+        "كرية بيضاء",
+        "مناعة"
+      ]
+    },
+    {
+      "id": 1604,
+      "term": "platelet (thrombocyte)",
+      "arabic": "الصفيحة الدموية",
+      "latin": "thrombocytus",
+      "pronunciation": "بليت-ليت",
+      "definition": "خلية دم صغيرة بدون نواة تلعب دوراً أساسياً في التخثر وإيقاف النزيف عبر تكوين سدادة الصفائح",
+      "definition_en": "Small anucleated blood cell playing a key role in clotting and stopping bleeding by forming a platelet plug",
+      "englishSentence": "Platelets are small cells that clump together to form blood clots and stop bleeding.",
+      "type": "cell",
+      "system": "الجهاز الدوري",
+      "system_en": "Circulatory System",
+      "systemFunction": "التخثر وإيقاف النزيف",
+      "systemFunction_en": "Coagulation and stopping bleeding",
+      "location": "الدم ونخاع العظم",
+      "location_en": "Blood and bone marrow",
+      "nearbyOrgans": [
+        "نخاع العظم",
+        "الكبد",
+        "الطحال"
+      ],
+      "nearbyOrgans_en": [
+        "Bone marrow",
+        "Liver",
+        "Spleen"
+      ],
+      "diseases": [
+        {
+          "name": "نقص الصفائح الدموية",
+          "name_en": "Thrombocytopenia",
+          "symptoms": [
+            "نزيف سهل",
+            "كدمات",
+            "نزيف اللثة",
+            "بقع دموية دقيقة"
+          ],
+          "symptoms_en": [
+            "Easy bleeding",
+            "Bruising",
+            "Gum bleeding",
+            "Petechiae"
+          ],
+          "treatments": [
+            "معالجة المسبب",
+            "كورتيكوستيرويدات",
+            "نقل صفائح",
+            "إزالة الطحال"
+          ],
+          "treatments_en": [
+            "Treat cause",
+            "Corticosteroids",
+            "Platelet transfusion",
+            "Splenectomy"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "platelet",
+        "thrombocyte",
+        "clotting",
+        "coagulation",
+        "صفيحة دموية",
+        "تخثر"
+      ]
+    },
+    {
+      "id": 1605,
+      "term": "neutrophil",
+      "arabic": "العدلة / النيوتروفيل",
+      "latin": "neutrophilum",
+      "pronunciation": "نيو-تر-فيل",
+      "definition": "أكثر كريات الدم البيضاء شيوعاً (60-70% من WBCs)، وهي الخط الأمامي للدفاع ضد البكتيريا عبر البلعمة",
+      "definition_en": "The most common white blood cell (60-70% of WBCs), the first line of defense against bacteria through phagocytosis",
+      "englishSentence": "Neutrophils are the most abundant white blood cells and are the first to respond to bacterial infection.",
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "البلعمة وقتل البكتيريا في الخط الأول للدفاع",
+      "systemFunction_en": "Phagocytosis and killing bacteria as first-line defense",
+      "location": "الدم وموقع العدوى",
+      "location_en": "Blood and infection sites",
+      "nearbyOrgans": [
+        "نخاع العظم",
+        "الدم",
+        "الأنسجة"
+      ],
+      "nearbyOrgans_en": [
+        "Bone marrow",
+        "Blood",
+        "Tissues"
+      ],
+      "diseases": [
+        {
+          "name": "نقص العدلات",
+          "name_en": "Neutropenia",
+          "symptoms": [
+            "عدوى متكررة",
+            "حمى",
+            "خطر إنتان"
+          ],
+          "symptoms_en": [
+            "Recurrent infections",
+            "Fever",
+            "Sepsis risk"
+          ],
+          "treatments": [
+            "G-CSF (فيلغراستيم)",
+            "مضادات حيوية وقائية"
+          ],
+          "treatments_en": [
+            "G-CSF (filgrastim)",
+            "Prophylactic antibiotics"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "neutrophil",
+        "phagocytosis",
+        "first line",
+        "عدلة",
+        "بلعمة"
+      ]
+    },
+    {
+      "id": 1606,
+      "term": "lymphocyte",
+      "arabic": "الليمفاوية",
+      "latin": "lymphocytus",
+      "pronunciation": "ليم-فو-سيت",
+      "definition": "كريات دم بيضاء تشمل خلايا B (تنتج الأجسام المضادة) وخلايا T (قاتلة وذاكرة ومساعدة) وخلايا NK الطبيعية القاتلة",
+      "definition_en": "White blood cells including B cells (produce antibodies), T cells (killer, memory, helper), and natural killer (NK) cells",
+      "englishSentence": "Lymphocytes include B cells that produce antibodies and T cells that kill infected cells.",
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "المناعة التكيفية وإنتاج الأجسام المضادة وقتل الخلايا المصابة",
+      "systemFunction_en": "Adaptive immunity, antibody production, and killing infected cells",
+      "location": "الدم والأنسجة اللمفاوية",
+      "location_en": "Blood and lymphoid tissues",
+      "nearbyOrgans": [
+        "الغدد اللمفاوية",
+        "الطحال",
+        "الثيموس"
+      ],
+      "nearbyOrgans_en": [
+        "Lymph nodes",
+        "Spleen",
+        "Thymus"
+      ],
+      "diseases": [
+        {
+          "name": "HIV/AIDS",
+          "name_en": "HIV/AIDS",
+          "symptoms": [
+            "انخفاض خلايا CD4+ T",
+            "عدوى انتهازية",
+            "إرهاق"
+          ],
+          "symptoms_en": [
+            "Low CD4+ T cells",
+            "Opportunistic infections",
+            "Fatigue"
+          ],
+          "treatments": [
+            "مضادات الفيروسات القهقرية (ART)"
+          ],
+          "treatments_en": [
+            "Antiretroviral therapy (ART)"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "B cell",
+        "T cell",
+        "NK cell",
+        "antibody",
+        "lymphocyte",
+        "ليمفاوية",
+        "مناعة تكيفية"
+      ]
+    },
+    {
+      "id": 1607,
+      "term": "monocyte & macrophage",
+      "arabic": "الحيدة والضامة (الماكروفاج)",
+      "latin": "monocytus et macrophagus",
+      "pronunciation": "مون-أو-سيت اند ماك-رو-فيج",
+      "definition": "الحيدة خلية دم بيضاء كبيرة تتحول في الأنسجة إلى ضامة تلتهم الأجسام الغريبة والميكروبات وخلايا الجسم الميتة",
+      "definition_en": "Monocyte is a large WBC that transforms in tissues into a macrophage that engulfs foreign bodies, microbes, and dead cells",
+      "englishSentence": "Monocytes differentiate into macrophages that engulf pathogens, dead cells, and foreign substances.",
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "البلعمة وتنظيف الأنسجة وتقديم المستضدات للخلايا المناعية",
+      "systemFunction_en": "Phagocytosis, tissue cleanup, and antigen presentation",
+      "location": "الدم والأنسجة",
+      "location_en": "Blood and tissues",
+      "nearbyOrgans": [
+        "الرئتان",
+        "الكبد",
+        "الطحال"
+      ],
+      "nearbyOrgans_en": [
+        "Lungs",
+        "Liver",
+        "Spleen"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب الأعضاء المزمن",
+          "name_en": "Chronic Organ Inflammation",
+          "symptoms": [
+            "إفراز مفرط للسيتوكينات المشجعة للالتهاب"
+          ],
+          "symptoms_en": [
+            "Excessive pro-inflammatory cytokine release"
+          ],
+          "treatments": [
+            "مثبطات المناعة",
+            "الكورتيزون"
+          ],
+          "treatments_en": [
+            "Immunosuppressants",
+            "Cortisone"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "monocyte",
+        "macrophage",
+        "phagocytosis",
+        "foam cell",
+        "حيدة",
+        "ضامة"
+      ]
+    },
+    {
+      "id": 1608,
+      "term": "hepatocyte",
+      "arabic": "خلية الكبد",
+      "latin": "hepatocytus",
+      "pronunciation": "هيب-أ-تو-سيت",
+      "definition": "الخلية الرئيسية في الكبد تشكل 70-85% من كتلة الكبد، مسؤولة عن عمليات الاستقلاب والتخليص السمي وإفراز العصارة الصفراوية",
+      "definition_en": "The main liver cell making up 70-85% of the liver mass, responsible for metabolism, detoxification, and bile secretion",
+      "englishSentence": "Hepatocytes are the main liver cells responsible for metabolism, detoxification, and bile production.",
+      "type": "cell",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "التمثيل الغذائي وتصنيع البروتينات وإفراز الصفراء والتخلص من السموم",
+      "systemFunction_en": "Metabolism, protein synthesis, bile secretion, and detoxification",
+      "location": "حمة الكبد",
+      "location_en": "Liver parenchyma",
+      "nearbyOrgans": [
+        "الكبد",
+        "المرارة",
+        "الأوعية الكبدية"
+      ],
+      "nearbyOrgans_en": [
+        "Liver",
+        "Gallbladder",
+        "Hepatic vessels"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب الكبد الفيروسي",
+          "name_en": "Viral Hepatitis",
+          "symptoms": [
+            "يرقان",
+            "ألم بطني يمين",
+            "إرهاق",
+            "غثيان"
+          ],
+          "symptoms_en": [
+            "Jaundice",
+            "Right abdominal pain",
+            "Fatigue",
+            "Nausea"
+          ],
+          "treatments": [
+            "أدوية مضادة للفيروس C (سوفوسبوفير)",
+            "لقاح للوقاية من B"
+          ],
+          "treatments_en": [
+            "Antivirals for Hep C (sofosbuvir)",
+            "Vaccine for Hep B prevention"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "liver cell",
+        "hepatitis",
+        "cirrhosis",
+        "hepatocyte",
+        "خلية كبدية"
+      ]
+    },
+    {
+      "id": 1609,
+      "term": "pneumocyte",
+      "arabic": "خلية الرئة (الخلية الهوائية)",
+      "latin": "pneumocytus",
+      "pronunciation": "نيو-مو-سيت",
+      "definition": "خلايا الحويصلات الهوائية، نوعان: الأول (رفيع لتبادل الغازات) والثاني (ينتج المادة الخافضة للتوتر السطحي Surfactant)",
+      "definition_en": "Alveolar cells of two types: type I (thin for gas exchange) and type II (produces surfactant)",
+      "englishSentence": "Type I pneumocytes enable gas exchange, while type II pneumocytes produce surfactant to prevent alveolar collapse.",
+      "type": "cell",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات وإنتاج المادة الخافضة للتوتر السطحي",
+      "systemFunction_en": "Gas exchange and surfactant production",
+      "location": "الحويصلات الهوائية في الرئتين",
+      "location_en": "Lung alveoli",
+      "nearbyOrgans": [
+        "الرئتان",
+        "الشعيرات الدموية",
+        "الغشاء البلوري"
+      ],
+      "nearbyOrgans_en": [
+        "Lungs",
+        "Capillaries",
+        "Pleura"
+      ],
+      "diseases": [
+        {
+          "name": "الضائقة التنفسية عند الخدج",
+          "name_en": "Respiratory Distress Syndrome (RDS)",
+          "symptoms": [
+            "ضيق تنفس شديد عند الخدج",
+            "زرقة",
+            "فشل تنفسي"
+          ],
+          "symptoms_en": [
+            "Severe dyspnea in premature infants",
+            "Cyanosis",
+            "Respiratory failure"
+          ],
+          "treatments": [
+            "Surfactant خارجي",
+            "تهوية اصطناعية"
+          ],
+          "treatments_en": [
+            "Exogenous surfactant",
+            "Mechanical ventilation"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "type I",
+        "type II",
+        "surfactant",
+        "alveolar",
+        "pneumocyte",
+        "خلية رئوية"
+      ]
+    },
+    {
+      "id": 1610,
+      "term": "neuron",
+      "arabic": "الخلية العصبية (النيورون)",
+      "latin": "neuron",
+      "pronunciation": "نيور-ون",
+      "definition": "الوحدة الوظيفية الأساسية للجهاز العصبي، تتكون من جسم الخلية والتشعبات (Dendrites) والمحور (Axon) لنقل السيالات",
+      "definition_en": "The basic functional unit of the nervous system, consisting of cell body, dendrites, and axon for signal transmission",
+      "englishSentence": "Neurons are specialized cells that transmit electrical and chemical signals throughout the nervous system.",
+      "type": "cell",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "نقل السيالات الكهربائية والكيميائية",
+      "systemFunction_en": "Transmit electrical and chemical signals",
+      "location": "الدماغ والحبل الشوكي والأعصاب",
+      "location_en": "Brain, spinal cord, and nerves",
+      "nearbyOrgans": [
+        "الخلايا الدبقية",
+        "الوصلات العصبية",
+        "الناقلات العصبية"
+      ],
+      "nearbyOrgans_en": [
+        "Glial cells",
+        "Synapses",
+        "Neurotransmitters"
+      ],
+      "diseases": [
+        {
+          "name": "التنكس العصبي",
+          "name_en": "Neurodegeneration",
+          "symptoms": [
+            "فقدان الذاكرة",
+            "ضعف حركي",
+            "اضطراب الإدراك"
+          ],
+          "symptoms_en": [
+            "Memory loss",
+            "Motor weakness",
+            "Cognitive decline"
+          ],
+          "treatments": [
+            "علاج داعم",
+            "أدوية مخففة للأعراض"
+          ],
+          "treatments_en": [
+            "Supportive care",
+            "Symptomatic medications"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "neuron",
+        "axon",
+        "dendrite",
+        "synapse",
+        "action potential",
+        "نيورون",
+        "خلية عصبية"
+      ]
+    },
+    {
+      "id": 1611,
+      "term": "glial cells",
+      "arabic": "الخلايا الدبقية",
+      "latin": "neuroglia",
+      "pronunciation": "غليال سيلز",
+      "definition": "خلايا داعمة للجهاز العصبي تشمل: النجمية (Astrocytes) والدبق القليل التفريعات (Oligodendrocytes) والدبق الصغير (Microglia) وخلايا إيبينديما",
+      "definition_en": "Supporting cells of the nervous system including astrocytes, oligodendrocytes, microglia, and ependymal cells",
+      "englishSentence": "Glial cells support, protect, and nourish neurons and are the most numerous cells in the brain.",
+      "type": "cell",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "دعم الخلايا العصبية وتغذيتها وحمايتها",
+      "systemFunction_en": "Support, nourish, and protect neurons",
+      "location": "الدماغ والحبل الشوكي",
+      "location_en": "Brain and spinal cord",
+      "nearbyOrgans": [
+        "النيورونات",
+        "غمد المايلين",
+        "الدم الدماغي"
+      ],
+      "nearbyOrgans_en": [
+        "Neurons",
+        "Myelin sheath",
+        "Cerebral blood"
+      ],
+      "diseases": [
+        {
+          "name": "ورم الدبق (Glioblastoma)",
+          "name_en": "Glioblastoma",
+          "symptoms": [
+            "صداع متصاعد",
+            "نوبات تشنجية",
+            "تغيير الشخصية"
+          ],
+          "symptoms_en": [
+            "Escalating headache",
+            "Seizures",
+            "Personality change"
+          ],
+          "treatments": [
+            "جراحة",
+            "إشعاع",
+            "تيموزولوميد"
+          ],
+          "treatments_en": [
+            "Surgery",
+            "Radiation",
+            "Temozolomide"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "astrocyte",
+        "microglia",
+        "oligodendrocyte",
+        "glioma",
+        "دبقية",
+        "خلايا داعمة"
+      ]
+    },
+    {
+      "id": 1612,
+      "term": "cardiomyocyte",
+      "arabic": "خلية عضلة القلب",
+      "latin": "cardiomyocytus",
+      "pronunciation": "كار-دياو-ماي-أو-سيت",
+      "definition": "خلية عضلية قلبية متخصصة ذات وصلات بينية (Intercalated discs) تتيح الانقباض المتزامن وتوصيل الكهرباء",
+      "definition_en": "A specialized cardiac muscle cell with intercalated discs enabling synchronized contraction and electrical conduction",
+      "englishSentence": "Cardiomyocytes are the heart muscle cells that contract rhythmically to pump blood.",
+      "type": "cell",
+      "system": "القلب والأوعية الدموية",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "الانقباض الإيقاعي لضخ الدم",
+      "systemFunction_en": "Rhythmic contraction to pump blood",
+      "location": "عضلة القلب (ميوكارديوم)",
+      "location_en": "Heart muscle (myocardium)",
+      "nearbyOrgans": [
+        "القلب",
+        "الشرايين التاجية",
+        "الجهاز الناقل للقلب"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Coronary arteries",
+        "Cardiac conduction system"
+      ],
+      "diseases": [
+        {
+          "name": "اعتلال عضلة القلب",
+          "name_en": "Cardiomyopathy",
+          "symptoms": [
+            "ضيق تنفس",
+            "تورم الساقين",
+            "إرهاق",
+            "خفقان"
+          ],
+          "symptoms_en": [
+            "Dyspnea",
+            "Leg swelling",
+            "Fatigue",
+            "Palpitations"
+          ],
+          "treatments": [
+            "مثبطات ACE",
+            "بيتا بلوكرز",
+            "زرع القلب"
+          ],
+          "treatments_en": [
+            "ACE inhibitors",
+            "Beta blockers",
+            "Heart transplant"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "cardiomyocyte",
+        "myocardium",
+        "heart cell",
+        "intercalated disc",
+        "خلية قلبية"
+      ]
+    },
+    {
+      "id": 1613,
+      "term": "chondrocyte",
+      "arabic": "خلية الغضروف",
+      "latin": "chondrocytus",
+      "pronunciation": "كون-دروا-سيت",
+      "definition": "الخلية المسؤولة عن إنتاج وصيانة المصفوفة خارج الخلوية للغضروف من كولاجين وبروتيوغليكان",
+      "definition_en": "The cell responsible for producing and maintaining the extracellular matrix of cartilage from collagen and proteoglycans",
+      "englishSentence": "Chondrocytes produce and maintain cartilage matrix, providing structure and resilience to cartilage.",
+      "type": "cell",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "إنتاج وصيانة نسيج الغضروف",
+      "systemFunction_en": "Produce and maintain cartilage tissue",
+      "location": "داخل الغضاريف في المفاصل والأنف والأذن",
+      "location_en": "Inside cartilage in joints, nose, and ears",
+      "nearbyOrgans": [
+        "الغضروف",
+        "المفاصل",
+        "العظام"
+      ],
+      "nearbyOrgans_en": [
+        "Cartilage",
+        "Joints",
+        "Bones"
+      ],
+      "diseases": [
+        {
+          "name": "الفصال العظمي (هشاشة الغضروف)",
+          "name_en": "Osteoarthritis",
+          "symptoms": [
+            "ألم مفصلي",
+            "تيبس",
+            "فقدان المرونة"
+          ],
+          "symptoms_en": [
+            "Joint pain",
+            "Stiffness",
+            "Loss of flexibility"
+          ],
+          "treatments": [
+            "علاج طبيعي",
+            "حقن هيالورونيك",
+            "بديل مفصل"
+          ],
+          "treatments_en": [
+            "Physical therapy",
+            "Hyaluronic injection",
+            "Joint replacement"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "chondrocyte",
+        "cartilage",
+        "osteoarthritis",
+        "خلية غضروف"
+      ]
+    },
+    {
+      "id": 1614,
+      "term": "enterocyte",
+      "arabic": "خلية الأمعاء الدقيقة",
+      "latin": "enterocytus",
+      "pronunciation": "إن-تير-أو-سيت",
+      "definition": "الخلايا الطلائية العمودية التي تبطن الأمعاء الدقيقة وتمتص المواد الغذائية عبر الزغابات المعوية",
+      "definition_en": "Columnar epithelial cells lining the small intestine that absorb nutrients through intestinal villi",
+      "englishSentence": "Enterocytes line the small intestine and are responsible for nutrient absorption.",
+      "type": "cell",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "امتصاص المواد الغذائية والمعادن والفيتامينات",
+      "systemFunction_en": "Absorb nutrients, minerals, and vitamins",
+      "location": "بطانة الأمعاء الدقيقة (الزغابات)",
+      "location_en": "Small intestinal lining (villi)",
+      "nearbyOrgans": [
+        "الأمعاء الدقيقة",
+        "الأوعية اللمفاوية",
+        "الكبد"
+      ],
+      "nearbyOrgans_en": [
+        "Small intestine",
+        "Lymphatics",
+        "Liver"
+      ],
+      "diseases": [
+        {
+          "name": "مرض السيلياك",
+          "name_en": "Celiac Disease",
+          "symptoms": [
+            "إسهال",
+            "انتفاخ",
+            "فقدان وزن",
+            "سوء امتصاص"
+          ],
+          "symptoms_en": [
+            "Diarrhea",
+            "Bloating",
+            "Weight loss",
+            "Malabsorption"
+          ],
+          "treatments": [
+            "حمية خالية من الغلوتين"
+          ],
+          "treatments_en": [
+            "Gluten-free diet"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "enterocyte",
+        "villi",
+        "absorption",
+        "celiac",
+        "خلية معوية",
+        "امتصاص"
+      ]
+    },
+    {
+      "id": 1615,
+      "term": "beta cell (pancreatic)",
+      "arabic": "خلية بيتا البنكرياسية",
+      "latin": "cellula beta pancreatis",
+      "pronunciation": "بي-تا سيل",
+      "definition": "خلايا جزر لانغرهانس في البنكرياس المسؤولة عن إنتاج وإفراز هرمون الأنسولين لتنظيم سكر الدم",
+      "definition_en": "Cells of the Islets of Langerhans in the pancreas responsible for producing and secreting insulin to regulate blood sugar",
+      "englishSentence": "Beta cells in the pancreas produce insulin that regulates blood glucose levels.",
+      "type": "cell",
+      "system": "الغدد الصماء",
+      "system_en": "Endocrine System",
+      "systemFunction": "إنتاج الأنسولين لخفض سكر الدم",
+      "systemFunction_en": "Produce insulin to lower blood sugar",
+      "location": "جزر لانغرهانس في البنكرياس",
+      "location_en": "Islets of Langerhans in the pancreas",
+      "nearbyOrgans": [
+        "البنكرياس",
+        "الكبد",
+        "العضلات",
+        "خلايا ألفا"
+      ],
+      "nearbyOrgans_en": [
+        "Pancreas",
+        "Liver",
+        "Muscles",
+        "Alpha cells"
+      ],
+      "diseases": [
+        {
+          "name": "السكري من النوع الأول",
+          "name_en": "Type 1 Diabetes",
+          "symptoms": [
+            "تدمير مناعي لخلايا بيتا",
+            "ارتفاع السكر",
+            "عطش",
+            "تبول مفرط"
+          ],
+          "symptoms_en": [
+            "Autoimmune beta cell destruction",
+            "High blood sugar",
+            "Thirst",
+            "Polyuria"
+          ],
+          "treatments": [
+            "أنسولين خارجي",
+            "مضخة الأنسولين",
+            "زرع البنكرياس"
+          ],
+          "treatments_en": [
+            "Exogenous insulin",
+            "Insulin pump",
+            "Pancreas transplant"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "beta cell",
+        "insulin",
+        "diabetes",
+        "islets of Langerhans",
+        "خلية بيتا",
+        "أنسولين"
+      ]
+    },
+    {
+      "id": 1616,
+      "term": "mast cell",
+      "arabic": "الخلية البدينة (الخلية السارية)",
+      "latin": "mastocytus",
+      "pronunciation": "ماست سيل",
+      "definition": "خلية مناعية توجد في الأنسجة الضامة والأغشية المخاطية، تحتوي على حبيبات من الهستامين وتلعب دوراً مركزياً في الحساسية",
+      "definition_en": "An immune cell found in connective tissue and mucous membranes, containing histamine granules and playing a central role in allergy",
+      "englishSentence": "Mast cells release histamine and other chemicals during allergic reactions.",
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الاستجابة الفورية للحساسية والمشاركة في الالتهاب",
+      "systemFunction_en": "Immediate allergic response and participation in inflammation",
+      "location": "الجلد والأنسجة المخاطية والرئة",
+      "location_en": "Skin, mucosal tissues, and lungs",
+      "nearbyOrgans": [
+        "الجلد",
+        "الجهاز التنفسي",
+        "الجهاز الهضمي"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Respiratory tract",
+        "Digestive system"
+      ],
+      "diseases": [
+        {
+          "name": "الحساسية الحادة",
+          "name_en": "Anaphylaxis",
+          "symptoms": [
+            "ضيق تنفس مفاجئ",
+            "انخفاض ضغط الدم",
+            "طفح جلدي",
+            "صدمة"
+          ],
+          "symptoms_en": [
+            "Sudden dyspnea",
+            "Low blood pressure",
+            "Rash",
+            "Shock"
+          ],
+          "treatments": [
+            "أدرينالين (إيبي-بن)",
+            "مضادات هستامين",
+            "كورتيزون"
+          ],
+          "treatments_en": [
+            "Epinephrine (Epi-pen)",
+            "Antihistamines",
+            "Cortisone"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "mast cell",
+        "histamine",
+        "allergy",
+        "anaphylaxis",
+        "بدينة",
+        "هستامين"
+      ]
+    },
+    {
+      "id": 1617,
+      "term": "fibroblast",
+      "arabic": "الأرومة الليفية",
+      "latin": "fibroblastus",
+      "pronunciation": "فاي-برو-بلاست",
+      "definition": "أكثر خلايا النسيج الضام شيوعاً، مسؤولة عن إنتاج الكولاجين والإيلاستين ومكونات المصفوفة خارج الخلوية",
+      "definition_en": "The most common connective tissue cell, responsible for producing collagen, elastin, and extracellular matrix components",
+      "englishSentence": "Fibroblasts produce collagen and extracellular matrix, playing a key role in wound healing.",
+      "type": "cell",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "إنتاج الكولاجين وبناء المصفوفة خارج الخلوية وإصلاح الجروح",
+      "systemFunction_en": "Collagen production, ECM building, and wound repair",
+      "location": "النسيج الضام في جميع أنحاء الجسم",
+      "location_en": "Connective tissue throughout the body",
+      "nearbyOrgans": [
+        "الجلد",
+        "العضلات",
+        "العظام",
+        "الأعضاء"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Muscles",
+        "Bones",
+        "Organs"
+      ],
+      "diseases": [
+        {
+          "name": "التليف",
+          "name_en": "Fibrosis",
+          "symptoms": [
+            "تصلب الأنسجة",
+            "فقدان الوظيفة",
+            "ندبات داخلية"
+          ],
+          "symptoms_en": [
+            "Tissue stiffening",
+            "Loss of function",
+            "Internal scarring"
+          ],
+          "treatments": [
+            "مضادات التليف",
+            "إدارة المسبب"
+          ],
+          "treatments_en": [
+            "Anti-fibrotic agents",
+            "Manage underlying cause"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "fibroblast",
+        "collagen",
+        "ECM",
+        "wound healing",
+        "أرومة ليفية",
+        "كولاجين"
+      ]
+    },
+    {
+      "id": 1618,
+      "term": "oocyte (egg cell)",
+      "arabic": "البويضة",
+      "latin": "oocytus",
+      "pronunciation": "أو-أو-سيت",
+      "definition": "الخلية التناسلية الأنثوية الكبيرة غير المتحركة التي تحتوي على النصف الأنثوي من المادة الوراثية",
+      "definition_en": "The large, non-motile female reproductive cell containing the female half of genetic material",
+      "englishSentence": "The oocyte is the female egg cell that, when fertilized by sperm, develops into an embryo.",
+      "type": "cell",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "تحمل الكروموسومات الأنثوية وتُخصَّب لتكوين الجنين",
+      "systemFunction_en": "Carries female chromosomes and is fertilized to form an embryo",
+      "location": "المبيضان",
+      "location_en": "Ovaries",
+      "nearbyOrgans": [
+        "المبيض",
+        "قناة فالوب",
+        "الرحم"
+      ],
+      "nearbyOrgans_en": [
+        "Ovary",
+        "Fallopian tube",
+        "Uterus"
+      ],
+      "diseases": [
+        {
+          "name": "فشل مبكر في المبيض",
+          "name_en": "Premature Ovarian Failure",
+          "symptoms": [
+            "انقطاع دورة مبكراً",
+            "عقم",
+            "هبات ساخنة"
+          ],
+          "symptoms_en": [
+            "Early cycle cessation",
+            "Infertility",
+            "Hot flashes"
+          ],
+          "treatments": [
+            "هرمونات بديلة",
+            "IVF بيضة مستعارة"
+          ],
+          "treatments_en": [
+            "Replacement hormones",
+            "IVF with donor eggs"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "egg cell",
+        "oocyte",
+        "IVF",
+        "chromosome",
+        "بويضة",
+        "تخصيب"
+      ]
+    },
+    {
+      "id": 1619,
+      "term": "sperm cell (spermatozoon)",
+      "arabic": "الحيوان المنوي",
+      "latin": "spermatozoon",
+      "pronunciation": "سبيرم سيل",
+      "definition": "أصغر خلية في الجسم وأكثرها قدرة على الحركة، تحمل الكروموسومات الذكرية وتُخصِّب البويضة لتكوين الجنين",
+      "definition_en": "The smallest and most motile cell in the body, carrying male chromosomes to fertilize the egg and form an embryo",
+      "englishSentence": "Sperm cells carry the paternal genetic material and swim to fertilize the female egg.",
+      "type": "cell",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "نقل الكروموسومات الذكرية وتخصيب البويضة",
+      "systemFunction_en": "Carry male chromosomes and fertilize the egg",
+      "location": "الخصيتان والبربخ والسائل المنوي",
+      "location_en": "Testes, epididymis, and semen",
+      "nearbyOrgans": [
+        "الخصيتان",
+        "البربخ",
+        "الأسهر"
+      ],
+      "nearbyOrgans_en": [
+        "Testes",
+        "Epididymis",
+        "Vas deferens"
+      ],
+      "diseases": [
+        {
+          "name": "عقم ذكوري",
+          "name_en": "Male Infertility",
+          "symptoms": [
+            "قلة الحيوانات المنوية",
+            "ضعف الحركة",
+            "تشوه الشكل"
+          ],
+          "symptoms_en": [
+            "Low sperm count",
+            "Poor motility",
+            "Abnormal morphology"
+          ],
+          "treatments": [
+            "IVF",
+            "ICSI",
+            "تصحيح هرموني"
+          ],
+          "treatments_en": [
+            "IVF",
+            "ICSI",
+            "Hormonal correction"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "sperm",
+        "spermatozoon",
+        "male fertility",
+        "ICSI",
+        "حيوان منوي"
+      ]
+    },
+    {
+      "id": 1620,
+      "term": "T lymphocyte (T cell)",
+      "arabic": "الخلية التائية",
+      "latin": "lymphocytus T",
+      "pronunciation": "تي سيل",
+      "definition": "خلايا مناعية تتمايز في الغدة الثيموسية، تشمل خلايا T المساعدة (CD4+) وخلايا T السامة للخلايا (CD8+) وخلايا T الذاكرة",
+      "definition_en": "Immune cells that mature in the thymus gland, including helper T cells (CD4+), cytotoxic T cells (CD8+), and memory T cells",
+      "englishSentence": "T cells are central to adaptive immunity; helper T cells coordinate responses while cytotoxic T cells kill infected cells.",
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "قيادة الاستجابة المناعية التكيفية وقتل الخلايا المصابة والسرطانية",
+      "systemFunction_en": "Lead adaptive immune response and kill infected and cancer cells",
+      "location": "الدم والغدد اللمفاوية والثيموس",
+      "location_en": "Blood, lymph nodes, and thymus",
+      "nearbyOrgans": [
+        "الثيموس",
+        "الغدد اللمفاوية",
+        "الطحال"
+      ],
+      "nearbyOrgans_en": [
+        "Thymus",
+        "Lymph nodes",
+        "Spleen"
+      ],
+      "diseases": [
+        {
+          "name": "الإيدز (HIV)",
+          "name_en": "AIDS (HIV)",
+          "symptoms": [
+            "تدمير خلايا CD4+",
+            "انهيار المناعة",
+            "عدوى انتهازية"
+          ],
+          "symptoms_en": [
+            "CD4+ destruction",
+            "Immune collapse",
+            "Opportunistic infections"
+          ],
+          "treatments": [
+            "مضادات الفيروسات القهقرية"
+          ],
+          "treatments_en": [
+            "Antiretroviral therapy"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "CD4",
+        "CD8",
+        "T helper",
+        "cytotoxic",
+        "T cell",
+        "خلية تائية",
+        "مناعة"
+      ]
+    },
+    {
+      "id": 1621,
+      "term": "B lymphocyte (B cell)",
+      "arabic": "الخلية البائية",
+      "latin": "lymphocytus B",
+      "pronunciation": "بي سيل",
+      "definition": "خلايا مناعية تتمايز في نخاع العظم وتنتج الأجسام المضادة (الغلوبيولين المناعي) عند التعرض للمستضدات",
+      "definition_en": "Immune cells that mature in bone marrow and produce antibodies (immunoglobulins) upon exposure to antigens",
+      "englishSentence": "B cells produce antibodies that neutralize pathogens and mark them for destruction.",
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "إنتاج الأجسام المضادة والمناعة الخلطية وذاكرة المناعة",
+      "systemFunction_en": "Antibody production, humoral immunity, and immune memory",
+      "location": "نخاع العظم والدم والغدد اللمفاوية",
+      "location_en": "Bone marrow, blood, and lymph nodes",
+      "nearbyOrgans": [
+        "نخاع العظم",
+        "الطحال",
+        "الغدد اللمفاوية"
+      ],
+      "nearbyOrgans_en": [
+        "Bone marrow",
+        "Spleen",
+        "Lymph nodes"
+      ],
+      "diseases": [
+        {
+          "name": "الورم النقوي المتعدد",
+          "name_en": "Multiple Myeloma",
+          "symptoms": [
+            "ألم عظام",
+            "فقر دم",
+            "فشل كلوي",
+            "كسور مرضية"
+          ],
+          "symptoms_en": [
+            "Bone pain",
+            "Anemia",
+            "Renal failure",
+            "Pathological fractures"
+          ],
+          "treatments": [
+            "مثبطات البروتيازوم",
+            "دثانيوميد",
+            "زرع خلايا جذعية"
+          ],
+          "treatments_en": [
+            "Proteasome inhibitors",
+            "Daratumumab",
+            "Stem cell transplant"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "B cell",
+        "antibody",
+        "immunoglobulin",
+        "humoral immunity",
+        "خلية بائية",
+        "أجسام مضادة"
+      ]
+    },
+    {
+      "id": 1622,
+      "term": "natural killer cell (NK cell)",
+      "arabic": "الخلية القاتلة الطبيعية",
+      "latin": "cellula interfectrix naturalis",
+      "pronunciation": "إن-كي سيل",
+      "definition": "خلية مناعية لا تحتاج إلى تحسيس مسبق لتقتل الخلايا المصابة بالفيروسات والخلايا السرطانية",
+      "definition_en": "An immune cell that does not need prior sensitization to kill virus-infected cells and cancer cells",
+      "englishSentence": "Natural killer cells destroy virus-infected cells and cancer cells without prior sensitization.",
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "قتل الخلايا السرطانية والمصابة بالفيروسات فور اكتشافها",
+      "systemFunction_en": "Kill cancer and virus-infected cells immediately upon detection",
+      "location": "الدم والنسيج الليمفاوي",
+      "location_en": "Blood and lymphoid tissue",
+      "nearbyOrgans": [
+        "الطحال",
+        "الغدد اللمفاوية",
+        "الكبد"
+      ],
+      "nearbyOrgans_en": [
+        "Spleen",
+        "Lymph nodes",
+        "Liver"
+      ],
+      "diseases": [
+        {
+          "name": "نقص نشاط خلايا NK",
+          "name_en": "NK Cell Deficiency",
+          "symptoms": [
+            "قابلية مفرطة للعدوى الفيروسية والسرطانات"
+          ],
+          "symptoms_en": [
+            "High susceptibility to viral infections and cancers"
+          ],
+          "treatments": [
+            "دعم مناعي",
+            "زرع خلايا جذعية"
+          ],
+          "treatments_en": [
+            "Immune support",
+            "Stem cell transplant"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "NK cell",
+        "innate immunity",
+        "cancer killer",
+        "قاتلة طبيعية"
+      ]
+    },
+    {
+      "id": 1623,
+      "term": "eosinophil",
+      "arabic": "الحمضة / اليوزينية",
+      "latin": "eosinophilum",
+      "pronunciation": "إي-أو-زين-أو-فيل",
+      "definition": "كريات دم بيضاء تشكل 1-4% من WBCs، متخصصة في محاربة الطفيليات والتفاعلات التحسسية",
+      "definition_en": "White blood cells comprising 1-4% of WBCs, specialized in fighting parasites and allergic reactions",
+      "englishSentence": "Eosinophils fight parasitic infections and are elevated in allergic conditions.",
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "مكافحة الطفيليات والتفاعلات التحسسية",
+      "systemFunction_en": "Combat parasites and allergic reactions",
+      "location": "الدم والأنسجة",
+      "location_en": "Blood and tissues",
+      "nearbyOrgans": [
+        "نخاع العظم",
+        "الدم",
+        "الأنسجة المصابة بطفيليات"
+      ],
+      "nearbyOrgans_en": [
+        "Bone marrow",
+        "Blood",
+        "Parasite-infected tissues"
+      ],
+      "diseases": [
+        {
+          "name": "فرط الحمضات",
+          "name_en": "Hypereosinophilia",
+          "symptoms": [
+            "تلف القلب والرئة والجلد",
+            "أعراض الأعضاء المتضررة"
+          ],
+          "symptoms_en": [
+            "Heart, lung, skin damage",
+            "Symptoms of affected organs"
+          ],
+          "treatments": [
+            "كورتيكوستيرويدات",
+            "علاج المسبب"
+          ],
+          "treatments_en": [
+            "Corticosteroids",
+            "Treat underlying cause"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "eosinophil",
+        "allergy",
+        "parasites",
+        "حمضة",
+        "يوزينية"
+      ]
+    },
+    {
+      "id": 1624,
+      "term": "dendritic cell",
+      "arabic": "الخلية التغصنية",
+      "latin": "cellula dendritica",
+      "pronunciation": "دين-دريت-يك سيل",
+      "definition": "خلية مناعية متخصصة في التقاط المستضدات من الأنسجة وتقديمها لخلايا T لتفعيل الاستجابة المناعية التكيفية",
+      "definition_en": "An immune cell specialized in capturing antigens from tissues and presenting them to T cells to activate adaptive immune response",
+      "englishSentence": "Dendritic cells capture antigens and present them to T cells, linking innate and adaptive immunity.",
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "تقديم المستضدات وتفعيل الاستجابة المناعية التكيفية",
+      "systemFunction_en": "Antigen presentation and activation of adaptive immune response",
+      "location": "الجلد والغدد اللمفاوية والأنسجة",
+      "location_en": "Skin, lymph nodes, and tissues",
+      "nearbyOrgans": [
+        "الغدد اللمفاوية",
+        "خلايا T",
+        "الجلد"
+      ],
+      "nearbyOrgans_en": [
+        "Lymph nodes",
+        "T cells",
+        "Skin"
+      ],
+      "diseases": [
+        {
+          "name": "نقص مناعة نادر",
+          "name_en": "Rare Immunodeficiency",
+          "symptoms": [
+            "فشل الاستجابة المناعية للعدوى والسرطان"
+          ],
+          "symptoms_en": [
+            "Failure of immune response to infections and cancer"
+          ],
+          "treatments": [
+            "دعم مناعي تخصصي"
+          ],
+          "treatments_en": [
+            "Specialized immune support"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "dendritic cell",
+        "antigen presenting",
+        "APC",
+        "تغصنية",
+        "تقديم مستضد"
+      ]
+    },
+    {
+      "id": 1625,
+      "term": "erythropoietin (EPO) and reticulocyte",
+      "arabic": "الإريثروبويتين والخلية الشبكية",
+      "latin": "erythropoietinum et reticulocytus",
+      "pronunciation": "إريث-روا-بوي-إيتن",
+      "definition": "الإريثروبويتين هرمون تفرزه الكلى لتحفيز نخاع العظم على إنتاج كريات الدم الحمراء، والخلية الشبكية هي الكريات الحمراء غير الناضجة",
+      "definition_en": "Erythropoietin is a kidney-secreted hormone stimulating bone marrow to produce red blood cells; reticulocytes are immature red blood cells",
+      "englishSentence": "Erythropoietin stimulates red blood cell production; reticulocytes are immature red cells released from bone marrow.",
+      "type": "cell",
+      "system": "الجهاز الدوري",
+      "system_en": "Circulatory System",
+      "systemFunction": "تنظيم إنتاج كريات الدم الحمراء",
+      "systemFunction_en": "Regulate red blood cell production",
+      "location": "الكلى (هرمون) ونخاع العظم (خلايا)",
+      "location_en": "Kidneys (hormone) and bone marrow (cells)",
+      "nearbyOrgans": [
+        "الكلى",
+        "نخاع العظم",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Kidneys",
+        "Bone marrow",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "فقر الدم الكلوي",
+          "name_en": "Renal Anemia",
+          "symptoms": [
+            "شحوب",
+            "إرهاق",
+            "ضيق تنفس"
+          ],
+          "symptoms_en": [
+            "Pallor",
+            "Fatigue",
+            "Dyspnea"
+          ],
+          "treatments": [
+            "حقن EPO (دارسبويتين)",
+            "حديد وريدي"
+          ],
+          "treatments_en": [
+            "EPO injection (Darbepoetin)",
+            "IV iron"
+          ]
+        }
+      ],
+      "chapter": 16,
+      "keywords": [
+        "EPO",
+        "erythropoietin",
+        "reticulocyte",
+        "RBC production",
+        "إريثروبويتين"
+      ]
+    }
+  ]
+}

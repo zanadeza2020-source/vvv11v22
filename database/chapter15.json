@@ -1,0 +1,1507 @@
+{
+  "chapter": 15,
+  "title": "Human Tissues",
+  "title_ar": "أنسجة جسم الإنسان",
+  "title_en": "Human Tissues",
+  "description": "جميع أنواع الأنسجة البشرية وأنواعها وأماكنها ووظائفها وخصائصها وأمراضها",
+  "terms": [
+    {
+      "id": 1501,
+      "term": "tissue",
+      "arabic": "النسيج",
+      "latin": "textus",
+      "pronunciation": "تيش-يو",
+      "definition": "مجموعة من الخلايا المتشابهة المتخصصة التي تعمل معاً لأداء وظيفة محددة",
+      "definition_en": "A group of similar specialized cells working together to perform a specific function",
+      "englishSentence": "Tissues are groups of cells with similar structure and function that form organs.",
+      "type": "concept",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "تشكيل أعضاء الجسم المختلفة",
+      "systemFunction_en": "Form the body's various organs",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": [
+        "الخلايا",
+        "الأعضاء",
+        "الغدد"
+      ],
+      "nearbyOrgans_en": [
+        "Cells",
+        "Organs",
+        "Glands"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب الأنسجة",
+          "name_en": "Tissue Inflammation",
+          "symptoms": [
+            "احمرار",
+            "تورم",
+            "ألم",
+            "حرارة موضعية"
+          ],
+          "symptoms_en": [
+            "Redness",
+            "Swelling",
+            "Pain",
+            "Local heat"
+          ],
+          "treatments": [
+            "مضادات الالتهاب",
+            "استراحة",
+            "كمادات باردة"
+          ],
+          "treatments_en": [
+            "Anti-inflammatories",
+            "Rest",
+            "Cold compresses"
+          ]
+        },
+        {
+          "name": "نخر الأنسجة",
+          "name_en": "Tissue Necrosis",
+          "symptoms": [
+            "تغير اللون",
+            "ألم شديد أو غيابه",
+            "رائحة كريهة"
+          ],
+          "symptoms_en": [
+            "Color change",
+            "Severe pain or absence",
+            "Foul odor"
+          ],
+          "treatments": [
+            "إزالة الأنسجة الميتة",
+            "مضادات حيوية",
+            "جراحة"
+          ],
+          "treatments_en": [
+            "Debridement",
+            "Antibiotics",
+            "Surgery"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "histology",
+        "tissue types",
+        "نسيج",
+        "أنسجة"
+      ]
+    },
+    {
+      "id": 1502,
+      "term": "epithelial tissue",
+      "arabic": "النسيج الطلائي",
+      "latin": "epithelium",
+      "pronunciation": "إب-إي-ثيل-يال",
+      "definition": "نسيج يُبطّن أسطح الجسم والتجاويف والقنوات والغدد، يمنع دخول الجراثيم ويُشكّل حاجزاً وقائياً",
+      "definition_en": "Tissue lining body surfaces, cavities, ducts, and glands; prevents germ entry and forms a protective barrier",
+      "englishSentence": "Epithelial tissue covers body surfaces, lines organs, and forms glands.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "الحماية والإفراز والامتصاص والإحساس",
+      "systemFunction_en": "Protection, secretion, absorption, and sensation",
+      "location": "الجلد وبطانة الأمعاء والرئة والأوعية الدموية والغدد",
+      "location_en": "Skin, intestinal lining, lungs, blood vessels, glands",
+      "nearbyOrgans": [
+        "الجلد",
+        "الغشاء المخاطي",
+        "الغدد"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Mucous membrane",
+        "Glands"
+      ],
+      "diseases": [
+        {
+          "name": "السرطان (من الطلائيات)",
+          "name_en": "Carcinoma",
+          "symptoms": [
+            "كتل صلبة",
+            "نزيف غير طبيعي",
+            "تقرحات لا تلتئم"
+          ],
+          "symptoms_en": [
+            "Hard lumps",
+            "Abnormal bleeding",
+            "Non-healing ulcers"
+          ],
+          "treatments": [
+            "جراحة",
+            "إشعاع",
+            "كيماوي"
+          ],
+          "treatments_en": [
+            "Surgery",
+            "Radiation",
+            "Chemotherapy"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "epithelium",
+        "carcinoma",
+        "squamous",
+        "columnar",
+        "طلائي",
+        "نسيج طلائي"
+      ]
+    },
+    {
+      "id": 1503,
+      "term": "squamous epithelium",
+      "arabic": "الطلائي الحرشفي",
+      "latin": "epithelium squamosum",
+      "pronunciation": "سكوا-مس إب-إي-ثيل-يم",
+      "definition": "خلايا طلائية مسطحة تشبه البلاط، توجد في جلد الجسم والمريء والمهبل وتوفر حماية من الاحتكاك",
+      "definition_en": "Flat tile-like epithelial cells found in the skin, esophagus, and vagina, providing protection against friction",
+      "englishSentence": "Squamous epithelium is found in the skin and other surfaces exposed to friction.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "الحماية من الاحتكاك الميكانيكي",
+      "systemFunction_en": "Protection against mechanical friction",
+      "location": "الجلد والمريء والمهبل والفم",
+      "location_en": "Skin, esophagus, vagina, mouth",
+      "nearbyOrgans": [
+        "الجلد",
+        "الأغشية المخاطية"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Mucous membranes"
+      ],
+      "diseases": [
+        {
+          "name": "سرطان الخلايا الحرشفية",
+          "name_en": "Squamous Cell Carcinoma",
+          "symptoms": [
+            "قرحة لا تشفى",
+            "كتلة صلبة",
+            "نزيف"
+          ],
+          "symptoms_en": [
+            "Non-healing ulcer",
+            "Hard mass",
+            "Bleeding"
+          ],
+          "treatments": [
+            "جراحة استئصال",
+            "إشعاع",
+            "كيماوي"
+          ],
+          "treatments_en": [
+            "Excision surgery",
+            "Radiation",
+            "Chemotherapy"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "squamous",
+        "SCC",
+        "حرشفي",
+        "طلائي"
+      ]
+    },
+    {
+      "id": 1504,
+      "term": "connective tissue",
+      "arabic": "النسيج الضام",
+      "latin": "textus connectivus",
+      "pronunciation": "كو-نيك-تيف تيش-يو",
+      "definition": "أكثر أنواع الأنسجة شيوعاً في الجسم، يربط ويدعم ويحمي الأنسجة والأعضاء الأخرى، يشمل العظام والدم والغضروف والدهون",
+      "definition_en": "The most widespread tissue type in the body, connecting, supporting, and protecting other tissues and organs; includes bone, blood, cartilage, and fat",
+      "englishSentence": "Connective tissue binds structures together, provides support, and includes bone, blood, and adipose tissue.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "الربط والدعم والحماية وتخزين الطاقة",
+      "systemFunction_en": "Binding, support, protection, and energy storage",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": [
+        "العظام",
+        "الغضروف",
+        "الدم",
+        "الدهون"
+      ],
+      "nearbyOrgans_en": [
+        "Bones",
+        "Cartilage",
+        "Blood",
+        "Adipose tissue"
+      ],
+      "diseases": [
+        {
+          "name": "مرض النسيج الضام",
+          "name_en": "Connective Tissue Disease",
+          "symptoms": [
+            "التهاب مفاصل",
+            "طفح جلدي",
+            "تعب",
+            "حمى"
+          ],
+          "symptoms_en": [
+            "Joint inflammation",
+            "Rash",
+            "Fatigue",
+            "Fever"
+          ],
+          "treatments": [
+            "كورتيكوستيرويدات",
+            "مثبطات مناعة"
+          ],
+          "treatments_en": [
+            "Corticosteroids",
+            "Immunosuppressants"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "connective tissue",
+        "collagen",
+        "fibroblast",
+        "ضام",
+        "نسيج ضام"
+      ]
+    },
+    {
+      "id": 1505,
+      "term": "muscle tissue",
+      "arabic": "النسيج العضلي",
+      "latin": "textus muscularis",
+      "pronunciation": "مَس-كل تيش-يو",
+      "definition": "نسيج متخصص في الانقباض لإنتاج الحركة، ثلاثة أنواع: هيكلي (إرادي)، قلبي (لا إرادي)، ملساء (لا إرادي)",
+      "definition_en": "Tissue specialized for contraction to produce movement; three types: skeletal (voluntary), cardiac (involuntary), smooth (involuntary)",
+      "englishSentence": "Muscle tissue enables movement through contraction and exists in skeletal, cardiac, and smooth forms.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "إنتاج الحركة ودفع الدم وتحريك الأعضاء الداخلية",
+      "systemFunction_en": "Produce movement, pump blood, move internal organs",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": [
+        "العظام",
+        "القلب",
+        "الأعضاء الداخلية"
+      ],
+      "nearbyOrgans_en": [
+        "Bones",
+        "Heart",
+        "Internal organs"
+      ],
+      "diseases": [
+        {
+          "name": "ضمور العضلات",
+          "name_en": "Muscular Dystrophy",
+          "symptoms": [
+            "ضعف عضلي تدريجي",
+            "صعوبة المشي",
+            "تضخم عضلة الساق"
+          ],
+          "symptoms_en": [
+            "Progressive muscle weakness",
+            "Walking difficulty",
+            "Calf enlargement"
+          ],
+          "treatments": [
+            "علاج داعم",
+            "فيزيوثيرابي"
+          ],
+          "treatments_en": [
+            "Supportive care",
+            "Physiotherapy"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "skeletal muscle",
+        "cardiac muscle",
+        "smooth muscle",
+        "عضلي",
+        "نسيج عضلي"
+      ]
+    },
+    {
+      "id": 1506,
+      "term": "nervous tissue",
+      "arabic": "النسيج العصبي",
+      "latin": "textus nervosus",
+      "pronunciation": "نير-فس تيش-يو",
+      "definition": "نسيج يتكون من الخلايا العصبية (النيورونات) والخلايا الداعمة (الدبق)، مسؤول عن نقل الإشارات الكهربائية",
+      "definition_en": "Tissue composed of neurons and supporting glial cells, responsible for transmitting electrical signals",
+      "englishSentence": "Nervous tissue consists of neurons and glial cells that transmit and support electrical signals.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "نقل الإشارات العصبية وتنسيق وظائف الجسم",
+      "systemFunction_en": "Transmit nerve signals and coordinate body functions",
+      "location": "الدماغ والحبل الشوكي والأعصاب",
+      "location_en": "Brain, spinal cord, and nerves",
+      "nearbyOrgans": [
+        "الدماغ",
+        "الحبل الشوكي",
+        "الأعصاب الطرفية"
+      ],
+      "nearbyOrgans_en": [
+        "Brain",
+        "Spinal cord",
+        "Peripheral nerves"
+      ],
+      "diseases": [
+        {
+          "name": "الورم العصبي الدبقي",
+          "name_en": "Glioma",
+          "symptoms": [
+            "صداع",
+            "نوبات تشنجية",
+            "تغيير في الشخصية"
+          ],
+          "symptoms_en": [
+            "Headache",
+            "Seizures",
+            "Personality changes"
+          ],
+          "treatments": [
+            "جراحة",
+            "إشعاع",
+            "تيموزولوميد"
+          ],
+          "treatments_en": [
+            "Surgery",
+            "Radiation",
+            "Temozolomide"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "neuron",
+        "glial cells",
+        "CNS",
+        "عصبي",
+        "نسيج عصبي"
+      ]
+    },
+    {
+      "id": 1507,
+      "term": "adipose tissue",
+      "arabic": "النسيج الدهني",
+      "latin": "textus adiposus",
+      "pronunciation": "آد-إي-بوز تيش-يو",
+      "definition": "نوع من النسيج الضام يتخصص في تخزين الدهون (الطاقة)، يعمل أيضاً كعازل حراري ووقائي",
+      "definition_en": "A type of connective tissue specialized in fat (energy) storage, also acting as thermal insulation and protection",
+      "englishSentence": "Adipose tissue stores energy in the form of fat and provides thermal insulation.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "تخزين الطاقة والعزل الحراري وحماية الأعضاء",
+      "systemFunction_en": "Energy storage, thermal insulation, organ protection",
+      "location": "تحت الجلد وحول الأعضاء وفي نخاع العظم",
+      "location_en": "Subcutaneous, around organs, in bone marrow",
+      "nearbyOrgans": [
+        "الجلد",
+        "الكلى",
+        "القلب",
+        "العظام"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Kidneys",
+        "Heart",
+        "Bones"
+      ],
+      "diseases": [
+        {
+          "name": "السمنة",
+          "name_en": "Obesity",
+          "symptoms": [
+            "زيادة مفرطة في الدهون",
+            "BMI >30",
+            "أمراض مصاحبة"
+          ],
+          "symptoms_en": [
+            "Excessive fat accumulation",
+            "BMI >30",
+            "Comorbidities"
+          ],
+          "treatments": [
+            "تغيير نمط الحياة",
+            "أدوية",
+            "جراحة بارياترية"
+          ],
+          "treatments_en": [
+            "Lifestyle modification",
+            "Medications",
+            "Bariatric surgery"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "fat tissue",
+        "adipocyte",
+        "lipocyte",
+        "دهني",
+        "شحمي"
+      ]
+    },
+    {
+      "id": 1508,
+      "term": "fibrous connective tissue",
+      "arabic": "النسيج الضام الليفي",
+      "latin": "textus fibrosus",
+      "pronunciation": "فاي-برس كو-نيك-تيف",
+      "definition": "نسيج يحتوي على ألياف كولاجين كثيفة يوفر قوة شد عالية، يشكل الأربطة والأوتار والندبات",
+      "definition_en": "Tissue with dense collagen fibers providing high tensile strength, forming ligaments, tendons, and scars",
+      "englishSentence": "Dense fibrous connective tissue forms tendons, ligaments, and the dermis of the skin.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "ربط العضلات بالعظام وتثبيت المفاصل",
+      "systemFunction_en": "Attach muscles to bones and stabilize joints",
+      "location": "الأوتار والأربطة والندبات والأدمة",
+      "location_en": "Tendons, ligaments, scars, dermis",
+      "nearbyOrgans": [
+        "العضلات",
+        "العظام",
+        "المفاصل"
+      ],
+      "nearbyOrgans_en": [
+        "Muscles",
+        "Bones",
+        "Joints"
+      ],
+      "diseases": [
+        {
+          "name": "الندبة التضخمية / الجدرة",
+          "name_en": "Hypertrophic Scar / Keloid",
+          "symptoms": [
+            "ندبة بارزة وسميكة",
+            "حكة",
+            "ألم"
+          ],
+          "symptoms_en": [
+            "Raised thick scar",
+            "Itching",
+            "Pain"
+          ],
+          "treatments": [
+            "حقن كورتيزون",
+            "جراحة",
+            "سيليكون"
+          ],
+          "treatments_en": [
+            "Cortisone injection",
+            "Surgery",
+            "Silicone gel"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "collagen",
+        "fibrous",
+        "keloid",
+        "ليفي",
+        "كولاجين"
+      ]
+    },
+    {
+      "id": 1509,
+      "term": "synovial membrane",
+      "arabic": "الغشاء الزليلي",
+      "latin": "membrana synovialis",
+      "pronunciation": "سي-نو-فيال مم-برين",
+      "definition": "غشاء رقيق يبطّن التجاويف المفصلية وينتج السائل الزليلي لتليين المفاصل وتغذية الغضروف",
+      "definition_en": "A thin membrane lining joint cavities and producing synovial fluid to lubricate joints and nourish cartilage",
+      "englishSentence": "The synovial membrane lines joints and produces synovial fluid that lubricates and nourishes cartilage.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "إنتاج السائل الزليلي لتليين المفاصل",
+      "systemFunction_en": "Produce synovial fluid to lubricate joints",
+      "location": "يبطن التجاويف المفصلية",
+      "location_en": "Lines joint cavities",
+      "nearbyOrgans": [
+        "الغضروف",
+        "المفاصل",
+        "السائل الزليلي"
+      ],
+      "nearbyOrgans_en": [
+        "Cartilage",
+        "Joints",
+        "Synovial fluid"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب الغشاء الزليلي",
+          "name_en": "Synovitis",
+          "symptoms": [
+            "تورم المفصل",
+            "ألم",
+            "دفء موضعي"
+          ],
+          "symptoms_en": [
+            "Joint swelling",
+            "Pain",
+            "Local warmth"
+          ],
+          "treatments": [
+            "كورتيكوستيرويدات",
+            "مضادات الالتهاب",
+            "شفط السائل"
+          ],
+          "treatments_en": [
+            "Corticosteroids",
+            "NSAIDs",
+            "Fluid aspiration"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "synovial fluid",
+        "synovitis",
+        "rheumatoid",
+        "زليلي",
+        "سائل مفصلي"
+      ]
+    },
+    {
+      "id": 1510,
+      "term": "mucous membrane",
+      "arabic": "الغشاء المخاطي",
+      "latin": "membrana mucosa",
+      "pronunciation": "ميو-كس مم-برين",
+      "definition": "غشاء طلائي يبطّن الأعضاء التي تتصل بالبيئة الخارجية كالجهاز التنفسي والهضمي والبولي التناسلي، يُنتج المخاط",
+      "definition_en": "An epithelial membrane lining organs connected to the outside environment such as respiratory, digestive, and urogenital tracts, producing mucus",
+      "englishSentence": "Mucous membranes line the respiratory and digestive tracts, producing mucus for protection and lubrication.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "الحماية وإنتاج المخاط وتسهيل مرور المواد",
+      "systemFunction_en": "Protection, mucus production, and facilitating material passage",
+      "location": "الجهاز التنفسي والهضمي والبولي التناسلي",
+      "location_en": "Respiratory, digestive, and urogenital tracts",
+      "nearbyOrgans": [
+        "الرئتان",
+        "الجهاز الهضمي",
+        "المثانة"
+      ],
+      "nearbyOrgans_en": [
+        "Lungs",
+        "Digestive system",
+        "Bladder"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب الغشاء المخاطي",
+          "name_en": "Mucositis",
+          "symptoms": [
+            "ألم وحرقة",
+            "تقرحات",
+            "صعوبة البلع"
+          ],
+          "symptoms_en": [
+            "Pain and burning",
+            "Ulcers",
+            "Swallowing difficulty"
+          ],
+          "treatments": [
+            "مسكنات",
+            "غسول الفم",
+            "علاج المسبب"
+          ],
+          "treatments_en": [
+            "Analgesics",
+            "Mouth rinses",
+            "Treat underlying cause"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "mucosa",
+        "mucus",
+        "mucositis",
+        "مخاطي",
+        "غشاء مخاطي"
+      ]
+    },
+    {
+      "id": 1511,
+      "term": "serous membrane",
+      "arabic": "الغشاء المصلي",
+      "latin": "membrana serosa",
+      "pronunciation": "سي-رس مم-برين",
+      "definition": "غشاء رقيق يبطن التجاويف الجسمية الكبرى (الصدر والبطن والقلب) وينتج سائلاً مصلياً يقلل الاحتكاك",
+      "definition_en": "A thin membrane lining major body cavities (chest, abdomen, heart) producing serous fluid to reduce friction",
+      "englishSentence": "Serous membranes line body cavities and secrete fluid to reduce friction between organs.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "تقليل الاحتكاك بين الأعضاء وحمايتها",
+      "systemFunction_en": "Reduce friction between organs and protect them",
+      "location": "الغشاء البلوري (الرئة) وغشاء الصفاق (البطن) والتأمور (القلب)",
+      "location_en": "Pleura (lung), peritoneum (abdomen), pericardium (heart)",
+      "nearbyOrgans": [
+        "الرئتان",
+        "القلب",
+        "أعضاء البطن"
+      ],
+      "nearbyOrgans_en": [
+        "Lungs",
+        "Heart",
+        "Abdominal organs"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب الغشاء البلوري",
+          "name_en": "Pleuritis (Pleurisy)",
+          "symptoms": [
+            "ألم حاد عند التنفس",
+            "صعوبة التنفس"
+          ],
+          "symptoms_en": [
+            "Sharp pain on breathing",
+            "Breathing difficulty"
+          ],
+          "treatments": [
+            "مضادات الالتهاب",
+            "مضادات حيوية إن كان سببها بكتيري"
+          ],
+          "treatments_en": [
+            "NSAIDs",
+            "Antibiotics if bacterial cause"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "pleura",
+        "peritoneum",
+        "pericardium",
+        "مصلي",
+        "غشاء مصلي"
+      ]
+    },
+    {
+      "id": 1512,
+      "term": "lymphoid tissue",
+      "arabic": "النسيج اللمفاوي",
+      "latin": "textus lymphoideus",
+      "pronunciation": "ليم-فويد تيش-يو",
+      "definition": "نسيج متخصص في المناعة يتكون من خلايا لمفاوية (خلايا B وT) ويشمل الطحال والغدد اللمفاوية واللوزتين",
+      "definition_en": "Immune-specialized tissue composed of lymphocytes (B and T cells), including the spleen, lymph nodes, and tonsils",
+      "englishSentence": "Lymphoid tissue is found in lymph nodes, spleen, and tonsils, and is essential for immune defense.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "الدفاع المناعي وإنتاج الأجسام المضادة",
+      "systemFunction_en": "Immune defense and antibody production",
+      "location": "الغدد اللمفاوية والطحال واللوزتين والزائدة الدودية",
+      "location_en": "Lymph nodes, spleen, tonsils, appendix",
+      "nearbyOrgans": [
+        "الدم",
+        "الجهاز المناعي",
+        "الغدد اللمفاوية"
+      ],
+      "nearbyOrgans_en": [
+        "Blood",
+        "Immune system",
+        "Lymph nodes"
+      ],
+      "diseases": [
+        {
+          "name": "اللمفوما (سرطان الغدد اللمفاوية)",
+          "name_en": "Lymphoma",
+          "symptoms": [
+            "تضخم الغدد اللمفاوية",
+            "إرهاق",
+            "حمى ليلية",
+            "فقدان وزن"
+          ],
+          "symptoms_en": [
+            "Swollen lymph nodes",
+            "Fatigue",
+            "Night fever",
+            "Weight loss"
+          ],
+          "treatments": [
+            "كيماوي",
+            "إشعاع",
+            "زرع الخلايا الجذعية"
+          ],
+          "treatments_en": [
+            "Chemotherapy",
+            "Radiation",
+            "Stem cell transplant"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "lymph node",
+        "spleen",
+        "tonsils",
+        "lymphoma",
+        "لمفاوي",
+        "مناعة"
+      ]
+    },
+    {
+      "id": 1513,
+      "term": "skin (integumentary system)",
+      "arabic": "الجلد (الجهاز الجلدي)",
+      "latin": "cutis / integumentum commune",
+      "pronunciation": "سكن",
+      "definition": "أكبر عضو في الجسم يتكون من طبقات: البشرة (Epidermis) والأدمة (Dermis) والنسيج تحت الجلدي (Hypodermis)",
+      "definition_en": "The largest organ of the body consisting of layers: epidermis, dermis, and hypodermis (subcutaneous tissue)",
+      "englishSentence": "The skin is the body's largest organ, consisting of the epidermis, dermis, and subcutaneous layers.",
+      "type": "tissue",
+      "system": "الجهاز الجلدي",
+      "system_en": "Integumentary System",
+      "systemFunction": "الحماية وتنظيم الحرارة والإحساس وإنتاج فيتامين D",
+      "systemFunction_en": "Protection, temperature regulation, sensation, and vitamin D production",
+      "location": "يغطي كامل سطح الجسم",
+      "location_en": "Covers the entire body surface",
+      "nearbyOrgans": [
+        "النسيج الدهني",
+        "الأوعية الدموية",
+        "الأعصاب الحسية",
+        "الشعر"
+      ],
+      "nearbyOrgans_en": [
+        "Adipose tissue",
+        "Blood vessels",
+        "Sensory nerves",
+        "Hair"
+      ],
+      "diseases": [
+        {
+          "name": "الحروق",
+          "name_en": "Burns",
+          "symptoms": [
+            "ألم",
+            "احمرار",
+            "بثور",
+            "تقشر"
+          ],
+          "symptoms_en": [
+            "Pain",
+            "Redness",
+            "Blisters",
+            "Peeling"
+          ],
+          "treatments": [
+            "تبريد",
+            "تضميد",
+            "إماهة",
+            "زرع جلد للحروق الشديدة"
+          ],
+          "treatments_en": [
+            "Cooling",
+            "Dressing",
+            "Hydration",
+            "Skin grafting for severe burns"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "epidermis",
+        "dermis",
+        "hypodermis",
+        "skin",
+        "جلد",
+        "بشرة"
+      ]
+    },
+    {
+      "id": 1514,
+      "term": "epidermis",
+      "arabic": "البشرة",
+      "latin": "epidermis",
+      "pronunciation": "إب-إي-دير-مس",
+      "definition": "الطبقة الخارجية للجلد تتكون من خلايا كيراتينية متعددة الطبقات، تشكل الحاجز الأول ضد الجراثيم والجفاف",
+      "definition_en": "The outer skin layer consisting of multi-layered keratinocytes, forming the first barrier against germs and dehydration",
+      "englishSentence": "The epidermis is the outer skin layer that protects against infection, UV radiation, and water loss.",
+      "type": "tissue",
+      "system": "الجهاز الجلدي",
+      "system_en": "Integumentary System",
+      "systemFunction": "الحماية من المؤثرات الخارجية والجفاف",
+      "systemFunction_en": "Protection from external agents and dehydration",
+      "location": "الطبقة الخارجية للجلد",
+      "location_en": "Outer layer of skin",
+      "nearbyOrgans": [
+        "الأدمة",
+        "الخلايا الصباغية",
+        "خلايا لانغرهانس"
+      ],
+      "nearbyOrgans_en": [
+        "Dermis",
+        "Melanocytes",
+        "Langerhans cells"
+      ],
+      "diseases": [
+        {
+          "name": "الصدفية",
+          "name_en": "Psoriasis",
+          "symptoms": [
+            "لويحات حمراء مغطاة بقشور بيضاء",
+            "حكة",
+            "جفاف الجلد"
+          ],
+          "symptoms_en": [
+            "Red plaques with white scales",
+            "Itching",
+            "Skin dryness"
+          ],
+          "treatments": [
+            "مرهم كورتيزون",
+            "مثبطات المناعة",
+            "بيولوجيكال"
+          ],
+          "treatments_en": [
+            "Cortisone cream",
+            "Immunosuppressants",
+            "Biologics"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "keratinocyte",
+        "melanocyte",
+        "UV protection",
+        "بشرة",
+        "طبقة خارجية"
+      ]
+    },
+    {
+      "id": 1515,
+      "term": "dermis",
+      "arabic": "الأدمة",
+      "latin": "dermis",
+      "pronunciation": "دير-مس",
+      "definition": "الطبقة الوسطى من الجلد تحت البشرة، تحتوي على الكولاجين والإيلاستين والأوعية الدموية والأعصاب والغدد",
+      "definition_en": "The middle skin layer beneath the epidermis, containing collagen, elastin, blood vessels, nerves, and glands",
+      "englishSentence": "The dermis contains collagen, elastin, blood vessels, and nerve endings that give skin its strength and sensitivity.",
+      "type": "tissue",
+      "system": "الجهاز الجلدي",
+      "system_en": "Integumentary System",
+      "systemFunction": "قوة الجلد ومرونته وتغذيته وإحساسه",
+      "systemFunction_en": "Skin strength, elasticity, nutrition, and sensation",
+      "location": "الطبقة الوسطى للجلد",
+      "location_en": "Middle skin layer",
+      "nearbyOrgans": [
+        "البشرة",
+        "الغدد العرقية",
+        "بصيلات الشعر"
+      ],
+      "nearbyOrgans_en": [
+        "Epidermis",
+        "Sweat glands",
+        "Hair follicles"
+      ],
+      "diseases": [
+        {
+          "name": "مرض الجلد الفقاعي",
+          "name_en": "Pemphigus",
+          "symptoms": [
+            "فقاعات مؤلمة على الجلد",
+            "تقرحات",
+            "ألم"
+          ],
+          "symptoms_en": [
+            "Painful skin blisters",
+            "Erosions",
+            "Pain"
+          ],
+          "treatments": [
+            "كورتيكوستيرويدات",
+            "مثبطات مناعة"
+          ],
+          "treatments_en": [
+            "Corticosteroids",
+            "Immunosuppressants"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "collagen",
+        "elastin",
+        "dermis",
+        "أدمة",
+        "كولاجين"
+      ]
+    },
+    {
+      "id": 1516,
+      "term": "vascular tissue (blood)",
+      "arabic": "نسيج الدم (وعائي)",
+      "latin": "sanguis",
+      "pronunciation": "فاسكيولار تيش-يو",
+      "definition": "الدم سائل حيوي يتكون من بلازما وكريات دم حمراء وكريات دم بيضاء وصفائح دموية، ينقل الأكسجين والمغذيات",
+      "definition_en": "Blood is a vital fluid consisting of plasma, red blood cells, white blood cells, and platelets, transporting oxygen and nutrients",
+      "englishSentence": "Blood is a specialized connective tissue that transports oxygen, nutrients, and defends against infection.",
+      "type": "tissue",
+      "system": "الجهاز الدوري",
+      "system_en": "Circulatory System",
+      "systemFunction": "نقل الأكسجين والمغذيات وأجسام الدفاع المناعي",
+      "systemFunction_en": "Transport oxygen, nutrients, and immune cells",
+      "location": "الأوعية الدموية في جميع أنحاء الجسم",
+      "location_en": "Blood vessels throughout the body",
+      "nearbyOrgans": [
+        "القلب",
+        "الأوعية الدموية",
+        "الطحال",
+        "الكبد"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Blood vessels",
+        "Spleen",
+        "Liver"
+      ],
+      "diseases": [
+        {
+          "name": "فقر الدم",
+          "name_en": "Anemia",
+          "symptoms": [
+            "شحوب",
+            "إرهاق",
+            "ضيق التنفس",
+            "دوخة"
+          ],
+          "symptoms_en": [
+            "Pallor",
+            "Fatigue",
+            "Shortness of breath",
+            "Dizziness"
+          ],
+          "treatments": [
+            "حديد",
+            "فيتامين B12",
+            "نقل دم"
+          ],
+          "treatments_en": [
+            "Iron",
+            "Vitamin B12",
+            "Blood transfusion"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "blood",
+        "RBC",
+        "WBC",
+        "platelets",
+        "plasma",
+        "دم",
+        "بلازما"
+      ]
+    },
+    {
+      "id": 1517,
+      "term": "smooth muscle tissue",
+      "arabic": "النسيج العضلي الأملس",
+      "latin": "musculus laevis",
+      "pronunciation": "سموث مَس-كل",
+      "definition": "نسيج عضلي غير مخطط لا إرادي التحكم، يوجد في جدران الأوعية الدموية والجهاز الهضمي والجهاز التنفسي",
+      "definition_en": "Non-striated, involuntary muscle tissue found in blood vessel walls, digestive system, and respiratory system",
+      "englishSentence": "Smooth muscle is involuntary and found in blood vessels, the digestive tract, and other hollow organs.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "تحريك المواد عبر الأعضاء الداخلية وتنظيم قطر الأوعية",
+      "systemFunction_en": "Move materials through internal organs and regulate vessel diameter",
+      "location": "جدران الأمعاء والمعدة والأوعية الدموية والمسالك البولية",
+      "location_en": "Walls of intestines, stomach, blood vessels, urinary tract",
+      "nearbyOrgans": [
+        "الأوعية الدموية",
+        "الجهاز الهضمي",
+        "المثانة"
+      ],
+      "nearbyOrgans_en": [
+        "Blood vessels",
+        "Digestive system",
+        "Bladder"
+      ],
+      "diseases": [
+        {
+          "name": "تشنج العضلات الملساء",
+          "name_en": "Smooth Muscle Spasm",
+          "symptoms": [
+            "تقلصات",
+            "ألم حظيرة",
+            "إمساك أو إسهال"
+          ],
+          "symptoms_en": [
+            "Cramps",
+            "Colic",
+            "Constipation or diarrhea"
+          ],
+          "treatments": [
+            "مضادات تشنج",
+            "مضادات الحموضة",
+            "إدارة الأسباب"
+          ],
+          "treatments_en": [
+            "Antispasmodics",
+            "Antacids",
+            "Manage causes"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "smooth muscle",
+        "involuntary",
+        "visceral",
+        "أملس",
+        "عضلات ملساء"
+      ]
+    },
+    {
+      "id": 1518,
+      "term": "cardiac muscle tissue",
+      "arabic": "النسيج العضلي القلبي",
+      "latin": "musculus cardiacus",
+      "pronunciation": "كار-دياك مَس-كل",
+      "definition": "نسيج عضلي مخطط لا إرادي يوجد فقط في القلب، له خاصية الانقباض الإيقاعي الذاتي",
+      "definition_en": "Striated involuntary muscle tissue found only in the heart, with the property of autonomous rhythmic contraction",
+      "englishSentence": "Cardiac muscle is involuntary, striated, and found only in the heart wall.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "ضخ الدم عبر الجهاز الدوري",
+      "systemFunction_en": "Pump blood through the circulatory system",
+      "location": "جدار القلب (عضلة القلب)",
+      "location_en": "Heart wall (myocardium)",
+      "nearbyOrgans": [
+        "القلب",
+        "التأمور",
+        "الأوعية التاجية"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Pericardium",
+        "Coronary vessels"
+      ],
+      "diseases": [
+        {
+          "name": "احتشاء عضلة القلب",
+          "name_en": "Myocardial Infarction",
+          "symptoms": [
+            "ألم صدري مفاجئ",
+            "ضيق التنفس",
+            "تعرق",
+            "غثيان"
+          ],
+          "symptoms_en": [
+            "Sudden chest pain",
+            "Shortness of breath",
+            "Sweating",
+            "Nausea"
+          ],
+          "treatments": [
+            "أدوية تحليل الجلطة",
+            "قسطرة",
+            "تحويل مسار الشريان التاجي"
+          ],
+          "treatments_en": [
+            "Thrombolytics",
+            "Angioplasty",
+            "CABG"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "myocardium",
+        "heart muscle",
+        "cardiomyocyte",
+        "قلبي",
+        "عضلة القلب"
+      ]
+    },
+    {
+      "id": 1519,
+      "term": "hematopoietic tissue",
+      "arabic": "نسيج تكون الدم",
+      "latin": "textus haematopoeticus",
+      "pronunciation": "هيمَ-أ-تو-بوي-إيتيك",
+      "definition": "النسيج الموجود في نخاع العظام الأحمر المسؤول عن إنتاج جميع خلايا الدم من خلايا جذعية متعددة القدرات",
+      "definition_en": "Tissue in red bone marrow responsible for producing all blood cells from multipotent stem cells",
+      "englishSentence": "Hematopoietic tissue in red bone marrow produces all blood cell types from stem cells.",
+      "type": "tissue",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "إنتاج كريات الدم الحمراء والبيضاء والصفائح",
+      "systemFunction_en": "Produce red cells, white cells, and platelets",
+      "location": "نخاع العظم الأحمر في العظام المسطحة والعظام الطويلة",
+      "location_en": "Red bone marrow in flat and long bones",
+      "nearbyOrgans": [
+        "العظام",
+        "الدم",
+        "الطحال"
+      ],
+      "nearbyOrgans_en": [
+        "Bones",
+        "Blood",
+        "Spleen"
+      ],
+      "diseases": [
+        {
+          "name": "فشل نخاع العظم",
+          "name_en": "Bone Marrow Failure (Aplastic Anemia)",
+          "symptoms": [
+            "فقر دم شديد",
+            "نزيف",
+            "عدوى متكررة"
+          ],
+          "symptoms_en": [
+            "Severe anemia",
+            "Bleeding",
+            "Recurrent infection"
+          ],
+          "treatments": [
+            "زرع نخاع العظم",
+            "مثبطات مناعة",
+            "عوامل النمو"
+          ],
+          "treatments_en": [
+            "Bone marrow transplant",
+            "Immunosuppressants",
+            "Growth factors"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "stem cell",
+        "bone marrow",
+        "hematopoiesis",
+        "تكون الدم",
+        "نخاع"
+      ]
+    },
+    {
+      "id": 1520,
+      "term": "endothelium",
+      "arabic": "بطانة الأوعية الدموية",
+      "latin": "endothelium",
+      "pronunciation": "إن-دو-ثيل-يم",
+      "definition": "طبقة واحدة من الخلايا الطلائية تبطّن الأوعية الدموية والليمفاوية والقلب من الداخل، تنظم تدفق الدم",
+      "definition_en": "A single layer of epithelial cells lining the inner surface of blood vessels, lymphatics, and the heart, regulating blood flow",
+      "englishSentence": "The endothelium lines blood vessels and plays a key role in regulating blood pressure and coagulation.",
+      "type": "tissue",
+      "system": "الجهاز الدوري",
+      "system_en": "Circulatory System",
+      "systemFunction": "تنظيم تدفق الدم وضغطه والتخثر والالتهاب",
+      "systemFunction_en": "Regulate blood flow, pressure, coagulation, and inflammation",
+      "location": "الجدار الداخلي لجميع الأوعية الدموية",
+      "location_en": "Inner wall of all blood vessels",
+      "nearbyOrgans": [
+        "الشرايين",
+        "الأوردة",
+        "القلب",
+        "الأوعية الليمفاوية"
+      ],
+      "nearbyOrgans_en": [
+        "Arteries",
+        "Veins",
+        "Heart",
+        "Lymphatics"
+      ],
+      "diseases": [
+        {
+          "name": "الاختلال الوظيفي البطاني",
+          "name_en": "Endothelial Dysfunction",
+          "symptoms": [
+            "ارتفاع ضغط الدم",
+            "تصلب الشرايين",
+            "زيادة خطر الجلطات"
+          ],
+          "symptoms_en": [
+            "Hypertension",
+            "Atherosclerosis",
+            "Increased clot risk"
+          ],
+          "treatments": [
+            "أدوية ضغط الدم",
+            "تغيير نمط الحياة",
+            "أدوية تخفيض الكوليسترول"
+          ],
+          "treatments_en": [
+            "Antihypertensives",
+            "Lifestyle modification",
+            "Cholesterol-lowering drugs"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "endothelium",
+        "vascular",
+        "blood vessel lining",
+        "بطانة وعائية"
+      ]
+    },
+    {
+      "id": 1521,
+      "term": "myelin sheath",
+      "arabic": "غمد المايلين",
+      "latin": "vagina myelini",
+      "pronunciation": "ماي-إي-لن شيث",
+      "definition": "غطاء دهني عازل يحيط بالمحاور العصبية (Axons) يسرّع توصيل السيالات العصبية",
+      "definition_en": "A fatty insulating covering surrounding nerve axons that accelerates nerve impulse conduction",
+      "englishSentence": "The myelin sheath insulates nerve axons and greatly increases the speed of nerve signal transmission.",
+      "type": "tissue",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "تسريع توصيل السيالات العصبية",
+      "systemFunction_en": "Accelerate nerve impulse conduction",
+      "location": "يغطي المحاور العصبية في الجهاز العصبي المركزي والطرفي",
+      "location_en": "Covers nerve axons in CNS and PNS",
+      "nearbyOrgans": [
+        "النيورونات",
+        "خلايا شوان",
+        "الأوليغودندروسيت"
+      ],
+      "nearbyOrgans_en": [
+        "Neurons",
+        "Schwann cells",
+        "Oligodendrocytes"
+      ],
+      "diseases": [
+        {
+          "name": "التصلب المتعدد",
+          "name_en": "Multiple Sclerosis",
+          "symptoms": [
+            "ضعف عضلي",
+            "اضطراب بصري",
+            "تنميل",
+            "إرهاق"
+          ],
+          "symptoms_en": [
+            "Muscle weakness",
+            "Visual disturbance",
+            "Numbness",
+            "Fatigue"
+          ],
+          "treatments": [
+            "مُعدّلات المرض",
+            "كورتيكوستيرويدات"
+          ],
+          "treatments_en": [
+            "Disease-modifying drugs",
+            "Corticosteroids"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "myelin",
+        "demyelination",
+        "Schwann cell",
+        "مايلين",
+        "غمد"
+      ]
+    },
+    {
+      "id": 1522,
+      "term": "adipocyte",
+      "arabic": "الخلية الشحمية",
+      "latin": "adipocytus",
+      "pronunciation": "آد-إي-بو-سيت",
+      "definition": "خلية النسيج الدهني المتخصصة في تخزين ثلاثي الغليسيريد (الدهون) في فجوة كبيرة تملأ معظم الخلية",
+      "definition_en": "The specialized fat tissue cell that stores triglycerides in a large vacuole filling most of the cell",
+      "englishSentence": "Adipocytes are fat cells that store triglycerides and regulate metabolism through hormone secretion.",
+      "type": "cell",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "تخزين الدهون وإفراز هرمونات كالليبتين والأديبونيكتين",
+      "systemFunction_en": "Store fat and secrete hormones like leptin and adiponectin",
+      "location": "النسيج الدهني تحت الجلد وحول الأعضاء",
+      "location_en": "Subcutaneous and visceral adipose tissue",
+      "nearbyOrgans": [
+        "الجلد",
+        "الكلى",
+        "القلب"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Kidneys",
+        "Heart"
+      ],
+      "diseases": [
+        {
+          "name": "متلازمة التمثيل الغذائي",
+          "name_en": "Metabolic Syndrome",
+          "symptoms": [
+            "سمنة بطنية",
+            "ارتفاع سكر الدم",
+            "ضغط دم مرتفع",
+            "دهنيات عالية"
+          ],
+          "symptoms_en": [
+            "Abdominal obesity",
+            "High blood sugar",
+            "High blood pressure",
+            "Elevated lipids"
+          ],
+          "treatments": [
+            "تغيير نمط الحياة",
+            "أدوية السكري وضغط الدم"
+          ],
+          "treatments_en": [
+            "Lifestyle modification",
+            "Diabetes and BP medications"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "adipocyte",
+        "lipocyte",
+        "leptin",
+        "triglyceride",
+        "شحمية",
+        "خلية دهنية"
+      ]
+    },
+    {
+      "id": 1523,
+      "term": "stem cell",
+      "arabic": "الخلية الجذعية",
+      "latin": "cellula praecursoria",
+      "pronunciation": "ستيم سيل",
+      "definition": "خلية غير متمايزة تمتلك قدرة التجدد الذاتي والتمايز إلى أنواع متعددة من الخلايا المتخصصة",
+      "definition_en": "An undifferentiated cell with the ability to self-renew and differentiate into multiple specialized cell types",
+      "englishSentence": "Stem cells can differentiate into many cell types and are crucial for tissue repair and regeneration.",
+      "type": "cell",
+      "system": "أنسجة الجسم",
+      "system_en": "Body Tissues",
+      "systemFunction": "تجديد الأنسجة وإصلاح الأعضاء وإنتاج الخلايا المتخصصة",
+      "systemFunction_en": "Tissue regeneration, organ repair, and specialized cell production",
+      "location": "نخاع العظم والكبد والجلد والدم",
+      "location_en": "Bone marrow, liver, skin, blood",
+      "nearbyOrgans": [
+        "نخاع العظم",
+        "الدم",
+        "الأعضاء المختلفة"
+      ],
+      "nearbyOrgans_en": [
+        "Bone marrow",
+        "Blood",
+        "Various organs"
+      ],
+      "diseases": [
+        {
+          "name": "اللوكيميا",
+          "name_en": "Leukemia",
+          "symptoms": [
+            "خلل في تمايز الخلايا الجذعية"
+          ],
+          "symptoms_en": [
+            "Defect in stem cell differentiation"
+          ],
+          "treatments": [
+            "زرع الخلايا الجذعية",
+            "كيماوي",
+            "علاج موجه"
+          ],
+          "treatments_en": [
+            "Stem cell transplant",
+            "Chemotherapy",
+            "Targeted therapy"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "stem cell",
+        "differentiation",
+        "bone marrow transplant",
+        "خلية جذعية"
+      ]
+    },
+    {
+      "id": 1524,
+      "term": "melanocyte",
+      "arabic": "الخلية الصباغية",
+      "latin": "melanocytus",
+      "pronunciation": "مي-لان-أو-سيت",
+      "definition": "خلية متخصصة في البشرة تنتج صبغة الميلانين المسؤولة عن لون الجلد والحماية من الأشعة فوق البنفسجية",
+      "definition_en": "A specialized epidermal cell that produces melanin pigment responsible for skin color and UV protection",
+      "englishSentence": "Melanocytes produce melanin, which gives skin its color and protects against UV radiation.",
+      "type": "cell",
+      "system": "الجهاز الجلدي",
+      "system_en": "Integumentary System",
+      "systemFunction": "إنتاج الميلانين لحماية الجلد من الأشعة فوق البنفسجية",
+      "systemFunction_en": "Produce melanin to protect skin from UV radiation",
+      "location": "طبقة القاعدة في البشرة",
+      "location_en": "Basal layer of epidermis",
+      "nearbyOrgans": [
+        "البشرة",
+        "الأدمة",
+        "الجلد"
+      ],
+      "nearbyOrgans_en": [
+        "Epidermis",
+        "Dermis",
+        "Skin"
+      ],
+      "diseases": [
+        {
+          "name": "سرطان الميلانوما",
+          "name_en": "Melanoma",
+          "symptoms": [
+            "تغيير في شامة",
+            "حواف غير منتظمة",
+            "تعدد الألوان"
+          ],
+          "symptoms_en": [
+            "Mole change",
+            "Irregular borders",
+            "Multiple colors"
+          ],
+          "treatments": [
+            "استئصال جراحي",
+            "دابرافينيب",
+            "إيبيليموماب (مناعي)"
+          ],
+          "treatments_en": [
+            "Surgical excision",
+            "Dabrafenib",
+            "Ipilimumab (immunotherapy)"
+          ]
+        }
+      ],
+      "chapter": 15,
+      "keywords": [
+        "melanin",
+        "melanoma",
+        "UV",
+        "صباغية",
+        "ميلانين"
+      ]
+    }
+  ]
+}

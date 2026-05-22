@@ -1,0 +1,1685 @@
+{
+  "chapter": 1,
+  "title": "Word Parts",
+  "title_ar": "أجزاء الكلمة",
+  "title_en": "Word Parts",
+  "description": "شرح كيفية تكوين المصطلحات الطبية باستخدام الجذور والبوادئ واللواحق وقواعد الربط والجمل التوضيحية",
+  "description_en": "Explanation of how medical terms are formed using roots, prefixes, suffixes, combining rules, and examples",
+  "terms": [
+    {
+      "id": 1,
+      "term": "medical terminology",
+      "arabic": "المصطلحات الطبية",
+      "latin": "terminologia medica",
+      "pronunciation": "ميد-يكال تير-مي-نو-لوجي",
+      "definition": "نظام الكلمات المستخدمة لوصف جسم الإنسان والأمراض والإجراءات الطبية",
+      "definition_en": "The system of words used to describe the human body, diseases, and medical procedures",
+      "englishSentence": "Medical terminology is the language used to describe the human body, diseases, and medical procedures.",
+      "type": "concept",
+      "chapter": 1,
+      "keywords": ["medical language", "terminology"]
+    },
+    {
+      "id": 2,
+      "term": "word parts",
+      "arabic": "أجزاء الكلمة",
+      "latin": "partes verborum",
+      "pronunciation": "وورد بارتس",
+      "definition": "المكونات الأساسية التي تشكل المصطلحات الطبية وتشمل الجذور والبادئات واللواحق",
+      "definition_en": "The basic components that make up medical terms, including roots, prefixes, and suffixes",
+      "englishSentence": "Word parts are the basic components that make up medical terms, including roots, prefixes, and suffixes.",
+      "type": "concept",
+      "chapter": 1,
+      "keywords": ["components", "word elements"]
+    },
+    {
+      "id": 3,
+      "term": "word root",
+      "arabic": "جذر الكلمة",
+      "latin": "radix",
+      "pronunciation": "وورد روت",
+      "definition": "الجزء الأساسي من الكلمة الطبية وغالباً ما يشير إلى عضو أو جزء من الجسم",
+      "definition_en": "The foundation of a medical term that usually indicates the part of the body involved",
+      "englishSentence": "A word root is the foundation of a medical term and usually indicates the part of the body involved.",
+      "type": "concept",
+      "chapter": 1,
+      "keywords": ["root", "base"]
+    },
+    {
+      "id": 4,
+      "term": "prefix",
+      "arabic": "بادئة",
+      "latin": "praefixum",
+      "pronunciation": "بري-فيكس",
+      "definition": "جزء يضاف إلى بداية الكلمة لتغيير معناها وغالباً ما يشير إلى المكان أو الزمان أو العدد",
+      "definition_en": "A part added to the beginning of a word to modify its meaning, often indicating location, time, or number",
+      "englishSentence": "A prefix is added to the beginning of a word to modify its meaning, often indicating location, time, or number.",
+      "type": "concept",
+      "chapter": 1,
+      "keywords": ["prefix"]
+    },
+    {
+      "id": 5,
+      "term": "suffix",
+      "arabic": "لاحقة",
+      "latin": "suffixum",
+      "pronunciation": "سف-فيكس",
+      "definition": "جزء يضاف إلى نهاية الكلمة لتحديد الحالة المرضية أو الإجراء الطبي",
+      "definition_en": "A part added to the end of a word to complete the term and indicate a procedure, condition, or disease",
+      "englishSentence": "A suffix is added to the end of a word to complete the term and indicate a procedure, condition, or disease.",
+      "type": "concept",
+      "chapter": 1,
+      "keywords": ["suffix"]
+    },
+    {
+      "id": 6,
+      "term": "combining form",
+      "arabic": "شكل الدمج",
+      "latin": "forma combinans",
+      "pronunciation": "كوم-باي-نينج فورم",
+      "definition": "جذر الكلمة مع حرف الربط (غالباً O) لتسهيل النطق عند إضافة مقاطع أخرى",
+      "definition_en": "A word root plus a combining vowel (usually O) to make pronunciation easier when adding other parts",
+      "englishSentence": "A combining form is a word root plus a combining vowel (usually O) to make pronunciation easier.",
+      "type": "concept",
+      "chapter": 1,
+      "keywords": ["combining form"]
+    },
+    {
+      "id": 7,
+      "term": "combining vowel",
+      "arabic": "حرف الربط",
+      "latin": "vocalis combinans",
+      "pronunciation": "كوم-باي-نينج فاول",
+      "definition": "حرف (غالباً O) يستخدم لربط أجزاء المصطلح الطبي لتسهيل النطق",
+      "definition_en": "A vowel (usually O) added between word parts to make the term easier to pronounce",
+      "englishSentence": "A combining vowel, usually O, is added between word parts to make the term easier to pronounce.",
+      "type": "concept",
+      "chapter": 1,
+      "keywords": ["combining vowel", "connector"]
+    },
+    {
+      "id": 8,
+      "term": "cyan/o",
+      "arabic": "أزرق / زراق",
+      "latin": "cyanus",
+      "pronunciation": "ساي-آن-أو",
+      "definition": "جذر يعني اللون الأزرق، يستخدم في المصطلحات المتعلقة بالزرقة",
+      "definition_en": "A word root meaning blue, used in terms related to bluish discoloration",
+      "englishSentence": "Cyan/o is a word root meaning blue, used in terms related to bluish discoloration.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["blue", "cyanosis"]
+    },
+    {
+      "id": 9,
+      "term": "cyanosis",
+      "arabic": "زرقة",
+      "latin": "cyanosis",
+      "pronunciation": "ساي-آن-أو-سيس",
+      "definition": "تغير لون الجلد إلى الأزرق بسبب نقص الأكسجين في الدم",
+      "definition_en": "A bluish discoloration of the skin caused by lack of oxygen in the blood",
+      "englishSentence": "Cyanosis is a bluish discoloration of the skin caused by lack of oxygen in the blood.",
+      "parts": {
+        "root": { "value": "cyan", "meaning": "أزرق", "function": "يشير إلى اللون الأزرق" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي والتنفسي",
+      "system_en": "Cardiovascular and Respiratory System",
+      "systemFunction": "نقل الأكسجين إلى الأنسجة",
+      "systemFunction_en": "Transport oxygen to tissues",
+      "location": "الجلد والأغشية المخاطية، خاصة الشفتين وأطراف الأصابع",
+      "location_en": "Skin and mucous membranes, especially lips and fingertips",
+      "nearbyOrgans": ["الجلد", "الأوعية الدموية", "الرئتين", "القلب"],
+      "nearbyOrgans_en": ["Skin", "Blood vessels", "Lungs", "Heart"],
+      "diseases": [
+        {
+          "name": "نقص تأكسج الدم",
+          "name_en": "Hypoxia",
+          "symptoms": ["زرقة الشفاه", "زرقة الأصابع", "ضيق تنفس", "تسارع ضربات القلب"],
+          "symptoms_en": ["Blue lips", "Blue fingers", "Shortness of breath", "Tachycardia"],
+          "treatments": ["علاج المسبب", "الأكسجين", "تحسين وظائف الرئة والقلب"],
+          "treatments_en": ["Treat underlying cause", "Oxygen therapy", "Improve lung and heart function"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["blueness", "hypoxia", "زرقة", "نقص أكسجين"]
+    },
+    {
+      "id": 10,
+      "term": "erythr/o",
+      "arabic": "أحمر",
+      "latin": "erythrus",
+      "pronunciation": "إي-ريث-رو",
+      "definition": "جذر يعني اللون الأحمر، يستخدم في المصطلحات المتعلقة بخلايا الدم الحمراء",
+      "definition_en": "A word root meaning red, used in terms related to red blood cells",
+      "englishSentence": "Erythr/o is a word root meaning red, used in terms related to red blood cells.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["red", "erythrocyte"]
+    },
+    {
+      "id": 11,
+      "term": "erythrocyte",
+      "arabic": "كرية دم حمراء",
+      "latin": "erythrocytus",
+      "pronunciation": "إي-ريث-رو-سايت",
+      "definition": "خلية دم حمراء ناضجة وظيفتها نقل الأكسجين",
+      "definition_en": "A mature red blood cell that carries oxygen",
+      "englishSentence": "An erythrocyte is a mature red blood cell that carries oxygen.",
+      "parts": {
+        "root": { "value": "erythr", "meaning": "أحمر", "function": "يشير إلى اللون الأحمر" },
+        "suffix": { "value": "cyte", "meaning": "خلية", "function": "يشير إلى الخلية" }
+      },
+      "type": "cell",
+      "system": "الجهاز الدموي",
+      "system_en": "Hematologic System",
+      "systemFunction": "نقل الأكسجين والغذاء",
+      "systemFunction_en": "Transport oxygen and nutrients",
+      "location": "الدم",
+      "location_en": "Blood",
+      "nearbyOrgans": ["جميع أنحاء الجسم", "الطحال", "نخاع العظم"],
+      "nearbyOrgans_en": ["Throughout the body", "Spleen", "Bone marrow"],
+      "diseases": [
+        {
+          "name": "فقر الدم",
+          "name_en": "Anemia",
+          "symptoms": ["تعب", "شحوب", "دوخة", "ضيق تنفس"],
+          "symptoms_en": ["Fatigue", "Pallor", "Dizziness", "Shortness of breath"],
+          "treatments": ["حديد", "فيتامين B12", "نقل دم في الحالات الشديدة"],
+          "treatments_en": ["Iron", "Vitamin B12", "Blood transfusion in severe cases"]
+        },
+        {
+          "name": "كثرة الكريات الحمر",
+          "name_en": "Polycythemia",
+          "symptoms": ["احمرار الوجه", "صداع", "دوخة", "حكة"],
+          "symptoms_en": ["Facial redness", "Headache", "Dizziness", "Itching"],
+          "treatments": ["فصد الدم", "أسبرين"],
+          "treatments_en": ["Phlebotomy", "Aspirin"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["RBC", "red blood cell", "كرية حمراء", "دم"]
+    },
+    {
+      "id": 12,
+      "term": "leuk/o",
+      "arabic": "أبيض",
+      "latin": "leukus",
+      "pronunciation": "لو-كو",
+      "definition": "جذر يعني اللون الأبيض، يستخدم في المصطلحات المتعلقة بخلايا الدم البيضاء",
+      "definition_en": "A word root meaning white, used in terms related to white blood cells",
+      "englishSentence": "Leuk/o is a word root meaning white, used in terms related to white blood cells.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["white", "leukocyte"]
+    },
+    {
+      "id": 13,
+      "term": "leukocyte",
+      "arabic": "كرية دم بيضاء",
+      "latin": "leukocytus",
+      "pronunciation": "لو-كو-سايت",
+      "definition": "خلية دم بيضاء وظيفتها الدفاع عن الجسم ضد العدوى",
+      "definition_en": "A white blood cell that protects the body against infection",
+      "englishSentence": "A leukocyte is a white blood cell that protects the body against infection.",
+      "parts": {
+        "root": { "value": "leuk", "meaning": "أبيض", "function": "يشير إلى اللون الأبيض" },
+        "suffix": { "value": "cyte", "meaning": "خلية", "function": "يشير إلى الخلية" }
+      },
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الدفاع عن الجسم ضد الكائنات الدقيقة",
+      "systemFunction_en": "Defend the body against microorganisms",
+      "location": "الدم والأنسجة الليمفاوية",
+      "location_en": "Blood and lymphatic tissues",
+      "nearbyOrgans": ["الطحال", "العقد الليمفاوية", "نخاع العظم"],
+      "nearbyOrgans_en": ["Spleen", "Lymph nodes", "Bone marrow"],
+      "diseases": [
+        {
+          "name": "ابيضاض الدم (لوكيميا)",
+          "name_en": "Leukemia",
+          "symptoms": ["تعب", "التهابات متكررة", "نزيف", "كدمات"],
+          "symptoms_en": ["Fatigue", "Frequent infections", "Bleeding", "Bruising"],
+          "treatments": ["علاج كيميائي", "زرع نخاع عظمي", "علاج موجه"],
+          "treatments_en": ["Chemotherapy", "Bone marrow transplant", "Targeted therapy"]
+        },
+        {
+          "name": "نقص الكريات البيض",
+          "name_en": "Leukopenia",
+          "symptoms": ["تكرار العدوى", "حمى"],
+          "symptoms_en": ["Frequent infections", "Fever"],
+          "treatments": ["علاج السبب", "عوامل تحفيز النخاع"],
+          "treatments_en": ["Treat cause", "Colony-stimulating factors"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["WBC", "white blood cell", "كرية بيضاء", "مناعة"]
+    },
+    {
+      "id": 14,
+      "term": "melan/o",
+      "arabic": "أسود",
+      "latin": "melanus",
+      "pronunciation": "ميل-آن-أو",
+      "definition": "جذر يعني اللون الأسود، يستخدم في المصطلحات المتعلقة بالصبغة السوداء",
+      "definition_en": "A word root meaning black, used in terms related to dark pigment",
+      "englishSentence": "Melan/o is a word root meaning black, used in terms related to dark pigment.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["black", "melanin"]
+    },
+    {
+      "id": 15,
+      "term": "melanosis",
+      "arabic": "ملانين",
+      "latin": "melanosis",
+      "pronunciation": "ميل-آن-أو-سيس",
+      "definition": "حالة ترسب غير طبيعي لصبغة سوداء في الأنسجة",
+      "definition_en": "A condition of abnormal black pigment deposits in body tissues",
+      "englishSentence": "Melanosis is a condition of abnormal black pigment deposits in body tissues.",
+      "parts": {
+        "root": { "value": "melan", "meaning": "أسود", "function": "يشير إلى اللون الأسود" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الجلدي",
+      "system_en": "Integumentary System",
+      "systemFunction": "حماية الجسم وإنتاج الصبغات",
+      "systemFunction_en": "Protect the body and produce pigments",
+      "location": "الجلد والأنسجة والأغشية المخاطية",
+      "location_en": "Skin, tissues, and mucous membranes",
+      "nearbyOrgans": ["الجلد", "العين", "الأمعاء"],
+      "nearbyOrgans_en": ["Skin", "Eyes", "Intestines"],
+      "diseases": [
+        {
+          "name": "فرط التصبغ",
+          "name_en": "Hyperpigmentation",
+          "symptoms": ["بقع داكنة", "تغير لون الجلد"],
+          "symptoms_en": ["Dark spots", "Skin discoloration"],
+          "treatments": ["كريمات تفتيح", "ليزر", "تقشير كيميائي"],
+          "treatments_en": ["Lightening creams", "Laser", "Chemical peels"]
+        },
+        {
+          "name": "ملانين القولون",
+          "name_en": "Melanosis coli",
+          "symptoms": ["تغير لون جدار القولون", "إمساك مزمن"],
+          "symptoms_en": ["Colon wall discoloration", "Chronic constipation"],
+          "treatments": ["إيقاف الملينات", "علاج الإمساك"],
+          "treatments_en": ["Stop laxatives", "Treat constipation"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["pigmentation", "melanin deposits", "تصبغ"]
+    },
+    {
+      "id": 16,
+      "term": "poli/o",
+      "arabic": "رمادي",
+      "latin": "polius",
+      "pronunciation": "بو-لي-أو",
+      "definition": "جذر يعني اللون الرمادي، يستخدم في المصطلحات المتعلقة بالمادة الرمادية في النخاع الشوكي",
+      "definition_en": "A word root meaning gray, used in terms related to the gray matter of the spinal cord",
+      "englishSentence": "Poli/o is a word root meaning gray, used in terms related to the gray matter of the spinal cord.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["gray", "polio"]
+    },
+    {
+      "id": 17,
+      "term": "poliomyelitis",
+      "arabic": "شلل الأطفال",
+      "latin": "poliomyelitis",
+      "pronunciation": "بو-لي-أو-ماي-إي-لاي-تس",
+      "definition": "التهاب فيروسي يصيب المادة الرمادية في النخاع الشوكي",
+      "definition_en": "A viral infection of the gray matter of the spinal cord",
+      "englishSentence": "Poliomyelitis is a viral infection of the gray matter of the spinal cord.",
+      "parts": {
+        "root1": { "value": "poli", "meaning": "رمادي", "function": "يشير إلى المادة الرمادية" },
+        "root2": { "value": "myel", "meaning": "نخاع", "function": "يشير إلى النخاع الشوكي" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "disease",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "التحكم في حركة العضلات ونقل الإشارات العصبية",
+      "systemFunction_en": "Control muscle movement and transmit nerve signals",
+      "location": "النخاع الشوكي، خاصة المادة الرمادية",
+      "location_en": "Spinal cord, especially gray matter",
+      "nearbyOrgans": ["الدماغ", "الأعصاب الطرفية", "العضلات"],
+      "nearbyOrgans_en": ["Brain", "Peripheral nerves", "Muscles"],
+      "diseases": [
+        {
+          "name": "شلل الأطفال الشللي",
+          "name_en": "Paralytic Poliomyelitis",
+          "symptoms": ["حمى", "صداع", "تصلب رقبة", "ضعف عضلي", "شلل"],
+          "symptoms_en": ["Fever", "Headache", "Stiff neck", "Muscle weakness", "Paralysis"],
+          "treatments": ["تطعيم للوقاية", "علاج طبيعي", "أجهزة تقويم", "تهوية ميكانيكية"],
+          "treatments_en": ["Vaccination for prevention", "Physical therapy", "Orthotic devices", "Mechanical ventilation"]
+        },
+        {
+          "name": "متلازمة ما بعد شلل الأطفال",
+          "name_en": "Post-polio syndrome",
+          "symptoms": ["ضعف عضلي جديد", "تعب", "ألم عضلي"],
+          "symptoms_en": ["New muscle weakness", "Fatigue", "Muscle pain"],
+          "treatments": ["علاج طبيعي", "أجهزة مساعدة"],
+          "treatments_en": ["Physical therapy", "Assistive devices"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["polio", "spinal cord infection", "شلل أطفال", "فيروس"]
+    },
+    {
+      "id": 18,
+      "term": "neur/o",
+      "arabic": "عصب",
+      "latin": "neuro",
+      "pronunciation": "نيو-رو",
+      "definition": "جذر يعني العصب، يستخدم في المصطلحات المتعلقة بالأعصاب والجهاز العصبي",
+      "definition_en": "A word root meaning nerve, used in terms related to nerves and the nervous system",
+      "englishSentence": "Neur/o is a word root meaning nerve, used in terms related to nerves and the nervous system.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["nerve", "neural"]
+    },
+    {
+      "id": 19,
+      "term": "neuroplasty",
+      "arabic": "ترميم العصب",
+      "latin": "neuroplastia",
+      "pronunciation": "نيو-رو-بلاس-تي",
+      "definition": "عملية جراحية لإصلاح العصب",
+      "definition_en": "The surgical repair of a nerve",
+      "englishSentence": "Neuroplasty is the surgical repair of a nerve.",
+      "parts": {
+        "root": { "value": "neur", "meaning": "عصب", "function": "يشير إلى العصب" },
+        "suffix": { "value": "plasty", "meaning": "ترميم جراحي", "function": "يشير إلى إجراء جراحي ترميمي" }
+      },
+      "type": "procedure",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "نقل الإشارات العصبية",
+      "systemFunction_en": "Transmit nerve signals",
+      "location": "الأعصاب الطرفية",
+      "location_en": "Peripheral nerves",
+      "nearbyOrgans": ["العضلات", "الأوعية الدموية", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Muscles", "Blood vessels", "Surrounding tissues"],
+      "diseases": [
+        {
+          "name": "إصابة الأعصاب المحيطية",
+          "name_en": "Peripheral nerve injury",
+          "symptoms": ["ضعف", "تنميل", "ألم", "فقدان الإحساس"],
+          "symptoms_en": ["Weakness", "Numbness", "Pain", "Loss of sensation"],
+          "treatments": ["جراحة ترميم العصب", "علاج طبيعي", "أدوية مسكنة للألم العصبي"],
+          "treatments_en": ["Nerve repair surgery", "Physical therapy", "Neuropathic pain medications"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["nerve repair", "nerve surgery", "ترميم عصب", "جراحة أعصاب"]
+    },
+    {
+      "id": 20,
+      "term": "neuritis",
+      "arabic": "التهاب العصب",
+      "latin": "neuritis",
+      "pronunciation": "نيو-راي-تس",
+      "definition": "التهاب يصيب العصب أو الأعصاب",
+      "definition_en": "Inflammation of a nerve or nerves",
+      "englishSentence": "Neuritis is inflammation of a nerve or nerves.",
+      "parts": {
+        "root": { "value": "neur", "meaning": "عصب", "function": "يشير إلى العصب" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "نقل الإشارات العصبية",
+      "systemFunction_en": "Transmit nerve signals",
+      "location": "الأعصاب الطرفية",
+      "location_en": "Peripheral nerves",
+      "nearbyOrgans": ["العضلات", "الجلد", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Muscles", "Skin", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "التهاب العصب البصري",
+          "name_en": "Optic neuritis",
+          "symptoms": ["ألم مع حركة العين", "ضعف الرؤية", "فقدان رؤية الألوان"],
+          "symptoms_en": ["Pain with eye movement", "Vision loss", "Loss of color vision"],
+          "treatments": ["كورتيزون", "علاج السبب"],
+          "treatments_en": ["Corticosteroids", "Treat underlying cause"]
+        },
+        {
+          "name": "التهاب العصب الدهليزي",
+          "name_en": "Vestibular neuritis",
+          "symptoms": ["دوار شديد", "غثيان", "قيء", "عدم اتزان"],
+          "symptoms_en": ["Severe dizziness", "Nausea", "Vomiting", "Imbalance"],
+          "treatments": ["مضادات هستامين", "مضادات قيء", "تمارين توازن"],
+          "treatments_en": ["Antihistamines", "Antiemetics", "Balance exercises"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["nerve inflammation", "neuropathy", "التهاب عصب", "ألم عصبي"]
+    },
+    {
+      "id": 21,
+      "term": "gastr/o",
+      "arabic": "معدة",
+      "latin": "gastro",
+      "pronunciation": "غاس-ترو",
+      "definition": "جذر يعني المعدة، يستخدم في المصطلحات المتعلقة بالمعدة والجهاز الهضمي",
+      "definition_en": "A word root meaning stomach, used in terms related to the stomach and digestive system",
+      "englishSentence": "Gastr/o is a word root meaning stomach, used in terms related to the stomach and digestive system.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["stomach", "gastric"]
+    },
+    {
+      "id": 22,
+      "term": "gastrosis",
+      "arabic": "مرض المعدة",
+      "latin": "gastrosis",
+      "pronunciation": "غاس-ترو-سيس",
+      "definition": "أي مرض يصيب المعدة",
+      "definition_en": "Any disease of the stomach",
+      "englishSentence": "Gastrosis means any disease of the stomach.",
+      "parts": {
+        "root": { "value": "gastr", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "هضم الطعام",
+      "systemFunction_en": "Digest food",
+      "location": "المعدة",
+      "location_en": "Stomach",
+      "nearbyOrgans": ["المريء", "الأمعاء الدقيقة", "الكبد", "البنكرياس"],
+      "nearbyOrgans_en": ["Esophagus", "Small intestine", "Liver", "Pancreas"],
+      "diseases": [
+        {
+          "name": "قرحة المعدة",
+          "name_en": "Gastric ulcer",
+          "symptoms": ["ألم حارق", "حرقة", "غثيان", "نزيف"],
+          "symptoms_en": ["Burning pain", "Heartburn", "Nausea", "Bleeding"],
+          "treatments": ["مضادات حموضة", "مضادات حيوية", "مثبطات مضخة البروتون"],
+          "treatments_en": ["Antacids", "Antibiotics", "Proton pump inhibitors"]
+        },
+        {
+          "name": "التهاب المعدة",
+          "name_en": "Gastritis",
+          "symptoms": ["ألم أعلى البطن", "غثيان", "قيء", "عسر هضم"],
+          "symptoms_en": ["Upper abdominal pain", "Nausea", "Vomiting", "Indigestion"],
+          "treatments": ["مضادات حموضة", "تجنب المهيجات"],
+          "treatments_en": ["Antacids", "Avoid irritants"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["stomach disease", "gastric disease", "مرض معدي"]
+    },
+    {
+      "id": 23,
+      "term": "enter/o",
+      "arabic": "أمعاء",
+      "latin": "entero",
+      "pronunciation": "إن-تير-رو",
+      "definition": "جذر يعني الأمعاء (عادة الأمعاء الدقيقة)، يستخدم في المصطلحات المتعلقة بالأمعاء",
+      "definition_en": "A word root meaning intestine (usually the small intestine), used in terms related to the intestines",
+      "englishSentence": "Enter/o is a word root meaning intestine (usually the small intestine), used in terms related to the intestines.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["intestine", "enteric"]
+    },
+    {
+      "id": 24,
+      "term": "gastroenteritis",
+      "arabic": "التهاب المعدة والأمعاء",
+      "latin": "gastroenteritis",
+      "pronunciation": "غاس-ترو-إن-تير-آي-تس",
+      "definition": "التهاب يصيب المعدة والأمعاء الدقيقة معاً",
+      "definition_en": "Inflammation of the stomach and small intestine together",
+      "englishSentence": "Gastroenteritis is inflammation of the stomach and small intestine.",
+      "parts": {
+        "root1": { "value": "gastr", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "root2": { "value": "enter", "meaning": "أمعاء", "function": "يشير إلى الأمعاء" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "هضم وامتصاص الطعام",
+      "systemFunction_en": "Digest and absorb food",
+      "location": "المعدة والأمعاء الدقيقة",
+      "location_en": "Stomach and small intestine",
+      "nearbyOrgans": ["البنكرياس", "الكبد", "المرارة", "الأمعاء الغليظة"],
+      "nearbyOrgans_en": ["Pancreas", "Liver", "Gallbladder", "Large intestine"],
+      "diseases": [
+        {
+          "name": "التهاب المعدة والأمعاء الفيروسي (برد معدة)",
+          "name_en": "Viral gastroenteritis (Stomach flu)",
+          "symptoms": ["إسهال", "قيء", "آلام بطن", "حمى", "غثيان"],
+          "symptoms_en": ["Diarrhea", "Vomiting", "Abdominal pain", "Fever", "Nausea"],
+          "treatments": ["محاليل معالجة الجفاف", "راحة", "تعديل الغذاء", "مضادات إسهال"],
+          "treatments_en": ["Oral rehydration solutions", "Rest", "Diet modification", "Antidiarrheals"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["stomach flu", "intestinal inflammation", "التهاب معدة وأمعاء"]
+    },
+    {
+      "id": 25,
+      "term": "tonsill/o",
+      "arabic": "لوزة",
+      "latin": "tonsillo",
+      "pronunciation": "تون-سي-لو",
+      "definition": "جذر يعني اللوزتين، يستخدم في المصطلحات المتعلقة باللوزتين",
+      "definition_en": "A word root meaning tonsils, used in terms related to the tonsils",
+      "englishSentence": "Tonsill/o is a word root meaning tonsils, used in terms related to the tonsils.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["tonsil"]
+    },
+    {
+      "id": 26,
+      "term": "tonsillitis",
+      "arabic": "التهاب اللوزتين",
+      "latin": "tonsillitis",
+      "pronunciation": "تون-سي-لاي-تس",
+      "definition": "التهاب يصيب اللوزتين",
+      "definition_en": "Inflammation of the tonsils",
+      "englishSentence": "Tonsillitis is inflammation of the tonsils.",
+      "parts": {
+        "root": { "value": "tonsill", "meaning": "لوزة", "function": "يشير إلى اللوزتين" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز المناعي والتنفسي",
+      "system_en": "Immune and Respiratory System",
+      "systemFunction": "مقاومة العدوى وترطيب وتدفئة الهواء",
+      "systemFunction_en": "Fight infection and warm/humidify air",
+      "location": "اللوزتين في الحلق",
+      "location_en": "Tonsils in the throat",
+      "nearbyOrgans": ["البلعوم", "الحنجرة", "اللهاة", "الغدانيات"],
+      "nearbyOrgans_en": ["Pharynx", "Larynx", "Uvula", "Adenoids"],
+      "diseases": [
+        {
+          "name": "التهاب اللوزتين الحاد",
+          "name_en": "Acute tonsillitis",
+          "symptoms": ["ألم حلق شديد", "حمى", "صعوبة بلع", "احمرار اللوزتين", "صديد"],
+          "symptoms_en": ["Severe sore throat", "Fever", "Difficulty swallowing", "Red tonsils", "Pus"],
+          "treatments": ["مضادات حيوية", "مسكنات", "خافضات حرارة", "غرغرة"],
+          "treatments_en": ["Antibiotics", "Pain relievers", "Antipyretics", "Gargling"]
+        },
+        {
+          "name": "التهاب اللوزتين المزمن",
+          "name_en": "Chronic tonsillitis",
+          "symptoms": ["ألم حلق متكرر", "رائحة فم كريهة", "تضخم اللوزتين"],
+          "symptoms_en": ["Recurrent sore throat", "Bad breath", "Enlarged tonsils"],
+          "treatments": ["استئصال اللوزتين", "مضادات حيوية عند النوبات"],
+          "treatments_en": ["Tonsillectomy", "Antibiotics for flare-ups"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["tonsil infection", "sore throat", "التهاب لوزتين", "ألم حلق"]
+    },
+    {
+      "id": 27,
+      "term": "tonsillectomy",
+      "arabic": "استئصال اللوزتين",
+      "latin": "tonsillectomia",
+      "pronunciation": "تون-سي-ليك-تو-مي",
+      "definition": "عملية جراحية لإزالة اللوزتين",
+      "definition_en": "The surgical removal of the tonsils",
+      "englishSentence": "A tonsillectomy is the surgical removal of the tonsils.",
+      "parts": {
+        "root": { "value": "tonsill", "meaning": "لوزة", "function": "يشير إلى اللوزتين" },
+        "suffix": { "value": "ectomy", "meaning": "استئصال جراحي", "function": "يشير إلى إزالة جراحية" }
+      },
+      "type": "procedure",
+      "system": "الجهاز المناعي والتنفسي",
+      "system_en": "Immune and Respiratory System",
+      "systemFunction": "مقاومة العدوى",
+      "systemFunction_en": "Fight infection",
+      "location": "اللوزتين في الحلق",
+      "location_en": "Tonsils in the throat",
+      "nearbyOrgans": ["البلعوم", "الحنجرة", "اللهاة", "الغدانيات"],
+      "nearbyOrgans_en": ["Pharynx", "Larynx", "Uvula", "Adenoids"],
+      "diseases": [
+        {
+          "name": "ما بعد استئصال اللوزتين",
+          "name_en": "Post-tonsillectomy",
+          "symptoms": ["ألم بعد العملية", "صعوبة بلع مؤقتة", "نزيف محتمل"],
+          "symptoms_en": ["Post-operative pain", "Temporary difficulty swallowing", "Possible bleeding"],
+          "treatments": ["مسكنات", "سوائل باردة", "طعام طري", "مراقبة النزيف"],
+          "treatments_en": ["Pain relievers", "Cold fluids", "Soft foods", "Monitor for bleeding"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["tonsil removal", "tonsil surgery", "استئصال لوزتين", "جراحة"]
+    },
+    {
+      "id": 28,
+      "term": "cardi/o",
+      "arabic": "قلب",
+      "latin": "cardio",
+      "pronunciation": "كار-دي-أو",
+      "definition": "جذر يعني القلب، يستخدم في المصطلحات المتعلقة بالقلب",
+      "definition_en": "A word root meaning heart, used in terms related to the heart",
+      "englishSentence": "Cardi/o is a word root meaning heart, used in terms related to the heart.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["heart", "cardiac"]
+    },
+    {
+      "id": 29,
+      "term": "cardiac",
+      "arabic": "قلبي",
+      "latin": "cardiacus",
+      "pronunciation": "كار-دي-أك",
+      "definition": "صفة تعني متعلق بالقلب",
+      "definition_en": "An adjective meaning pertaining to the heart",
+      "englishSentence": "Cardiac is an adjective meaning pertaining to the heart.",
+      "parts": {
+        "root": { "value": "cardi", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "ac", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضخ الدم إلى جميع أنحاء الجسم",
+      "systemFunction_en": "Pump blood throughout the body",
+      "location": "القلب في التجويف الصدري",
+      "location_en": "Heart in the thoracic cavity",
+      "nearbyOrgans": ["الرئتين", "الأوعية الدموية الكبرى", "المريء"],
+      "nearbyOrgans_en": ["Lungs", "Great vessels", "Esophagus"],
+      "diseases": [
+        {
+          "name": "أمراض القلب",
+          "name_en": "Heart diseases",
+          "symptoms": ["ألم صدر", "ضيق تنفس", "خفقان", "تعب"],
+          "symptoms_en": ["Chest pain", "Shortness of breath", "Palpitations", "Fatigue"],
+          "treatments": ["أدوية قلب", "قسطرة", "جراحة"],
+          "treatments_en": ["Cardiac medications", "Catheterization", "Surgery"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["heart-related", "قلب", "قلبي"]
+    },
+    {
+      "id": 30,
+      "term": "path/o",
+      "arabic": "مرض",
+      "latin": "patho",
+      "pronunciation": "با-ثو",
+      "definition": "جذر يعني المرض، يستخدم في المصطلحات المتعلقة بالأمراض",
+      "definition_en": "A word root meaning disease, used in terms related to diseases",
+      "englishSentence": "Path/o is a word root meaning disease, used in terms related to diseases.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["disease", "pathology"]
+    },
+    {
+      "id": 31,
+      "term": "pathology",
+      "arabic": "علم الأمراض",
+      "latin": "pathologia",
+      "pronunciation": "با-ثو-لوجي",
+      "definition": "فرع الطب الذي يدرس الأمراض وتأثيرها على الأنسجة",
+      "definition_en": "The branch of medicine that studies diseases and their effects on tissues",
+      "englishSentence": "Pathology is the study of all aspects of diseases.",
+      "parts": {
+        "root": { "value": "path", "meaning": "مرض", "function": "يشير إلى المرض" },
+        "suffix": { "value": "ology", "meaning": "علم", "function": "يشير إلى مجال الدراسة" }
+      },
+      "type": "science",
+      "systemFunction": "دراسة وتشخيص الأمراض",
+      "systemFunction_en": "Study and diagnosis of diseases",
+      "chapter": 1,
+      "keywords": ["disease study", "علم الأمراض"]
+    },
+    {
+      "id": 32,
+      "term": "gastralgia",
+      "arabic": "ألم المعدة",
+      "latin": "gastralgia",
+      "pronunciation": "غاس-ترال-جيا",
+      "definition": "ألم في المعدة",
+      "definition_en": "Pain in the stomach",
+      "englishSentence": "Gastralgia means pain in the stomach.",
+      "parts": {
+        "root": { "value": "gastr", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "suffix": { "value": "algia", "meaning": "ألم", "function": "يشير إلى وجود ألم" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "location": "المعدة",
+      "location_en": "Stomach",
+      "chapter": 1,
+      "keywords": ["stomach pain", "stomach ache", "ألم معدي"]
+    },
+    {
+      "id": 33,
+      "term": "gastrodynia",
+      "arabic": "ألم المعدة",
+      "latin": "gastrodynia",
+      "pronunciation": "غاس-ترو-دين-يا",
+      "definition": "ألم في المعدة (مرادف لـ gastralgia)",
+      "definition_en": "Pain in the stomach (synonym for gastralgia)",
+      "englishSentence": "Gastrodynia also means pain in the stomach.",
+      "parts": {
+        "root": { "value": "gastr", "meaning": "معدة", "function": "يشير إلى المعدة" },
+        "suffix": { "value": "dynia", "meaning": "ألم", "function": "يشير إلى وجود ألم" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "location": "المعدة",
+      "location_en": "Stomach",
+      "chapter": 1,
+      "keywords": ["stomach pain", "ألم معدي"]
+    },
+    {
+      "id": 34,
+      "term": "arteri/o",
+      "arabic": "شريان",
+      "latin": "arterio",
+      "pronunciation": "أر-تير-ي-أو",
+      "definition": "جذر يعني الشريان، يستخدم في المصطلحات المتعلقة بالشرايين",
+      "definition_en": "A word root meaning artery, used in terms related to arteries",
+      "englishSentence": "Arteri/o is a word root meaning artery, used in terms related to arteries.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["artery"]
+    },
+    {
+      "id": 35,
+      "term": "arterionecrosis",
+      "arabic": "نخر شرياني",
+      "latin": "arterionecrosis",
+      "pronunciation": "أر-تير-ي-أو-ني-كرو-سيس",
+      "definition": "موت أنسجة الشريان",
+      "definition_en": "The tissue death of an artery or arteries",
+      "englishSentence": "Arterionecrosis is the tissue death of an artery or arteries.",
+      "parts": {
+        "root": { "value": "arteri", "meaning": "شريان", "function": "يشير إلى الشريان" },
+        "suffix": { "value": "necrosis", "meaning": "نخر", "function": "يشير إلى موت الأنسجة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "location": "الشرايين",
+      "location_en": "Arteries",
+      "diseases": [
+        {
+          "name": "نخر شرياني",
+          "name_en": "Arterial necrosis",
+          "symptoms": ["ألم", "فقدان وظيفة العضو", "تغير لون الجلد"],
+          "symptoms_en": ["Pain", "Loss of organ function", "Skin discoloration"],
+          "treatments": ["علاج السبب", "إزالة النسيج الميت"],
+          "treatments_en": ["Treat cause", "Remove dead tissue"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["artery death", "tissue death", "نخر شرياني"]
+    },
+    {
+      "id": 36,
+      "term": "arteriosclerosis",
+      "arabic": "تصلب شرايين",
+      "latin": "arteriosclerosis",
+      "pronunciation": "أر-تير-ي-أو-سكلي-رو-سيس",
+      "definition": "تصلب غير طبيعي في جدران الشرايين",
+      "definition_en": "The abnormal hardening of the walls of an artery or arteries",
+      "englishSentence": "Arteriosclerosis is the abnormal hardening of the walls of an artery or arteries.",
+      "parts": {
+        "root": { "value": "arteri", "meaning": "شريان", "function": "يشير إلى الشريان" },
+        "suffix": { "value": "sclerosis", "meaning": "تصلب", "function": "يشير إلى تصلب غير طبيعي" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدم",
+      "systemFunction_en": "Transport blood",
+      "location": "جدران الشرايين في جميع أنحاء الجسم",
+      "location_en": "Artery walls throughout the body",
+      "nearbyOrgans": ["القلب", "الدماغ", "الكلى", "الأطراف"],
+      "nearbyOrgans_en": ["Heart", "Brain", "Kidneys", "Extremities"],
+      "diseases": [
+        {
+          "name": "تصلب الشرايين التاجية",
+          "name_en": "Coronary artery disease",
+          "symptoms": ["ألم صدر", "نوبة قلبية", "ضيق تنفس"],
+          "symptoms_en": ["Chest pain", "Heart attack", "Shortness of breath"],
+          "treatments": ["أدوية خافضة للكوليسترول", "أسبرين", "تغيير نمط الحياة", "قسطرة"],
+          "treatments_en": ["Cholesterol-lowering drugs", "Aspirin", "Lifestyle changes", "Catheterization"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["artery hardening", "atherosclerosis", "تصلب شرايين"]
+    },
+    {
+      "id": 37,
+      "term": "arteriostenosis",
+      "arabic": "تضيق شرياني",
+      "latin": "arteriostenosis",
+      "pronunciation": "أر-تير-ي-أو-ستي-نو-سيس",
+      "definition": "تضيق غير طبيعي في الشريان",
+      "definition_en": "The abnormal narrowing of an artery or arteries",
+      "englishSentence": "Arteriostenosis is the abnormal narrowing of an artery or arteries.",
+      "parts": {
+        "root": { "value": "arteri", "meaning": "شريان", "function": "يشير إلى الشريان" },
+        "suffix": { "value": "stenosis", "meaning": "تضيق", "function": "يشير إلى تضيق غير طبيعي" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدم",
+      "systemFunction_en": "Transport blood",
+      "location": "الشرايين",
+      "location_en": "Arteries",
+      "diseases": [
+        {
+          "name": "تضيق الشريان السباتي",
+          "name_en": "Carotid artery stenosis",
+          "symptoms": ["دوخة", "إغماء", "ضعف في أحد جانبي الجسم", "صعوبة كلام"],
+          "symptoms_en": ["Dizziness", "Fainting", "Weakness on one side", "Speech difficulty"],
+          "treatments": ["أدوية", "رأب الوعاء", "استئصال بطانة الشريان"],
+          "treatments_en": ["Medications", "Angioplasty", "Endarterectomy"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["artery narrowing", "stricture", "تضيق شرياني"]
+    },
+    {
+      "id": 38,
+      "term": "arteriomalacia",
+      "arabic": "ليونة شريانية",
+      "latin": "arteriomalacia",
+      "pronunciation": "أر-تير-ي-أو-ما-لا-شيا",
+      "definition": "تليين غير طبيعي في جدران الشرايين",
+      "definition_en": "The abnormal softening of the walls of an artery or arteries",
+      "englishSentence": "Arteriomalacia is the abnormal softening of the walls of an artery or arteries.",
+      "parts": {
+        "root": { "value": "arteri", "meaning": "شريان", "function": "يشير إلى الشريان" },
+        "suffix": { "value": "malacia", "meaning": "لين", "function": "يشير إلى لين غير طبيعي" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "location": "جدران الشرايين",
+      "location_en": "Artery walls",
+      "chapter": 1,
+      "keywords": ["artery softening", "ليونة شريانية"]
+    },
+    {
+      "id": 39,
+      "term": "hepat/o",
+      "arabic": "كبد",
+      "latin": "hepato",
+      "pronunciation": "هي-با-تو",
+      "definition": "جذر يعني الكبد، يستخدم في المصطلحات المتعلقة بالكبد",
+      "definition_en": "A word root meaning liver, used in terms related to the liver",
+      "englishSentence": "Hepat/o is a word root meaning liver, used in terms related to the liver.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["liver", "hepatic"]
+    },
+    {
+      "id": 40,
+      "term": "hepatomegaly",
+      "arabic": "تضخم الكبد",
+      "latin": "hepatomegalia",
+      "pronunciation": "هي-با-تو-ميج-آ-لي",
+      "definition": "تضخم غير طبيعي في حجم الكبد",
+      "definition_en": "Abnormal enlargement of the liver",
+      "englishSentence": "Hepatomegaly is abnormal enlargement of the liver.",
+      "parts": {
+        "root": { "value": "hepat", "meaning": "كبد", "function": "يشير إلى الكبد" },
+        "suffix": { "value": "megaly", "meaning": "تضخم", "function": "يشير إلى تضخم غير طبيعي" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "إزالة السموم وإنتاج العصارة الصفراوية",
+      "systemFunction_en": "Detoxification and bile production",
+      "location": "الربع العلوي الأيمن من البطن",
+      "location_en": "Right upper quadrant of abdomen",
+      "nearbyOrgans": ["المرارة", "البنكرياس", "المعدة", "الأمعاء"],
+      "nearbyOrgans_en": ["Gallbladder", "Pancreas", "Stomach", "Intestines"],
+      "diseases": [
+        {
+          "name": "التهاب الكبد",
+          "name_en": "Hepatitis",
+          "symptoms": ["تعب", "يرقان", "ألم بطني", "غثيان"],
+          "symptoms_en": ["Fatigue", "Jaundice", "Abdominal pain", "Nausea"],
+          "treatments": ["علاج المسبب", "مضادات فيروسية", "راحة"],
+          "treatments_en": ["Treat cause", "Antivirals", "Rest"]
+        },
+        {
+          "name": "فشل القلب الاحتقاني",
+          "name_en": "Congestive heart failure",
+          "symptoms": ["تضخم كبد", "وذمة", "ضيق تنفس", "تورم الساقين"],
+          "symptoms_en": ["Enlarged liver", "Edema", "Shortness of breath", "Leg swelling"],
+          "treatments": ["مدرات بول", "أدوية قلب", "تقليل الملح"],
+          "treatments_en": ["Diuretics", "Cardiac medications", "Salt restriction"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["liver enlargement", "enlarged liver", "تضخم كبد"]
+    },
+    {
+      "id": 41,
+      "term": "abdominocentesis",
+      "arabic": "بزل البطن",
+      "latin": "abdominocentesis",
+      "pronunciation": "أب-دوم-ي-نو-سين-تي-سيس",
+      "definition": "ثقب جراحي في تجويف البطن لإزالة السوائل",
+      "definition_en": "The surgical puncture of the abdominal cavity to remove fluid",
+      "englishSentence": "Abdominocentesis is the surgical puncture of the abdominal cavity to remove fluid.",
+      "parts": {
+        "root": { "value": "abdomin", "meaning": "بطن", "function": "يشير إلى البطن" },
+        "suffix": { "value": "centesis", "meaning": "بزل جراحي", "function": "يشير إلى ثقب لسحب السوائل" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "تشخيصي أو علاجي",
+      "systemFunction_en": "Diagnostic or therapeutic",
+      "location": "تجويف البطن",
+      "location_en": "Abdominal cavity",
+      "nearbyOrgans": ["الأمعاء", "الكبد", "المثانة", "الطحال"],
+      "nearbyOrgans_en": ["Intestines", "Liver", "Bladder", "Spleen"],
+      "diseases": [
+        {
+          "name": "الاستسقاء (Ascites)",
+          "name_en": "Ascites",
+          "symptoms": ["انتفاخ البطن", "ضيق تنفس", "ثقل", "ألم"],
+          "symptoms_en": ["Abdominal distension", "Shortness of breath", "Heaviness", "Pain"],
+          "treatments": ["بزل البطن لتخفيف السوائل", "مدرات بول", "علاج المسبب (مثل تليف الكبد)"],
+          "treatments_en": ["Abdominocentesis to drain fluid", "Diuretics", "Treat underlying cause (e.g., cirrhosis)"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["abdominal tap", "paracentesis", "بزل بطني"]
+    },
+    {
+      "id": 42,
+      "term": "angi/o",
+      "arabic": "وعاء دموي",
+      "latin": "angio",
+      "pronunciation": "آن-جي-أو",
+      "definition": "جذر يعني وعاء دموي، يستخدم في المصطلحات المتعلقة بالأوعية الدموية",
+      "definition_en": "A word root meaning blood vessel, used in terms related to blood vessels",
+      "englishSentence": "Angi/o is a word root meaning blood vessel, used in terms related to blood vessels.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["vessel", "vascular"]
+    },
+    {
+      "id": 43,
+      "term": "angiography",
+      "arabic": "تصوير الأوعية",
+      "latin": "angiographia",
+      "pronunciation": "آن-جي-أو-جرا-في",
+      "definition": "عملية تصوير الأوعية الدموية باستخدام الأشعة بعد حقن مادة تباين",
+      "definition_en": "The process of producing an x-ray study of blood vessels after injecting a contrast medium",
+      "englishSentence": "Angiography is the process of producing an x-ray study of blood vessels after injecting a contrast medium.",
+      "parts": {
+        "root": { "value": "angi", "meaning": "وعاء", "function": "يشير إلى الأوعية الدموية" },
+        "suffix": { "value": "graphy", "meaning": "تصوير", "function": "يشير إلى عملية التصوير" }
+      },
+      "type": "procedure",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تصوير الأوعية الدموية للتشخيص",
+      "systemFunction_en": "Imaging blood vessels for diagnosis",
+      "location": "الأوعية الدموية في جميع أنحاء الجسم",
+      "location_en": "Blood vessels throughout the body",
+      "nearbyOrgans": ["القلب", "الدماغ", "الكلى", "الأطراف"],
+      "nearbyOrgans_en": ["Heart", "Brain", "Kidneys", "Extremities"],
+      "diseases": [
+        {
+          "name": "تضيق الشرايين التاجية",
+          "name_en": "Coronary artery stenosis",
+          "symptoms": ["ألم صدر", "ضيق تنفس", "تعب"],
+          "symptoms_en": ["Chest pain", "Shortness of breath", "Fatigue"],
+          "treatments": ["قسطرة ودعامة", "جراحة تحويل مسار"],
+          "treatments_en": ["Catheterization with stent", "Bypass surgery"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["vessel imaging", "arteriogram", "تصوير أوعية"]
+    },
+    {
+      "id": 44,
+      "term": "angiogram",
+      "arabic": "صورة الأوعية",
+      "latin": "angiogramma",
+      "pronunciation": "آن-جي-أو-جرام",
+      "definition": "الصورة أو الفيلم الناتج عن تصوير الأوعية الدموية",
+      "definition_en": "The film produced by angiography",
+      "englishSentence": "An angiogram is the film produced by angiography.",
+      "parts": {
+        "root": { "value": "angi", "meaning": "وعاء", "function": "يشير إلى الأوعية الدموية" },
+        "suffix": { "value": "gram", "meaning": "صورة", "function": "يشير إلى الصورة أو التسجيل" }
+      },
+      "type": "result",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "chapter": 1,
+      "keywords": ["angiography image", "x-ray film", "صورة وعائية"]
+    },
+    {
+      "id": 45,
+      "term": "my/o",
+      "arabic": "عضلة",
+      "latin": "myo",
+      "pronunciation": "ماي-أو",
+      "definition": "جذر يعني العضلة، يستخدم في المصطلحات المتعلقة بالعضلات",
+      "definition_en": "A word root meaning muscle, used in terms related to muscles",
+      "englishSentence": "My/o is a word root meaning muscle, used in terms related to muscles.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["muscle", "myo"]
+    },
+    {
+      "id": 46,
+      "term": "myoplasty",
+      "arabic": "رأب العضلة",
+      "latin": "myoplastia",
+      "pronunciation": "ماي-أو-بلاس-تي",
+      "definition": "عملية جراحية لترميم العضلة",
+      "definition_en": "The surgical repair of a muscle",
+      "englishSentence": "Myoplasty is the surgical repair of a muscle.",
+      "parts": {
+        "root": { "value": "my", "meaning": "عضلة", "function": "يشير إلى العضلة" },
+        "suffix": { "value": "plasty", "meaning": "ترميم جراحي", "function": "يشير إلى إجراء جراحي ترميمي" }
+      },
+      "type": "procedure",
+      "system": "الجهاز العضلي",
+      "system_en": "Muscular System",
+      "systemFunction": "الحركة",
+      "systemFunction_en": "Movement",
+      "location": "العضلات",
+      "location_en": "Muscles",
+      "nearbyOrgans": ["العظام", "الأوتار", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Bones", "Tendons", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "تمزق عضلي",
+          "name_en": "Muscle rupture",
+          "symptoms": ["ألم حاد", "ورم", "كدمات", "ضعف"],
+          "symptoms_en": ["Acute pain", "Swelling", "Bruising", "Weakness"],
+          "treatments": ["جراحة ترميم", "علاج طبيعي", "تثبيت"],
+          "treatments_en": ["Repair surgery", "Physical therapy", "Immobilization"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["muscle repair", "muscle surgery", "رأب عضلة"]
+    },
+    {
+      "id": 47,
+      "term": "arthr/o",
+      "arabic": "مفصل",
+      "latin": "arthro",
+      "pronunciation": "آر-ثرو",
+      "definition": "جذر يعني المفصل، يستخدم في المصطلحات المتعلقة بالمفاصل",
+      "definition_en": "A word root meaning joint, used in terms related to joints",
+      "englishSentence": "Arthr/o is a word root meaning joint, used in terms related to joints.",
+      "type": "root",
+      "chapter": 1,
+      "keywords": ["joint", "arthro"]
+    },
+    {
+      "id": 48,
+      "term": "arthroscopy",
+      "arabic": "تنظير المفصل",
+      "latin": "arthroscopia",
+      "pronunciation": "آر-ثروس-كو-بي",
+      "definition": "الفحص البصري للبنية الداخلية للمفصل باستخدام منظار",
+      "definition_en": "The visual examination of the internal structure of a joint using an endoscope",
+      "englishSentence": "Arthroscopy is the visual examination of the internal structure of a joint.",
+      "parts": {
+        "root": { "value": "arthr", "meaning": "مفصل", "function": "يشير إلى المفصل" },
+        "suffix": { "value": "scopy", "meaning": "فحص بصري", "function": "يشير إلى الفحص بالمنظار" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حركة الجسم ودعمه",
+      "systemFunction_en": "Body movement and support",
+      "location": "المفاصل (الركبة، الكتف، الورك، الكوع)",
+      "location_en": "Joints (knee, shoulder, hip, elbow)",
+      "nearbyOrgans": ["العظام", "الأربطة", "الغضاريف", "الأوتار"],
+      "nearbyOrgans_en": ["Bones", "Ligaments", "Cartilage", "Tendons"],
+      "diseases": [
+        {
+          "name": "تمزق الغضروف الهلالي",
+          "name_en": "Meniscal tear",
+          "symptoms": ["ألم في الركبة", "تورم", "قفل المفصل", "عدم ثبات"],
+          "symptoms_en": ["Knee pain", "Swelling", "Joint locking", "Instability"],
+          "treatments": ["تنظير المفصل لاستئصال أو إصلاح الغضروف", "علاج طبيعي"],
+          "treatments_en": ["Arthroscopy to remove or repair cartilage", "Physical therapy"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["joint examination", "keyhole surgery", "تنظير مفصلي"]
+    },
+    {
+      "id": 49,
+      "term": "hemorrhage",
+      "arabic": "نزيف",
+      "latin": "haemorrhagia",
+      "pronunciation": "هيم-أو-ريدج",
+      "definition": "فقدان كمية كبيرة من الدم في وقت قصير",
+      "definition_en": "The loss of a large amount of blood in a short time",
+      "englishSentence": "A hemorrhage is the loss of a large amount of blood in a short time.",
+      "parts": {
+        "root": { "value": "hem", "meaning": "دم", "function": "يشير إلى الدم" },
+        "suffix": { "value": "rrhage", "meaning": "نزيف", "function": "يشير إلى تدفق أو نزيف" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "الدورة الدموية",
+      "systemFunction_en": "Blood circulation",
+      "location": "حسب موقع النزيف",
+      "location_en": "Depends on bleeding site",
+      "diseases": [
+        {
+          "name": "نزيف داخلي",
+          "name_en": "Internal hemorrhage",
+          "symptoms": ["انخفاض ضغط الدم", "تسارع نبضات القلب", "دوار", "شحوب", "ألم"],
+          "symptoms_en": ["Low blood pressure", "Tachycardia", "Dizziness", "Pallor", "Pain"],
+          "treatments": ["نقل دم", "جراحة لوقف النزيف", "أدوية"],
+          "treatments_en": ["Blood transfusion", "Surgery to stop bleeding", "Medications"]
+        },
+        {
+          "name": "نزيف خارجي",
+          "name_en": "External hemorrhage",
+          "symptoms": ["نزيف مرئي", "ضعف", "دوخة"],
+          "symptoms_en": ["Visible bleeding", "Weakness", "Dizziness"],
+          "treatments": ["ضغط", "خياطة", "كي"],
+          "treatments_en": ["Pressure", "Suturing", "Cauterization"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["bleeding", "blood loss", "نزف"]
+    },
+    {
+      "id": 50,
+      "term": "myorrhaphy",
+      "arabic": "خياطة العضلة",
+      "latin": "myorrhaphia",
+      "pronunciation": "ماي-أو-را-في",
+      "definition": "عملية خياطة جرح في العضلة",
+      "definition_en": "The surgical suturing of a muscle wound",
+      "englishSentence": "Myorrhaphy is the surgical suturing of a muscle wound.",
+      "parts": {
+        "root": { "value": "my", "meaning": "عضلة", "function": "يشير إلى العضلة" },
+        "suffix": { "value": "rrhaphy", "meaning": "خياطة جراحية", "function": "يشير إلى خياطة" }
+      },
+      "type": "procedure",
+      "system": "الجهاز العضلي",
+      "system_en": "Muscular System",
+      "chapter": 1,
+      "keywords": ["muscle suturing", "خياطة عضلية"]
+    },
+    {
+      "id": 51,
+      "term": "diarrhea",
+      "arabic": "إسهال",
+      "latin": "diarrhoea",
+      "pronunciation": "داي-أ-ري-أ",
+      "definition": "تدفق متكرر لبراز رخو أو مائي",
+      "definition_en": "The frequent flow of loose or watery stools",
+      "englishSentence": "Diarrhea is the frequent flow of loose or watery stools.",
+      "parts": {
+        "prefix": { "value": "dia", "meaning": "خلال", "function": "يشير إلى المرور خلال" },
+        "suffix": { "value": "rrhea", "meaning": "تدفق", "function": "يشير إلى تدفق أو إفراز" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهضمي",
+      "system_en": "Digestive System",
+      "systemFunction": "امتصاص الماء والمواد الغذائية",
+      "systemFunction_en": "Absorb water and nutrients",
+      "location": "الأمعاء",
+      "location_en": "Intestines",
+      "diseases": [
+        {
+          "name": "إسهال حاد",
+          "name_en": "Acute diarrhea",
+          "symptoms": ["براز مائي متكرر", "تقلصات بطنية", "جفاف"],
+          "symptoms_en": ["Frequent watery stools", "Abdominal cramps", "Dehydration"],
+          "treatments": ["محاليل الجفاف", "مضادات إسهال"],
+          "treatments_en": ["Oral rehydration solutions", "Antidiarrheals"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["loose stools", "frequent bowel movements", "إسهال"]
+    },
+    {
+      "id": 52,
+      "term": "myorrhexis",
+      "arabic": "تمزق عضلي",
+      "latin": "myorrhexis",
+      "pronunciation": "ماي-أو-ريك-سيس",
+      "definition": "تمزق في العضلة",
+      "definition_en": "The rupture of a muscle",
+      "englishSentence": "Myorrhexis is the rupture of a muscle.",
+      "parts": {
+        "root": { "value": "my", "meaning": "عضلة", "function": "يشير إلى العضلة" },
+        "suffix": { "value": "rrhexis", "meaning": "تمزق", "function": "يشير إلى تمزق" }
+      },
+      "type": "condition",
+      "system": "الجهاز العضلي",
+      "system_en": "Muscular System",
+      "diseases": [
+        {
+          "name": "تمزق عضلي حاد",
+          "name_en": "Acute muscle rupture",
+          "symptoms": ["ألم مفاجئ", "تورم", "ورم دموي", "ضعف شديد"],
+          "symptoms_en": ["Sudden pain", "Swelling", "Hematoma", "Severe weakness"],
+          "treatments": ["راحة", "ثلج", "ضغط", "رفع", "جراحة"],
+          "treatments_en": ["Rest", "Ice", "Compression", "Elevation", "Surgery"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["muscle rupture", "تمزق عضلي"]
+    },
+    {
+      "id": 53,
+      "term": "natal",
+      "arabic": "ولادي",
+      "latin": "natalis",
+      "pronunciation": "ناي-تال",
+      "definition": "صفة تعني متعلق بالولادة",
+      "definition_en": "An adjective meaning pertaining to birth",
+      "englishSentence": "Natal means pertaining to birth.",
+      "parts": {
+        "root": { "value": "nat", "meaning": "ولادة", "function": "يشير إلى الولادة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "chapter": 1,
+      "keywords": ["birth", "ولادة"]
+    },
+    {
+      "id": 54,
+      "term": "prenatal",
+      "arabic": "قبل الولادة",
+      "latin": "prenatalis",
+      "pronunciation": "بري-ناي-تال",
+      "definition": "الوقت والأحداث قبل الولادة",
+      "definition_en": "The time and events before birth",
+      "englishSentence": "Prenatal means the time and events before birth.",
+      "parts": {
+        "prefix": { "value": "pre", "meaning": "قبل", "function": "يشير إلى ما قبل" },
+        "root": { "value": "nat", "meaning": "ولادة", "function": "يشير إلى الولادة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "الحمل والولادة",
+      "systemFunction_en": "Pregnancy and childbirth",
+      "location": "الرحم",
+      "location_en": "Uterus",
+      "nearbyOrgans": ["الرحم", "المشيمة", "الجنين"],
+      "nearbyOrgans_en": ["Uterus", "Placenta", "Fetus"],
+      "chapter": 1,
+      "keywords": ["before birth", "antenatal", "قبل الولادة", "حمل"]
+    },
+    {
+      "id": 55,
+      "term": "perinatal",
+      "arabic": "حول الولادة",
+      "latin": "perinatalis",
+      "pronunciation": "بير-ي-ناي-تال",
+      "definition": "الوقت المحيط بالولادة (قبلها، أثناءها، وبعدها مباشرة)",
+      "definition_en": "The time surrounding birth (just before, during, and just after)",
+      "englishSentence": "Perinatal refers to the time surrounding birth (just before, during, and just after).",
+      "parts": {
+        "prefix": { "value": "peri", "meaning": "حول", "function": "يشير إلى المحيط" },
+        "root": { "value": "nat", "meaning": "ولادة", "function": "يشير إلى الولادة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "الولادة",
+      "systemFunction_en": "Childbirth",
+      "location": "الرحم وقناة الولادة",
+      "location_en": "Uterus and birth canal",
+      "nearbyOrgans": ["الرحم", "المهبل", "الجنين", "المشيمة"],
+      "nearbyOrgans_en": ["Uterus", "Vagina", "Fetus", "Placenta"],
+      "chapter": 1,
+      "keywords": ["around birth", "حول الولادة"]
+    },
+    {
+      "id": 56,
+      "term": "postnatal",
+      "arabic": "بعد الولادة",
+      "latin": "postnatalis",
+      "pronunciation": "بوست-ناي-تال",
+      "definition": "الوقت والأحداث بعد الولادة",
+      "definition_en": "The time and events after birth",
+      "englishSentence": "Postnatal refers to the time and events after birth.",
+      "parts": {
+        "prefix": { "value": "post", "meaning": "بعد", "function": "يشير إلى ما بعد" },
+        "root": { "value": "nat", "meaning": "ولادة", "function": "يشير إلى الولادة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "رعاية المولود",
+      "systemFunction_en": "Newborn care",
+      "location": "خارج الرحم",
+      "location_en": "Outside uterus",
+      "nearbyOrgans": ["الطفل", "الأم"],
+      "nearbyOrgans_en": ["Infant", "Mother"],
+      "chapter": 1,
+      "keywords": ["after birth", "بعد الولادة"]
+    },
+    {
+      "id": 57,
+      "term": "abnormal",
+      "arabic": "غير طبيعي",
+      "latin": "abnormalis",
+      "pronunciation": "آب-نور-مال",
+      "definition": "بعيد عن الطبيعي أو ليس طبيعياً",
+      "definition_en": "Not normal or away from normal",
+      "englishSentence": "Abnormal means not normal or away from normal.",
+      "parts": {
+        "prefix": { "value": "ab", "meaning": "بعيد عن", "function": "يشير إلى الابتعاد" },
+        "root": { "value": "norm", "meaning": "قاعدة", "function": "يشير إلى الطبيعي" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "chapter": 1,
+      "keywords": ["not normal", "شاذ", "غير طبيعي"]
+    },
+    {
+      "id": 58,
+      "term": "addiction",
+      "arabic": "إدمان",
+      "latin": "addictio",
+      "pronunciation": "أ-ديك-شن",
+      "definition": "انجذاب قوي أو اعتماد شديد على مادة ما",
+      "definition_en": "Drawn toward or a strong dependence on a substance",
+      "englishSentence": "Addiction means drawn toward or a strong dependence on a substance.",
+      "parts": {
+        "prefix": { "value": "ad", "meaning": "باتجاه", "function": "يشير إلى الاتجاه نحو" },
+        "root": { "value": "dict", "meaning": "يقول", "function": "يشير إلى القول أو التصريح" },
+        "suffix": { "value": "ion", "meaning": "حالة", "function": "يشير إلى حالة أو عملية" }
+      },
+      "type": "condition",
+      "system": "الجهاز العصبي",
+      "system_en": "Nervous System",
+      "systemFunction": "التحكم في السلوك والمكافأة",
+      "systemFunction_en": "Behavioral control and reward",
+      "location": "الدماغ",
+      "location_en": "Brain",
+      "nearbyOrgans": ["الجهاز الحوفي", "القشرة المخية"],
+      "nearbyOrgans_en": ["Limbic system", "Cerebral cortex"],
+      "diseases": [
+        {
+          "name": "إدمان المواد",
+          "name_en": "Substance addiction",
+          "symptoms": ["رغبة ملحة", "فقدان السيطرة", "تحمل", "أعراض انسحاب"],
+          "symptoms_en": ["Craving", "Loss of control", "Tolerance", "Withdrawal symptoms"],
+          "treatments": ["علاج سلوكي", "أدوية", "دعم نفسي"],
+          "treatments_en": ["Behavioral therapy", "Medications", "Psychological support"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["dependence", "إدمان"]
+    },
+    {
+      "id": 59,
+      "term": "dysfunctional",
+      "arabic": "مختل وظيفياً",
+      "latin": "dysfunctionalis",
+      "pronunciation": "ديس-فانك-شن-ال",
+      "definition": "عضو أو جزء من الجسم لا يعمل بشكل صحيح",
+      "definition_en": "An organ or body part that is not working properly",
+      "englishSentence": "Dysfunctional means an organ or body part that is not working properly.",
+      "parts": {
+        "prefix": { "value": "dys", "meaning": "صعب، سيء", "function": "يشير إلى صعوبة أو خلل" },
+        "root": { "value": "function", "meaning": "وظيفة", "function": "يشير إلى الوظيفة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "chapter": 1,
+      "keywords": ["not working properly", "مختل وظيفياً"]
+    },
+    {
+      "id": 60,
+      "term": "euthyroid",
+      "arabic": "سليم الغدة الدرقية",
+      "latin": "euthyroideus",
+      "pronunciation": "يو-ثاي-رويد",
+      "definition": "غدة درقية تعمل بشكل طبيعي",
+      "definition_en": "A normally functioning thyroid gland",
+      "englishSentence": "Euthyroid means a normally functioning thyroid gland.",
+      "parts": {
+        "prefix": { "value": "eu", "meaning": "جيد، طبيعي", "function": "يشير إلى الطبيعي" },
+        "root": { "value": "thyroid", "meaning": "درقية", "function": "يشير إلى الغدة الدرقية" }
+      },
+      "type": "adjective",
+      "system": "جهاز الغدد الصماء",
+      "system_en": "Endocrine System",
+      "systemFunction": "إنتاج الهرمونات",
+      "systemFunction_en": "Hormone production",
+      "location": "الرقبة",
+      "location_en": "Neck",
+      "nearbyOrgans": ["الحنجرة", "القصبة الهوائية", "الغدد جار الدرقية"],
+      "nearbyOrgans_en": ["Larynx", "Trachea", "Parathyroid glands"],
+      "chapter": 1,
+      "keywords": ["normal thyroid", "سوي الدرقية"]
+    },
+    {
+      "id": 61,
+      "term": "hypertension",
+      "arabic": "فرط ضغط الدم",
+      "latin": "hypertensio",
+      "pronunciation": "هاي-بر-تن-شن",
+      "definition": "ضغط دم أعلى من الطبيعي",
+      "definition_en": "Higher than normal blood pressure",
+      "englishSentence": "Hypertension is higher than normal blood pressure.",
+      "parts": {
+        "prefix": { "value": "hyper", "meaning": "فوق، زيادة", "function": "يشير إلى الزيادة" },
+        "root": { "value": "tens", "meaning": "ضغط", "function": "يشير إلى الضغط" },
+        "suffix": { "value": "ion", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضخ الدم",
+      "systemFunction_en": "Blood circulation",
+      "location": "الشرايين",
+      "location_en": "Arteries",
+      "nearbyOrgans": ["القلب", "الدماغ", "الكلى", "العينان"],
+      "nearbyOrgans_en": ["Heart", "Brain", "Kidneys", "Eyes"],
+      "diseases": [
+        {
+          "name": "ارتفاع ضغط الدم الأساسي",
+          "name_en": "Essential hypertension",
+          "symptoms": ["غالباً لا أعراض", "صداع", "دوخة", "نزيف أنفي"],
+          "symptoms_en": ["Often asymptomatic", "Headache", "Dizziness", "Nosebleeds"],
+          "treatments": ["أدوية خافضة للضغط", "تغيير نمط الحياة", "تقليل الملح", "رياضة"],
+          "treatments_en": ["Antihypertensive drugs", "Lifestyle changes", "Salt reduction", "Exercise"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["high blood pressure", "فرط ضغط", "ضغط دم مرتفع"]
+    },
+    {
+      "id": 62,
+      "term": "hypotension",
+      "arabic": "انخفاض ضغط الدم",
+      "latin": "hypotensio",
+      "pronunciation": "هاي-بو-تن-شن",
+      "definition": "ضغط دم أقل من الطبيعي",
+      "definition_en": "Lower than normal blood pressure",
+      "englishSentence": "Hypotension is lower than normal blood pressure.",
+      "parts": {
+        "prefix": { "value": "hypo", "meaning": "تحت، نقص", "function": "يشير إلى النقص" },
+        "root": { "value": "tens", "meaning": "ضغط", "function": "يشير إلى الضغط" },
+        "suffix": { "value": "ion", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضخ الدم",
+      "systemFunction_en": "Blood circulation",
+      "location": "الشرايين",
+      "location_en": "Arteries",
+      "nearbyOrgans": ["القلب", "الدماغ"],
+      "nearbyOrgans_en": ["Heart", "Brain"],
+      "diseases": [
+        {
+          "name": "انخفاض ضغط الدم الانتصابي",
+          "name_en": "Orthostatic hypotension",
+          "symptoms": ["دوخة عند الوقوف", "إغماء", "ضعف", "تشوش الرؤية"],
+          "symptoms_en": ["Dizziness on standing", "Fainting", "Weakness", "Blurred vision"],
+          "treatments": ["زيادة السوائل", "تعديل الأدوية", "جوارب ضاغطة"],
+          "treatments_en": ["Increase fluids", "Medication adjustment", "Compression stockings"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["low blood pressure", "انخفاض ضغط", "ضغط دم منخفض"]
+    },
+    {
+      "id": 63,
+      "term": "interstitial",
+      "arabic": "خلالي",
+      "latin": "interstitialis",
+      "pronunciation": "إن-تر-ستي-شال",
+      "definition": "يقع بين أجزاء النسيج، ولكن ليس داخل الخلايا نفسها",
+      "definition_en": "Between, but not within, the parts of a tissue",
+      "englishSentence": "Interstitial means between, but not within, the parts of a tissue.",
+      "parts": {
+        "prefix": { "value": "inter", "meaning": "بين", "function": "يشير إلى ما بين" },
+        "root": { "value": "stit", "meaning": "وضع", "function": "يشير إلى الوضع" },
+        "suffix": { "value": "ial", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "diseases": [
+        {
+          "name": "مرض الرئة الخلالي",
+          "name_en": "Interstitial lung disease",
+          "symptoms": ["ضيق تنفس", "سعال جاف", "تعب"],
+          "symptoms_en": ["Shortness of breath", "Dry cough", "Fatigue"],
+          "treatments": ["علاج السبب", "كورتيزون", "أكسجين"],
+          "treatments_en": ["Treat cause", "Corticosteroids", "Oxygen"]
+        }
+      ],
+      "chapter": 1,
+      "keywords": ["between tissues", "خلالي"]
+    },
+    {
+      "id": 64,
+      "term": "intramuscular",
+      "arabic": "داخل العضل",
+      "latin": "intramuscularis",
+      "pronunciation": "إن-ترا-ماس-كي-لار",
+      "definition": "داخل العضلة",
+      "definition_en": "Within the muscle",
+      "englishSentence": "Intramuscular means within the muscle.",
+      "parts": {
+        "prefix": { "value": "intra", "meaning": "داخل", "function": "يشير إلى الداخل" },
+        "root": { "value": "muscul", "meaning": "عضلة", "function": "يشير إلى العضلة" },
+        "suffix": { "value": "ar", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "system": "الجهاز العضلي",
+      "system_en": "Muscular System",
+      "location": "داخل العضلة",
+      "location_en": "Within muscle",
+      "chapter": 1,
+      "keywords": ["within muscle", "عضلي", "IM"]
+    },
+    {
+      "id": 65,
+      "term": "subcostal",
+      "arabic": "تحت الضلعي",
+      "latin": "subcostalis",
+      "pronunciation": "ساب-كوس-تال",
+      "definition": "تحت الضلع أو الأضلاع",
+      "definition_en": "Below a rib or ribs",
+      "englishSentence": "Subcostal means below a rib or ribs.",
+      "parts": {
+        "prefix": { "value": "sub", "meaning": "تحت", "function": "يشير إلى تحت" },
+        "root": { "value": "cost", "meaning": "ضلع", "function": "يشير إلى الضلع" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية الأعضاء",
+      "systemFunction_en": "Organ protection",
+      "location": "أسفل الأضلاع",
+      "location_en": "Below ribs",
+      "nearbyOrgans": ["الكبد", "الطحال", "الكلى"],
+      "nearbyOrgans_en": ["Liver", "Spleen", "Kidneys"],
+      "chapter": 1,
+      "keywords": ["below the ribs", "تحت ضلعي"]
+    },
+    {
+      "id": 66,
+      "term": "supracostal",
+      "arabic": "فوق الضلعي",
+      "latin": "supracostalis",
+      "pronunciation": "سو-برا-كوس-تال",
+      "definition": "فوق أو خارج الأضلاع",
+      "definition_en": "Above or outside the ribs",
+      "englishSentence": "Supracostal means above or outside the ribs.",
+      "parts": {
+        "prefix": { "value": "supra", "meaning": "فوق", "function": "يشير إلى فوق" },
+        "root": { "value": "cost", "meaning": "ضلع", "function": "يشير إلى الضلع" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية الأعضاء",
+      "systemFunction_en": "Organ protection",
+      "location": "فوق الأضلاع",
+      "location_en": "Above ribs",
+      "nearbyOrgans": ["عضلات الصدر"],
+      "nearbyOrgans_en": ["Chest muscles"],
+      "chapter": 1,
+      "keywords": ["above the ribs", "فوق ضلعي"]
+    },
+    {
+      "id": 67,
+      "term": "otorhinolaryngology",
+      "arabic": "طب الأنف والأذن والحنجرة",
+      "latin": "otorhinolaryngologia",
+      "pronunciation": "أو-تو-راي-نو-لار-إن-غو-لوجي",
+      "definition": "تخصص طبي يهتم بتشخيص وعلاج أمراض الأذن والأنف والحنجرة",
+      "definition_en": "The medical specialty concerned with the diagnosis and treatment of diseases of the ear, nose, and throat",
+      "englishSentence": "Otorhinolaryngology is the study of the ear, nose, and throat.",
+      "parts": {
+        "root1": { "value": "ot", "meaning": "أذن", "function": "يشير إلى الأذن" },
+        "root2": { "value": "rhin", "meaning": "أنف", "function": "يشير إلى الأنف" },
+        "root3": { "value": "laryng", "meaning": "حنجرة", "function": "يشير إلى الحنجرة" },
+        "suffix": { "value": "ology", "meaning": "علم", "function": "يشير إلى مجال الدراسة" }
+      },
+      "type": "specialty",
+      "system": "الأنف والأذن والحنجرة",
+      "system_en": "Ear, Nose, and Throat",
+      "systemFunction": "تشخيص وعلاج أمراض الأذن والأنف والحنجرة",
+      "systemFunction_en": "Diagnosis and treatment of ear, nose, and throat diseases",
+      "location": "الرأس والرقبة",
+      "location_en": "Head and neck",
+      "nearbyOrgans": ["الأذن", "الأنف", "الحنجرة", "البلعوم"],
+      "nearbyOrgans_en": ["Ear", "Nose", "Larynx", "Pharynx"],
+      "chapter": 1,
+      "keywords": ["ENT", "ear nose throat", "أنف وأذن وحنجرة", "otorhinolaryngology"]
+    }
+  ]
+}

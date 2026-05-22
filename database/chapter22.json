@@ -1,0 +1,3563 @@
+{
+  "chapter": 22,
+  "title": "جسم الإنسان والخلايا والأنسجة",
+  "title_ar": "جسم الإنسان والخلايا والأنسجة",
+  "title_en": "Human Body, Cells and Tissues",
+  "description": "مصطلحات جسم الإنسان والخلايا والأنسجة المستخرجة من كتاب تشريح ووظائف الأعضاء",
+  "description_en": "Terms for Human Body, Cells and Tissues extracted from Anatomy and Physiology textbook",
+  "terms": [
+    {
+      "id": 3181,
+      "term": "anatomy",
+      "arabic": "علم التشريح",
+      "latin": "anatomia",
+      "pronunciation": "أَناتومي",
+      "definition": "العلم الذي يدرس بنية وشكل الجسم وأجزائه وعلاقاتها ببعضها البعض. يشتق الاسم من الكلمتين اليونانيتين 'ana' بمعنى 'تقطيع' و'tomy' بمعنى 'القطع'.",
+      "definition_en": "The study of the structure and shape of the body and body parts and their relationships to one another. The term comes from Greek words meaning to cut (tomy) apart (ana).",
+      "englishSentence": "Anatomy is the foundation of medical education, helping students understand how the body is structured.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "structure",
+        "body",
+        "shape",
+        "dissection",
+        "تشريح"
+      ]
+    },
+    {
+      "id": 3182,
+      "term": "gross anatomy",
+      "arabic": "التشريح المجهري الكبير (العياني)",
+      "latin": "anatomia macroscopica",
+      "pronunciation": "غروس أناتومي",
+      "definition": "فرع من علم التشريح يدرس الهياكل الكبيرة التي يمكن رؤيتها بالعين المجردة مثل القلب والعظام والعضلات دون الحاجة إلى مجهر.",
+      "definition_en": "The study of large, easily observable structures by the naked eye, such as the heart or bone, without the need for a microscope.",
+      "englishSentence": "In gross anatomy lab, students dissect cadavers to observe the heart, lungs, and other large organs.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "macroscopic",
+        "naked eye",
+        "large structures",
+        "تشريح عياني"
+      ]
+    },
+    {
+      "id": 3183,
+      "term": "microscopic anatomy",
+      "arabic": "علم التشريح المجهري",
+      "latin": "anatomia microscopica",
+      "pronunciation": "مايكروسكوبيك أناتومي",
+      "definition": "دراسة الهياكل الصغيرة جداً التي تتطلب استخدام عدسة مكبرة أو مجهر لرؤيتها، وتشمل علم الخلايا وعلم الأنسجة.",
+      "definition_en": "The study of very small structures where a magnifying lens or microscope is needed, including cytology and histology.",
+      "englishSentence": "Microscopic anatomy includes cytology and histology, which require microscopes to study cells and tissues.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "microscope",
+        "cytology",
+        "histology",
+        "cells",
+        "تشريح مجهري"
+      ]
+    },
+    {
+      "id": 3184,
+      "term": "cytology",
+      "arabic": "علم الخلية",
+      "latin": "cytologia",
+      "pronunciation": "سايتولوجي",
+      "definition": "فرع من علم التشريح المجهري يختص بدراسة بنية الخلايا ووظائفها.",
+      "definition_en": "The branch of microscopic anatomy that studies the structure and function of cells.",
+      "englishSentence": "Cytology revealed that the tumor cells had an abnormal nuclear structure.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "cells",
+        "cell study",
+        "microscopy",
+        "خلية"
+      ]
+    },
+    {
+      "id": 3185,
+      "term": "histology",
+      "arabic": "علم الأنسجة",
+      "latin": "histologia",
+      "pronunciation": "هيستولوجي",
+      "definition": "فرع من علم التشريح المجهري يدرس بنية الأنسجة ووظائفها باستخدام المجهر.",
+      "definition_en": "The branch of microscopic anatomy that studies the structure and function of tissues using a microscope.",
+      "englishSentence": "Histology showed that the biopsy contained normal muscle tissue with no signs of disease.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "tissues",
+        "microscope",
+        "biopsy",
+        "أنسجة"
+      ]
+    },
+    {
+      "id": 3186,
+      "term": "physiology",
+      "arabic": "علم وظائف الأعضاء (الفسيولوجيا)",
+      "latin": "physiologia",
+      "pronunciation": "فيزيولوجي",
+      "definition": "العلم الذي يدرس كيفية عمل الجسم وأجزائه ووظائفها. يشتق من الكلمتين اليونانيتين 'physio' بمعنى الطبيعة و'ology' بمعنى الدراسة.",
+      "definition_en": "The study of how the body and its parts work or function. Derived from Greek: physio = nature, ology = the study of.",
+      "englishSentence": "Physiology explains how the heart pumps blood, how the lungs exchange gases, and how the kidneys filter waste.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "function",
+        "body function",
+        "physio",
+        "وظائف الأعضاء"
+      ]
+    },
+    {
+      "id": 3187,
+      "term": "neurophysiology",
+      "arabic": "فسيولوجيا الجهاز العصبي",
+      "latin": "neurophysiologia",
+      "pronunciation": "نيوروفيزيولوجي",
+      "definition": "فرع من علم الفسيولوجيا يدرس طريقة عمل الجهاز العصبي ووظائف الأعصاب والدماغ والحبل الشوكي.",
+      "definition_en": "A branch of physiology that explains the working and function of the nervous system including the brain, spinal cord, and nerves.",
+      "englishSentence": "Neurophysiology explains how nerve impulses travel from the brain to the muscles to produce movement.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "nervous system",
+        "neuron",
+        "brain",
+        "عصب"
+      ]
+    },
+    {
+      "id": 3188,
+      "term": "cardiac physiology",
+      "arabic": "فسيولوجيا القلب",
+      "latin": "physiologia cardiaca",
+      "pronunciation": "كارديَاك فيزيولوجي",
+      "definition": "فرع من علم الفسيولوجيا يدرس وظيفة القلب وآلية عمله في ضخ الدم وتنظيم الدورة الدموية.",
+      "definition_en": "A branch of physiology that studies the function of the heart and its role in pumping blood and regulating circulation.",
+      "englishSentence": "Cardiac physiology helped doctors understand why the patient's heart rate was irregular.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "heart",
+        "cardiac",
+        "circulation",
+        "قلب"
+      ]
+    },
+    {
+      "id": 3189,
+      "term": "chemical level",
+      "arabic": "المستوى الكيميائي",
+      "latin": "gradus chemicus",
+      "pronunciation": "كيميكال ليفل",
+      "definition": "أبسط مستوى في تنظيم جسم الإنسان، حيث تتحد الذرات لتكوين جزيئات مثل الماء والسكر والبروتينات.",
+      "definition_en": "The simplest level of structural organization where atoms combine to form molecules such as water, sugar, and proteins.",
+      "englishSentence": "At the chemical level, carbon, hydrogen, oxygen, and nitrogen atoms combine to form the molecules of life.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "atoms",
+        "molecules",
+        "organization",
+        "كيمياء",
+        "ذرات"
+      ]
+    },
+    {
+      "id": 3190,
+      "term": "cellular level",
+      "arabic": "المستوى الخلوي",
+      "latin": "gradus cellularis",
+      "pronunciation": "سيليولار ليفل",
+      "definition": "المستوى الثاني في تنظيم الجسم، وفيه الخلية هي الوحدة الأساسية للحياة والأصغر من الكائنات الحية.",
+      "definition_en": "The second level of body organization where cells are the smallest units of living things.",
+      "englishSentence": "At the cellular level, muscle cells contract to produce movement in the body.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "cell",
+        "living unit",
+        "smallest",
+        "خلية"
+      ]
+    },
+    {
+      "id": 3191,
+      "term": "tissue level",
+      "arabic": "مستوى الأنسجة",
+      "latin": "gradus textus",
+      "pronunciation": "تيشو ليفل",
+      "definition": "المستوى الثالث في تنظيم الجسم، حيث تتجمع خلايا متشابهة لأداء وظيفة مشتركة. يوجد 4 أنواع أساسية من الأنسجة.",
+      "definition_en": "The third level of body organization where groups of similar cells perform a common function. There are 4 basic tissue types.",
+      "englishSentence": "At the tissue level, epithelial cells line the digestive tract to absorb nutrients.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "tissue",
+        "similar cells",
+        "function",
+        "نسيج"
+      ]
+    },
+    {
+      "id": 3192,
+      "term": "organ level",
+      "arabic": "مستوى الأعضاء",
+      "latin": "gradus organi",
+      "pronunciation": "أورغان ليفل",
+      "definition": "المستوى الرابع في تنظيم الجسم، حيث يتكون العضو من نوعين أو أكثر من الأنسجة ويؤدي وظيفة محددة.",
+      "definition_en": "The fourth level of body organization where an organ is a structure composed of two or more tissue types that performs a specific function.",
+      "englishSentence": "At the organ level, the stomach contains epithelial, muscular, and connective tissues to digest food.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "organ",
+        "tissues",
+        "function",
+        "عضو"
+      ]
+    },
+    {
+      "id": 3193,
+      "term": "organ system",
+      "arabic": "الجهاز (منظومة الأعضاء)",
+      "latin": "systema organorum",
+      "pronunciation": "أورغان سيستم",
+      "definition": "المستوى الخامس في تنظيم الجسم، حيث تعمل مجموعة من الأعضاء معاً لتحقيق هدف مشترك.",
+      "definition_en": "The fifth level of body organization where a group of organs work together to accomplish a common purpose.",
+      "englishSentence": "The digestive organ system includes the mouth, esophagus, stomach, and intestines working together to process food.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "system",
+        "organs",
+        "organization",
+        "جهاز"
+      ]
+    },
+    {
+      "id": 3194,
+      "term": "organismal level",
+      "arabic": "المستوى الكلي للكائن الحي",
+      "latin": "gradus organismi",
+      "pronunciation": "أورغانيزمال ليفل",
+      "definition": "أعلى مستوى في التنظيم البنيوي، ويمثل الكائن الحي الكامل (الإنسان) المكون من 11 جهازاً عضوياً تعمل معاً.",
+      "definition_en": "The highest level of structural organization representing the complete living organism composed of 11 organ systems working together.",
+      "englishSentence": "At the organismal level, all body systems cooperate to maintain life and homeostasis.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "organism",
+        "human body",
+        "11 systems",
+        "كائن حي"
+      ]
+    },
+    {
+      "id": 3195,
+      "term": "integumentary system",
+      "arabic": "الجهاز التغطائي (الجلدي)",
+      "latin": "systema integumentale",
+      "pronunciation": "إنتيغيومنتاري سيستم",
+      "definition": "الجهاز المكون من الجلد وملحقاته، ويعمل على حماية الجسم وتنظيم درجة الحرارة وإفراز الفضلات وتوليد فيتامين د.",
+      "definition_en": "The body system composed of skin and its derivatives. Functions include protection, temperature regulation, excretion of salts and urea, and vitamin D synthesis.",
+      "englishSentence": "The integumentary system acts as the body's first line of defense against bacteria and dehydration.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "skin",
+        "protection",
+        "temperature",
+        "جلد",
+        "تغطائي"
+      ]
+    },
+    {
+      "id": 3196,
+      "term": "skeletal system",
+      "arabic": "الجهاز الهيكلي",
+      "latin": "systema skeletale",
+      "pronunciation": "سكيليتال سيستم",
+      "definition": "الجهاز المكون من العظام والغضاريف والأربطة والمفاصل. يحمي الأعضاء الداخلية ويوفر إطاراً للحركة ويخزن المعادن ويصنع خلايا الدم.",
+      "definition_en": "The body system composed of bones, cartilages, ligaments, and joints. Functions: protects organs, provides framework for movement, hematopoiesis, and mineral storage.",
+      "englishSentence": "The skeletal system provides the framework that supports the body and protects vital organs like the brain and heart.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "bones",
+        "cartilage",
+        "ligaments",
+        "joints",
+        "هيكل عظمي"
+      ]
+    },
+    {
+      "id": 3197,
+      "term": "muscular system",
+      "arabic": "الجهاز العضلي",
+      "latin": "systema musculare",
+      "pronunciation": "ماسكيولار سيستم",
+      "definition": "الجهاز المكون من العضلات الهيكلية المرتبطة بالعظام. وظائفه: الحركة والتنقل والتعبير الوجهي والمحافظة على وضعية الجسم وإنتاج الحرارة.",
+      "definition_en": "The body system composed of skeletal muscles attached to bone. Functions: contraction and mobility, facial expression, posture, and producing body heat.",
+      "englishSentence": "The muscular system works with the skeletal system to produce voluntary body movements.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "muscle",
+        "movement",
+        "contraction",
+        "heat",
+        "عضلة"
+      ]
+    },
+    {
+      "id": 3198,
+      "term": "nervous system",
+      "arabic": "الجهاز العصبي",
+      "latin": "systema nervosum",
+      "pronunciation": "نيرفاس سيستم",
+      "definition": "الجهاز المكون من الدماغ والحبل الشوكي والأعصاب والمستقبلات الحسية. يعمل كجهاز تحكم مركزي سريع الاستجابة للمنبهات الداخلية والخارجية عبر السيالات العصبية.",
+      "definition_en": "The body system composed of the brain, spinal cord, nerves, and sensory receptors. It is the fast-acting central control system responding to internal and external stimuli via nerve impulses.",
+      "englishSentence": "The nervous system processes sensory information and coordinates body responses in milliseconds.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "brain",
+        "spinal cord",
+        "nerves",
+        "impulses",
+        "عصب",
+        "دماغ"
+      ]
+    },
+    {
+      "id": 3199,
+      "term": "endocrine system",
+      "arabic": "الجهاز الغدي (الصماء)",
+      "latin": "systema endocrinum",
+      "pronunciation": "إندوكرين سيستم",
+      "definition": "الجهاز المكون من الغدد الصماء كالغدة النخامية والدرقية وجارات الدرق والكظرية والغدة الصعترية والبنكرياس والغدة الصنوبرية والمبايض والخصى. يفرز هرمونات تنظم النمو والتكاثر والأيض.",
+      "definition_en": "The system composed of endocrine glands including pituitary, thyroid, parathyroids, adrenals, thymus, pancreas, pineal, ovaries, and testes. Secretes hormones regulating growth, reproduction, and metabolism.",
+      "englishSentence": "The endocrine system releases insulin from the pancreas to regulate blood sugar levels after a meal.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "hormones",
+        "glands",
+        "regulation",
+        "metabolism",
+        "هرمون",
+        "غدة"
+      ]
+    },
+    {
+      "id": 3200,
+      "term": "circulatory system",
+      "arabic": "الجهاز الدوري",
+      "latin": "systema circulatorium",
+      "pronunciation": "سيركيوليتوري سيستم",
+      "definition": "الجهاز المكون من القلب والأوعية الدموية والشعيرات الدموية والدم. ينقل الأكسجين والمواد الغذائية والهرمونات إلى خلايا الأنسجة ويحميها من الجراثيم والسموم.",
+      "definition_en": "The system composed of heart, blood vessels, capillaries, and blood. Carries oxygen, nutrients, and hormones to tissue cells. White blood cells protect against bacteria and toxins.",
+      "englishSentence": "The circulatory system delivers oxygen to every cell in the body through a network of arteries, veins, and capillaries.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "heart",
+        "blood",
+        "vessels",
+        "oxygen",
+        "قلب",
+        "دم"
+      ]
+    },
+    {
+      "id": 3201,
+      "term": "lymphatic system",
+      "arabic": "الجهاز الليمفاوي",
+      "latin": "systema lymphaticum",
+      "pronunciation": "ليمفاتيك سيستم",
+      "definition": "الجهاز المكون من الأوعية الليمفاوية والغدد الليمفاوية والطحال واللوزتين. يعيد السوائل المتسربة إلى الأوعية الدموية وينظف الدم ويشارك في المناعة.",
+      "definition_en": "The system composed of lymphatic vessels, lymph nodes, spleen, and tonsils. Returns leaked fluid to blood vessels, cleanses the blood, and is involved in immunity.",
+      "englishSentence": "The lymphatic system helps fight infections by filtering pathogens through lymph nodes.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "lymph",
+        "immunity",
+        "spleen",
+        "tonsils",
+        "ليمف",
+        "مناعة"
+      ]
+    },
+    {
+      "id": 3202,
+      "term": "respiratory system",
+      "arabic": "الجهاز التنفسي",
+      "latin": "systema respiratorium",
+      "pronunciation": "ريسباراتوري سيستم",
+      "definition": "الجهاز المكون من التجويف الأنفي والبلعوم والحنجرة والقصبة الهوائية والشعب الهوائية والرئتين. يزود الدم بالأكسجين ويزيل ثاني أكسيد الكربون عبر الحويصلات الهوائية.",
+      "definition_en": "The system composed of nasal cavity, pharynx, larynx, trachea, bronchi, and lungs. Keeps blood supplied with oxygen and removes carbon dioxide through gas exchange in air sacs.",
+      "englishSentence": "The respiratory system brings oxygen into the body and expels carbon dioxide with each breath.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "lungs",
+        "breathing",
+        "oxygen",
+        "CO2",
+        "رئة",
+        "تنفس"
+      ]
+    },
+    {
+      "id": 3203,
+      "term": "digestive system",
+      "arabic": "الجهاز الهضمي",
+      "latin": "systema digestorium",
+      "pronunciation": "دايجيستيف سيستم",
+      "definition": "الجهاز المكون من التجويف الفموي والمريء والمعدة والأمعاء الدقيقة والغليظة والمستقيم والشرج والكبد والبنكرياس. يهضم الغذاء ويمتص العناصر الغذائية ويطرح الفضلات.",
+      "definition_en": "The system composed of oral cavity, esophagus, stomach, small and large intestines, rectum, anus, liver, and pancreas. Breaks food down into absorbable units; indigestible material eliminated as feces.",
+      "englishSentence": "The digestive system breaks down a meal into nutrients that enter the bloodstream to fuel body cells.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "digestion",
+        "stomach",
+        "intestines",
+        "nutrients",
+        "هضم",
+        "معدة"
+      ]
+    },
+    {
+      "id": 3204,
+      "term": "urinary system",
+      "arabic": "الجهاز البولي",
+      "latin": "systema urinarium",
+      "pronunciation": "يوريناري سيستم",
+      "definition": "الجهاز المكون من الكلى والحالب والمثانة البولية والإحليل. يزيل الفضلات النيتروجينية (اليوريا وحمض البول) ويضبط توازن الماء والأملاح وتوازن الحموضة والقلوية في الدم.",
+      "definition_en": "The system composed of kidneys, ureters, urinary bladder, and urethra. Eliminates nitrogenous waste (urea and uric acid) and regulates water, electrolytes, and acid-base balance of blood.",
+      "englishSentence": "The urinary system filters about 180 liters of blood daily through the kidneys to produce urine.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "kidney",
+        "urine",
+        "waste",
+        "electrolytes",
+        "كلية",
+        "بول"
+      ]
+    },
+    {
+      "id": 3205,
+      "term": "reproductive system",
+      "arabic": "الجهاز التناسلي",
+      "latin": "systema genitale",
+      "pronunciation": "ريبروداكتيف سيستم",
+      "definition": "الجهاز المسؤول عن التكاثر. في الذكر: الحويصلات المنوية، البروستاتا، القضيب، الأسهر، الخصية، كيس الصفن. في الأنثى: المبيضان، الغدد الثديية، الرحم، المهبل، قناة فالوب.",
+      "definition_en": "The system responsible for reproduction. Male organs: seminal vesicles, prostate, penis, vas deferens, testis, scrotum. Female organs: ovaries, mammary glands, uterus, vagina, uterine tube.",
+      "englishSentence": "The reproductive system produces sex cells and hormones essential for creating new life.",
+      "type": "system",
+      "chapter": 22,
+      "keywords": [
+        "reproduction",
+        "sperm",
+        "ovaries",
+        "hormones",
+        "تناسل",
+        "خصية"
+      ]
+    },
+    {
+      "id": 3206,
+      "term": "hematopoiesis",
+      "arabic": "تكوين الدم (الهيماتوبويسيس)",
+      "latin": "haematopoiesis",
+      "pronunciation": "هيماتوبويسيس",
+      "definition": "عملية تكوين وإنتاج خلايا الدم في نخاع العظم الأحمر، وتشمل كريات الدم الحمراء والبيضاء والصفائح الدموية.",
+      "definition_en": "The process of blood cell formation and production in the red bone marrow, including red blood cells, white blood cells, and platelets.",
+      "englishSentence": "Hematopoiesis occurs primarily in the red bone marrow of flat bones like the sternum and hip bones.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "blood cells",
+        "bone marrow",
+        "red blood cells",
+        "تكوين دم",
+        "نخاع"
+      ]
+    },
+    {
+      "id": 3207,
+      "term": "maintenance of boundaries",
+      "arabic": "الحفاظ على الحدود",
+      "latin": "conservatio limitum",
+      "pronunciation": "مينتيننس أوف باوندريز",
+      "definition": "وظيفة حيوية تضمن بقاء البيئة الداخلية للجسم منفصلة عن البيئة الخارجية. تقوم الخلايا بذلك عبر غشائها الانتقائي، والجسم كله عبر الجهاز التغطائي (الجلد).",
+      "definition_en": "A vital function that ensures the internal environment of the body remains distinct from the outside. Cells use selectively permeable membranes; the whole body is protected by the integumentary system.",
+      "englishSentence": "The skin helps with maintenance of boundaries by preventing harmful substances from entering the body.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "boundaries",
+        "skin",
+        "membrane",
+        "protection",
+        "حدود",
+        "حماية"
+      ]
+    },
+    {
+      "id": 3208,
+      "term": "contractility",
+      "arabic": "الانقباضية",
+      "latin": "contractilitas",
+      "pronunciation": "كونتراكتيليتي",
+      "definition": "قدرة الخلية العضلية على الحركة بالتقصير، وهي خاصية فريدة للخلايا العضلية تمكنها من إنتاج الحركة.",
+      "definition_en": "The ability of a muscle cell to move by shortening. This is the precise cellular mechanism behind body movement.",
+      "englishSentence": "Contractility of cardiac muscle cells ensures the heart beats rhythmically throughout life.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "muscle",
+        "shortening",
+        "movement",
+        "contraction",
+        "انقباض"
+      ]
+    },
+    {
+      "id": 3209,
+      "term": "responsiveness",
+      "arabic": "الاستجابة (الاستثارة)",
+      "latin": "reactivitas",
+      "pronunciation": "ريسبونسيفنيس",
+      "definition": "القدرة على إدراك التغيرات (المنبهات) في البيئة والاستجابة لها. تُعدّ الخلايا العصبية الأكثر قدرةً على الاستثارة، غير أن جميع خلايا الجسم تمتلك هذه الخاصية بدرجات متفاوتة.",
+      "definition_en": "The ability to sense changes (stimuli) in the environment and then respond to them. Nerve cells are highly irritable but all body cells possess this property to some extent.",
+      "englishSentence": "Responsiveness allows you to quickly withdraw your hand from a hot surface before serious injury occurs.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "stimuli",
+        "response",
+        "irritability",
+        "nervous system",
+        "استجابة",
+        "تحفيز"
+      ]
+    },
+    {
+      "id": 3210,
+      "term": "digestion",
+      "arabic": "الهضم",
+      "latin": "digestio",
+      "pronunciation": "دايجيشن",
+      "definition": "عملية تكسير الأطعمة المبتلعة إلى جزيئات بسيطة يمكن امتصاصها في الدم، ثم يوزعها الجهاز القلبي الوعائي على جميع خلايا الجسم.",
+      "definition_en": "The breaking down of ingested foodstuffs to simple molecules that can be absorbed into the blood, then distributed to all body cells by the cardiovascular system.",
+      "englishSentence": "Digestion of proteins begins in the stomach and is completed in the small intestine.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "food",
+        "breakdown",
+        "absorption",
+        "nutrients",
+        "هضم",
+        "امتصاص"
+      ]
+    },
+    {
+      "id": 3211,
+      "term": "metabolism",
+      "arabic": "الأيض (التمثيل الغذائي)",
+      "latin": "metabolismus",
+      "pronunciation": "ميتابوليزم",
+      "definition": "مصطلح شامل يضم جميع التفاعلات الكيميائية التي تحدث داخل خلايا الجسم، ويشمل الهدم (تكسير المواد) والبناء (تصنيع المركبات المعقدة) وإنتاج ATP عبر التنفس الخلوي.",
+      "definition_en": "A broad term including all chemical reactions that occur within body cells. Includes catabolism (breaking down substances) and anabolism (building complex structures), and ATP production via cellular respiration.",
+      "englishSentence": "A high metabolism means the body burns calories quickly, which is why some people can eat a lot without gaining weight.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "catabolism",
+        "anabolism",
+        "ATP",
+        "chemical reactions",
+        "أيض",
+        "تمثيل غذائي"
+      ]
+    },
+    {
+      "id": 3212,
+      "term": "catabolism",
+      "arabic": "الهدم",
+      "latin": "catabolismus",
+      "pronunciation": "كاتابوليزم",
+      "definition": "الجانب الهدمي من الأيض الذي ينطوي على تكسير المركبات المعقدة إلى وحداتها البنائية الأبسط مع إطلاق الطاقة.",
+      "definition_en": "The destructive phase of metabolism involving the breaking down of complex substances into their simpler building blocks, releasing energy in the process.",
+      "englishSentence": "Catabolism of glucose during cellular respiration releases the energy needed to power muscle contractions.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "breakdown",
+        "energy release",
+        "metabolism",
+        "هدم",
+        "تكسير"
+      ]
+    },
+    {
+      "id": 3213,
+      "term": "anabolism",
+      "arabic": "البناء (الابتناء)",
+      "latin": "anabolismus",
+      "pronunciation": "أنابوليزم",
+      "definition": "الجانب البنائي من الأيض الذي يتضمن تصنيع مركبات خلوية معقدة من مواد بسيطة مع استهلاك الطاقة.",
+      "definition_en": "The constructive phase of metabolism involving the synthesis of complex cellular structures from simpler substances, requiring energy input.",
+      "englishSentence": "Anabolism uses amino acids to build muscle proteins during recovery after exercise.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "synthesis",
+        "building",
+        "energy use",
+        "بناء",
+        "تصنيع"
+      ]
+    },
+    {
+      "id": 3214,
+      "term": "ATP",
+      "arabic": "أدينوسين ثلاثي الفوسفات",
+      "latin": "adenosinum triphosphoricum",
+      "pronunciation": "إيه تي بي",
+      "definition": "الجزيء الرئيسي لتخزين الطاقة ونقلها في الخلية. يُنتج عبر التنفس الخلوي ويستخدم لتشغيل جميع الأنشطة الخلوية.",
+      "definition_en": "The primary energy storage and transfer molecule in the cell. Produced through cellular respiration and used to power all cellular activities.",
+      "englishSentence": "ATP provides the energy for muscle contraction, protein synthesis, and active transport across cell membranes.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "energy",
+        "cellular respiration",
+        "adenosine",
+        "طاقة",
+        "خلية"
+      ]
+    },
+    {
+      "id": 3215,
+      "term": "excretion",
+      "arabic": "الإخراج",
+      "latin": "excretio",
+      "pronunciation": "إكسكريشن",
+      "definition": "عملية إزالة الفضلات من الجسم عبر الجهاز الهضمي (البراز)، والجهاز البولي (اليوريا في البول)، والرئتين (ثاني أكسيد الكربون في هواء الزفير).",
+      "definition_en": "The process of removing wastes from the body via the digestive system (feces), urinary system (urea in urine), and lungs (carbon dioxide in exhaled air).",
+      "englishSentence": "Excretion through the kidneys removes metabolic waste products like urea from the bloodstream.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "waste",
+        "urea",
+        "CO2",
+        "feces",
+        "إخراج",
+        "فضلات"
+      ]
+    },
+    {
+      "id": 3216,
+      "term": "reproduction",
+      "arabic": "التكاثر",
+      "latin": "reproductio",
+      "pronunciation": "ريبروداكشن",
+      "definition": "عملية إنتاج كائن حي جديد. تتحد الخلية المنوية مع البويضة لتكوين بيضة مخصبة تتطور إلى جنين. ينظمه الجهاز الغدي.",
+      "definition_en": "The process of making a whole new organism. When a sperm unites with an egg, a fertilized egg forms, which develops into a baby. Regulated by the endocrine system.",
+      "englishSentence": "Human reproduction requires the union of a sperm cell and an egg cell to form a zygote.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "sperm",
+        "egg",
+        "fertilization",
+        "zygote",
+        "تكاثر",
+        "تلقيح"
+      ]
+    },
+    {
+      "id": 3217,
+      "term": "growth",
+      "arabic": "النمو",
+      "latin": "crescentia",
+      "pronunciation": "غروث",
+      "definition": "زيادة في حجم جزء من الجسم أو الكائن الحي بأكمله، وعادةً ما يتم ذلك بزيادة عدد الخلايا. يجب أن تتفوق الأنشطة البنائية على الهدمية لحدوث النمو الحقيقي.",
+      "definition_en": "An increase in size of a body part or the organism, usually accomplished by increasing the number of cells. Constructive activities must occur faster than destructive ones for true growth.",
+      "englishSentence": "Growth during adolescence is rapid due to the release of growth hormone from the pituitary gland.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "cell division",
+        "size increase",
+        "development",
+        "نمو",
+        "تطور"
+      ]
+    },
+    {
+      "id": 3218,
+      "term": "nutrients",
+      "arabic": "المواد الغذائية",
+      "latin": "nutrientia",
+      "pronunciation": "نيوتريينتس",
+      "definition": "المواد التي يتناولها الجسم عبر الغذاء وتحتوي على المواد الكيميائية اللازمة للطاقة وبناء الخلايا، وتشمل الكربوهيدرات والبروتينات والدهون والمعادن والفيتامينات.",
+      "definition_en": "Substances taken in through the diet containing chemical substances used for energy and cell building. Includes carbohydrates, proteins, fats, minerals, and vitamins.",
+      "englishSentence": "A balanced diet provides all the essential nutrients the body needs for growth and maintenance.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "carbohydrates",
+        "proteins",
+        "fats",
+        "vitamins",
+        "minerals",
+        "تغذية",
+        "غذاء"
+      ]
+    },
+    {
+      "id": 3219,
+      "term": "homeostasis",
+      "arabic": "التوازن الداخلي (الهوميوستاسيس)",
+      "latin": "homeostasis",
+      "pronunciation": "هوميوستاسيس",
+      "definition": "قدرة الجسم على الحفاظ على ظروف داخلية مستقرة نسبياً رغم التغيرات المستمرة في البيئة الخارجية. يشير إلى حالة توازن ديناميكي لا ثبات مطلق. (homeo=نفس، stasis=ثبات).",
+      "definition_en": "The body's ability to maintain relatively stable internal conditions even though the outside world is continuously changing. Indicates a dynamic state of equilibrium, not a static state.",
+      "englishSentence": "Homeostasis keeps body temperature, blood pH, and glucose levels within narrow ranges necessary for survival.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "balance",
+        "internal environment",
+        "equilibrium",
+        "regulation",
+        "توازن",
+        "استتباب"
+      ]
+    },
+    {
+      "id": 3220,
+      "term": "homeostatic imbalance",
+      "arabic": "اختلال التوازن الداخلي",
+      "latin": "imbalantia homeostatica",
+      "pronunciation": "هوميوستاتيك إمبالانس",
+      "definition": "حالة الاضطراب في آليات التوازن الداخلي للجسم، وتعدّ معظم الأمراض نتيجةً لهذا الاختلال. تتزايد احتمالية حدوثه مع التقدم في السن.",
+      "definition_en": "The disturbance of homeostasis. Most disease can be regarded as a result of homeostatic imbalance. Risk increases with aging as control systems become less efficient.",
+      "englishSentence": "Diabetes mellitus is an example of homeostatic imbalance in which blood glucose is not properly regulated.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "disease",
+        "imbalance",
+        "aging",
+        "disorder",
+        "مرض",
+        "اختلال"
+      ]
+    },
+    {
+      "id": 3221,
+      "term": "receptor",
+      "arabic": "المستقبل (الرسيبتور)",
+      "latin": "receptor",
+      "pronunciation": "ريسيبتور",
+      "definition": "المكون الأول في آلية التحكم الاستتبابي؛ وهو نوع من أجهزة الاستشعار التي ترصد البيئة وتستجيب للتغيرات (المنبهات) بإرسال معلومات إلى مركز التحكم عبر المسار الوارد.",
+      "definition_en": "The first component of homeostatic control mechanisms. A sensor that monitors the environment and responds to changes (stimuli) by sending information to the control center via the afferent pathway.",
+      "englishSentence": "Temperature receptors in the skin detect changes in environmental temperature and send signals to the brain.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "sensor",
+        "stimulus",
+        "afferent",
+        "homeostasis",
+        "مستقبل",
+        "حساس"
+      ]
+    },
+    {
+      "id": 3222,
+      "term": "control center",
+      "arabic": "مركز التحكم",
+      "latin": "centrum moderatoris",
+      "pronunciation": "كونترول سينتر",
+      "definition": "المكون الثاني في آلية التحكم الاستتبابي؛ يحلل المعلومات الواردة ويحدد الاستجابة المناسبة ويرسل أوامره إلى المستجيب عبر المسار الصادر.",
+      "definition_en": "The second component of homeostatic control mechanisms. Analyzes input received and determines the appropriate response, then sends information to the effector via the efferent pathway.",
+      "englishSentence": "The hypothalamus acts as the control center for body temperature regulation.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "brain",
+        "hypothalamus",
+        "homeostasis",
+        "regulation",
+        "تحكم",
+        "مركز"
+      ]
+    },
+    {
+      "id": 3223,
+      "term": "effector",
+      "arabic": "المستجيب (الفاعل)",
+      "latin": "effector",
+      "pronunciation": "إيفيكتور",
+      "definition": "المكون الثالث في آلية التحكم الاستتبابي؛ يوفر وسيلة الاستجابة (الإخراج) للمنبه، وتتدفق المعلومات إليه من مركز التحكم عبر المسار الصادر.",
+      "definition_en": "The third component of homeostatic control mechanisms. Provides the means of response (output) to the stimulus. Information flows from the control center to the effector via the efferent pathway.",
+      "englishSentence": "Sweat glands are effectors that respond to high body temperature by producing sweat to cool the body.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "response",
+        "output",
+        "efferent",
+        "muscle",
+        "gland",
+        "مستجيب",
+        "فاعل"
+      ]
+    },
+    {
+      "id": 3224,
+      "term": "afferent pathway",
+      "arabic": "المسار الوارد",
+      "latin": "via afferens",
+      "pronunciation": "أفيرنت باثواي",
+      "definition": "المسار العصبي الذي ينقل المعلومات من المستقبل إلى مركز التحكم. الكلمة 'afferent' تعني 'توصيل إلى المركز'.",
+      "definition_en": "The neural pathway that carries information from the receptor to the control center. Afferent means 'carrying toward the center'.",
+      "englishSentename": "Sensory neurons form the afferent pathway that sends pain signals from the skin to the spinal cord and brain.",
+      "englishSentence": "Sensory neurons form the afferent pathway carrying pain signals from the skin to the brain.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "sensory",
+        "input",
+        "neural pathway",
+        "مسار وارد",
+        "حسي"
+      ]
+    },
+    {
+      "id": 3225,
+      "term": "efferent pathway",
+      "arabic": "المسار الصادر",
+      "latin": "via efferens",
+      "pronunciation": "إيفيرنت باثواي",
+      "definition": "المسار العصبي الذي ينقل المعلومات من مركز التحكم إلى المستجيب. الكلمة 'efferent' تعني 'الحمل بعيداً عن المركز'.",
+      "definition_en": "The neural pathway that carries information from the control center to the effector. Efferent means 'carrying away from the center'.",
+      "englishSentence": "Motor neurons form the efferent pathway that carries signals from the brain to skeletal muscles.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "motor",
+        "output",
+        "neural pathway",
+        "مسار صادر",
+        "حركي"
+      ]
+    },
+    {
+      "id": 3226,
+      "term": "negative feedback",
+      "arabic": "التغذية الراجعة السلبية",
+      "latin": "feedback negativum",
+      "pronunciation": "نيغاتيف فيدباك",
+      "definition": "آلية التحكم الاستتبابي الأكثر شيوعاً، حيث يوقف الناتج المنبه الأصلي أو يخفف شدته. تتغير المتغيرات في اتجاه معاكس للتغيير الأولي. أمثلة: تنظيم درجة الحرارة ومستويات الكيمياء الدموية.",
+      "definition_en": "The most common homeostatic control mechanism. Output shuts off the original stimulus or reduces its intensity. Variable changes in opposite direction to initial change. Examples: body temperature, blood chemical levels.",
+      "englishSentence": "Negative feedback keeps blood glucose levels stable by triggering insulin release when glucose rises.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "homeostasis",
+        "regulation",
+        "shut off",
+        "balance",
+        "تغذية راجعة سلبية"
+      ]
+    },
+    {
+      "id": 3227,
+      "term": "positive feedback",
+      "arabic": "التغذية الراجعة الإيجابية",
+      "latin": "feedback positivum",
+      "pronunciation": "بوزيتيف فيدباك",
+      "definition": "آلية تحكم تعزز المنبه الأصلي وتزيد من شدة النشاط. تُعيق هذه الآلية الحفاظ على الاستتباب في الظروف العادية لكنها مفيدة في حالات محددة مثل انقباضات الولادة وتجلط الدم والإباضة.",
+      "definition_en": "A control mechanism where the response enhances the original stimulus, accelerating the activity. Controls infrequent events: labor contractions during birth, blood clotting, ovulation.",
+      "englishSentence": "Positive feedback during childbirth amplifies uterine contractions until the baby is delivered.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "amplification",
+        "birth",
+        "blood clotting",
+        "ovulation",
+        "تغذية راجعة إيجابية"
+      ]
+    },
+    {
+      "id": 3228,
+      "term": "hypothalamus",
+      "arabic": "منطقة ما تحت المهاد",
+      "latin": "hypothalamus",
+      "pronunciation": "هايبوثالاموس",
+      "definition": "منطقة في الدماغ تعمل كمنظم حراري للجسم وكمركز تحكم رئيسي في التوازن الداخلي، ينظم درجة الحرارة والجوع والعطش والنوم والعواطف ويتحكم في الغدة النخامية.",
+      "definition_en": "A region in the brain that acts as the body's thermostat and main homeostasis control center, regulating temperature, hunger, thirst, sleep, emotions, and controlling the pituitary gland.",
+      "englishSentence": "The hypothalamus detects a rise in body temperature and triggers sweating and vasodilation to cool the body.",
+      "type": "organ",
+      "chapter": 22,
+      "keywords": [
+        "brain",
+        "thermostat",
+        "temperature",
+        "pituitary",
+        "تحت المهاد",
+        "دماغ"
+      ]
+    },
+    {
+      "id": 3229,
+      "term": "anatomical position",
+      "arabic": "الوضع التشريحي",
+      "latin": "positio anatomica",
+      "pronunciation": "أناتوميكال بوزيشن",
+      "definition": "الوضع المرجعي القياسي للجسم: الوقوف منتصباً، الأقدام متوازية، الذراعان متدليتان على الجانبين، وراحتا اليدين للأمام. يُستخدم كأساس لجميع المصطلحات الاتجاهية.",
+      "definition_en": "The standard reference position: body erect with feet parallel, arms hanging at the sides with palms facing forward. Used as the basis for all directional terminology.",
+      "englishSentence": "In the anatomical position, the thumbs point away from the body and the palms face anteriorly.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "reference position",
+        "erect",
+        "palms forward",
+        "وضع تشريحي",
+        "مرجع"
+      ]
+    },
+    {
+      "id": 3230,
+      "term": "superior",
+      "arabic": "علوي (قِحفي)",
+      "latin": "superior",
+      "pronunciation": "سوبيريور",
+      "definition": "مصطلح اتجاهي يعني باتجاه الرأس أو الجزء العلوي من الجسم أو الهيكل. المرادف: cranial أو cephalad.",
+      "definition_en": "Directional term meaning toward the head end or upper part of a structure or body; above. Synonyms: cranial or cephalad.",
+      "englishSentence": "The heart is superior to the diaphragm and inferior to the lungs.",
+      "type": "direction",
+      "chapter": 22,
+      "keywords": [
+        "directional",
+        "above",
+        "cranial",
+        "cephalad",
+        "علوي",
+        "فوق"
+      ]
+    },
+    {
+      "id": 3231,
+      "term": "inferior",
+      "arabic": "سفلي (ذيلي)",
+      "latin": "inferior",
+      "pronunciation": "إنفيريور",
+      "definition": "مصطلح اتجاهي يعني بعيداً عن الرأس أو باتجاه الجزء السفلي من الجسم أو الهيكل. المرادف: caudal.",
+      "definition_en": "Directional term meaning away from the head end or toward the lower part of a structure or body; below. Synonym: caudal.",
+      "englishSentence": "The navel is inferior to the breastbone (sternum).",
+      "type": "direction",
+      "chapter": 22,
+      "keywords": [
+        "directional",
+        "below",
+        "caudal",
+        "سفلي",
+        "تحت"
+      ]
+    },
+    {
+      "id": 3232,
+      "term": "anterior",
+      "arabic": "أمامي (بطني)",
+      "latin": "anterior",
+      "pronunciation": "أنتيريور",
+      "definition": "مصطلح اتجاهي يعني باتجاه مقدمة الجسم أو أمامه. المرادف: ventral.",
+      "definition_en": "Directional term meaning toward or at the front of the body; in front of. Synonym: ventral.",
+      "englishSentence": "The sternum (breastbone) is anterior to the heart.",
+      "type": "direction",
+      "chapter": 22,
+      "keywords": [
+        "directional",
+        "front",
+        "ventral",
+        "أمامي",
+        "قدامي"
+      ]
+    },
+    {
+      "id": 3233,
+      "term": "posterior",
+      "arabic": "خلفي (ظهري)",
+      "latin": "posterior",
+      "pronunciation": "بوستيريور",
+      "definition": "مصطلح اتجاهي يعني باتجاه ظهر الجسم أو خلفه. المرادف: dorsal.",
+      "definition_en": "Directional term meaning toward or at the backside of the body; behind. Synonym: dorsal.",
+      "englishSentence": "The spinal cord is posterior to the heart and runs along the back of the body.",
+      "type": "direction",
+      "chapter": 22,
+      "keywords": [
+        "directional",
+        "back",
+        "dorsal",
+        "خلفي",
+        "ظهري"
+      ]
+    },
+    {
+      "id": 3234,
+      "term": "medial",
+      "arabic": "إنسي (وسطي)",
+      "latin": "medialis",
+      "pronunciation": "ميديال",
+      "definition": "مصطلح اتجاهي يعني باتجاه خط المنتصف للجسم أو الجانب الداخلي منه.",
+      "definition_en": "Directional term meaning toward or at the midline of the body; on the inner side of.",
+      "englishSentence": "The heart is medial to the lungs, lying near the midline of the thoracic cavity.",
+      "type": "direction",
+      "chapter": 22,
+      "keywords": [
+        "directional",
+        "midline",
+        "inner",
+        "إنسي",
+        "وسطي"
+      ]
+    },
+    {
+      "id": 3235,
+      "term": "lateral",
+      "arabic": "جانبي",
+      "latin": "lateralis",
+      "pronunciation": "لاتيرال",
+      "definition": "مصطلح اتجاهي يعني بعيداً عن خط المنتصف للجسم أو الجانب الخارجي منه.",
+      "definition_en": "Directional term meaning away from the midline of the body; on the outer side of.",
+      "englishSentence": "The arms are lateral to the chest when standing in the anatomical position.",
+      "type": "direction",
+      "chapter": 22,
+      "keywords": [
+        "directional",
+        "outer",
+        "side",
+        "جانبي",
+        "خارجي"
+      ]
+    },
+    {
+      "id": 3236,
+      "term": "proximal",
+      "arabic": "قريب (داني)",
+      "latin": "proximalis",
+      "pronunciation": "بروكسيمال",
+      "definition": "مصطلح اتجاهي يعني قريب من أصل الجزء أو نقطة ارتباط الطرف بجذع الجسم.",
+      "definition_en": "Directional term meaning close to the origin of the body part or the point of attachment of a limb to the body trunk.",
+      "englishSentence": "The elbow is proximal to the wrist because it is closer to the shoulder where the arm attaches to the trunk.",
+      "type": "direction",
+      "chapter": 22,
+      "keywords": [
+        "directional",
+        "origin",
+        "attachment",
+        "قريب",
+        "داني"
+      ]
+    },
+    {
+      "id": 3237,
+      "term": "distal",
+      "arabic": "بعيد (قاصي)",
+      "latin": "distalis",
+      "pronunciation": "ديستال",
+      "definition": "مصطلح اتجاهي يعني أبعد عن أصل الجزء أو نقطة ارتباط الطرف بجذع الجسم.",
+      "definition_en": "Directional term meaning farther from the origin of a body part or the point of attachment of a limb to the body trunk.",
+      "englishSentence": "The fingers are distal to the elbow because they are farther from the point where the arm attaches to the body.",
+      "type": "direction",
+      "chapter": 22,
+      "keywords": [
+        "directional",
+        "far",
+        "extremity",
+        "بعيد",
+        "قاصي"
+      ]
+    },
+    {
+      "id": 3238,
+      "term": "superficial",
+      "arabic": "سطحي",
+      "latin": "superficialis",
+      "pronunciation": "سوبيرفيشال",
+      "definition": "مصطلح اتجاهي يعني باتجاه سطح الجسم أو عليه. المرادف: external.",
+      "definition_en": "Directional term meaning toward or at the body surface. Synonym: external.",
+      "englishSentence": "The skin is superficial to the muscles and bones beneath it.",
+      "type": "direction",
+      "chapter": 22,
+      "keywords": [
+        "directional",
+        "surface",
+        "external",
+        "سطحي",
+        "خارجي"
+      ]
+    },
+    {
+      "id": 3239,
+      "term": "deep",
+      "arabic": "عميق",
+      "latin": "profundus",
+      "pronunciation": "ديب",
+      "definition": "مصطلح اتجاهي يعني بعيداً عن سطح الجسم أو الجزء الداخلي منه. المرادف: internal.",
+      "definition_en": "Directional term meaning away from the body surface; more internal. Synonym: internal.",
+      "englishSentence": "The lungs are deep to the rib cage, protected by the bony thorax.",
+      "type": "direction",
+      "chapter": 22,
+      "keywords": [
+        "directional",
+        "internal",
+        "below surface",
+        "عميق",
+        "داخلي"
+      ]
+    },
+    {
+      "id": 3240,
+      "term": "sagittal plane",
+      "arabic": "المستوى السهمي",
+      "latin": "planum sagittale",
+      "pronunciation": "ساجيتال بلين",
+      "definition": "مستوى يقسم الجسم إلى جزء أيمن وجزء أيسر بقطع طولي. إذا كان القسمان متساويين فيسمى المستوى السهمي الأوسط أو المستوى الوسيط.",
+      "definition_en": "A plane made along the lengthwise or longitudinal axis of the body dividing it into left and right parts.",
+      "englishSentence": "A sagittal plane cut through the nose and navel would divide the body into left and right sections.",
+      "type": "plane",
+      "chapter": 22,
+      "keywords": [
+        "plane",
+        "left",
+        "right",
+        "longitudinal",
+        "مستوى سهمي",
+        "طولي"
+      ]
+    },
+    {
+      "id": 3241,
+      "term": "midsagittal plane",
+      "arabic": "المستوى السهمي الأوسط (الوسيط)",
+      "latin": "planum sagittale medium",
+      "pronunciation": "ميدساجيتال بلين",
+      "definition": "قطع سهمي خاص يقسم الجسم إلى نصفين أيمن وأيسر متساويين تماماً.",
+      "definition_en": "A specific sagittal cut where the right and left parts are of equal size; also called the median plane.",
+      "englishSentence": "The midsagittal plane divides the body into equal left and right halves passing through the nose and navel.",
+      "type": "plane",
+      "chapter": 22,
+      "keywords": [
+        "median plane",
+        "equal halves",
+        "left right",
+        "مستوى أوسط",
+        "وسيط"
+      ]
+    },
+    {
+      "id": 3242,
+      "term": "frontal plane",
+      "arabic": "المستوى الأمامي (الإكليلي)",
+      "latin": "planum frontale",
+      "pronunciation": "فرونتال بلين",
+      "definition": "مستوى يقسم الجسم إلى جزء أمامي وجزء خلفي بقطع طولي. يُعرف أيضاً بالمستوى الإكليلي.",
+      "definition_en": "A plane made along a lengthwise axis that divides the body into anterior and posterior parts. Also known as the coronal plane.",
+      "englishSentence": "A frontal plane cut would separate the face from the back of the head.",
+      "type": "plane",
+      "chapter": 22,
+      "keywords": [
+        "coronal plane",
+        "anterior",
+        "posterior",
+        "مستوى أمامي",
+        "إكليلي"
+      ]
+    },
+    {
+      "id": 3243,
+      "term": "transverse plane",
+      "arabic": "المستوى العرضي (الأفقي)",
+      "latin": "planum transversale",
+      "pronunciation": "ترانسفيرس بلين",
+      "definition": "مستوى يقسم الجسم إلى جزء علوي وجزء سفلي بقطع أفقي. يُعرف أيضاً بالمقطع العرضي.",
+      "definition_en": "A plane made along a horizontal axis dividing the body or organ into superior and inferior parts. Also known as a cross section.",
+      "englishSentence": "CT scan images are taken in the transverse plane, showing cross-sections of the body from top to bottom.",
+      "type": "plane",
+      "chapter": 22,
+      "keywords": [
+        "cross section",
+        "horizontal",
+        "superior inferior",
+        "مستوى عرضي",
+        "أفقي"
+      ]
+    },
+    {
+      "id": 3244,
+      "term": "dorsal body cavity",
+      "arabic": "التجويف الظهري للجسم",
+      "latin": "cavitas dorsalis",
+      "pronunciation": "دورسال بودي كافيتي",
+      "definition": "أحد تجويفي الجسم الكبيرين، يحمي أعضاء الجهاز العصبي الهشة ويضم تجويفين: التجويف القحفي (يحتوي الدماغ) والتجويف الفقري أو الشوكي (يحتوي الحبل الشوكي).",
+      "definition_en": "One of two main body cavities, protecting fragile nervous system organs. Contains two subdivisions: cranial cavity (encases brain) and vertebral/spinal cavity (encloses spinal cord).",
+      "englishSentence": "The dorsal body cavity protects the most vital nervous system structures: the brain and spinal cord.",
+      "type": "cavity",
+      "chapter": 22,
+      "keywords": [
+        "cranial",
+        "spinal",
+        "brain",
+        "cavity",
+        "تجويف ظهري",
+        "قحفي"
+      ]
+    },
+    {
+      "id": 3245,
+      "term": "cranial cavity",
+      "arabic": "التجويف القحفي",
+      "latin": "cavitas cranii",
+      "pronunciation": "كرانيال كافيتي",
+      "definition": "جزء من التجويف الظهري يقع داخل الجمجمة ويحتوي ويحمي الدماغ.",
+      "definition_en": "A subdivision of the dorsal body cavity located within the skull that encases and protects the brain.",
+      "englishSentence": "The skull forms the cranial cavity that provides rigid protection for the delicate brain tissue.",
+      "type": "cavity",
+      "chapter": 22,
+      "keywords": [
+        "skull",
+        "brain",
+        "cranium",
+        "تجويف قحفي",
+        "جمجمة"
+      ]
+    },
+    {
+      "id": 3246,
+      "term": "spinal cavity",
+      "arabic": "التجويف الشوكي (الفقري)",
+      "latin": "cavitas spinalis",
+      "pronunciation": "سباينال كافيتي",
+      "definition": "جزء من التجويف الظهري يمتد داخل العمود الفقري العظمي ويحتوي ويحمي الحبل الشوكي الرقيق. يتصل مع التجويف القحفي.",
+      "definition_en": "A subdivision of the dorsal body cavity running within the bony vertebral column, enclosing the delicate spinal cord. Continuous with the cranial cavity.",
+      "englishSentence": "The spinal cavity runs through the vertebral column, protecting the spinal cord from injury.",
+      "type": "cavity",
+      "chapter": 22,
+      "keywords": [
+        "vertebral",
+        "spinal cord",
+        "backbone",
+        "تجويف شوكي",
+        "فقري"
+      ]
+    },
+    {
+      "id": 3247,
+      "term": "ventral body cavity",
+      "arabic": "التجويف البطني للجسم",
+      "latin": "cavitas ventralis",
+      "pronunciation": "فينترال بودي كافيتي",
+      "definition": "أكبر وأكثر التجويفين الرئيسيين للجسم وضعاً أمامياً، يحتوي الأعضاء الداخلية (الحشوية) وينقسم إلى التجويف الصدري والتجويف البطني الحوضي ويفصل بينهما الحجاب الحاجز.",
+      "definition_en": "The more anterior and larger of the two main body cavities, housing the viscera (internal organs). Divided into thoracic and abdominopelvic cavities separated by the diaphragm.",
+      "englishSentence": "The ventral body cavity houses all the vital organs including the heart, lungs, stomach, and intestines.",
+      "type": "cavity",
+      "chapter": 22,
+      "keywords": [
+        "viscera",
+        "thoracic",
+        "abdominopelvic",
+        "تجويف بطني",
+        "أمامي"
+      ]
+    },
+    {
+      "id": 3248,
+      "term": "thoracic cavity",
+      "arabic": "التجويف الصدري",
+      "latin": "cavitas thoracica",
+      "pronunciation": "ثوراسيك كافيتي",
+      "definition": "الجزء العلوي من التجويف البطني، يحتوي القلب والرئتين والقصبة الهوائية والمريء. يفصله الحجاب الحاجز عن التجويف البطني الحوضي.",
+      "definition_en": "The superior portion of the ventral body cavity, containing the heart, lungs, trachea, and esophagus. Separated from the abdominopelvic cavity by the diaphragm.",
+      "englishSentence": "The thoracic cavity is bounded by the rib cage and protects the heart and lungs.",
+      "type": "cavity",
+      "chapter": 22,
+      "keywords": [
+        "chest",
+        "heart",
+        "lungs",
+        "rib cage",
+        "تجويف صدري",
+        "صدر"
+      ]
+    },
+    {
+      "id": 3249,
+      "term": "abdominopelvic cavity",
+      "arabic": "التجويف البطني الحوضي",
+      "latin": "cavitas abdominopelvica",
+      "pronunciation": "أبدومينوبيلفيك كافيتي",
+      "definition": "الجزء السفلي من التجويف البطني، يتكون من التجويف البطني (يحتوي معظم أعضاء الجهاز الهضمي) والتجويف الحوضي (يحتوي أعضاء الجهاز البولي والتناسلي).",
+      "definition_en": "The inferior portion of the ventral body cavity with two parts: the abdominal cavity (most digestive organs) and the pelvic cavity (urinary and reproductive organs in the bony pelvis).",
+      "englishSentence": "The abdominopelvic cavity contains the stomach, intestines, kidneys, bladder, and reproductive organs.",
+      "type": "cavity",
+      "chapter": 22,
+      "keywords": [
+        "abdominal",
+        "pelvic",
+        "digestive",
+        "urinary",
+        "تجويف بطني حوضي"
+      ]
+    },
+    {
+      "id": 3250,
+      "term": "diaphragm",
+      "arabic": "الحجاب الحاجز",
+      "latin": "diaphragma",
+      "pronunciation": "دايافراغم",
+      "definition": "عضلة مسطحة على شكل قبة تفصل التجويف الصدري عن التجويف البطني الحوضي. تلعب دوراً أساسياً في عملية التنفس.",
+      "definition_en": "A dome-shaped muscle separating the thoracic cavity from the abdominopelvic cavity. It plays a primary role in the breathing process.",
+      "englishSentence": "The diaphragm contracts and flattens during inhalation, increasing thoracic volume and drawing air into the lungs.",
+      "type": "organ",
+      "chapter": 22,
+      "keywords": [
+        "breathing",
+        "thoracic",
+        "abdominal",
+        "muscle",
+        "حجاب حاجز",
+        "تنفس"
+      ]
+    },
+    {
+      "id": 3251,
+      "term": "viscera",
+      "arabic": "الأحشاء",
+      "latin": "viscera",
+      "pronunciation": "فيسيرا",
+      "definition": "الأعضاء الداخلية للجسم الموجودة داخل التجاويف البطنية وغيرها من التجاويف الجسمية.",
+      "definition_en": "The internal organs of the body housed within body cavities, particularly the abdominopelvic and thoracic cavities.",
+      "englishSentence": "Blunt abdominal trauma can rupture the viscera, causing life-threatening internal bleeding.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "internal organs",
+        "abdominal",
+        "organs",
+        "أحشاء",
+        "أعضاء داخلية"
+      ]
+    },
+    {
+      "id": 3252,
+      "term": "umbilical region",
+      "arabic": "المنطقة السرية",
+      "latin": "regio umbilicalis",
+      "pronunciation": "أمبيليكال ريجن",
+      "definition": "المنطقة المركزية في التجويف البطني الحوضي المحيطة بالسرة وعميقاً إليها.",
+      "definition_en": "The centermost region of the abdominopelvic cavity deep to and surrounding the umbilicus (navel).",
+      "englishSentence": "Pain in the umbilical region may indicate problems with the small intestine or appendix.",
+      "type": "region",
+      "chapter": 22,
+      "keywords": [
+        "navel",
+        "abdomen",
+        "center",
+        "منطقة سرية",
+        "سرة"
+      ]
+    },
+    {
+      "id": 3253,
+      "term": "epigastric region",
+      "arabic": "المنطقة فوق المعدة",
+      "latin": "regio epigastrica",
+      "pronunciation": "إيبيغاستريك ريجن",
+      "definition": "المنطقة الواقعة فوق المنطقة السرية في البطن. (epi = فوق، gastri = بطن).",
+      "definition_en": "The region located superior to the umbilical region. (epi = upon/above, gastri = belly).",
+      "englishSentence": "Heartburn is often felt in the epigastric region, just below the sternum.",
+      "type": "region",
+      "chapter": 22,
+      "keywords": [
+        "stomach",
+        "abdomen",
+        "superior",
+        "منطقة شرسوفية",
+        "فوق معدة"
+      ]
+    },
+    {
+      "id": 3254,
+      "term": "hypogastric region",
+      "arabic": "المنطقة تحت المعدة (العانية)",
+      "latin": "regio hypogastrica",
+      "pronunciation": "هايبوغاستريك ريجن",
+      "definition": "المنطقة الواقعة أسفل المنطقة السرية في البطن. تُعرف أيضاً بالمنطقة العانية. (hypo = تحت).",
+      "definition_en": "The region located inferior to the umbilical region. Also called the pubic region. (hypo = below).",
+      "englishSentence": "Pain in the hypogastric region often indicates bladder or reproductive organ problems.",
+      "type": "region",
+      "chapter": 22,
+      "keywords": [
+        "pubic",
+        "bladder",
+        "inferior",
+        "منطقة تحت معدة",
+        "عانية"
+      ]
+    },
+    {
+      "id": 3255,
+      "term": "hypochondriac region",
+      "arabic": "المنطقة الناضحية (تحت الغضروف)",
+      "latin": "regio hypochondriaca",
+      "pronunciation": "هايبوكوندرياك ريجن",
+      "definition": "المنطقتان اليمنى واليسرى الموجودتان على جانبي المنطقة الشرسوفية. (chondro = غضروف).",
+      "definition_en": "The right and left regions flanking the epigastric region laterally. (chondro = cartilage).",
+      "englishSentence": "The liver occupies the right hypochondriac region and extends into the epigastric region.",
+      "type": "region",
+      "chapter": 22,
+      "keywords": [
+        "liver",
+        "lateral",
+        "cartilage",
+        "منطقة ناضحية",
+        "تحت ضلعية"
+      ]
+    },
+    {
+      "id": 3256,
+      "term": "iliac region",
+      "arabic": "المنطقة الحرقفية (الإربية)",
+      "latin": "regio iliaca",
+      "pronunciation": "إيلياك ريجن",
+      "definition": "المنطقتان اليمنى واليسرى الواقعتان على جانبي المنطقة العانية. تُعرف أيضاً بالمنطقة الإربية.",
+      "definition_en": "The right and left regions located lateral to the hypogastric region. Also called the inguinal regions.",
+      "englishSentence": "The appendix is located in the right iliac region, which is why appendicitis causes pain there.",
+      "type": "region",
+      "chapter": 22,
+      "keywords": [
+        "inguinal",
+        "appendix",
+        "hip bone",
+        "منطقة حرقفية",
+        "إربية"
+      ]
+    },
+    {
+      "id": 3257,
+      "term": "lumbar region",
+      "arabic": "المنطقة القطنية",
+      "latin": "regio lumbalis",
+      "pronunciation": "لامبار ريجن",
+      "definition": "المنطقتان اليمنى واليسرى الواقعتان على جانبي المنطقة السرية في البطن. (lumbus = منطقة أسفل الظهر).",
+      "definition_en": "The right and left regions lying lateral to the umbilical region. (lumbus = loin).",
+      "englishSentence": "The kidneys are located in the lumbar region, behind the peritoneum.",
+      "type": "region",
+      "chapter": 22,
+      "keywords": [
+        "kidney",
+        "loin",
+        "lateral",
+        "منطقة قطنية",
+        "أسفل ظهر"
+      ]
+    },
+    {
+      "id": 3258,
+      "term": "RUQ",
+      "arabic": "الربع العلوي الأيمن",
+      "latin": "quadrans superior dexter",
+      "pronunciation": "آر يو كيو",
+      "definition": "الربع العلوي الأيمن من التجويف البطني الحوضي. يحتوي الكبد وحصة من المعدة والكلية اليمنى والأمعاء.",
+      "definition_en": "Right Upper Quadrant of the abdominopelvic cavity. Contains the liver, portion of stomach, right kidney, and intestines.",
+      "englishSentence": "Pain in the RUQ often indicates liver or gallbladder problems.",
+      "type": "region",
+      "chapter": 22,
+      "keywords": [
+        "quadrant",
+        "liver",
+        "right",
+        "upper",
+        "ربع علوي أيمن"
+      ]
+    },
+    {
+      "id": 3259,
+      "term": "LUQ",
+      "arabic": "الربع العلوي الأيسر",
+      "latin": "quadrans superior sinister",
+      "pronunciation": "إل يو كيو",
+      "definition": "الربع العلوي الأيسر من التجويف البطني الحوضي. يحتوي جزءاً من المعدة والطحال والكلية اليسرى والأمعاء.",
+      "definition_en": "Left Upper Quadrant of the abdominopelvic cavity. Contains part of the stomach, spleen, left kidney, and intestines.",
+      "englishSentence": "Pain in the LUQ may indicate problems with the spleen or stomach.",
+      "type": "region",
+      "chapter": 22,
+      "keywords": [
+        "quadrant",
+        "spleen",
+        "left",
+        "upper",
+        "ربع علوي أيسر"
+      ]
+    },
+    {
+      "id": 3260,
+      "term": "RLQ",
+      "arabic": "الربع السفلي الأيمن",
+      "latin": "quadrans inferior dexter",
+      "pronunciation": "آر إل كيو",
+      "definition": "الربع السفلي الأيمن من التجويف البطني الحوضي. يحتوي الزائدة الدودية وجزءاً من الأمعاء الدقيقة والأمعاء الغليظة.",
+      "definition_en": "Right Lower Quadrant of the abdominopelvic cavity. Contains the appendix, part of small intestine, and large intestine.",
+      "englishSentence": "Appendicitis classically causes pain that localizes to the RLQ at McBurney's point.",
+      "type": "region",
+      "chapter": 22,
+      "keywords": [
+        "quadrant",
+        "appendix",
+        "right",
+        "lower",
+        "ربع سفلي أيمن"
+      ]
+    },
+    {
+      "id": 3261,
+      "term": "LLQ",
+      "arabic": "الربع السفلي الأيسر",
+      "latin": "quadrans inferior sinister",
+      "pronunciation": "إل إل كيو",
+      "definition": "الربع السفلي الأيسر من التجويف البطني الحوضي. يحتوي جزءاً من الأمعاء الدقيقة والقولون السيني وأجزاء من الجهاز البولي والتناسلي.",
+      "definition_en": "Left Lower Quadrant of the abdominopelvic cavity. Contains part of the small intestine, sigmoid colon, and parts of urinary and reproductive systems.",
+      "englishSentence": "Diverticulitis commonly causes pain in the LLQ due to inflammation of the sigmoid colon.",
+      "type": "region",
+      "chapter": 22,
+      "keywords": [
+        "quadrant",
+        "sigmoid",
+        "left",
+        "lower",
+        "ربع سفلي أيسر"
+      ]
+    },
+    {
+      "id": 3262,
+      "term": "selectively permeable membrane",
+      "arabic": "الغشاء نصف المنفذ (الاختياري النفاذية)",
+      "latin": "membrana selectivo-permeabilis",
+      "pronunciation": "سيليكتيفلي بيرمييبل ميمبرين",
+      "definition": "غشاء يسمح لبعض المواد بالمرور وتعبر خلاله بينما يمنع مرور مواد أخرى. يحيط بجميع خلايا الجسم ويحافظ على البيئة الداخلية.",
+      "definition_en": "A membrane that allows some substances to pass through it while blocking others. Surrounds all body cells and maintains the internal environment.",
+      "englishSentence": "The selectively permeable membrane of the cell controls what enters and exits, maintaining homeostasis.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "membrane",
+        "permeability",
+        "cell",
+        "transport",
+        "غشاء اختياري",
+        "نفاذية"
+      ]
+    },
+    {
+      "id": 3263,
+      "term": "atmospheric pressure",
+      "arabic": "الضغط الجوي",
+      "latin": "pressio atmosphaerica",
+      "pronunciation": "أتموسفيريك بريشر",
+      "definition": "القوة التي يمارسها الهواء على سطح الجسم. تعتمد عليه عملية التنفس وتبادل الغازات في الرئتين. يقل مع الارتفاع عن مستوى سطح البحر.",
+      "definition_en": "The force that air exerts on the surface of the body. Breathing and gas exchange in the lungs depend on appropriate atmospheric pressure. Decreases at high altitudes.",
+      "englishSentence": "At high altitudes, lower atmospheric pressure makes breathing difficult because less oxygen is available per breath.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "pressure",
+        "breathing",
+        "altitude",
+        "gas exchange",
+        "ضغط جوي",
+        "تنفس"
+      ]
+    },
+    {
+      "id": 3264,
+      "term": "cell",
+      "arabic": "الخلية",
+      "latin": "cellula",
+      "pronunciation": "سيل",
+      "definition": "الوحدة الأساسية في البنية والوظيفة للكائنات الحية. تؤدي جميع النشاطات الكيميائية اللازمة لاستمرار الحياة وهي اللبنة الأساسية لجميع الكائنات الحية.",
+      "definition_en": "The basic structural and functional unit of living organisms. Carries out all chemical activities needed to sustain life and is the building block of all living things.",
+      "englishSentence": "The human body contains approximately 37 trillion cells, each specialized for a specific function.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "basic unit",
+        "life",
+        "structure",
+        "function",
+        "خلية",
+        "وحدة حياة"
+      ]
+    },
+    {
+      "id": 3265,
+      "term": "nucleus",
+      "arabic": "النواة",
+      "latin": "nucleus",
+      "pronunciation": "نيوكليوس",
+      "definition": "مركز التحكم في الخلية، يحتوي على المادة الجينية (DNA) ويتكون من ثلاثة أجزاء رئيسية: الغشاء النووي والنواة الصغيرة والكروماتين.",
+      "definition_en": "The control center of the cell containing genetic material (DNA). Consists of three regions: nuclear membrane, nucleolus, and chromatin.",
+      "englishSentence": "The nucleus directs all cell activities by controlling which proteins are produced.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "DNA",
+        "control center",
+        "genetic",
+        "نواة",
+        "حمض نووي"
+      ]
+    },
+    {
+      "id": 3266,
+      "term": "nuclear membrane",
+      "arabic": "الغشاء النووي",
+      "latin": "membrana nuclearis",
+      "pronunciation": "نيوكليار ميمبرين",
+      "definition": "الحاجز المحيط بالنواة، يتكون من طبقتين من الفوسفوليبيد ويحتوي على مسام نووية تسمح بتبادل المواد بين النواة وبقية الخلية.",
+      "definition_en": "The barrier of the nucleus consisting of a double phospholipid membrane containing nuclear pores that allow exchange of materials with the rest of the cell.",
+      "englishSentence": "The nuclear membrane controls the passage of RNA and proteins between the nucleus and cytoplasm.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "nuclear pores",
+        "double membrane",
+        "phospholipid",
+        "غشاء نووي",
+        "مسام نووية"
+      ]
+    },
+    {
+      "id": 3267,
+      "term": "nucleolus",
+      "arabic": "النواة الصغيرة (النوية)",
+      "latin": "nucleolus",
+      "pronunciation": "نيوكليولوس",
+      "definition": "جسم كثيف داخل النواة يكون موقع إنتاج الريبوسومات. تنتقل الريبوسومات بعد تصنيعها إلى السيتوبلازم عبر المسام النووية حيث تقوم بتصنيع البروتين.",
+      "definition_en": "A dense body inside the nucleus and the site of ribosome production. Ribosomes migrate to the cytoplasm through nuclear pores where they synthesize proteins.",
+      "englishSentence": "The nucleolus is most prominent in cells that produce large amounts of protein, such as liver cells.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "ribosome production",
+        "rRNA",
+        "protein synthesis",
+        "نوية",
+        "ريبوسوم"
+      ]
+    },
+    {
+      "id": 3268,
+      "term": "chromatin",
+      "arabic": "الكروماتين",
+      "latin": "chromatin",
+      "pronunciation": "كروماتين",
+      "definition": "معقد من DNA والبروتين منتشر في النواة. يتكثف الكروماتين ليشكل الكروموسومات عند انقسام الخلية.",
+      "definition_en": "A complex composed of DNA and protein scattered throughout the nucleus. Chromatin condenses to form chromosomes when the cell divides.",
+      "englishSentence": "During cell division, the chromatin condenses into visible chromosomes that can be counted under a microscope.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "DNA",
+        "chromosome",
+        "cell division",
+        "كروماتين",
+        "كروموسوم"
+      ]
+    },
+    {
+      "id": 3269,
+      "term": "plasma membrane",
+      "arabic": "الغشاء البلازمي (غشاء الخلية)",
+      "latin": "membrana plasmatica",
+      "pronunciation": "بلازما ميمبرين",
+      "definition": "الحاجز المحيط بمحتويات الخلية، يتكون من طبقة مزدوجة من الفوسفوليبيد مع بروتينات وكولسترول وبروتينات سكرية. يتميز بالنفاذية الانتقائية.",
+      "definition_en": "The barrier for cell contents consisting of a double phospholipid layer with hydrophilic heads and hydrophobic tails, containing proteins, cholesterol, and glycoproteins. Selectively permeable.",
+      "englishSentence": "The plasma membrane acts as a selective gateway, allowing nutrients in and keeping harmful substances out.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "phospholipid bilayer",
+        "selectively permeable",
+        "cell boundary",
+        "غشاء خلية",
+        "فوسفوليبيد"
+      ]
+    },
+    {
+      "id": 3270,
+      "term": "phospholipid bilayer",
+      "arabic": "الطبقة الثنائية من الفوسفوليبيد",
+      "latin": "duplicitas phospholipidica",
+      "pronunciation": "فوسفوليبيد بايلاير",
+      "definition": "الهيكل الأساسي للغشاء البلازمي، يتكون من طبقتين متقابلتين من جزيئات الفوسفوليبيد حيث الرؤوس المحبة للماء تواجه الخارج والذيول الكارهة للماء تتجه للداخل.",
+      "definition_en": "The basic structure of the plasma membrane consisting of two opposing layers of phospholipid molecules with hydrophilic heads facing outward and hydrophobic tails facing inward.",
+      "englishSentence": "The phospholipid bilayer creates a fluid, flexible barrier that controls what enters and exits the cell.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "hydrophilic",
+        "hydrophobic",
+        "membrane structure",
+        "ثنائي الطبقة",
+        "فوسفوليبيد"
+      ]
+    },
+    {
+      "id": 3271,
+      "term": "microvilli",
+      "arabic": "الزغابات الدقيقة",
+      "latin": "microvilli",
+      "pronunciation": "مايكروفيلاي",
+      "definition": "نتوءات إصبعية الشكل على سطح الغشاء البلازمي تزيد من مساحة السطح للامتصاص. توجد بشكل رئيسي في خلايا الأمعاء الدقيقة والكلى.",
+      "definition_en": "Finger-like projections on the plasma membrane surface that increase surface area for absorption. Found mainly in cells of the small intestine and kidney tubules.",
+      "englishSentence": "Microvilli on intestinal cells dramatically increase the surface area available for nutrient absorption.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "absorption",
+        "surface area",
+        "intestine",
+        "زغابات دقيقة",
+        "امتصاص"
+      ]
+    },
+    {
+      "id": 3272,
+      "term": "cytoplasm",
+      "arabic": "السيتوبلازم (هيولى الخلية)",
+      "latin": "cytoplasma",
+      "pronunciation": "سايتوبلازم",
+      "definition": "المادة الموجودة خارج النواة وداخل الغشاء البلازمي. يتكون من السيتوسول (السائل الحامل) والعضيات والشوائب (الإدراجات).",
+      "definition_en": "Material outside the nucleus and inside the plasma membrane. Consists of cytosol (suspending fluid), organelles (metabolic machinery), and inclusions (non-functioning units).",
+      "englishSentence": "The cytoplasm houses the cell's organelles and provides the medium in which metabolic reactions occur.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "cytosol",
+        "organelles",
+        "cell interior",
+        "سيتوبلازم",
+        "هيولى"
+      ]
+    },
+    {
+      "id": 3273,
+      "term": "cytosol",
+      "arabic": "العصارة الخلوية (السيتوسول)",
+      "latin": "cytosol",
+      "pronunciation": "سايتوسول",
+      "definition": "السائل الجيلاتيني الذي يشكل الجزء السائل من السيتوبلازم ويعلق فيه العضيات والمواد الأخرى. يحتوي على بروتينات وأيونات وجلوكوز وجزيئات أخرى.",
+      "definition_en": "The gel-like fluid that forms the liquid portion of the cytoplasm in which organelles and other materials are suspended. Contains proteins, ions, glucose, and other molecules.",
+      "englishSentence": "Many metabolic reactions, including glycolysis, occur in the cytosol of the cell.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "fluid",
+        "gel",
+        "suspension",
+        "عصارة خلوية",
+        "سائل خلوي"
+      ]
+    },
+    {
+      "id": 3274,
+      "term": "organelles",
+      "arabic": "العضيات (الأعضاء الدقيقة)",
+      "latin": "organella",
+      "pronunciation": "أورغانيلز",
+      "definition": "الأجهزة الأيضية للخلية، وهي هياكل متخصصة داخل السيتوبلازم تؤدي وظائف محددة لبقاء الخلية وعملها.",
+      "definition_en": "The metabolic machinery of the cell. Specialized structures within the cytoplasm that perform specific functions essential for cell survival and activity.",
+      "englishSentence": "Each organelle within the cell has a specific function, just as organs have specific functions in the body.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "mitochondria",
+        "ribosomes",
+        "ER",
+        "Golgi",
+        "عضيات",
+        "أجهزة خلوية"
+      ]
+    },
+    {
+      "id": 3275,
+      "term": "mitochondria",
+      "arabic": "الميتوكوندريا",
+      "latin": "mitochondria",
+      "pronunciation": "مايتوكوندريا",
+      "definition": "محطة توليد الطاقة في الخلية. تُنتج ATP عبر التنفس الخلوي الهوائي. تمتلك غشاءين (خارجي وداخلي) وDNA خاص بها. تتغير شكلها باستمرار.",
+      "definition_en": "The powerhouse of the cell. Produces ATP through aerobic cellular respiration. Has a double membrane and its own DNA. Continuously changes shape.",
+      "englishSentence": "Muscle cells have an abundance of mitochondria because they require large amounts of ATP for contraction.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "ATP",
+        "energy",
+        "aerobic respiration",
+        "powerhouse",
+        "ميتوكوندريا",
+        "طاقة"
+      ]
+    },
+    {
+      "id": 3276,
+      "term": "ribosomes",
+      "arabic": "الريبوسومات",
+      "latin": "ribosomata",
+      "pronunciation": "رايبوسومز",
+      "definition": "موقع تصنيع البروتين في الخلية. تتكون من بروتين وRNA. توجد إما حرة في السيتوبلازم أو مرتبطة بالشبكة الإندوبلازمية الخشنة.",
+      "definition_en": "The site of protein synthesis in the cell. Made of protein and RNA. Found either free in the cytoplasm or attached to the rough endoplasmic reticulum.",
+      "englishSentence": "Free ribosomes synthesize proteins for use within the cell, while bound ribosomes make proteins for export.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "protein synthesis",
+        "rRNA",
+        "translation",
+        "ريبوسوم",
+        "تصنيع بروتين"
+      ]
+    },
+    {
+      "id": 3277,
+      "term": "endoplasmic reticulum",
+      "arabic": "الشبكة الإندوبلازمية",
+      "latin": "reticulum endoplasmaticum",
+      "pronunciation": "إندوبلازميك ريتيكيولم",
+      "definition": "شبكة من الأنابيب المملوءة بالسوائل داخل الخلية. توجد على نوعين: خشنة (مغطاة بالريبوسومات، تصنع بروتينات الغشاء) وناعمة (تصنع الكوليسترول وتتحلل الدهون وتُزيل السموم).",
+      "definition_en": "A network of fluid-filled tubules in the cell. Two types: Rough ER (studded with ribosomes, makes membrane building materials) and Smooth ER (cholesterol synthesis, fat metabolism, drug detoxification).",
+      "englishSentence": "The rough endoplasmic reticulum is abundant in cells that secrete large amounts of proteins, like pancreatic cells.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "rough ER",
+        "smooth ER",
+        "protein",
+        "lipid",
+        "شبكة إندوبلازمية",
+        "ER"
+      ]
+    },
+    {
+      "id": 3278,
+      "term": "rough endoplasmic reticulum",
+      "arabic": "الشبكة الإندوبلازمية الخشنة",
+      "latin": "reticulum endoplasmaticum granulosum",
+      "pronunciation": "راف إندوبلازميك ريتيكيولم",
+      "definition": "نوع من الشبكة الإندوبلازمية مغطى بالريبوسومات على سطحه الخارجي، وهو الموقع الذي تُصنع فيه مواد بناء الغشاء الخلوي والبروتينات المخصصة للتصدير.",
+      "definition_en": "Type of ER studded with ribosomes on its outer surface; the site where building materials of cellular membranes are formed and proteins designated for export are synthesized.",
+      "englishSentence": "The rough ER processes newly made proteins and sends them to the Golgi apparatus for packaging.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "ribosomes",
+        "protein export",
+        "membrane building",
+        "شبكة خشنة",
+        "ريبوسوم"
+      ]
+    },
+    {
+      "id": 3279,
+      "term": "smooth endoplasmic reticulum",
+      "arabic": "الشبكة الإندوبلازمية الناعمة",
+      "latin": "reticulum endoplasmaticum laeve",
+      "pronunciation": "سموث إندوبلازميك ريتيكيولم",
+      "definition": "نوع من الشبكة الإندوبلازمية خالٍ من الريبوسومات، يعمل في تصنيع الكوليسترول وأيض الدهون وإزالة سمية الأدوية والكحول وتخزين أيونات الكالسيوم في خلايا العضلات.",
+      "definition_en": "Type of ER lacking ribosomes; functions in cholesterol synthesis, fat metabolism, detoxification of drugs and alcohol, and calcium ion storage in muscle cells.",
+      "englishSentence": "The smooth ER in liver cells detoxifies many drugs and alcohol, protecting the body from harmful substances.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "lipid synthesis",
+        "detoxification",
+        "cholesterol",
+        "شبكة ناعمة",
+        "دهون"
+      ]
+    },
+    {
+      "id": 3280,
+      "term": "Golgi apparatus",
+      "arabic": "جهاز غولجي",
+      "latin": "apparatus Golgii",
+      "pronunciation": "غولجي أبارتوس",
+      "definition": "عضية تعدّل البروتينات وتعبّئها وترسلها إلى وجهاتها. يُنتج أنواعاً مختلفة من الحزم: حويصلات إفرازية، ومكونات الغشاء الخلوي، والليزوسومات. يُعرف بـ 'مكتب البريد' للخلية.",
+      "definition_en": "An organelle that modifies and packages proteins, producing secretory vesicles, cell membrane components, and lysosomes. Known as the 'post office' of the cell.",
+      "englishSentence": "The Golgi apparatus sorts and packages proteins, sending them to the correct destination inside or outside the cell.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "protein packaging",
+        "secretion",
+        "vesicles",
+        "جهاز غولجي",
+        "تعبئة بروتين"
+      ]
+    },
+    {
+      "id": 3281,
+      "term": "lysosomes",
+      "arabic": "الليزوسومات (الجسيمات الهاضمة)",
+      "latin": "lysosomata",
+      "pronunciation": "لايسوسومز",
+      "definition": "عضيات تحتوي على إنزيمات هضمية تكسر المواد غير الصالحة للاستخدام داخل الخلية. تُنتَج في جهاز غولجي وتُهضم البكتيريا والعضيات التالفة.",
+      "definition_en": "Organelles containing digestive enzymes that break down non-usable materials within the cell. Produced by the Golgi apparatus; digest bacteria and worn-out organelles.",
+      "englishSentence": "Lysosomes digest old organelles and foreign particles in a process called autophagy.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "digestive enzymes",
+        "autophagy",
+        "waste breakdown",
+        "ليزوسوم",
+        "هضم خلوي"
+      ]
+    },
+    {
+      "id": 3282,
+      "term": "peroxisomes",
+      "arabic": "البيروكسيسومات",
+      "latin": "peroxisomata",
+      "pronunciation": "بيروكسيسومز",
+      "definition": "أكياس غشائية تحتوي على إنزيمات أكسيدية. تُزيل السموم من المواد الضارة وتُحلل الجذور الحرة (المواد الكيميائية شديدة التفاعل). تتكاثر بالانقسام إلى نصفين.",
+      "definition_en": "Membranous sacs containing oxidase enzymes that detoxify harmful substances and break down free radicals (highly reactive chemicals). Replicate by pinching in half.",
+      "englishSentence": "Peroxisomes in liver cells neutralize hydrogen peroxide produced during metabolism, preventing cellular damage.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "detoxification",
+        "hydrogen peroxide",
+        "oxidase",
+        "بيروكسيسوم",
+        "إزالة سموم"
+      ]
+    },
+    {
+      "id": 3283,
+      "term": "cytoskeleton",
+      "arabic": "الهيكل الخلوي (السيتوسكيليتون)",
+      "latin": "cytoskeleton",
+      "pronunciation": "سايتوسكيليتون",
+      "definition": "شبكة من التراكيب البروتينية الممتدة في السيتوبلازم توفر للخلية إطاراً داخلياً. تتكون من ثلاثة أنواع: الخيوط الدقيقة والخيوط الوسيطة والأنيبيبات الدقيقة.",
+      "definition_en": "A network of protein structures extending throughout the cytoplasm providing the cell with an internal framework. Three types: microfilaments, intermediate filaments, and microtubules.",
+      "englishSentence": "The cytoskeleton gives the cell its shape, enables movement, and helps transport materials within the cell.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "cell shape",
+        "movement",
+        "protein network",
+        "هيكل خلوي",
+        "بنية داخلية"
+      ]
+    },
+    {
+      "id": 3284,
+      "term": "microfilaments",
+      "arabic": "الخيوط الدقيقة",
+      "latin": "microfilamenta",
+      "pronunciation": "مايكروفيلامنتس",
+      "definition": "أرق مكونات الهيكل الخلوي، مصنوعة من الأكتين. تشارك في حركة الخلية وانقباض العضلات وانقسام الخلية.",
+      "definition_en": "The thinnest components of the cytoskeleton, made of actin protein. Involved in cell movement, muscle contraction, and cell division.",
+      "englishSentence": "Microfilaments form the contractile ring that pinches a cell in two during cell division.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "actin",
+        "thin filaments",
+        "movement",
+        "خيوط دقيقة",
+        "أكتين"
+      ]
+    },
+    {
+      "id": 3285,
+      "term": "microtubules",
+      "arabic": "الأنيبيبات الدقيقة",
+      "latin": "microtubuli",
+      "pronunciation": "مايكروتيوبيولز",
+      "definition": "أسمك مكونات الهيكل الخلوي، تتكون من التوبولين. تُشكل المغزل الخلوي أثناء الانقسام وتُكوّن الأهداب والسوط وتوجّه حركة المواد داخل الخلية.",
+      "definition_en": "The thickest cytoskeletal components made of tubulin protein. Form mitotic spindle during cell division, make up cilia and flagella, and guide intracellular movement of materials.",
+      "englishSentence": "Microtubules form the mitotic spindle that pulls chromosomes to opposite ends of the cell during division.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "tubulin",
+        "mitotic spindle",
+        "cilia",
+        "أنيبيبات دقيقة",
+        "توبولين"
+      ]
+    },
+    {
+      "id": 3286,
+      "term": "centrioles",
+      "arabic": "المريكزات",
+      "latin": "centriola",
+      "pronunciation": "سينتريولز",
+      "definition": "أجسام على شكل قضيب مصنوعة من الأنيبيبات الدقيقة. توجّه تكوين المغزل الانقسامي أثناء انقسام الخلية وتوجد في زوج يُسمى المركزوم.",
+      "definition_en": "Rod-shaped bodies made of microtubules that direct the formation of the mitotic spindle during cell division. Found in pairs called the centrosome.",
+      "englishSentence": "Before cell division, centrioles duplicate so each new cell receives a complete set to organize future divisions.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "mitotic spindle",
+        "cell division",
+        "centrosome",
+        "مريكز",
+        "انقسام خلوي"
+      ]
+    },
+    {
+      "id": 3287,
+      "term": "cilia",
+      "arabic": "الأهداب",
+      "latin": "cilia",
+      "pronunciation": "سيليا",
+      "definition": "نتوءات شعرية دقيقة على سطح بعض الخلايا تتحرك لنقل المواد عبر سطح الخلية. توجد على سطح الجهاز التنفسي لإزالة المخاط والجزيئات الغريبة.",
+      "definition_en": "Hair-like projections on some cell surfaces that move to transport materials across the cell surface. Found on the respiratory tract lining to move mucus and foreign particles.",
+      "englishSentence": "Cilia lining the trachea sweep mucus and trapped particles upward toward the throat.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "movement",
+        "respiratory tract",
+        "mucus",
+        "أهداب",
+        "حركة"
+      ]
+    },
+    {
+      "id": 3288,
+      "term": "flagellum",
+      "arabic": "السوط",
+      "latin": "flagellum",
+      "pronunciation": "فلاجيلوم",
+      "definition": "زائدة طويلة من الخلية تشبه السوط تدفع الخلية للأمام. في جسم الإنسان يوجد السوط فقط على الحيوانات المنوية.",
+      "definition_en": "A long whip-like projection that propels the cell. In the human body, flagella are found only on sperm cells.",
+      "englishSentence": "The flagellum of a sperm cell propels it through the female reproductive tract toward the egg.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "sperm",
+        "propulsion",
+        "movement",
+        "سوط",
+        "حيوان منوي"
+      ]
+    },
+    {
+      "id": 3289,
+      "term": "diffusion",
+      "arabic": "الانتشار",
+      "latin": "diffusio",
+      "pronunciation": "ديفيوجن",
+      "definition": "الميل الطبيعي للجزيئات للتوزع بالتساوي في محلول بالتحرك من منطقة التركيز العالي إلى منطقة التركيز المنخفض (مع تدرج التركيز). لا يحتاج إلى طاقة.",
+      "definition_en": "The tendency of particles to distribute themselves evenly in a solution by moving from high concentration to low concentration (down a concentration gradient). No energy required.",
+      "englishSentence": "Oxygen diffuses from the lungs into the blood because oxygen concentration is higher in the lungs.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "concentration gradient",
+        "passive",
+        "movement",
+        "انتشار",
+        "تدرج تركيز"
+      ]
+    },
+    {
+      "id": 3290,
+      "term": "simple diffusion",
+      "arabic": "الانتشار البسيط",
+      "latin": "diffusio simplex",
+      "pronunciation": "سيمبل ديفيوجن",
+      "definition": "عملية انتشار غير معتمدة على وسيط، تسمح فيها المواد الذائبة في الدهون أو الصغيرة جداً بالمرور مباشرة عبر مسام الغشاء البلازمي.",
+      "definition_en": "Unassisted diffusion process where lipid-soluble materials or substances small enough to pass through membrane pores move directly across the plasma membrane.",
+      "englishSentence": "Oxygen and carbon dioxide cross the plasma membrane by simple diffusion because they are small nonpolar molecules.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "lipid-soluble",
+        "passive transport",
+        "no carrier",
+        "انتشار بسيط",
+        "غير معتمد"
+      ]
+    },
+    {
+      "id": 3291,
+      "term": "osmosis",
+      "arabic": "التناضح (الأوسموسيس)",
+      "latin": "osmosis",
+      "pronunciation": "أوسموسيس",
+      "definition": "الانتشار البسيط للماء عبر غشاء نصف منفذ من منطقة تركيز المذيب الأعلى (تركيز المذاب الأقل) إلى منطقة تركيز المذيب الأقل (تركيز المذاب الأعلى).",
+      "definition_en": "Simple diffusion of water through a selectively permeable membrane from higher water concentration (lower solute concentration) to lower water concentration (higher solute concentration).",
+      "englishSentence": "During osmosis, water moves from a dilute solution into a concentrated solution through a semipermeable membrane.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "water movement",
+        "semipermeable",
+        "concentration",
+        "تناضح",
+        "ماء"
+      ]
+    },
+    {
+      "id": 3292,
+      "term": "isotonic solution",
+      "arabic": "المحلول متساوي التوتر",
+      "latin": "solutio isotonica",
+      "pronunciation": "أيسوتونيك سوليوشن",
+      "definition": "محلول يحتوي على نفس تركيز المذاب الموجود داخل الخلية. لا تتغير الخلية في هذا المحلول وتحافظ على شكلها الطبيعي.",
+      "definition_en": "A solution with the same solute concentration as inside the cell. The cell maintains its normal shape and volume; no net movement of water occurs.",
+      "englishSentence": "Normal saline (0.9% NaCl) is isotonic to blood cells and is used in IV fluids to avoid cell damage.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "normal saline",
+        "cell shape",
+        "balance",
+        "متساوي التوتر",
+        "توازن"
+      ]
+    },
+    {
+      "id": 3293,
+      "term": "hypotonic solution",
+      "arabic": "المحلول ناقص التوتر",
+      "latin": "solutio hypotonica",
+      "pronunciation": "هايبوتونيك سوليوشن",
+      "definition": "محلول يحتوي على تركيز مذاب أقل من داخل الخلية. يدخل الماء إلى الخلية بالتناضح مما يجعلها تتضخم وقد تنفجر (انحلال).",
+      "definition_en": "A solution with lower solute concentration than inside the cell. Water enters the cell by osmosis, causing it to swell and potentially burst (lysis).",
+      "englishSentence": "Placing red blood cells in pure water (hypotonic solution) causes them to swell and burst (hemolysis).",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "cell swelling",
+        "lysis",
+        "water enters",
+        "ناقص التوتر",
+        "انتفاخ خلية"
+      ]
+    },
+    {
+      "id": 3294,
+      "term": "hypertonic solution",
+      "arabic": "المحلول فائق التوتر",
+      "latin": "solutio hypertonica",
+      "pronunciation": "هايبيرتونيك سوليوشن",
+      "definition": "محلول يحتوي على تركيز مذاب أعلى من داخل الخلية. يخرج الماء من الخلية بالتناضح مما يجعلها تتقلص وتتجعد (تكرنج).",
+      "definition_en": "A solution with higher solute concentration than inside the cell. Water exits the cell by osmosis, causing it to shrink and wrinkle (crenation).",
+      "englishSentence": "Soaking a cell in a hypertonic solution causes crenation as water leaves the cell by osmosis.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "cell shrinkage",
+        "crenation",
+        "water exits",
+        "فائق التوتر",
+        "انكماش خلية"
+      ]
+    },
+    {
+      "id": 3295,
+      "term": "facilitated diffusion",
+      "arabic": "الانتشار الميسّر",
+      "latin": "diffusio facilitata",
+      "pronunciation": "فاسيليتيتد ديفيوجن",
+      "definition": "عملية انتشار تعتمد على بروتينات ناقلة (حاملة) في الغشاء البلازمي لنقل المواد مع تدرج التركيز. لا تحتاج إلى طاقة لكنها تحتاج إلى وسيط بروتيني.",
+      "definition_en": "Diffusion process that requires protein carriers in the plasma membrane to transport substances down a concentration gradient. No energy needed but requires a protein carrier.",
+      "englishSentence": "Glucose enters most body cells by facilitated diffusion through GLUT transport proteins.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "carrier protein",
+        "glucose transport",
+        "passive",
+        "انتشار ميسر",
+        "بروتين ناقل"
+      ]
+    },
+    {
+      "id": 3296,
+      "term": "filtration",
+      "arabic": "الترشيح",
+      "latin": "filtratio",
+      "pronunciation": "فيلتريشن",
+      "definition": "عملية دفع الماء والمذابات عبر غشاء بواسطة الضغط الهيدروستاتيكي. يجب أن يوجد تدرج ضغط لتحريك السائل من منطقة ضغط عالٍ إلى منطقة ضغط منخفض.",
+      "definition_en": "The process where water and solutes are forced through a membrane by fluid or hydrostatic pressure. A pressure gradient must exist to push solute-containing fluid from high to low pressure.",
+      "englishSentence": "Filtration in the kidney glomerulus forces blood plasma across the membrane to form filtrate.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "hydrostatic pressure",
+        "kidney",
+        "glomerulus",
+        "ترشيح",
+        "ضغط هيدروستاتيكي"
+      ]
+    },
+    {
+      "id": 3297,
+      "term": "active transport",
+      "arabic": "النقل النشط",
+      "latin": "transportus activus",
+      "pronunciation": "أكتيف ترانسبورت",
+      "definition": "نقل المواد التي لا تستطيع العبور بالانتشار العادي عبر الغشاء البلازمي. يتطلب طاقة ATP ويمكنه نقل المواد عكس تدرج التركيز.",
+      "definition_en": "Transport of substances unable to cross by diffusion. Requires ATP energy and can move substances against a concentration gradient. Common forms: solute pumping and bulk transport.",
+      "englishSentence": "Active transport allows cells to accumulate nutrients like glucose and amino acids at concentrations higher than outside.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "ATP",
+        "concentration gradient",
+        "solute pump",
+        "نقل نشط",
+        "طاقة"
+      ]
+    },
+    {
+      "id": 3298,
+      "term": "sodium-potassium pump",
+      "arabic": "مضخة الصوديوم-البوتاسيوم",
+      "latin": "pumpa natrio-kalica",
+      "pronunciation": "سوديوم بوتاسيوم بامب",
+      "definition": "مضخة نشطة في الغشاء البلازمي تطرد 3 أيونات صوديوم خارج الخلية مقابل إدخال 2 أيون بوتاسيوم. تستهلك ATP وتحافظ على جهد الغشاء الكهربائي.",
+      "definition_en": "An active pump in the plasma membrane that pumps 3 sodium ions out of the cell in exchange for 2 potassium ions in. Consumes ATP and maintains electrical membrane potential.",
+      "englishSentence": "The sodium-potassium pump maintains the resting membrane potential essential for nerve impulse transmission.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "Na+",
+        "K+",
+        "ATP",
+        "membrane potential",
+        "مضخة صوديوم",
+        "جهد غشاء"
+      ]
+    },
+    {
+      "id": 3299,
+      "term": "exocytosis",
+      "arabic": "الإخراج الخلوي",
+      "latin": "exocytosis",
+      "pronunciation": "إكسوسايتوسيس",
+      "definition": "عملية نقل المواد خارج الخلية: تُحمل المادة في حويصلة غشائية تنتقل إلى الغشاء البلازمي وتندمج معه فتُفرز محتواها إلى الخارج.",
+      "definition_en": "The process of moving materials out of the cell. Material is carried in a membranous vesicle that migrates to and fuses with the plasma membrane, emptying contents to the exterior.",
+      "englishSentence": "Nerve cells use exocytosis to release neurotransmitters into the synaptic cleft.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "secretion",
+        "vesicle",
+        "membrane fusion",
+        "إخراج خلوي",
+        "إفراز"
+      ]
+    },
+    {
+      "id": 3300,
+      "term": "endocytosis",
+      "arabic": "الإدخال الخلوي",
+      "latin": "endocytosis",
+      "pronunciation": "إندوسايتوسيس",
+      "definition": "عملية ابتلاع المواد الخارج خلوية بتغليفها في حويصلة غشائية داخل الخلية. أنواعه: البلعمة (التهام الجسيمات الصلبة) والشرب الخلوي (ابتلاع السوائل) والإدخال بواسطة مستقبلات.",
+      "definition_en": "The process of engulfing extracellular substances by enclosing them in a membranous vesicle. Types: phagocytosis (cell eating), pinocytosis (cell drinking), receptor-mediated endocytosis.",
+      "englishSentence": "White blood cells use endocytosis (phagocytosis) to engulf and destroy bacteria.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "phagocytosis",
+        "pinocytosis",
+        "vesicle",
+        "إدخال خلوي",
+        "بلعمة"
+      ]
+    },
+    {
+      "id": 3301,
+      "term": "phagocytosis",
+      "arabic": "البلعمة (الأكل الخلوي)",
+      "latin": "phagocytosis",
+      "pronunciation": "فاغوسايتوسيس",
+      "definition": "نوع من الإدخال الخلوي يسمى 'أكل الخلية'. تبتلع الخلية جزيئات صلبة مثل البكتيريا والخلايا الميتة. تمارسها بشكل رئيسي البالعات الكبيرة وخلايا الدم البيضاء.",
+      "definition_en": "'Cell eating'. The cell engulfs solid particles such as bacteria and dead cells. Performed mainly by macrophages and white blood cells as an immune defense.",
+      "englishSentence": "Macrophages use phagocytosis to engulf and destroy pathogens, dead cells, and cellular debris.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "macrophage",
+        "bacteria",
+        "immune defense",
+        "بلعمة",
+        "مناعة"
+      ]
+    },
+    {
+      "id": 3302,
+      "term": "pinocytosis",
+      "arabic": "الشرب الخلوي",
+      "latin": "pinocytosis",
+      "pronunciation": "بينوسايتوسيس",
+      "definition": "نوع من الإدخال الخلوي يسمى 'شرب الخلية'. تبتلع الخلية قطرات سائلة صغيرة مع ما تحتويه من مواد مذابة.",
+      "definition_en": "'Cell drinking'. The cell engulfs tiny liquid droplets along with their dissolved contents.",
+      "englishSentence": "Kidney tubule cells use pinocytosis to recapture proteins filtered from the blood.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "fluid uptake",
+        "dissolved substances",
+        "vesicle",
+        "شرب خلوي",
+        "ابتلاع سائل"
+      ]
+    },
+    {
+      "id": 3303,
+      "term": "interphase",
+      "arabic": "طور التهيؤ (الطور البيني)",
+      "latin": "interphasis",
+      "pronunciation": "إنترفيز",
+      "definition": "الفترة بين انقسامين خلويين. تنمو الخلية وتؤدي نشاطاتها الأيضية وتُضاعف DNA استعداداً للانقسام. تنقسم إلى ثلاث مراحل: G1 وS وG2.",
+      "definition_en": "The period between cell divisions. The cell grows, carries out metabolic processes, and replicates DNA in preparation for division. Divided into G1, S, and G2 phases.",
+      "englishSentence": "During interphase, the cell replicates all its DNA so that each daughter cell receives a complete set.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "cell cycle",
+        "G1",
+        "S phase",
+        "G2",
+        "DNA replication",
+        "طور بيني"
+      ]
+    },
+    {
+      "id": 3304,
+      "term": "mitosis",
+      "arabic": "الانقسام الخلوي المتساوي",
+      "latin": "mitosis",
+      "pronunciation": "مايتوسيس",
+      "definition": "انقسام النواة ينتج عنه تكوين نواتين ابنتيتين متطابقتين جينياً. مراحله: الطور التمهيدي (Prophase) والطور الاستوائي (Metaphase) والطور الانتقالي (Anaphase) والطور الختامي (Telophase).",
+      "definition_en": "Division of the nucleus resulting in two genetically identical daughter nuclei. Stages: Prophase, Metaphase, Anaphase, Telophase (PMAT).",
+      "englishSentence": "Mitosis ensures that every new cell receives an exact copy of the original cell's genetic information.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "cell division",
+        "PMAT",
+        "daughter cells",
+        "chromosomes",
+        "انقسام متساوي"
+      ]
+    },
+    {
+      "id": 3305,
+      "term": "prophase",
+      "arabic": "الطور التمهيدي",
+      "latin": "prophasis",
+      "pronunciation": "بروفيز",
+      "definition": "المرحلة الأولى من الانقسام المتساوي. تتكثف الكروموسومات وتصبح مرئية، وتهاجر المريكزات إلى القطبين، ويبدأ تشكل المغزل الانقسامي.",
+      "definition_en": "The first stage of mitosis. Chromosomes condense and become visible, centromeres migrate to the poles, and the mitotic spindle begins to form.",
+      "englishSentence": "During prophase, the chromosomes become visible under a light microscope as they condense and thicken.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "chromosome condensation",
+        "spindle formation",
+        "cell division",
+        "طور تمهيدي"
+      ]
+    },
+    {
+      "id": 3306,
+      "term": "metaphase",
+      "arabic": "الطور الاستوائي",
+      "latin": "metaphasis",
+      "pronunciation": "ميتافيز",
+      "definition": "المرحلة الثانية من الانقسام المتساوي. تصطف الكروموسومات في مركز الخلية على الصفيحة الاستوائية، وترتبط خيوط المغزل بالسنتروميرات.",
+      "definition_en": "The second stage of mitosis. Chromosomes align at the center of the cell on the metaphase plate; spindle fibers attach to centromeres.",
+      "englishSentence": "Metaphase is the stage used for karyotyping because the chromosomes are most clearly visible and arranged.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "chromosome alignment",
+        "metaphase plate",
+        "spindle",
+        "طور استوائي"
+      ]
+    },
+    {
+      "id": 3307,
+      "term": "anaphase",
+      "arabic": "الطور الانتقالي",
+      "latin": "anaphasis",
+      "pronunciation": "أنافيز",
+      "definition": "المرحلة الثالثة من الانقسام المتساوي. تُسحب الكروماتيدات الشقيقة نحو القطبين المتعاكسين. تبدأ الخلية بالاستطالة.",
+      "definition_en": "The third stage of mitosis. Daughter chromosomes are pulled toward opposite poles. The cell begins to elongate.",
+      "englishSentence": "During anaphase, sister chromatids separate and move to opposite ends of the cell.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "chromatid separation",
+        "poles",
+        "chromosome movement",
+        "طور انتقالي"
+      ]
+    },
+    {
+      "id": 3308,
+      "term": "telophase",
+      "arabic": "الطور الختامي",
+      "latin": "telophasis",
+      "pronunciation": "تيلوفيز",
+      "definition": "المرحلة الأخيرة من الانقسام المتساوي. تتشكل النوى الابنتية وتبدأ الكروموسومات بالفك، ويبدأ تشكل أخدود الانقسام (انقسام السيتوبلازم).",
+      "definition_en": "The final stage of mitosis. Daughter nuclei begin forming, chromosomes begin to decondense, and a cleavage furrow begins to form for cytoplasm division (cytokinesis).",
+      "englishSentence": "Telophase ends when two complete nuclei form and the cell pinches apart through cytokinesis.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "daughter nuclei",
+        "cytokinesis",
+        "cleavage furrow",
+        "طور ختامي"
+      ]
+    },
+    {
+      "id": 3309,
+      "term": "DNA replication",
+      "arabic": "تضاعف الحمض النووي (DNA)",
+      "latin": "replicatio DNA",
+      "pronunciation": "دي إن إيه ريبليكيشن",
+      "definition": "عملية مضاعفة المادة الجينية استعداداً لانقسام الخلية. تنفك اللولبة المزدوجة للـ DNA وتعمل كل خيط كقالب لتكوين خيط جديد مكمل. النتيجة: جزيئتان DNA متطابقتان.",
+      "definition_en": "The process of duplicating genetic material in preparation for cell division. The DNA double helix uncoils and each strand serves as a template for a new complementary strand. Result: two identical DNA molecules.",
+      "englishSentence": "DNA replication ensures that each daughter cell receives an exact copy of the parent cell's genetic information.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "double helix",
+        "template",
+        "complementary",
+        "تضاعف DNA",
+        "وراثة"
+      ]
+    },
+    {
+      "id": 3310,
+      "term": "transcription",
+      "arabic": "النسخ (الاستنساخ)",
+      "latin": "transcriptio",
+      "pronunciation": "ترانسكريبشن",
+      "definition": "الخطوة الأولى من تصنيع البروتين. نقل المعلومات من التسلسل القاعدي للـ DNA إلى التسلسل القاعدي المكمل للـ mRNA في النواة بواسطة إنزيم RNA بوليميراز.",
+      "definition_en": "The first step of protein synthesis. Transfer of information from DNA's base sequence to the complementary base sequence of mRNA in the nucleus using RNA polymerase.",
+      "englishSentence": "During transcription, RNA polymerase reads the DNA template and synthesizes a complementary mRNA strand.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "mRNA",
+        "RNA polymerase",
+        "gene expression",
+        "نسخ",
+        "RNA مرسال"
+      ]
+    },
+    {
+      "id": 3311,
+      "term": "translation",
+      "arabic": "الترجمة",
+      "latin": "translatio",
+      "pronunciation": "ترانسليشن",
+      "definition": "الخطوة الثانية من تصنيع البروتين. قراءة التسلسل القاعدي للـ mRNA وتحويله إلى تسلسل من الأحماض الأمينية لبناء بروتين معين. تحدث على الريبوسومات.",
+      "definition_en": "The second step of protein synthesis. The base sequence of mRNA is translated into an amino acid sequence to build a specific protein. Occurs at the ribosomes.",
+      "englishSentence": "Translation at the ribosome converts the mRNA code into a specific sequence of amino acids forming a protein.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "ribosome",
+        "amino acids",
+        "mRNA",
+        "protein synthesis",
+        "ترجمة",
+        "أحماض أمينية"
+      ]
+    },
+    {
+      "id": 3312,
+      "term": "mRNA",
+      "arabic": "الحمض النووي الريبوزي المرسال",
+      "latin": "ARN messengerum",
+      "pronunciation": "إم آر إن إيه",
+      "definition": "نوع من الـ RNA ينقل التعليمات لبناء بروتين من النواة إلى الريبوسوم في السيتوبلازم. يُصنع في النواة عن طريق النسخ ويحتوي على كودونات (ثلاثيات قاعدية) تُرمّز للأحماض الأمينية.",
+      "definition_en": "Messenger RNA. Carries the instructions for building a protein from the nucleus to the ribosome. Made during transcription; contains codons (three-base sequences) that code for amino acids.",
+      "englishSentence": "mRNA carries the genetic code from the DNA in the nucleus to the ribosomes in the cytoplasm.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "messenger RNA",
+        "codon",
+        "protein instructions",
+        "RNA مرسال",
+        "نسخ"
+      ]
+    },
+    {
+      "id": 3313,
+      "term": "tRNA",
+      "arabic": "الحمض النووي الريبوزي الناقل",
+      "latin": "ARN transferens",
+      "pronunciation": "تي آر إن إيه",
+      "definition": "حمض ريبوزي ناقل ينقل الأحماض الأمينية المناسبة إلى الريبوسوم لبناء البروتين. يرتبط بمضاد الكودون على tRNA مع الكودون المناسب على mRNA.",
+      "definition_en": "Transfer RNA. Transfers appropriate amino acids to the ribosome for protein building. Contains anticodons that pair with codons on mRNA.",
+      "englishSentence": "Each tRNA molecule carries a specific amino acid to the ribosome, matching its anticodon to the mRNA codon.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "anticodon",
+        "amino acid transfer",
+        "ribosome",
+        "RNA ناقل",
+        "أحماض أمينية"
+      ]
+    },
+    {
+      "id": 3314,
+      "term": "rRNA",
+      "arabic": "الحمض النووي الريبوزي الريبوسومي",
+      "latin": "ARN ribosomale",
+      "pronunciation": "آر آر إن إيه",
+      "definition": "الحمض الريبوزي الريبوسومي. يُشكّل جزءاً من بنية الريبوسوم ويساعد في ربط mRNA بالريبوسوم وتشكيل الرابطة الببتيدية بين الأحماض الأمينية.",
+      "definition_en": "Ribosomal RNA. Forms part of the ribosome structure, helps bind mRNA to the ribosome, and catalyzes peptide bond formation between amino acids.",
+      "englishSentence": "rRNA combines with proteins to form the ribosome where protein translation takes place.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "ribosome structure",
+        "protein synthesis",
+        "catalysis",
+        "RNA ريبوسومي"
+      ]
+    },
+    {
+      "id": 3315,
+      "term": "tissue",
+      "arabic": "النسيج",
+      "latin": "textus",
+      "pronunciation": "تيشو",
+      "definition": "مجموعة من الخلايا المتشابهة في البنية والوظيفة تعمل معاً لأداء مهمة مشتركة. يوجد أربعة أنواع رئيسية: الطلائي والضام والعصبي والعضلي.",
+      "definition_en": "Groups of cells with similar structure and function that work together. Four primary types: epithelial, connective, nervous, and muscle tissue.",
+      "englishSentence": "Tissues are studied in histology; a biopsy involves examining tissue under a microscope to diagnose disease.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "epithelium",
+        "connective",
+        "muscle",
+        "nervous",
+        "نسيج",
+        "خلايا"
+      ]
+    },
+    {
+      "id": 3316,
+      "term": "epithelial tissue",
+      "arabic": "الأنسجة الطلائية (الظهارية)",
+      "latin": "epithelium",
+      "pronunciation": "إيبيثيليال تيشو",
+      "definition": "نوع من الأنسجة يغطي سطح الجسم ويُبطّن التجاويف ويشكل الغدد. خصائصه: الخلايا متراصة، سطح حر واحد، غشاء قاعدي، لا أوعية دموية، قدرة عالية على التجدد.",
+      "definition_en": "Tissue type found as body coverings, body linings, and glandular tissue. Characteristics: cells fit closely, free surface, basement membrane, avascular, regenerates easily.",
+      "englishSentence": "Epithelial tissue protects, absorbs, filters, and secretes substances throughout the body.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "covering",
+        "lining",
+        "avascular",
+        "protection",
+        "طلائي",
+        "ظهارة"
+      ]
+    },
+    {
+      "id": 3317,
+      "term": "basement membrane",
+      "arabic": "الغشاء القاعدي",
+      "latin": "membrana basalis",
+      "pronunciation": "بيسمنت ميمبرين",
+      "definition": "طبقة رقيقة من الألياف تربط الطبقة السفلية من الأنسجة الطلائية بالنسيج الضام الكامن تحتها. توفر الدعم وتنظم التفاعلات بين الأنسجة.",
+      "definition_en": "A thin layer of fibers anchoring the bottom of epithelial tissue to the underlying connective tissue. Provides support and regulates tissue interactions.",
+      "englishSentence": "The basement membrane anchors epithelial cells and acts as a filter between epithelium and connective tissue.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "epithelium",
+        "connective tissue",
+        "anchor",
+        "غشاء قاعدي",
+        "دعم"
+      ]
+    },
+    {
+      "id": 3318,
+      "term": "simple squamous epithelium",
+      "arabic": "الظهارة الحرشفية البسيطة",
+      "latin": "epithelium simplex squamosum",
+      "pronunciation": "سيمبل سكواموس إيبيثيليم",
+      "definition": "طبقة واحدة من الخلايا المسطحة الرقيقة. تُبطّن تجاويف الجسم والشعيرات الدموية والحويصلات الهوائية. ملائمة للتبادل والترشيح.",
+      "definition_en": "A single layer of flat cells. Lines body cavities, capillaries (endothelium), and air sacs of lungs (alveoli). Suited for exchange and filtration.",
+      "englishSentence": "Simple squamous epithelium in the alveoli allows rapid gas exchange between air and blood.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "flat cells",
+        "alveoli",
+        "capillaries",
+        "gas exchange",
+        "حرشفية بسيطة",
+        "ظهارة"
+      ]
+    },
+    {
+      "id": 3319,
+      "term": "simple cuboidal epithelium",
+      "arabic": "الظهارة المكعبية البسيطة",
+      "latin": "epithelium simplex cuboidale",
+      "pronunciation": "سيمبل كيوبويدال إيبيثيليم",
+      "definition": "طبقة واحدة من الخلايا مكعبية الشكل. توجد في الغدد وقنواتها وجدران أنابيب الكلى وعلى سطح المبايض. تختص بالإفراز والامتصاص.",
+      "definition_en": "A single layer of cube-shaped cells. Found in glands and their ducts, kidney tubule walls, and covering the ovaries. Specialized for secretion and absorption.",
+      "englishSentence": "Simple cuboidal epithelium lines the kidney tubules where it actively reabsorbs nutrients from the filtrate.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "cube-shaped",
+        "kidney tubules",
+        "glands",
+        "مكعبية بسيطة",
+        "ظهارة"
+      ]
+    },
+    {
+      "id": 3320,
+      "term": "simple columnar epithelium",
+      "arabic": "الظهارة العمودية البسيطة",
+      "latin": "epithelium simplex columnare",
+      "pronunciation": "سيمبل كولومنار إيبيثيليم",
+      "definition": "طبقة واحدة من الخلايا طويلة عمودية الشكل. تُبطّن الجهاز الهضمي وتحتوي غالباً على خلايا كأسية (تُفرز المخاط) وقد تحتوي على أهداب.",
+      "definition_en": "A single layer of tall column-shaped cells. Lines the digestive tract; often includes goblet cells that produce mucus and may be ciliated.",
+      "englishSentence": "Simple columnar epithelium with goblet cells lines the small intestine, enabling nutrient absorption and lubrication.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "digestive tract",
+        "goblet cells",
+        "mucus",
+        "عمودية بسيطة",
+        "ظهارة"
+      ]
+    },
+    {
+      "id": 3321,
+      "term": "goblet cells",
+      "arabic": "الخلايا الكأسية",
+      "latin": "cellulae caliciformes",
+      "pronunciation": "غوبليت سيلز",
+      "definition": "خلايا إفرازية متخصصة على شكل كأس توجد في الظهارة العمودية. تُفرز المخاط الذي يُرطّب ويُزلّق سطح الجهاز الهضمي والتنفسي.",
+      "definition_en": "Specialized cup-shaped secretory cells found in columnar epithelium. Secrete mucus that moistens and lubricates the digestive and respiratory tract surfaces.",
+      "englishSentence": "Goblet cells in the intestinal lining secrete mucus that protects the epithelium from digestive enzymes.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "mucus secretion",
+        "intestine",
+        "respiratory",
+        "خلية كأسية",
+        "مخاط"
+      ]
+    },
+    {
+      "id": 3322,
+      "term": "pseudostratified columnar epithelium",
+      "arabic": "الظهارة العمودية شبه الطبقية",
+      "latin": "epithelium pseudostratificatum columnare",
+      "pronunciation": "سيودوستراتيفايد كولومنار إيبيثيليم",
+      "definition": "طبقة واحدة لكن بعض الخلايا أقصر من غيرها مما يجعلها تبدو كطبقتين. غالباً ما تكون مهدبة (كما في الجهاز التنفسي). تعمل في الامتصاص أو الإفراز.",
+      "definition_en": "A single cell layer where some cells are shorter than others, giving a layered appearance. Often ciliated as in the respiratory tract. Functions in absorption or secretion.",
+      "englishSentence": "Pseudostratified ciliated columnar epithelium lines the trachea and sweeps mucus toward the throat.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "respiratory tract",
+        "ciliated",
+        "trachea",
+        "شبه طبقية",
+        "ظهارة تنفسية"
+      ]
+    },
+    {
+      "id": 3323,
+      "term": "stratified squamous epithelium",
+      "arabic": "الظهارة الحرشفية الطبقية",
+      "latin": "epithelium stratificatum squamosum",
+      "pronunciation": "ستراتيفايد سكواموس إيبيثيليم",
+      "definition": "ظهارة متعددة الطبقات، الخلايا السطحية مسطحة. توجد في المناطق التي تتعرض للاحتكاك كالجلد والفم والمريء. طبقات متعددة تعزز المقاومة.",
+      "definition_en": "Multiple cell layers with flat surface cells. Found in areas subject to friction: skin (keratinized), mouth, esophagus (non-keratinized). Multiple layers provide durability.",
+      "englishSentence": "Stratified squamous epithelium in the skin protects against abrasion, dehydration, and pathogen invasion.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "skin",
+        "friction",
+        "esophagus",
+        "keratinized",
+        "حرشفية طبقية",
+        "جلد"
+      ]
+    },
+    {
+      "id": 3324,
+      "term": "transitional epithelium",
+      "arabic": "الظهارة الانتقالية",
+      "latin": "epithelium transitorium",
+      "pronunciation": "ترانزيشنال إيبيثيليم",
+      "definition": "ظهارة طبقية خاصة قادرة على التمدد. شكل خلاياها يتغير حسب درجة التمدد. تُبطّن المثانة البولية والحالب والإحليل.",
+      "definition_en": "A specialized stratified epithelium capable of stretching. Cell shape changes depending on degree of distension. Lines the urinary bladder, ureter, and urethra.",
+      "englishSentence": "Transitional epithelium allows the urinary bladder to expand as it fills with urine.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "urinary bladder",
+        "stretching",
+        "distension",
+        "انتقالية",
+        "مثانة"
+      ]
+    },
+    {
+      "id": 3325,
+      "term": "exocrine glands",
+      "arabic": "الغدد القنوية (الخارجية الإفراز)",
+      "latin": "glandulae exocrinae",
+      "pronunciation": "إكسوكرين غلاندز",
+      "definition": "غدد تفرز منتجاتها عبر قنوات إلى الخارج أو إلى سطح جسمي. أنواعها: الميروكرينية (الإفراز بالتحلل الجزئي)، الأبوكرينية (الإفراز بانفصال جزء من الخلية)، الهولوكرينية (الإفراز بتدمير الخلية). مثال: الغدد العرقية، اللعابية، الهضمية.",
+      "definition_en": "Glands that secrete their products through ducts to the exterior or a body surface. Types: merocrine, apocrine, holocrine. Examples: sweat, salivary, digestive glands.",
+      "englishSentence": "Exocrine glands like sweat glands and salivary glands secrete their products through ducts.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "duct",
+        "secretion",
+        "sweat glands",
+        "salivary",
+        "غدة قنوية",
+        "إفراز"
+      ]
+    },
+    {
+      "id": 3326,
+      "term": "endocrine glands",
+      "arabic": "الغدد الصماء (عديمة القنوات)",
+      "latin": "glandulae endocrinae",
+      "pronunciation": "إندوكرين غلاندز",
+      "definition": "غدد تفرز هرموناتها مباشرة في الدم دون قنوات. أمثلتها: الغدة النخامية والدرقية والكظرية والبنكرياس.",
+      "definition_en": "Ductless glands that secrete hormones directly into the bloodstream. Examples: pituitary, thyroid, adrenal, and pancreatic glands.",
+      "englishSentence": "The thyroid gland, an endocrine gland, secretes hormones directly into the blood to regulate metabolism.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "hormones",
+        "ductless",
+        "bloodstream",
+        "غدة صماء",
+        "هرمون"
+      ]
+    },
+    {
+      "id": 3327,
+      "term": "connective tissue",
+      "arabic": "النسيج الضام",
+      "latin": "textus connectivus",
+      "pronunciation": "كونيكتيف تيشو",
+      "definition": "أكثر أنواع الأنسجة انتشاراً وتنوعاً. يتميز بوجود مادة خلالية (ECM) وأوعية دموية. وظائفه: الدعم والحماية والربط والتخزين والنقل.",
+      "definition_en": "The most abundant and diverse tissue type. Characterized by extracellular matrix (ECM) and vascularity. Functions: support, protection, binding, storage, and transport.",
+      "englishSentence": "Connective tissue forms the framework of the body, connecting and supporting all other tissue types.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "ECM",
+        "support",
+        "collagen",
+        "matrix",
+        "نسيج ضام",
+        "دعم"
+      ]
+    },
+    {
+      "id": 3328,
+      "term": "extracellular matrix",
+      "arabic": "المادة الخلالية (خارج الخلية)",
+      "latin": "matrix extracellularis",
+      "pronunciation": "إكستراسيليولار ماتريكس",
+      "definition": "المادة الموجودة خارج خلايا النسيج الضام. تتكون من المادة الأساسية (سائل أو جيلاتيني أو صلب) والألياف البروتينية (الكولاجين والمرن والشبكي). تُحدد خصائص كل نوع من أنواع النسيج الضام.",
+      "definition_en": "Material outside cells in connective tissue. Consists of ground substance (fluid, gel, or solid) and protein fibers (collagen, elastic, reticular). Determines the properties of each connective tissue type.",
+      "englishSentence": "The extracellular matrix of bone is hardened by calcium salts, making it rigid enough to support the body.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "ground substance",
+        "collagen",
+        "elastic fibers",
+        "مادة خلالية",
+        "ألياف"
+      ]
+    },
+    {
+      "id": 3329,
+      "term": "collagen fibers",
+      "arabic": "ألياف الكولاجين",
+      "latin": "fibrae collageni",
+      "pronunciation": "كولاجن فايبرز",
+      "definition": "أكثر أنواع الألياف في النسيج الضام شيوعاً. بروتينات بيضاء اللون شديدة المتانة وغير مرنة تمنح النسيج قوة شد عالية. توجد في العظام والغضاريف والأوتار والأربطة.",
+      "definition_en": "The most common fibers in connective tissue. White, tough, inelastic protein fibers that provide high tensile strength. Found in bones, cartilage, tendons, and ligaments.",
+      "englishSentence": "Collagen fibers in tendons withstand the tremendous pulling forces generated by contracting muscles.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "tensile strength",
+        "tendon",
+        "ligament",
+        "كولاجين",
+        "ألياف بيضاء"
+      ]
+    },
+    {
+      "id": 3330,
+      "term": "fibroblasts",
+      "arabic": "الخلايا الليفية",
+      "latin": "fibroblastae",
+      "pronunciation": "فايبروبلاستس",
+      "definition": "أكثر خلايا النسيج الضام شيوعاً. تُصنّع الألياف البروتينية والمادة الأساسية للمادة الخلالية. تلعب دوراً رئيسياً في التئام الجروح.",
+      "definition_en": "The most common cells in connective tissue (fiber-forming cells). Synthesize protein fibers and ground substance of the extracellular matrix. Play a major role in wound healing.",
+      "englishSentence": "Fibroblasts migrate to a wound site and produce collagen fibers to repair damaged connective tissue.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "fiber production",
+        "wound healing",
+        "collagen synthesis",
+        "خلية ليفية",
+        "التئام جرح"
+      ]
+    },
+    {
+      "id": 3331,
+      "term": "areolar connective tissue",
+      "arabic": "النسيج الضام الهلامي (الفضفاض)",
+      "latin": "textus connectivus areolaris",
+      "pronunciation": "أريولار كونيكتيف تيشو",
+      "definition": "أكثر أنواع النسيج الضام انتشاراً. يتكون من مادة جيلاتينية مع ألياف كولاجين ومرنة وشبكية. يلف الأعضاء ويُوسّدها ويربط الطبقات الظهارية بالأنسجة الكامنة.",
+      "definition_en": "The most widely distributed connective tissue. Gel-like matrix with collagen, elastic, and reticular fibers. Wraps and cushions organs, binds epithelial layers to underlying tissues.",
+      "englishSentence": "Areolar connective tissue is found beneath most epithelial layers, providing a soft support and nutrient supply.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "gel-like",
+        "wraps organs",
+        "most common",
+        "نسيج هلامي",
+        "فضفاض"
+      ]
+    },
+    {
+      "id": 3332,
+      "term": "adipose tissue",
+      "arabic": "النسيج الدهني",
+      "latin": "textus adiposus",
+      "pronunciation": "أديبوس تيشو",
+      "definition": "نسيج ضام رخو يتكون أساساً من خلايا دهنية (أديبوسيت). وظائفه: تخزين الطاقة، العزل الحراري، الحماية الميكانيكية، وامتصاص الصدمات.",
+      "definition_en": "Loose connective tissue composed mainly of adipocytes (fat cells). Functions: energy storage, thermal insulation, mechanical protection, and shock absorption.",
+      "englishSentence": "Adipose tissue under the skin provides insulation and cushions organs against physical trauma.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "fat cells",
+        "adipocytes",
+        "energy storage",
+        "نسيج دهني",
+        "دهون"
+      ]
+    },
+    {
+      "id": 3333,
+      "term": "adipocytes",
+      "arabic": "الخلايا الشحمية (الأديبوسيت)",
+      "latin": "adipocytus",
+      "pronunciation": "أديبوسايتس",
+      "definition": "خلايا النسيج الدهني المتخصصة في تخزين الدهون الثلاثية (الدهون). تتكون أساساً من قطرة شحمية واحدة كبيرة تملأ معظم الخلية مع نواة مُهمّشة.",
+      "definition_en": "Specialized cells of adipose tissue that store triglycerides (fats). Consist mainly of a large single lipid droplet filling most of the cell with a peripheral nucleus.",
+      "englishSentence": "Adipocytes swell when fat is stored and shrink when fat is released for energy during fasting.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "fat storage",
+        "triglycerides",
+        "lipid droplet",
+        "خلية شحمية",
+        "دهون"
+      ]
+    },
+    {
+      "id": 3334,
+      "term": "dense regular connective tissue",
+      "arabic": "النسيج الضام الكثيف المنتظم",
+      "latin": "textus connectivus densum regulare",
+      "pronunciation": "دينس ريغيولار كونيكتيف تيشو",
+      "definition": "نسيج ضام تتراصف فيه ألياف الكولاجين بشكل متوازٍ ومنتظم. مقاوم جداً لقوى الشد في اتجاه واحد. يتكون منه الأوتار (تربط العضلات بالعظام) والأربطة (تربط العظام بالعظام).",
+      "definition_en": "Connective tissue with tightly packed parallel collagen fibers. Highly resistant to tension in one direction. Forms tendons (muscle to bone) and ligaments (bone to bone).",
+      "englishSentence": "Dense regular connective tissue in tendons can withstand the repetitive pulling forces of muscle contractions.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "tendons",
+        "ligaments",
+        "parallel collagen",
+        "كثيف منتظم",
+        "وتر",
+        "رباط"
+      ]
+    },
+    {
+      "id": 3335,
+      "term": "tendon",
+      "arabic": "الوتر",
+      "latin": "tendo",
+      "pronunciation": "تيندون",
+      "definition": "حزمة من نسيج ضام كثيف منتظم تربط العضلة الهيكلية بالعظم. يُنقل من خلاله قوة انقباض العضلة إلى العظم لإحداث الحركة.",
+      "definition_en": "A band of dense regular connective tissue that connects skeletal muscle to bone. Transmits the force of muscle contraction to the bone to produce movement.",
+      "englishSentence": "The Achilles tendon connects the gastrocnemius muscle to the calcaneus bone and is essential for walking.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "muscle to bone",
+        "collagen",
+        "movement",
+        "وتر",
+        "عضلة عظم"
+      ]
+    },
+    {
+      "id": 3336,
+      "term": "ligament",
+      "arabic": "الرباط",
+      "latin": "ligamentum",
+      "pronunciation": "ليغامنت",
+      "definition": "حزمة من نسيج ضام كثيف منتظم (مع بعض الألياف المرنة) تربط عظماً بعظم آخر وتدعم المفصل وتحد من حركته.",
+      "definition_en": "A band of dense regular connective tissue (with some elastic fibers) connecting bone to bone, supporting joints and limiting movement.",
+      "englishSentence": "The anterior cruciate ligament (ACL) connects the femur to the tibia, stabilizing the knee joint.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "bone to bone",
+        "joint stability",
+        "ACL",
+        "رباط",
+        "مفصل"
+      ]
+    },
+    {
+      "id": 3337,
+      "term": "cartilage",
+      "arabic": "الغضروف",
+      "latin": "cartilago",
+      "pronunciation": "كارتيليج",
+      "definition": "نسيج ضام أقل صلابة من العظم وأكثر مرونة. يحتوي على مادة جيلاتينية وخلايا غضروفية في حجرات تُسمى صُهيريجات. لا أوعية دموية فيه.",
+      "definition_en": "Connective tissue less hard but more flexible than bone. Contains gelatinous matrix with chondrocytes (mature cartilage cells) in lacunae. Avascular.",
+      "englishSentence": "Cartilage cushions joints, provides structural support, and allows flexibility where needed.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "chondrocyte",
+        "lacunae",
+        "avascular",
+        "غضروف",
+        "مرونة"
+      ]
+    },
+    {
+      "id": 3338,
+      "term": "chondrocyte",
+      "arabic": "الخلية الغضروفية الناضجة",
+      "latin": "chondrocytus",
+      "pronunciation": "كوندروسايت",
+      "definition": "الخلية الناضجة في الغضروف. تعيش في حجرات صغيرة تُسمى الصُّهيريجات (Lacunae) داخل المادة الخلالية للغضروف وتحافظ على تركيبة الغضروف.",
+      "definition_en": "The mature cartilage cell. Lives in small pockets called lacunae within the cartilage matrix and maintains the cartilage composition.",
+      "englishSentence": "Chondrocytes produce and maintain the extracellular matrix that gives cartilage its unique properties.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "lacunae",
+        "cartilage matrix",
+        "mature cell",
+        "خلية غضروفية",
+        "صهيريج"
+      ]
+    },
+    {
+      "id": 3339,
+      "term": "hyaline cartilage",
+      "arabic": "الغضروف الزجاجي (الهياليني)",
+      "latin": "cartilago hyalina",
+      "pronunciation": "هايالين كارتيليج",
+      "definition": "أكثر أنواع الغضروف انتشاراً. يحتوي على ألياف كولاجين وافرة مع مادة خلالية مطاطة ذات مظهر زجاجي أبيض-أزرق. يوجد في الأضلاع والعظة الزجاجية والعظام الجنينية وتجويف الأنف والقصبة الهوائية.",
+      "definition_en": "The most abundant cartilage type. Has abundant collagen fibers with rubbery glassy blue-white matrix. Found in ribs, synovial joints, fetal bones, nose, and trachea.",
+      "englishSentence": "Hyaline cartilage covers the ends of bones in synovial joints, reducing friction during movement.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "most common cartilage",
+        "ribs",
+        "joints",
+        "trachea",
+        "زجاجي",
+        "غضروف"
+      ]
+    },
+    {
+      "id": 3340,
+      "term": "elastic cartilage",
+      "arabic": "الغضروف المرن",
+      "latin": "cartilago elastica",
+      "pronunciation": "إيلاستيك كارتيليج",
+      "definition": "نوع من الغضروف غني بالألياف المرنة. أكثر مرونة من الغضروف الزجاجي. يوجد في الأذن الخارجية (الصيوان) وطرف الأنف ولسان المزمار.",
+      "definition_en": "Cartilage rich in elastin fibers, more flexible than hyaline cartilage. Found in the outer ear (pinna), tip of nose, and epiglottis.",
+      "englishSentence": "The elastin fibers in elastic cartilage allow the ear to bend and spring back to its original shape.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "elastin",
+        "ear",
+        "epiglottis",
+        "flexible",
+        "غضروف مرن",
+        "أذن"
+      ]
+    },
+    {
+      "id": 3341,
+      "term": "fibrocartilage",
+      "arabic": "الغضروف الليفي",
+      "latin": "fibrocartilago",
+      "pronunciation": "فايبروكارتيليج",
+      "definition": "أقوى أنواع الغضروف. يحتوي على ألياف كولاجين مُدمجة بكثافة تجعله مقاوماً للضغط وتمنع التلامس بين العظام. يوجد في الأقراص الفقرية وارتفاق العانة ومفصل الركبة.",
+      "definition_en": "The strongest cartilage type with densely woven collagen fibers. Resists compression and prevents bone-to-bone contact. Found in intervertebral discs, pubic symphysis, and knee menisci.",
+      "englishSentence": "Fibrocartilage in intervertebral discs acts as a shock absorber, protecting vertebrae during movement.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "intervertebral discs",
+        "pubic symphysis",
+        "shock absorber",
+        "غضروف ليفي",
+        "قرص فقري"
+      ]
+    },
+    {
+      "id": 3342,
+      "term": "osseous tissue",
+      "arabic": "النسيج العظمي",
+      "latin": "textus osseus",
+      "pronunciation": "أوسيوس تيشو",
+      "definition": "نسيج ضام صلب يتكون من خلايا عظمية (أوستيوسيت) في صُهيريجات، وقنيات صغيرة (كانيليكولاي) وأملاح الكالسيوم وألياف الكولاجين. يشكل العظام.",
+      "definition_en": "Hard connective tissue consisting of osteocytes in lacunae, canaliculi (small channels), and a hard matrix with calcium salts and collagen fibers. Forms bones.",
+      "englishSentence": "Osseous tissue is constantly remodeled throughout life, with osteoblasts building new bone and osteoclasts breaking down old bone.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "osteocyte",
+        "calcium",
+        "lacunae",
+        "نسيج عظمي",
+        "عظم"
+      ]
+    },
+    {
+      "id": 3343,
+      "term": "osteoblast",
+      "arabic": "الخلية العظمية الناشئة (الأوستيوبلاست)",
+      "latin": "osteoblastus",
+      "pronunciation": "أوستيوبلاست",
+      "definition": "الخلية العظمية غير الناضجة المسؤولة عن بناء وتكوين العظم. تُفرز المادة العظمية الأساسية (الأوستيويد) التي تتكلس لتشكل العظم.",
+      "definition_en": "Immature bone cell responsible for bone formation. Secretes osteoid (unmineralized bone matrix) that becomes calcified to form bone.",
+      "englishSentence": "During fracture healing, osteoblasts are activated to deposit new bone matrix and repair the break.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "bone formation",
+        "osteoid",
+        "bone building",
+        "أوستيوبلاست",
+        "بناء عظم"
+      ]
+    },
+    {
+      "id": 3344,
+      "term": "osteocyte",
+      "arabic": "الخلية العظمية الناضجة (الأوستيوسيت)",
+      "latin": "osteocytus",
+      "pronunciation": "أوستيوسايت",
+      "definition": "خلية عظمية ناضجة محاصرة في الصُّهيريجات داخل المادة الخلالية للعظم. تُحافظ على تركيبة العظم وتُشارك في تنظيم مستوى الكالسيوم في الدم.",
+      "definition_en": "Mature bone cell trapped in lacunae within the bone matrix. Maintains bone matrix composition and participates in calcium homeostasis.",
+      "englishSentence": "Osteocytes communicate through canaliculi to sense mechanical stress and coordinate bone remodeling.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "lacunae",
+        "bone maintenance",
+        "calcium",
+        "أوستيوسيت",
+        "خلية عظمية"
+      ]
+    },
+    {
+      "id": 3345,
+      "term": "osteoclast",
+      "arabic": "الخلية العظمية الهاضمة (الأوستيوكلاست)",
+      "latin": "osteoclastus",
+      "pronunciation": "أوستيوكلاست",
+      "definition": "خلية متعددة النوى تعمل على هضم وإعادة امتصاص العظم القديم. تُفرز الأحماض والإنزيمات لتكسير المادة الخلالية للعظم وإطلاق الكالسيوم في الدم. ضرورية لإعادة تشكيل العظم.",
+      "definition_en": "A large multinucleated cell that resorbs (breaks down) bone. Secretes acids and enzymes to break down bone matrix and release calcium into blood. Essential for bone remodeling.",
+      "englishSentence": "Osteoclasts resorb bone during growth, repair, and calcium regulation, working opposite to osteoblasts.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "bone resorption",
+        "calcium release",
+        "remodeling",
+        "أوستيوكلاست",
+        "هضم عظم"
+      ]
+    },
+    {
+      "id": 3346,
+      "term": "blood",
+      "arabic": "الدم",
+      "latin": "sanguis",
+      "pronunciation": "بلود",
+      "definition": "نسيج ضام سائل يتكون من البلازما والعناصر الخلوية (كريات الدم الحمراء والبيضاء والصفائح الدموية). ينقل الأكسجين والمغذيات والهرمونات والفضلات.",
+      "definition_en": "A liquid connective tissue consisting of plasma and formed elements (erythrocytes, leukocytes, thrombocytes). Transports oxygen, nutrients, hormones, and waste products.",
+      "englishSentence": "Blood transports oxygen from the lungs to tissues and carbon dioxide from tissues back to the lungs.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "plasma",
+        "erythrocytes",
+        "leukocytes",
+        "transport",
+        "دم",
+        "نقل"
+      ]
+    },
+    {
+      "id": 3347,
+      "term": "erythrocytes",
+      "arabic": "كريات الدم الحمراء",
+      "latin": "erythrocyti",
+      "pronunciation": "إريثروسايتس",
+      "definition": "خلايا الدم الحمراء. أكثر عناصر الدم الخلوية. تنقل الأكسجين بواسطة الهيموغلوبين. ليس لها نواة في الإنسان البالغ. عمرها حوالي 120 يوماً.",
+      "definition_en": "Red blood cells. Most numerous blood cells. Transport oxygen using hemoglobin. Lack a nucleus in mature human form. Life span approximately 120 days.",
+      "englishSentence": "Erythrocytes are packed with hemoglobin, the protein that binds oxygen and gives blood its red color.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "hemoglobin",
+        "oxygen transport",
+        "red blood cells",
+        "كريات حمراء",
+        "هيموغلوبين"
+      ]
+    },
+    {
+      "id": 3348,
+      "term": "leukocytes",
+      "arabic": "كريات الدم البيضاء",
+      "latin": "leucocyti",
+      "pronunciation": "ليوكوسايتس",
+      "definition": "خلايا الدم البيضاء. خلايا مناعية تدافع عن الجسم ضد العدوى والأمراض والسرطانات. أنواعها: العدلات، الحمضات، القاعدات، الخلايا الليمفاوية، الخلايا الوحيدة.",
+      "definition_en": "White blood cells. Immune cells that defend the body against infection, disease, and cancer. Types: neutrophils, eosinophils, basophils, lymphocytes, monocytes.",
+      "englishSentence": "Leukocytes patrol the bloodstream and tissues, destroying pathogens and initiating immune responses.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "immune cells",
+        "defense",
+        "neutrophils",
+        "lymphocytes",
+        "كريات بيضاء",
+        "مناعة"
+      ]
+    },
+    {
+      "id": 3349,
+      "term": "thrombocytes",
+      "arabic": "الصفائح الدموية",
+      "latin": "thrombocyti",
+      "pronunciation": "ثرومبوسايتس",
+      "definition": "شظايا خلايا صغيرة جداً بلا نواة. ضرورية لعملية تجلط الدم ووقف النزيف. تتكون من الخلايا كبيرة النوى (الميغاكاريوسيت) في نخاع العظم.",
+      "definition_en": "Very small, anucleate cell fragments essential for blood clotting and stopping bleeding. Formed from megakaryocytes in bone marrow.",
+      "englishSentence": "Thrombocytes clump together at a wound site and release chemicals that trigger the clotting cascade.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "platelets",
+        "blood clotting",
+        "hemostasis",
+        "صفائح دموية",
+        "تجلط"
+      ]
+    },
+    {
+      "id": 3350,
+      "term": "plasma",
+      "arabic": "بلازما الدم",
+      "latin": "plasma sanguinis",
+      "pronunciation": "بلازما",
+      "definition": "الجزء السائل من الدم. يشكل حوالي 55% من حجم الدم. يتكون أساساً من الماء (92%) مع بروتينات (ألبومين، غلوبولين، فيبرينوجين) وأملاح وغلوكوز وهرمونات وفضلات.",
+      "definition_en": "The liquid portion of blood, about 55% of blood volume. Composed mainly of water (92%) with proteins (albumin, globulins, fibrinogen), salts, glucose, hormones, and waste.",
+      "englishSentence": "Plasma carries dissolved nutrients, hormones, and waste products throughout the body.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "blood fluid",
+        "albumin",
+        "fibrinogen",
+        "بلازما",
+        "سائل دم"
+      ]
+    },
+    {
+      "id": 3351,
+      "term": "skeletal muscle tissue",
+      "arabic": "نسيج العضلات الهيكلية",
+      "latin": "textus muscularis skeletalis",
+      "pronunciation": "سكيليتال ماسل تيشو",
+      "definition": "نوع من الأنسجة العضلية يُسمى أيضاً العضلة المخططة. خلاياه طويلة أسطوانية متعددة النوى تقع النوى في محيطها. غير متفرعة. تحت سيطرة الإرادة. مسؤولة عن الحركة الإرادية.",
+      "definition_en": "Muscle tissue also called striated muscle. Elongated cylindrical multinucleate cells with peripheral nuclei. Unbranched. Voluntary control. Responsible for voluntary movement.",
+      "englishSentence": "Skeletal muscle tissue attaches to bones and enables voluntary movements like walking and lifting.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "striated",
+        "voluntary",
+        "multinucleate",
+        "movement",
+        "عضلة هيكلية",
+        "إرادية"
+      ]
+    },
+    {
+      "id": 3352,
+      "term": "smooth muscle tissue",
+      "arabic": "نسيج العضلات الملساء",
+      "latin": "textus muscularis levis",
+      "pronunciation": "سموث ماسل تيشو",
+      "definition": "عضلة لا إرادية غير مخططة. الخلايا مغزلية الشكل بنواة مركزية واحدة. تنقبض ببطء. توجد في جدران الأعضاء الداخلية (الجهاز الهضمي، المثانة، الرحم، الأوعية الدموية).",
+      "definition_en": "Involuntary, non-striated muscle. Spindle-shaped cells with a single central nucleus. Contracts slowly. Found in walls of internal organs (digestive tract, bladder, uterus, blood vessels).",
+      "englishSentence": "Smooth muscle in the intestinal walls contracts rhythmically to push food through the digestive tract (peristalsis).",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "involuntary",
+        "spindle-shaped",
+        "internal organs",
+        "عضلة ملساء",
+        "لا إرادية"
+      ]
+    },
+    {
+      "id": 3353,
+      "term": "cardiac muscle tissue",
+      "arabic": "نسيج عضلة القلب",
+      "latin": "textus muscularis cardiacus",
+      "pronunciation": "كارديَاك ماسل تيشو",
+      "definition": "عضلة القلب. مخططة كالعضلة الهيكلية لكن متفرعة. الخلايا بنواة أو نواتين مركزيتين. ترتبط الخلايا بأقراص بينية (intercalated discs) تحتوي فجوات وصلية تسمح بالتقلص المتسلسل. لا إرادية.",
+      "definition_en": "Heart muscle. Striated like skeletal muscle but branched. Cells have one or two central nuclei. Joined by intercalated discs with gap junctions for sequential contraction. Involuntary.",
+      "englishSentence": "Cardiac muscle tissue beats rhythmically throughout life without fatigue, pumping blood to the entire body.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "heart",
+        "intercalated discs",
+        "involuntary",
+        "عضلة قلب",
+        "قلبية"
+      ]
+    },
+    {
+      "id": 3354,
+      "term": "intercalated discs",
+      "arabic": "الأقراص البينية",
+      "latin": "disci intercalati",
+      "pronunciation": "إنتركاليتد ديسكس",
+      "definition": "وصلات متخصصة بين خلايا عضلة القلب تحتوي فجوات وصلية وديسموسومات. تسمح للسيالات الكهربائية بالانتقال السريع بين الخلايا لضمان التقلص المتسلسل المنسق.",
+      "definition_en": "Specialized junctions between cardiac muscle cells containing gap junctions and desmosomes. Allow electrical impulses to pass rapidly between cells ensuring coordinated sequential contraction.",
+      "englishSentence": "Intercalated discs allow the cardiac muscle cells to act as a unit, ensuring the heart contracts in a coordinated wave.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "gap junctions",
+        "cardiac",
+        "electrical conduction",
+        "أقراص بينية",
+        "قلب"
+      ]
+    },
+    {
+      "id": 3355,
+      "term": "nervous tissue",
+      "arabic": "النسيج العصبي",
+      "latin": "textus nervosus",
+      "pronunciation": "نيرفاس تيشو",
+      "definition": "نسيج يرسل الرسائل في جميع أنحاء الجسم عن طريق توصيل النبضات الكهربائية. يتكون من الخلايا العصبية (النيورونات) وخلايا دعم (الخلايا الدبقية). الدماغ والحبل الشوكي مراكز التحكم.",
+      "definition_en": "Tissue that sends messages throughout the body by conducting electrical impulses. Composed of neurons and supporting glial cells. Brain and spinal cord are control centers.",
+      "englishSentence": "Nervous tissue enables rapid communication between all parts of the body through electrical impulses.",
+      "type": "tissue",
+      "chapter": 22,
+      "keywords": [
+        "neurons",
+        "glial cells",
+        "electrical impulses",
+        "نسيج عصبي",
+        "نيورون"
+      ]
+    },
+    {
+      "id": 3356,
+      "term": "neuron",
+      "arabic": "الخلية العصبية (النيورون)",
+      "latin": "neuron",
+      "pronunciation": "نيورون",
+      "definition": "الوحدة البنيوية والوظيفية للجهاز العصبي. تتكون من: جسم الخلية (يحتوي النواة)، التشعبات (تستقبل الإشارات)، المحور (يحمل الإشارة للخلية التالية)، والأطراف المحورية (ترسل الناقلات العصبية).",
+      "definition_en": "The structural and functional unit of the nervous system. Composed of: soma (cell body with nucleus), dendrites (receive signals), axon (carries impulse), and axon terminals (send neurotransmitters).",
+      "englishSentence": "A single neuron can transmit signals over a meter long and communicate with thousands of other neurons.",
+      "type": "cell_type",
+      "chapter": 22,
+      "keywords": [
+        "soma",
+        "dendrites",
+        "axon",
+        "impulse",
+        "نيورون",
+        "خلية عصبية"
+      ]
+    },
+    {
+      "id": 3357,
+      "term": "dendrites",
+      "arabic": "التشعبات (الزوائد الشجرية)",
+      "latin": "dendrita",
+      "pronunciation": "دينداريتس",
+      "definition": "امتدادات قصيرة متفرعة من جسم الخلية العصبية. وظيفتها استقبال الإشارات من الخلايا العصبية الأخرى ونقلها إلى جسم الخلية.",
+      "definition_en": "Short branched extensions of the neuron cell body. Function: receive signals from other neurons and transmit them toward the cell body.",
+      "englishSentence": "Dendrites increase the surface area of a neuron, allowing it to receive signals from thousands of other neurons.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "signal reception",
+        "branched",
+        "input",
+        "تشعبات",
+        "زوائد عصبية"
+      ]
+    },
+    {
+      "id": 3358,
+      "term": "axon",
+      "arabic": "المحور العصبي",
+      "latin": "axon",
+      "pronunciation": "أكسون",
+      "definition": "امتداد طويل واحد من جسم الخلية العصبية. يحمل النبضة الكهربائية بعيداً عن جسم الخلية نحو الخلايا التالية. يمكن أن يكون مغلفاً بغمد المايلين لتسريع التوصيل.",
+      "definition_en": "A single long extension from the neuron cell body that carries the electrical impulse away from the cell body toward other cells. May be covered by a myelin sheath to speed conduction.",
+      "englishSentence": "The axon of a motor neuron can extend over a meter from the spinal cord to a muscle in the foot.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "impulse transmission",
+        "myelin",
+        "output",
+        "محور عصبي",
+        "سيالة عصبية"
+      ]
+    },
+    {
+      "id": 3359,
+      "term": "tissue repair",
+      "arabic": "إصلاح الأنسجة (التئام الجروح)",
+      "latin": "reparatio textuum",
+      "pronunciation": "تيشو ريبير",
+      "definition": "عملية التئام الأنسجة المصابة إما بالتجدد (استبدال بخلايا من نفس النوع) أو التليف (إصلاح بنسيج ندبي). تلتئم الظهارة والنسيج الضام جيداً، بينما يُصلح النسيج العضلي القلبي والعصبي بالتليف.",
+      "definition_en": "Healing of injured tissue by regeneration (replacement with same cell type) or fibrosis (repair with scar tissue). Epithelium and connective tissue regenerate well; cardiac muscle and nervous tissue heal by fibrosis.",
+      "englishSentence": "After a heart attack, cardiac muscle cells that die are replaced by scar tissue because cardiac cells cannot regenerate.",
+      "type": "process",
+      "chapter": 22,
+      "keywords": [
+        "regeneration",
+        "fibrosis",
+        "scar tissue",
+        "wound healing",
+        "إصلاح نسيج",
+        "ندبة"
+      ]
+    },
+    {
+      "id": 3360,
+      "term": "mucous membrane",
+      "arabic": "الغشاء المخاطي",
+      "latin": "membrana mucosa",
+      "pronunciation": "ميوكوس ميمبرين",
+      "definition": "غشاء طلائي يُبطّن تجاويف الجسم المفتوحة على البيئة الخارجية مثل الجهاز التنفسي والهضمي والبولي والتناسلي. يُفرز المخاط الذي يُرطّب ويُزلّق ويُحمي السطح.",
+      "definition_en": "Epithelial membrane lining body cavities open to the exterior: respiratory, digestive, urinary, and reproductive systems. Secretes mucus that moistens, lubricates, and protects the surface.",
+      "englishSentence": "The mucous membrane lining the nose traps pathogens and particles in mucus, preventing them from reaching the lungs.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "mucus",
+        "lining",
+        "respiratory",
+        "digestive",
+        "غشاء مخاطي",
+        "مخاط"
+      ]
+    },
+    {
+      "id": 3361,
+      "term": "serous membrane",
+      "arabic": "الغشاء المصلي",
+      "latin": "membrana serosa",
+      "pronunciation": "سيروس ميمبرين",
+      "definition": "غشاء طلائي يُبطّن التجاويف الجسمية المغلقة ويغلف الأعضاء الداخلية. يُفرز سائلاً مصلياً مائياً يمنع الاحتكاك. أنواعه: الجنب (الرئتان) والتامور (القلب) والصفاق (البطن).",
+      "definition_en": "Epithelial membrane lining closed body cavities and covering internal organs. Secretes watery serous fluid to reduce friction. Types: pleura (lungs), pericardium (heart), peritoneum (abdomen).",
+      "englishSentence": "Serous fluid secreted by the pleural membrane allows the lungs to slide smoothly against the chest wall during breathing.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "serous fluid",
+        "pleura",
+        "pericardium",
+        "peritoneum",
+        "غشاء مصلي",
+        "سائل مصلي"
+      ]
+    },
+    {
+      "id": 3362,
+      "term": "pleura",
+      "arabic": "الجنب (غشاء الجنب)",
+      "latin": "pleura",
+      "pronunciation": "بلورا",
+      "definition": "الغشاء المصلي المحيط بالرئتين. يتكون من طبقتين: الجنب الجداري (يُبطّن التجويف الصدري) والجنب الحشوي (يغطي الرئتين). يُفرز السائل الجنبي للحد من الاحتكاك.",
+      "definition_en": "The serous membrane surrounding the lungs. Two layers: parietal pleura (lines chest wall) and visceral pleura (covers lungs). Secretes pleural fluid to reduce friction.",
+      "englishSentence": "Pleuritis (inflammation of the pleura) causes chest pain because the inflamed membranes rub together during breathing.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "lung covering",
+        "pleural fluid",
+        "thoracic cavity",
+        "جنب",
+        "غشاء رئة"
+      ]
+    },
+    {
+      "id": 3363,
+      "term": "pericardium",
+      "arabic": "التامور (غشاء القلب)",
+      "latin": "pericardium",
+      "pronunciation": "بيريكارديم",
+      "definition": "الغشاء المصلي المحيط بالقلب. يتكون من الطبقة الجدارية (يُبطّن التجويف الصدري) والطبقة الحشوية أو الشغاف الخارجي. يُفرز سائل التامور للحد من الاحتكاك أثناء ضربات القلب.",
+      "definition_en": "The serous membrane surrounding the heart. Parietal layer (lines thoracic cavity) and visceral layer (epicardium on heart surface). Secretes pericardial fluid to reduce friction during heartbeat.",
+      "englishSentence": "Pericarditis causes severe chest pain as the inflamed pericardium rubs against the heart with each beat.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "heart covering",
+        "pericardial fluid",
+        "epicardium",
+        "تامور",
+        "غشاء قلب"
+      ]
+    },
+    {
+      "id": 3364,
+      "term": "peritoneum",
+      "arabic": "الصفاق (غشاء البريتوان)",
+      "latin": "peritoneum",
+      "pronunciation": "بيريتونيم",
+      "definition": "أكبر الأغشية المصلية في الجسم. يُبطّن التجويف البطني الحوضي ويغطي معظم الأعضاء البطنية. يُفرز السائل الصفاقي الذي يُزلّق الأعضاء عند تحركها.",
+      "definition_en": "The largest serous membrane in the body. Lines the abdominopelvic cavity and covers most abdominal organs. Secretes peritoneal fluid to lubricate organs during movement.",
+      "englishSentence": "Peritonitis, an infection of the peritoneum, is a life-threatening emergency requiring immediate treatment.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "abdominal lining",
+        "peritoneal fluid",
+        "largest serous membrane",
+        "صفاق",
+        "بريتون"
+      ]
+    },
+    {
+      "id": 3365,
+      "term": "synovial membrane",
+      "arabic": "الغشاء الزليلي",
+      "latin": "membrana synovialis",
+      "pronunciation": "سينوفيال ميمبرين",
+      "definition": "غشاء من النسيج الضام (لا طلائي) يُبطّن تجاويف المفاصل. يُفرز السائل الزليلي الذي يُزلّق المفاصل ويُغذي الغضاريف المفصلية.",
+      "definition_en": "A connective tissue membrane (not epithelial) lining joint cavities. Secretes synovial fluid that lubricates joints and nourishes articular cartilage.",
+      "englishSentence": "The synovial membrane produces synovial fluid that keeps joint surfaces slippery, reducing friction during movement.",
+      "type": "concept",
+      "chapter": 22,
+      "keywords": [
+        "joint cavity",
+        "synovial fluid",
+        "lubrication",
+        "غشاء زليلي",
+        "سائل زليلي"
+      ]
+    }
+  ]
+}

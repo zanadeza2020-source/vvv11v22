@@ -1,0 +1,2483 @@
+{
+  "chapter": 4,
+  "title": "The Skeletal System",
+  "arabicTitle": "الجهاز الهيكلي",
+  "description": "شرح تركيب ووظائف الجهاز الهيكلي، بما في ذلك العظام، نخاع العظام، الغضاريف، المفاصل، الأربطة، بالإضافة إلى الأمراض والإصابات والإجراءات التشخيصية والجراحية المرتبطة به.",
+  "description_en": "Explanation of the structure and functions of the skeletal system, including bones, bone marrow, cartilage, joints, ligaments, as well as associated diseases, injuries, diagnostic procedures, and surgeries.",
+  "terms": [
+    {
+      "id": 401,
+      "term": "skeletal system",
+      "arabic": "الجهاز الهيكلي",
+      "latin": "systema skeletale",
+      "pronunciation": "سكي-لي-تال سيس-تم",
+      "definition": "الجهاز الذي يتكون من العظام، نخاع العظام، الغضاريف، المفاصل، الأربطة، الغشاء الزليلي، السائل الزليلي، والأجراب",
+      "definition_en": "The system consisting of bones, bone marrow, cartilage, joints, ligaments, synovial membrane, synovial fluid, and bursa",
+      "englishSentence": "The skeletal system consists of the bones, bone marrow, cartilage, joints, ligaments, synovial membrane, synovial fluid, and bursa.",
+      "parts": {
+        "root": { "value": "skelet", "meaning": "هيكل", "function": "يشير إلى الهيكل العظمي" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "system",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "يشكل هيكل الجسم، يدعم ويحمي الأعضاء الداخلية، يعمل مع العضلات لإنتاج الحركة، يخزن الكالسيوم، يحتوي على نخاع العظم الأحمر لتكوين خلايا الدم",
+      "systemFunction_en": "Forms body framework, supports and protects internal organs, works with muscles to produce movement, stores calcium, contains red bone marrow for blood cell formation",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": ["العضلات", "الأعصاب", "الأوعية الدموية", "الأعضاء الداخلية"],
+      "nearbyOrgans_en": ["Muscles", "Nerves", "Blood vessels", "Internal organs"],
+      "diseases": [
+        {
+          "name": "هشاشة العظام",
+          "name_en": "Osteoporosis",
+          "symptoms": ["آلام العظام", "كسور متكررة", "انحناء الظهر"],
+          "symptoms_en": ["Bone pain", "Frequent fractures", "Curved back"],
+          "treatments": ["مكملات الكالسيوم", "أدوية تقوية العظام", "تمارين رياضية"],
+          "treatments_en": ["Calcium supplements", "Bone-strengthening medications", "Exercise"]
+        }
+      ],
+      "functions": [
+        "يشكل هيكل الجسم",
+        "يدعم ويحمي الأعضاء الداخلية",
+        "يعمل مع العضلات لإنتاج الحركة",
+        "يخزن الكالسيوم",
+        "يحتوي على نخاع العظم الأحمر لتكوين خلايا الدم"
+      ],
+      "keywords": ["bones", "skeleton", "osseous system"],
+      "chapter": 4
+    },
+    {
+      "id": 402,
+      "term": "bone marrow",
+      "arabic": "نخاع العظم",
+      "latin": "medulla ossium",
+      "pronunciation": "بون مار-رو",
+      "definition": "النسيج الإسفنجي الموجود داخل العظام، وينقسم إلى نخاع أحمر (مكون للدم) ونخاع أصفر (مخزن للدهون)",
+      "definition_en": "The spongy tissue inside bones, divided into red marrow (blood-forming) and yellow marrow (fat storage)",
+      "englishSentence": "Bone marrow is the spongy tissue inside bones, divided into red marrow (blood-forming) and yellow marrow (fat storage).",
+      "parts": {
+        "root": { "value": "medull", "meaning": "نخاع", "function": "يشير إلى النخاع" }
+      },
+      "type": "tissue",
+      "system": "الجهاز الهيكلي والدموي",
+      "system_en": "Skeletal and Hematologic System",
+      "systemFunction": "إنتاج خلايا الدم وتخزين الدهون",
+      "systemFunction_en": "Blood cell production and fat storage",
+      "location": "داخل العظام (التجويف النخاعي)",
+      "location_en": "Inside bones (medullary cavity)",
+      "nearbyOrgans": ["العظام", "الأوعية الدموية", "الأنسجة الدهنية"],
+      "nearbyOrgans_en": ["Bones", "Blood vessels", "Adipose tissue"],
+      "diseases": [
+        {
+          "name": "ابيضاض الدم",
+          "name_en": "Leukemia",
+          "symptoms": ["تعب", "شحوب", "التهابات متكررة", "نزيف"],
+          "symptoms_en": ["Fatigue", "Pallor", "Frequent infections", "Bleeding"],
+          "treatments": ["علاج كيميائي", "زراعة نخاع العظم"],
+          "treatments_en": ["Chemotherapy", "Bone marrow transplant"]
+        }
+      ],
+      "keywords": ["myel", "medulla"],
+      "chapter": 4
+    },
+    {
+      "id": 403,
+      "term": "red bone marrow",
+      "arabic": "نخاع العظم الأحمر",
+      "latin": "medulla ossium rubra",
+      "pronunciation": "ريد بون مار-رو",
+      "definition": "نسيج مكون للدم (هيموبويتيك) ينتج خلايا الدم الحمراء، الهيموجلوبين، خلايا الدم البيضاء، والصفيحات الدموية",
+      "definition_en": "Hemopoietic tissue that manufactures red blood cells, hemoglobin, white blood cells, and thrombocytes",
+      "englishSentence": "Red bone marrow is hemopoietic tissue that manufactures red blood cells, hemoglobin, white blood cells, and thrombocytes.",
+      "parts": {
+        "root": { "value": "rubr", "meaning": "أحمر", "function": "يشير إلى اللون الأحمر" }
+      },
+      "type": "tissue",
+      "system": "الجهاز الدموي",
+      "system_en": "Hematologic System",
+      "systemFunction": "إنتاج جميع خلايا الدم",
+      "systemFunction_en": "Production of all blood cells",
+      "location": "العظام المسطحة ونهايات العظام الطويلة",
+      "location_en": "Flat bones and ends of long bones",
+      "nearbyOrgans": ["العظام الإسفنجية", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Spongy bone", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "فقر الدم اللاتنسجي",
+          "name_en": "Aplastic anemia",
+          "symptoms": ["تعب شديد", "شحوب", "نزيف سهل"],
+          "symptoms_en": ["Severe fatigue", "Pallor", "Easy bleeding"],
+          "treatments": ["نقل دم", "زراعة نخاع العظم"],
+          "treatments_en": ["Blood transfusion", "Bone marrow transplant"]
+        }
+      ],
+      "keywords": ["hemopoietic tissue", "blood cell formation"],
+      "chapter": 4
+    },
+    {
+      "id": 404,
+      "term": "hemopoietic",
+      "arabic": "مكون للدم",
+      "latin": "haemopoieticus",
+      "pronunciation": "هي-مو-بو-إي-تيك",
+      "definition": "متعلق بتكوين خلايا الدم",
+      "definition_en": "Pertaining to the formation of blood cells",
+      "englishSentence": "Hemopoietic means pertaining to the formation of blood cells.",
+      "parts": {
+        "prefix": { "value": "hem/o", "meaning": "دم", "function": "يشير إلى الدم" },
+        "suffix": { "value": "poietic", "meaning": "تكوين", "function": "يشير إلى عملية التكوين" }
+      },
+      "type": "adjective",
+      "system": "الجهاز الدموي",
+      "system_en": "Hematologic System",
+      "systemFunction": "إنتاج خلايا الدم",
+      "systemFunction_en": "Blood cell production",
+      "location": "نخاع العظم الأحمر",
+      "location_en": "Red bone marrow",
+      "nearbyOrgans": ["نخاع العظم", "الجهاز اللمفاوي"],
+      "nearbyOrgans_en": ["Bone marrow", "Lymphatic system"],
+      "diseases": [
+        {
+          "name": "اضطرابات تكوين الدم",
+          "name_en": "Hematopoietic disorders",
+          "symptoms": ["فقر دم", "التهابات متكررة"],
+          "symptoms_en": ["Anemia", "Frequent infections"],
+          "treatments": ["علاج السبب", "نقل دم"],
+          "treatments_en": ["Treat cause", "Blood transfusion"]
+        }
+      ],
+      "keywords": ["hematopoietic", "blood-forming"],
+      "chapter": 4
+    },
+    {
+      "id": 405,
+      "term": "yellow bone marrow",
+      "arabic": "نخاع العظم الأصفر",
+      "latin": "medulla ossium flava",
+      "pronunciation": "يل-و بون مار-رو",
+      "definition": "نسيج يتكون أساساً من خلايا دهنية، ويعمل كمنطقة لتخزين الدهون، ويوجد في التجويف النخاعي للعظام الطويلة",
+      "definition_en": "Tissue composed chiefly of fat cells, functioning as a fat storage area, located in the medullary cavity of long bones",
+      "englishSentence": "Yellow bone marrow functions as a fat storage area and is composed chiefly of fat cells.",
+      "parts": {
+        "root": { "value": "flav", "meaning": "أصفر", "function": "يشير إلى اللون الأصفر" }
+      },
+      "type": "tissue",
+      "system": "الجهاز الهيكلي والدهني",
+      "system_en": "Skeletal and Adipose System",
+      "systemFunction": "تخزين الدهون وتوفير الطاقة",
+      "systemFunction_en": "Fat storage and energy reserve",
+      "location": "التجويف النخاعي للعظام الطويلة",
+      "location_en": "Medullary cavity of long bones",
+      "nearbyOrgans": ["العظام القشرية", "الأنسجة الدهنية"],
+      "nearbyOrgans_en": ["Cortical bone", "Adipose tissue"],
+      "diseases": [],
+      "keywords": ["fat storage", "adipose tissue"],
+      "chapter": 4
+    },
+    {
+      "id": 406,
+      "term": "medullary cavity",
+      "arabic": "التجويف النخاعي",
+      "latin": "cavitas medullaris",
+      "pronunciation": "ميد-يو-لير-ي كاف-إي-تي",
+      "definition": "التجويف الموجود في وسط العظام الطويلة الذي يحتوي على نخاع العظم",
+      "definition_en": "The central cavity of long bones containing bone marrow",
+      "englishSentence": "The medullary cavity is the central cavity of long bones containing bone marrow.",
+      "parts": {
+        "root": { "value": "medull", "meaning": "نخاع", "function": "يشير إلى النخاع" },
+        "suffix": { "value": "ary", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "احتواء نخاع العظم",
+      "systemFunction_en": "Contain bone marrow",
+      "location": "داخل العظام الطويلة",
+      "location_en": "Inside long bones",
+      "nearbyOrgans": ["نخاع العظم", "العظم القشري", "العظم الإسفنجي"],
+      "nearbyOrgans_en": ["Bone marrow", "Cortical bone", "Spongy bone"],
+      "diseases": [
+        {
+          "name": "التهاب العظم والنقي",
+          "name_en": "Osteomyelitis",
+          "symptoms": ["ألم عظمي", "حمى", "تورم"],
+          "symptoms_en": ["Bone pain", "Fever", "Swelling"],
+          "treatments": ["مضادات حيوية", "جراحة"],
+          "treatments_en": ["Antibiotics", "Surgery"]
+        }
+      ],
+      "keywords": ["marrow cavity"],
+      "chapter": 4
+    },
+    {
+      "id": 407,
+      "term": "cartilage",
+      "arabic": "غضروف",
+      "latin": "cartilago",
+      "pronunciation": "كار-تي-ليدج",
+      "definition": "نسيج ضام أملس، مطاطي، أبيض مزرق يعمل كممتص للصدمات بين العظام",
+      "definition_en": "Smooth, rubbery, bluish-white connective tissue that acts as a shock absorber between bones",
+      "englishSentence": "Cartilage is smooth, rubbery, connective tissue that acts as a shock absorber between bones.",
+      "parts": {
+        "root": { "value": "chondr", "meaning": "غضروف", "function": "يشير إلى الغضروف" }
+      },
+      "type": "tissue",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "توفير سطح أملس لحركة المفاصل وامتصاص الصدمات",
+      "systemFunction_en": "Provide smooth surface for joint movement and shock absorption",
+      "location": "المفاصل، الأضلاع، الأنف، الأذن",
+      "location_en": "Joints, ribs, nose, ear",
+      "nearbyOrgans": ["العظام", "الأربطة", "الأوتار"],
+      "nearbyOrgans_en": ["Bones", "Ligaments", "Tendons"],
+      "diseases": [
+        {
+          "name": "التهاب المفاصل التنكسي",
+          "name_en": "Osteoarthritis",
+          "symptoms": ["ألم مفصلي", "تيبس", "فرقعة"],
+          "symptoms_en": ["Joint pain", "Stiffness", "Crepitus"],
+          "treatments": ["مسكنات", "علاج طبيعي", "جراحة استبدال مفصل"],
+          "treatments_en": ["Pain relievers", "Physical therapy", "Joint replacement surgery"]
+        }
+      ],
+      "keywords": ["chondr/o", "gristle"],
+      "chapter": 4
+    },
+    {
+      "id": 408,
+      "term": "joints",
+      "arabic": "مفاصل",
+      "latin": "articulationes",
+      "pronunciation": "جوينتس",
+      "definition": "مكان اتحاد عظمتين أو أكثر، وتصنف حسب بنائها أو درجة الحركة التي تسمح بها",
+      "definition_en": "The place of union between two or more bones, classified by construction or degree of movement",
+      "englishSentence": "Joints are the place of union between two or more bones, classified by construction or degree of movement.",
+      "parts": {
+        "root": { "value": "arthr", "meaning": "مفصل", "function": "يشير إلى المفصل" }
+      },
+      "type": "structure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "السماح بالحركة وتوفير الاستقرار للهيكل العظمي",
+      "systemFunction_en": "Allow movement and provide stability to the skeleton",
+      "location": "جميع أنحاء الجسم حيث تلتقي العظام",
+      "location_en": "Throughout the body where bones meet",
+      "nearbyOrgans": ["العظام", "الأربطة", "الأوتار", "العضلات", "الغضاريف"],
+      "nearbyOrgans_en": ["Bones", "Ligaments", "Tendons", "Muscles", "Cartilage"],
+      "diseases": [
+        {
+          "name": "التهاب المفاصل",
+          "name_en": "Arthritis",
+          "symptoms": ["ألم وتورم المفاصل", "تيبس", "احمرار"],
+          "symptoms_en": ["Joint pain and swelling", "Stiffness", "Redness"],
+          "treatments": ["مضادات التهاب", "مسكنات", "علاج طبيعي"],
+          "treatments_en": ["Anti-inflammatories", "Pain relievers", "Physical therapy"]
+        }
+      ],
+      "keywords": ["articulations", "arthr/o"],
+      "chapter": 4
+    },
+    {
+      "id": 409,
+      "term": "skeleton",
+      "arabic": "هيكل عظمي",
+      "latin": "skeleton",
+      "pronunciation": "سكي-لي-تون",
+      "definition": "الهيكل العظمي للجسم، يتكون عند البالغين من حوالي 206 عظمة",
+      "definition_en": "The bony framework of the body, consisting of approximately 206 bones in adults",
+      "englishSentence": "The typical adult human skeleton consists of approximately 206 bones.",
+      "parts": {
+        "root": { "value": "skelet", "meaning": "هيكل", "function": "يشير إلى الهيكل العظمي" }
+      },
+      "type": "structure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "توفير الدعم الهيكلي والحماية للأعضاء الداخلية",
+      "systemFunction_en": "Provide structural support and protection for internal organs",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": ["العضلات", "الأعصاب", "الأوعية الدموية", "الأعضاء الداخلية"],
+      "nearbyOrgans_en": ["Muscles", "Nerves", "Blood vessels", "Internal organs"],
+      "diseases": [
+        {
+          "name": "هشاشة العظام",
+          "name_en": "Osteoporosis",
+          "symptoms": ["كسور متكررة", "آلام العظام", "انحناء الظهر"],
+          "symptoms_en": ["Frequent fractures", "Bone pain", "Curved back"],
+          "treatments": ["مكملات الكالسيوم", "أدوية", "تمارين"],
+          "treatments_en": ["Calcium supplements", "Medications", "Exercise"]
+        }
+      ],
+      "keywords": ["bones framework"],
+      "chapter": 4
+    },
+    {
+      "id": 410,
+      "term": "axial skeleton",
+      "arabic": "الهيكل المحوري",
+      "latin": "skeleton axiale",
+      "pronunciation": "آك-سي-آل سكي-لي-تون",
+      "definition": "الجزء من الهيكل العظمي الذي يحمي الأعضاء الرئيسية للجهاز العصبي والتنفسي والدوري، ويتكون من 80 عظمة تشمل الجمجمة والأضلاع والقص والعمود الفقري",
+      "definition_en": "The part of the skeleton that protects the major organs of the nervous, respiratory, and circulatory systems, consisting of 80 bones including the skull, ribs, sternum, and vertebral column",
+      "englishSentence": "The axial skeleton protects the major organs of the nervous, respiratory, and circulatory systems.",
+      "parts": {
+        "root": { "value": "axi", "meaning": "محور", "function": "يشير إلى المحور المركزي" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية الأعضاء الحيوية وتوفير الدعم المركزي للجسم",
+      "systemFunction_en": "Protect vital organs and provide central support for the body",
+      "location": "الجزء المركزي من الجسم (الرأس، الرقبة، الصدر)",
+      "location_en": "Central part of body (head, neck, chest)",
+      "nearbyOrgans": ["الدماغ", "الحبل الشوكي", "القلب", "الرئتين"],
+      "nearbyOrgans_en": ["Brain", "Spinal cord", "Heart", "Lungs"],
+      "diseases": [
+        {
+          "name": "كسر الجمجمة",
+          "name_en": "Skull fracture",
+          "symptoms": ["صداع", "غثيان", "دوخة", "نزيف"],
+          "symptoms_en": ["Headache", "Nausea", "Dizziness", "Bleeding"],
+          "treatments": ["مراقبة", "جراحة", "مسكنات"],
+          "treatments_en": ["Observation", "Surgery", "Pain relievers"]
+        }
+      ],
+      "keywords": ["skull", "ribs", "vertebral column"],
+      "chapter": 4
+    },
+    {
+      "id": 411,
+      "term": "appendicular skeleton",
+      "arabic": "الهيكل الطرفي",
+      "latin": "skeleton appendiculare",
+      "pronunciation": "آب-بن-ديك-يو-لار سكي-لي-تون",
+      "definition": "الجزء من الهيكل العظمي الذي يجعل حركة الجسم ممكنة ويحمي أعضاء الهضم والإخراج والتكاثر، ويتكون من 126 عظمة في الأطراف العلوية والسفلية",
+      "definition_en": "The part of the skeleton that makes body movement possible and protects organs of digestion, excretion, and reproduction, consisting of 126 bones in the upper and lower extremities",
+      "englishSentence": "The appendicular skeleton makes body movement possible and protects organs of digestion, excretion, and reproduction.",
+      "parts": {
+        "root": { "value": "appendicul", "meaning": "طرفي", "function": "يشير إلى الأطراف" },
+        "suffix": { "value": "ar", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تمكين حركة الجسم وحماية أعضاء الحوض",
+      "systemFunction_en": "Enable body movement and protect pelvic organs",
+      "location": "الأطراف العلوية والسفلية (الذراعان والساقان)",
+      "location_en": "Upper and lower extremities (arms and legs)",
+      "nearbyOrgans": ["العضلات", "الأوعية الدموية", "الأعصاب الطرفية"],
+      "nearbyOrgans_en": ["Muscles", "Blood vessels", "Peripheral nerves"],
+      "diseases": [
+        {
+          "name": "كسر الورك",
+          "name_en": "Hip fracture",
+          "symptoms": ["ألم شديد", "عدم القدرة على المشي", "تورم"],
+          "symptoms_en": ["Severe pain", "Inability to walk", "Swelling"],
+          "treatments": ["تثبيت جراحي", "استبدال مفصل الورك", "علاج طبيعي"],
+          "treatments_en": ["Surgical fixation", "Hip replacement", "Physical therapy"]
+        }
+      ],
+      "keywords": ["upper extremities", "lower extremities", "limbs"],
+      "chapter": 4
+    },
+    {
+      "id": 412,
+      "term": "spinal column",
+      "arabic": "العمود الفقري",
+      "latin": "columna vertebralis",
+      "pronunciation": "سباي-نال كول-أم",
+      "definition": "سلسلة من الفقرات تمتد من الجمجمة إلى الحوض، وتتكون من 26 فقرة عند البالغين",
+      "definition_en": "A series of vertebrae extending from the skull to the pelvis, consisting of 26 vertebrae in adults",
+      "englishSentence": "The spinal column consists of 26 vertebrae that protect the spinal cord and support the body.",
+      "parts": {
+        "root": { "value": "vertebr", "meaning": "فقرة", "function": "يشير إلى الفقرات" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية الحبل الشوكي ودعم الجسم والسماح بالحركة",
+      "systemFunction_en": "Protect spinal cord, support body, and allow movement",
+      "location": "الجزء الخلفي من الجذع، من الرقبة إلى الحوض",
+      "location_en": "Posterior part of trunk, from neck to pelvis",
+      "nearbyOrgans": ["الحبل الشوكي", "الأضلاع", "العضلات الظهرية"],
+      "nearbyOrgans_en": ["Spinal cord", "Ribs", "Back muscles"],
+      "diseases": [
+        {
+          "name": "انزلاق غضروفي",
+          "name_en": "Herniated disc",
+          "symptoms": ["ألم الظهر", "ألم يمتد إلى الساق", "تنميل", "ضعف عضلي"],
+          "symptoms_en": ["Back pain", "Pain radiating to leg", "Numbness", "Muscle weakness"],
+          "treatments": ["علاج طبيعي", "مسكنات", "جراحة"],
+          "treatments_en": ["Physical therapy", "Pain relievers", "Surgery"]
+        }
+      ],
+      "keywords": ["vertebral column", "spine", "backbone"],
+      "chapter": 4
+    },
+    {
+      "id": 413,
+      "term": "cervical vertebrae",
+      "arabic": "فقرات عنقية",
+      "latin": "vertebrae cervicales",
+      "pronunciation": "سير-في-كال فير-تي-بري",
+      "definition": "المجموعة الأولى من سبع فقرات تشكل الرقبة، ويُشار إليها بـ C1 إلى C7",
+      "definition_en": "The first set of seven vertebrae that form the neck, referred to as C1 to C7",
+      "englishSentence": "The cervical vertebrae are the first set of seven vertebrae that form the neck (C1-C7).",
+      "parts": {
+        "root": { "value": "cervic", "meaning": "عنق", "function": "يشير إلى الرقبة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الرقبة والرأس والسماح بحركة الرأس",
+      "systemFunction_en": "Support neck and head, allow head movement",
+      "location": "الرقبة",
+      "location_en": "Neck",
+      "nearbyOrgans": ["الحبل الشوكي", "الشرايين الفقرية", "العضلات الرقبية"],
+      "nearbyOrgans_en": ["Spinal cord", "Vertebral arteries", "Neck muscles"],
+      "diseases": [
+        {
+          "name": "ديسك الرقبة",
+          "name_en": "Cervical disc herniation",
+          "symptoms": ["ألم الرقبة", "ألم يمتد للكتف والذراع", "تنميل الأصابع"],
+          "symptoms_en": ["Neck pain", "Pain radiating to shoulder and arm", "Finger numbness"],
+          "treatments": ["علاج طبيعي", "مسكنات", "جراحة"],
+          "treatments_en": ["Physical therapy", "Pain relievers", "Surgery"]
+        }
+      ],
+      "keywords": ["neck vertebrae", "C1-C7"],
+      "chapter": 4
+    },
+    {
+      "id": 414,
+      "term": "thoracic vertebrae",
+      "arabic": "فقرات صدرية",
+      "latin": "vertebrae thoracicae",
+      "pronunciation": "ثو-راس-يك فير-تي-بري",
+      "definition": "المجموعة الثانية من 12 فقرة تشكل الانحناء الخارجي للعمود الفقري، ويُشار إليها بـ T1 إلى T12",
+      "definition_en": "The second set of 12 vertebrae forming the outward curve of the spine, referred to as T1 to T12",
+      "englishSentence": "The thoracic vertebrae make up the second set of 12 vertebrae (T1-T12), forming the outward curve of the spine.",
+      "parts": {
+        "root": { "value": "thorac", "meaning": "صدر", "function": "يشير إلى منطقة الصدر" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم القفص الصدري وحماية أعضاء الصدر",
+      "systemFunction_en": "Support rib cage and protect chest organs",
+      "location": "منطقة الصدر",
+      "location_en": "Chest region",
+      "nearbyOrgans": ["القلب", "الرئتين", "الأضلاع", "الحبل الشوكي"],
+      "nearbyOrgans_en": ["Heart", "Lungs", "Ribs", "Spinal cord"],
+      "diseases": [
+        {
+          "name": "كسر الفقرات الصدرية",
+          "name_en": "Thoracic vertebral fracture",
+          "symptoms": ["ألم شديد في الظهر", "صعوبة في التنفس", "تشوه"],
+          "symptoms_en": ["Severe back pain", "Difficulty breathing", "Deformity"],
+          "treatments": ["تثبيت", "جراحة", "علاج طبيعي"],
+          "treatments_en": ["Immobilization", "Surgery", "Physical therapy"]
+        }
+      ],
+      "keywords": ["chest vertebrae", "T1-T12"],
+      "chapter": 4
+    },
+    {
+      "id": 415,
+      "term": "lumbar vertebrae",
+      "arabic": "فقرات قطنية",
+      "latin": "vertebrae lumbales",
+      "pronunciation": "لوم-بار فير-تي-بري",
+      "definition": "المجموعة الثالثة من خمس فقرات تشكل الانحناء الداخلي للجزء السفلي من العمود الفقري، وهي الأكبر والأقوى وتحمل معظم وزن الجسم، ويُشار إليها بـ L1 إلى L5",
+      "definition_en": "The third set of five vertebrae forming the inward curve of the lower spine, the largest and strongest, bearing most of the body's weight, referred to as L1 to L5",
+      "englishSentence": "The lumbar vertebrae are the largest and strongest vertebrae, bearing most of the body's weight (L1-L5).",
+      "parts": {
+        "root": { "value": "lumb", "meaning": "قطن", "function": "يشير إلى منطقة أسفل الظهر" },
+        "suffix": { "value": "ar", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تحمل وزن الجزء العلوي من الجسم والسماح بحركة أسفل الظهر",
+      "systemFunction_en": "Bear weight of upper body and allow lower back movement",
+      "location": "أسفل الظهر",
+      "location_en": "Lower back",
+      "nearbyOrgans": ["الحبل الشوكي", "العضلات القطنية", "الكلى"],
+      "nearbyOrgans_en": ["Spinal cord", "Lumbar muscles", "Kidneys"],
+      "diseases": [
+        {
+          "name": "انزلاق غضروفي قطني",
+          "name_en": "Lumbar disc herniation",
+          "symptoms": ["ألم أسفل الظهر", "عرق النسا", "تنميل الساق", "ضعف عضلي"],
+          "symptoms_en": ["Lower back pain", "Sciatica", "Leg numbness", "Muscle weakness"],
+          "treatments": ["علاج طبيعي", "مسكنات", "حقن", "جراحة"],
+          "treatments_en": ["Physical therapy", "Pain relievers", "Injections", "Surgery"]
+        }
+      ],
+      "keywords": ["lower back vertebrae", "L1-L5"],
+      "chapter": 4
+    },
+    {
+      "id": 416,
+      "term": "ankylosis",
+      "arabic": "قسط (تصلب المفصل)",
+      "latin": "ankylosis",
+      "pronunciation": "آن-كي-لو-سيس",
+      "definition": "فقدان أو غياب الحركة في المفصل بسبب مرض أو إصابة أو إجراء جراحي",
+      "definition_en": "The loss or absence of mobility in a joint due to disease, injury, or surgery",
+      "englishSentence": "Ankylosis is the loss or absence of mobility in a joint due to disease, injury, or surgery.",
+      "parts": {
+        "root": { "value": "ankyl", "meaning": "قسط، تصلب", "function": "يشير إلى التصلب أو الاندماج" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حركة المفاصل",
+      "systemFunction_en": "Joint movement",
+      "location": "المفاصل المصابة (غالباً العمود الفقري، الورك، الركبة)",
+      "location_en": "Affected joints (often spine, hip, knee)",
+      "nearbyOrgans": ["العظام", "الأربطة", "العضلات المجاورة"],
+      "nearbyOrgans_en": ["Bones", "Ligaments", "Adjacent muscles"],
+      "diseases": [
+        {
+          "name": "التهاب الفقار المقسط",
+          "name_en": "Ankylosing spondylitis",
+          "symptoms": ["ألم وتيبس في أسفل الظهر", "تيبس صباحي", "انحناء العمود الفقري"],
+          "symptoms_en": ["Lower back pain and stiffness", "Morning stiffness", "Spine curvature"],
+          "treatments": ["مضادات التهاب", "علاج طبيعي", "أدوية بيولوجية"],
+          "treatments_en": ["Anti-inflammatories", "Physical therapy", "Biologic medications"]
+        }
+      ],
+      "keywords": ["joint stiffness", "fusion"],
+      "chapter": 4
+    },
+    {
+      "id": 417,
+      "term": "arthrosclerosis",
+      "arabic": "تصلب المفاصل",
+      "latin": "arthrosclerosis",
+      "pronunciation": "آر-ثرو-سكلي-رو-سيس",
+      "definition": "تيبس المفاصل، خاصة عند كبار السن",
+      "definition_en": "Stiffness of the joints, especially in the elderly",
+      "englishSentence": "Arthrosclerosis is stiffness of the joints, especially in the elderly.",
+      "parts": {
+        "root1": { "value": "arthr/o", "meaning": "مفصل", "function": "يشير إلى المفصل" },
+        "suffix": { "value": "sclerosis", "meaning": "تصلب", "function": "يشير إلى تصلب غير طبيعي" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حركة المفاصل",
+      "systemFunction_en": "Joint movement",
+      "location": "المفاصل المختلفة",
+      "location_en": "Various joints",
+      "nearbyOrgans": ["العظام", "الغضاريف", "الأربطة"],
+      "nearbyOrgans_en": ["Bones", "Cartilage", "Ligaments"],
+      "diseases": [
+        {
+          "name": "التهاب المفاصل التنكسي",
+          "name_en": "Osteoarthritis",
+          "symptoms": ["تيبس المفاصل", "ألم", "محدودية الحركة"],
+          "symptoms_en": ["Joint stiffness", "Pain", "Limited mobility"],
+          "treatments": ["مسكنات", "علاج طبيعي"],
+          "treatments_en": ["Pain relievers", "Physical therapy"]
+        }
+      ],
+      "keywords": ["joint hardening", "stiffness"],
+      "chapter": 4
+    },
+    {
+      "id": 418,
+      "term": "bursitis",
+      "arabic": "التهاب الجراب",
+      "latin": "bursitis",
+      "pronunciation": "بير-ساي-تس",
+      "definition": "التهاب في الجراب (كيس مليء بالسائل يقلل الاحتكاك بين الأنسجة)",
+      "definition_en": "Inflammation of a bursa (a fluid-filled sac that reduces friction between tissues)",
+      "englishSentence": "Bursitis is inflammation of a bursa.",
+      "parts": {
+        "root": { "value": "burs", "meaning": "جراب", "function": "يشير إلى الجراب" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تقليل الاحتكاك بين الأنسجة",
+      "systemFunction_en": "Reduce friction between tissues",
+      "location": "حول المفاصل (الكتف، المرفق، الورك، الركبة)",
+      "location_en": "Around joints (shoulder, elbow, hip, knee)",
+      "nearbyOrgans": ["المفاصل", "الأوتار", "العضلات"],
+      "nearbyOrgans_en": ["Joints", "Tendons", "Muscles"],
+      "diseases": [
+        {
+          "name": "التهاب الجراب تحت الأخرمي",
+          "name_en": "Subacromial bursitis",
+          "symptoms": ["ألم الكتف", "صعوبة رفع الذراع", "ألم ليلي"],
+          "symptoms_en": ["Shoulder pain", "Difficulty raising arm", "Night pain"],
+          "treatments": ["راحة", "ثلج", "مضادات التهاب", "حقن كورتيزون"],
+          "treatments_en": ["Rest", "Ice", "Anti-inflammatories", "Cortisone injections"]
+        }
+      ],
+      "keywords": ["bursa inflammation"],
+      "chapter": 4
+    },
+    {
+      "id": 419,
+      "term": "chondromalacia",
+      "arabic": "ليونة الغضروف",
+      "latin": "chondromalacia",
+      "pronunciation": "كون-درو-ما-لاي-شيا",
+      "definition": "تليين غير طبيعي في الغضروف",
+      "definition_en": "Abnormal softening of cartilage",
+      "englishSentence": "Chondromalacia is the abnormal softening of cartilage.",
+      "parts": {
+        "root": { "value": "chondr/o", "meaning": "غضروف", "function": "يشير إلى الغضروف" },
+        "suffix": { "value": "malacia", "meaning": "لين", "function": "يشير إلى لين غير طبيعي" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "توفير سطح أملس لحركة المفاصل",
+      "systemFunction_en": "Provide smooth surface for joint movement",
+      "location": "غضروف الرضفة (أكثر شيوعاً)",
+      "location_en": "Patellar cartilage (most common)",
+      "nearbyOrgans": ["الرضفة", "عظم الفخذ", "الغضروف المفصلي"],
+      "nearbyOrgans_en": ["Patella", "Femur", "Articular cartilage"],
+      "diseases": [
+        {
+          "name": "ليونة غضروف الرضفة",
+          "name_en": "Chondromalacia patellae",
+          "symptoms": ["ألم أمام الركبة", "فرقعة عند ثني الركبة", "ألم عند صعود الدرج"],
+          "symptoms_en": ["Anterior knee pain", "Crepitus with knee bending", "Pain climbing stairs"],
+          "treatments": ["علاج طبيعي", "تقوية العضلات", "مسكنات", "جراحة تنظيرية"],
+          "treatments_en": ["Physical therapy", "Muscle strengthening", "Pain relievers", "Arthroscopic surgery"]
+        }
+      ],
+      "keywords": ["cartilage softening"],
+      "chapter": 4
+    },
+    {
+      "id": 420,
+      "term": "chondroma",
+      "arabic": "ورم غضروفي حميد",
+      "latin": "chondroma",
+      "pronunciation": "كون-درو-ما",
+      "definition": "ورم حميد بطيء النمو ينشأ من خلايا الغضروف",
+      "definition_en": "A slow-growing benign tumor derived from cartilage cells",
+      "englishSentence": "A chondroma is a slow-growing benign tumor derived from cartilage cells.",
+      "parts": {
+        "root": { "value": "chondr", "meaning": "غضروف", "function": "يشير إلى الغضروف" },
+        "suffix": { "value": "oma", "meaning": "ورم", "function": "يشير إلى ورم" }
+      },
+      "type": "tumor",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تكوين الغضروف",
+      "systemFunction_en": "Cartilage formation",
+      "location": "العظام (غالباً اليدين والقدمين)",
+      "location_en": "Bones (often hands and feet)",
+      "nearbyOrgans": ["العظام", "الغضاريف المجاورة"],
+      "nearbyOrgans_en": ["Bones", "Adjacent cartilage"],
+      "diseases": [
+        {
+          "name": "ورم غضروفي",
+          "name_en": "Chondroma",
+          "symptoms": ["كتلة غير مؤلمة", "تورم", "قد يسبب كسر مرضي"],
+          "symptoms_en": ["Painless mass", "Swelling", "May cause pathological fracture"],
+          "treatments": ["مراقبة", "استئصال جراحي"],
+          "treatments_en": ["Observation", "Surgical removal"]
+        }
+      ],
+      "keywords": ["cartilage tumor"],
+      "chapter": 4
+    },
+    {
+      "id": 421,
+      "term": "costochondritis",
+      "arabic": "التهاب الغضروف الضلعي",
+      "latin": "costochondritis",
+      "pronunciation": "كوس-تو-كون-دراي-تس",
+      "definition": "التهاب في الغضروف الذي يربط الضلع بعظمة القص",
+      "definition_en": "Inflammation of the cartilage that connects a rib to the sternum",
+      "englishSentence": "Costochondritis is inflammation of the cartilage that connects a rib to the sternum.",
+      "parts": {
+        "root1": { "value": "cost/o", "meaning": "ضلع", "function": "يشير إلى الضلع" },
+        "root2": { "value": "chondr", "meaning": "غضروف", "function": "يشير إلى الغضروف" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "ربط الأضلاع بعظمة القص",
+      "systemFunction_en": "Connect ribs to sternum",
+      "location": "القفص الصدري",
+      "location_en": "Rib cage",
+      "nearbyOrgans": ["الأضلاع", "عظمة القص", "الغضاريف الضلعية"],
+      "nearbyOrgans_en": ["Ribs", "Sternum", "Costal cartilages"],
+      "diseases": [
+        {
+          "name": "التهاب الغضروف الضلعي",
+          "name_en": "Costochondritis",
+          "symptoms": ["ألم في الصدر", "ألم عند الضغط على المنطقة", "ألم يزداد مع التنفس العميق"],
+          "symptoms_en": ["Chest pain", "Pain with pressure on area", "Pain worsens with deep breathing"],
+          "treatments": ["مسكنات", "مضادات التهاب", "راحة", "ثلج موضعي"],
+          "treatments_en": ["Pain relievers", "Anti-inflammatories", "Rest", "Local ice"]
+        }
+      ],
+      "keywords": ["rib cartilage inflammation"],
+      "chapter": 4
+    },
+    {
+      "id": 422,
+      "term": "hallux valgus",
+      "arabic": "إبهام القدم الأروح (ورم مورتون)",
+      "latin": "hallux valgus",
+      "pronunciation": "هال-أكس فال-جس",
+      "definition": "تضخم غير طبيعي في مفصل قاعدة إصبع القدم الكبير، يُعرف أيضاً بالبونيون (bunion)",
+      "definition_en": "An abnormal enlargement of the joint at the base of the great toe, also known as a bunion",
+      "englishSentence": "Hallux valgus, also known as a bunion, is an abnormal enlargement of the joint at the base of the great toe.",
+      "parts": {
+        "root1": { "value": "hallux", "meaning": "إبهام القدم", "function": "يشير إلى إصبع القدم الكبير" },
+        "root2": { "value": "valgus", "meaning": "أروح", "function": "يشير إلى انحراف للخارج" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم وحركة إصبع القدم الكبير",
+      "systemFunction_en": "Support and movement of big toe",
+      "location": "القدم",
+      "location_en": "Foot",
+      "nearbyOrgans": ["مشط القدم", "الأصابع الأخرى", "الأوتار"],
+      "nearbyOrgans_en": ["Metatarsals", "Other toes", "Tendons"],
+      "diseases": [
+        {
+          "name": "ورم مورتون",
+          "name_en": "Bunion",
+          "symptoms": ["نتوء عظمي", "ألم", "احمرار", "صعوبة في ارتداء الأحذية"],
+          "symptoms_en": ["Bony bump", "Pain", "Redness", "Difficulty wearing shoes"],
+          "treatments": ["أحذية واسعة", "وسائد", "مسكنات", "جراحة"],
+          "treatments_en": ["Wide shoes", "Pads", "Pain relievers", "Surgery"]
+        }
+      ],
+      "keywords": ["bunion", "big toe deformity"],
+      "chapter": 4
+    },
+    {
+      "id": 423,
+      "term": "hemarthrosis",
+      "arabic": "تدمي المفصل",
+      "latin": "haemarthrosis",
+      "pronunciation": "هيم-آر-ثرو-سيس",
+      "definition": "وجود دم داخل المفصل، غالباً بسبب إصابة المفصل أو بسبب أدوية تميع الدم أو اضطرابات النزيف",
+      "definition_en": "Blood within a joint, frequently due to injury, blood thinners, or bleeding disorders",
+      "englishSentence": "Hemarthrosis is blood within a joint, frequently due to injury or bleeding disorders.",
+      "parts": {
+        "root1": { "value": "hem", "meaning": "دم", "function": "يشير إلى الدم" },
+        "root2": { "value": "arthr", "meaning": "مفصل", "function": "يشير إلى المفصل" },
+        "suffix": { "value": "osis", "meaning": "حالة", "function": "يشير إلى وجود حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حركة المفاصل",
+      "systemFunction_en": "Joint movement",
+      "location": "المفاصل (غالباً الركبة والكاحل)",
+      "location_en": "Joints (often knee and ankle)",
+      "nearbyOrgans": ["الغشاء الزليلي", "الغضروف", "الأربطة"],
+      "nearbyOrgans_en": ["Synovial membrane", "Cartilage", "Ligaments"],
+      "diseases": [
+        {
+          "name": "الهيموفيليا",
+          "name_en": "Hemophilia",
+          "symptoms": ["نزيف في المفاصل", "تورم", "ألم", "تلف المفاصل"],
+          "symptoms_en": ["Joint bleeding", "Swelling", "Pain", "Joint damage"],
+          "treatments": ["عامل تخثر", "تثبيت المفصل", "علاج طبيعي"],
+          "treatments_en": ["Clotting factor", "Joint immobilization", "Physical therapy"]
+        }
+      ],
+      "keywords": ["joint bleeding", "blood in joint"],
+      "chapter": 4
+    },
+    {
+      "id": 424,
+      "term": "synovitis",
+      "arabic": "التهاب الغشاء الزليلي",
+      "latin": "synovitis",
+      "pronunciation": "سين-أو-فاي-تس",
+      "definition": "التهاب الغشاء الزليلي مما يؤدي إلى تورم وألم في المفصل المصاب",
+      "definition_en": "Inflammation of the synovial membrane resulting in swelling and pain of the affected joint",
+      "englishSentence": "Synovitis is inflammation of the synovial membrane resulting in swelling and pain of the affected joint.",
+      "parts": {
+        "root": { "value": "synov", "meaning": "زليلي", "function": "يشير إلى الغشاء الزليلي" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "إنتاج السائل الزليلي لتزييت المفصل",
+      "systemFunction_en": "Produce synovial fluid to lubricate joint",
+      "location": "الغشاء الزليلي للمفاصل",
+      "location_en": "Synovial membrane of joints",
+      "nearbyOrgans": ["الغضروف", "السائل الزليلي", "المفصل"],
+      "nearbyOrgans_en": ["Cartilage", "Synovial fluid", "Joint"],
+      "diseases": [
+        {
+          "name": "التهاب المفاصل الروماتويدي",
+          "name_en": "Rheumatoid arthritis",
+          "symptoms": ["تورم المفاصل", "ألم", "تيبس صباحي", "دفء المفصل"],
+          "symptoms_en": ["Joint swelling", "Pain", "Morning stiffness", "Joint warmth"],
+          "treatments": ["مضادات روماتيزم", "مثبطات مناعة", "كورتيزون"],
+          "treatments_en": ["DMARDs", "Immunosuppressants", "Corticosteroids"]
+        }
+      ],
+      "keywords": ["synovial membrane inflammation"],
+      "chapter": 4
+    },
+    {
+      "id": 425,
+      "term": "dislocation",
+      "arabic": "خلع (انخلاع)",
+      "latin": "luxatio",
+      "pronunciation": "ديس-لو-كاي-شن",
+      "definition": "إزاحة كاملة للعظم من مكانه في المفصل",
+      "definition_en": "Total displacement of a bone from its joint",
+      "englishSentence": "Dislocation is the total displacement of a bone from its joint.",
+      "parts": {
+        "prefix": { "value": "dis", "meaning": "انفصال", "function": "يشير إلى الابتعاد" },
+        "root": { "value": "locat", "meaning": "مكان", "function": "يشير إلى الموضع" },
+        "suffix": { "value": "ion", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "injury",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تثبيت العظام في مكانها",
+      "systemFunction_en": "Hold bones in place",
+      "location": "المفاصل (الكتف، المرفق، الورك، الأصابع)",
+      "location_en": "Joints (shoulder, elbow, hip, fingers)",
+      "nearbyOrgans": ["الأربطة", "الأوتار", "الأعصاب", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Ligaments", "Tendons", "Nerves", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "خلع الكتف",
+          "name_en": "Shoulder dislocation",
+          "symptoms": ["ألم شديد", "تشوه", "عدم القدرة على تحريك المفصل", "تورم"],
+          "symptoms_en": ["Severe pain", "Deformity", "Inability to move joint", "Swelling"],
+          "treatments": ["رد الخلع", "تثبيت", "علاج طبيعي", "جراحة"],
+          "treatments_en": ["Reduction", "Immobilization", "Physical therapy", "Surgery"]
+        }
+      ],
+      "keywords": ["luxation", "complete displacement"],
+      "chapter": 4
+    },
+    {
+      "id": 426,
+      "term": "luxation",
+      "arabic": "خلع",
+      "latin": "luxatio",
+      "pronunciation": "لاك-ساي-شن",
+      "definition": "مصطلح آخر للخلع (dislocation)، وهو الإزاحة الكاملة للعظم من مفصله",
+      "definition_en": "Another term for dislocation, the complete displacement of a bone from its joint",
+      "englishSentence": "Luxation is another term for dislocation.",
+      "parts": {
+        "root": { "value": "lux", "meaning": "خلع", "function": "يشير إلى الخلع" },
+        "suffix": { "value": "ation", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "injury",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تثبيت العظام في مكانها",
+      "systemFunction_en": "Hold bones in place",
+      "location": "المفاصل",
+      "location_en": "Joints",
+      "nearbyOrgans": ["الأربطة", "الأوتار", "الأعصاب"],
+      "nearbyOrgans_en": ["Ligaments", "Tendons", "Nerves"],
+      "diseases": [],
+      "keywords": ["dislocation"],
+      "chapter": 4
+    },
+    {
+      "id": 427,
+      "term": "subluxation",
+      "arabic": "خلع جزئي",
+      "latin": "subluxatio",
+      "pronunciation": "ساب-لاك-ساي-شن",
+      "definition": "إزاحة جزئية للعظم من مكانه في المفصل",
+      "definition_en": "Partial displacement of a bone from its joint",
+      "englishSentence": "Subluxation is the partial displacement of a bone from its joint.",
+      "parts": {
+        "prefix": { "value": "sub", "meaning": "تحت، جزئي", "function": "يشير إلى النقصان أو الجزئية" },
+        "root": { "value": "lux", "meaning": "خلع", "function": "يشير إلى الخلع" },
+        "suffix": { "value": "ation", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "injury",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تثبيت العظام في مكانها",
+      "systemFunction_en": "Hold bones in place",
+      "location": "المفاصل (غالباً الكتف والرضفة)",
+      "location_en": "Joints (often shoulder and patella)",
+      "nearbyOrgans": ["الأربطة", "الأوتار", "الغضروف"],
+      "nearbyOrgans_en": ["Ligaments", "Tendons", "Cartilage"],
+      "diseases": [
+        {
+          "name": "خلع جزئي للرضفة",
+          "name_en": "Patellar subluxation",
+          "symptoms": ["إحساس بعدم الثبات", "ألم", "فرقعة", "تورم"],
+          "symptoms_en": ["Instability sensation", "Pain", "Crepitus", "Swelling"],
+          "treatments": ["علاج طبيعي", "تقوية العضلات", "جراحة"],
+          "treatments_en": ["Physical therapy", "Muscle strengthening", "Surgery"]
+        }
+      ],
+      "keywords": ["partial dislocation"],
+      "chapter": 4
+    },
+    {
+      "id": 428,
+      "term": "arthritis",
+      "arabic": "التهاب المفاصل",
+      "latin": "arthritis",
+      "pronunciation": "آر-ثراي-تس",
+      "definition": "حالة التهابية تصيب مفصل أو أكثر، مع أشكال وأسباب متعددة",
+      "definition_en": "An inflammatory condition of one or more joints, with multiple forms and causes",
+      "englishSentence": "Arthritis is an inflammatory condition of one or more joints.",
+      "parts": {
+        "root": { "value": "arthr", "meaning": "مفصل", "function": "يشير إلى المفصل" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حركة المفاصل",
+      "systemFunction_en": "Joint movement",
+      "location": "المفاصل المختلفة",
+      "location_en": "Various joints",
+      "nearbyOrgans": ["الغضروف", "الغشاء الزليلي", "العظام"],
+      "nearbyOrgans_en": ["Cartilage", "Synovial membrane", "Bones"],
+      "diseases": [
+        {
+          "name": "التهاب المفاصل التنكسي",
+          "name_en": "Osteoarthritis",
+          "symptoms": ["ألم مفصلي", "تيبس", "فرقعة", "تورم"],
+          "symptoms_en": ["Joint pain", "Stiffness", "Crepitus", "Swelling"],
+          "treatments": ["مسكنات", "علاج طبيعي", "حقن", "جراحة استبدال مفصل"],
+          "treatments_en": ["Pain relievers", "Physical therapy", "Injections", "Joint replacement surgery"]
+        },
+        {
+          "name": "التهاب المفاصل الروماتويدي",
+          "name_en": "Rheumatoid arthritis",
+          "symptoms": ["ألم وتورم متناظر", "تيبس صباحي", "تعب", "حمى خفيفة"],
+          "symptoms_en": ["Symmetric pain and swelling", "Morning stiffness", "Fatigue", "Low-grade fever"],
+          "treatments": ["مضادات روماتيزم", "مثبطات مناعة", "كورتيزون", "أدوية بيولوجية"],
+          "treatments_en": ["DMARDs", "Immunosuppressants", "Corticosteroids", "Biologics"]
+        }
+      ],
+      "keywords": ["joint inflammation"],
+      "chapter": 4
+    },
+    {
+      "id": 429,
+      "term": "rheumatism",
+      "arabic": "روماتيزم",
+      "latin": "rheumatismus",
+      "pronunciation": "رو-ما-تيز-م",
+      "definition": "مصطلح قديم يستخدم لوصف أي اضطراب مؤلم في المفاصل (مرادف قديم لالتهاب المفاصل)",
+      "definition_en": "An obsolete term for any painful joint disorder (old synonym for arthritis)",
+      "englishSentence": "Rheumatism is an obsolete term for any painful joint disorder.",
+      "parts": {
+        "root": { "value": "rheumat", "meaning": "روماتيزم", "function": "يشير إلى الروماتيزم" },
+        "suffix": { "value": "ism", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حركة المفاصل",
+      "systemFunction_en": "Joint movement",
+      "location": "المفاصل والأنسجة الرخوة",
+      "location_en": "Joints and soft tissues",
+      "nearbyOrgans": ["العضلات", "الأوتار", "الأربطة"],
+      "nearbyOrgans_en": ["Muscles", "Tendons", "Ligaments"],
+      "diseases": [],
+      "keywords": ["arthritis"],
+      "chapter": 4
+    },
+    {
+      "id": 430,
+      "term": "osteoarthritis",
+      "arabic": "التهاب المفاصل التنكسي (الفصال العظمي)",
+      "latin": "osteoarthritis",
+      "pronunciation": "أوس-تي-أو-آر-ثراي-تس",
+      "definition": "مرض تنكسي في المفاصل يرتبط غالباً بالتقدم في العمر، ويتميز بتآكل الغضروف المفصلي",
+      "definition_en": "A degenerative joint disease associated with aging, characterized by wearing away of articular cartilage",
+      "englishSentence": "Osteoarthritis is a degenerative joint disease associated with aging, characterized by wearing away of articular cartilage.",
+      "parts": {
+        "root1": { "value": "oste/o", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "root2": { "value": "arthr", "meaning": "مفصل", "function": "يشير إلى المفصل" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حركة المفاصل",
+      "systemFunction_en": "Joint movement",
+      "location": "المفاصل الحاملة للوزن (الركبة، الورك، العمود الفقري)",
+      "location_en": "Weight-bearing joints (knee, hip, spine)",
+      "nearbyOrgans": ["الغضروف", "العظم تحت الغضروفي", "الغشاء الزليلي"],
+      "nearbyOrgans_en": ["Cartilage", "Subchondral bone", "Synovial membrane"],
+      "diseases": [
+        {
+          "name": "التهاب المفاصل التنكسي",
+          "name_en": "Osteoarthritis",
+          "symptoms": ["ألم يزداد مع الحركة", "تيبس صباحي قصير", "فرقعة", "محدودية حركة"],
+          "symptoms_en": ["Pain worsens with activity", "Brief morning stiffness", "Crepitus", "Limited mobility"],
+          "treatments": ["مسكنات", "علاج طبيعي", "حقن", "استبدال مفصل"],
+          "treatments_en": ["Pain relievers", "Physical therapy", "Injections", "Joint replacement"]
+        }
+      ],
+      "keywords": ["wear-and-tear arthritis", "degenerative joint disease"],
+      "chapter": 4
+    },
+    {
+      "id": 431,
+      "term": "spondylosis",
+      "arabic": "التهاب الفقار (الفصال العظمي الشوكي)",
+      "latin": "spondylosis",
+      "pronunciation": "سبون-دي-لو-سيس",
+      "definition": "اضطراب تنكسي يمكن أن يسبب فقدان البنية والوظيفة الطبيعية للعمود الفقري",
+      "definition_en": "A degenerative disorder causing loss of normal spinal structure and function",
+      "englishSentence": "Spondylosis is a degenerative disorder causing loss of normal spinal structure and function.",
+      "parts": {
+        "root": { "value": "spondyl", "meaning": "فقرة", "function": "يشير إلى الفقرات" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم وحماية الحبل الشوكي",
+      "systemFunction_en": "Support and protect spinal cord",
+      "location": "العمود الفقري",
+      "location_en": "Spinal column",
+      "nearbyOrgans": ["الفقرات", "الأقراص الفقرية", "الحبل الشوكي", "جذور الأعصاب"],
+      "nearbyOrgans_en": ["Vertebrae", "Intervertebral discs", "Spinal cord", "Nerve roots"],
+      "diseases": [
+        {
+          "name": "الفصال العظمي الشوكي",
+          "name_en": "Spinal osteoarthritis",
+          "symptoms": ["ألم الظهر", "تيبس", "تنميل", "ضعف في الأطراف"],
+          "symptoms_en": ["Back pain", "Stiffness", "Numbness", "Limb weakness"],
+          "treatments": ["علاج طبيعي", "مسكنات", "تمارين تقوية", "جراحة"],
+          "treatments_en": ["Physical therapy", "Pain relievers", "Strengthening exercises", "Surgery"]
+        }
+      ],
+      "keywords": ["spinal osteoarthritis", "vertebral degeneration"],
+      "chapter": 4
+    },
+    {
+      "id": 432,
+      "term": "gouty arthritis",
+      "arabic": "التهاب المفاصل النقرسي (النقرس)",
+      "latin": "arthritis urica",
+      "pronunciation": "جا-وتي آر-ثراي-تس",
+      "definition": "نوع من التهاب المفاصل يتميز بترسبات حمض اليوريك في المفاصل",
+      "definition_en": "A type of arthritis characterized by deposits of uric acid in the joints",
+      "englishSentence": "Gouty arthritis, also known as gout, is characterized by deposits of uric acid in the joints.",
+      "parts": {
+        "root": { "value": "gout", "meaning": "نقرس", "function": "يشير إلى النقرس" },
+        "suffix": { "value": "y", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حركة المفاصل",
+      "systemFunction_en": "Joint movement",
+      "location": "غالباً إصبع القدم الكبير، الكاحل، الركبة",
+      "location_en": "Often big toe, ankle, knee",
+      "nearbyOrgans": ["المفصل", "الأنسجة الرخوة المحيطة"],
+      "nearbyOrgans_en": ["Joint", "Surrounding soft tissues"],
+      "diseases": [
+        {
+          "name": "النقرس",
+          "name_en": "Gout",
+          "symptoms": ["ألم مفاجئ وشديد", "احمرار", "تورم", "سخونة في المفصل"],
+          "symptoms_en": ["Sudden severe pain", "Redness", "Swelling", "Joint heat"],
+          "treatments": ["مضادات التهاب", "كولشيسين", "أدوية خفض حمض اليوريك", "تجنب الأطعمة الغنية بالبيورين"],
+          "treatments_en": ["Anti-inflammatories", "Colchicine", "Uric acid-lowering drugs", "Avoid purine-rich foods"]
+        }
+      ],
+      "keywords": ["gout", "uric acid crystals"],
+      "chapter": 4
+    },
+    {
+      "id": 433,
+      "term": "rheumatoid arthritis (RA)",
+      "arabic": "التهاب المفاصل الروماتويدي",
+      "latin": "arthritis rheumatoidea",
+      "pronunciation": "رو-ما-تويد آر-ثراي-تس",
+      "definition": "اضطراب مناعي ذاتي مزمن يهاجم الأغشية الزليلية للمفاصل وبعض أعضاء أجهزة الجسم الأخرى",
+      "definition_en": "A chronic autoimmune disorder attacking the synovial membranes of joints and other organs",
+      "englishSentence": "Rheumatoid arthritis is a chronic autoimmune disorder attacking the synovial membranes and other organs.",
+      "parts": {
+        "root": { "value": "rheumat", "meaning": "روماتيزم", "function": "يشير إلى الروماتيزم" },
+        "suffix": { "value": "oid", "meaning": "شبيه", "function": "يشير إلى الشبه" }
+      },
+      "type": "condition",
+      "abbreviation": "RA",
+      "system": "الجهاز المناعي والهيكلي",
+      "system_en": "Immune and Skeletal System",
+      "systemFunction": "حركة المفاصل ووظيفة المناعة",
+      "systemFunction_en": "Joint movement and immune function",
+      "location": "المفاصل (خاصة اليدين والقدمين) وأعضاء أخرى",
+      "location_en": "Joints (especially hands and feet) and other organs",
+      "nearbyOrgans": ["الغشاء الزليلي", "الغضروف", "العظام", "الأوتار"],
+      "nearbyOrgans_en": ["Synovial membrane", "Cartilage", "Bones", "Tendons"],
+      "diseases": [
+        {
+          "name": "التهاب المفاصل الروماتويدي",
+          "name_en": "Rheumatoid arthritis",
+          "symptoms": ["ألم وتورم متناظر", "تيبس صباحي", "تعب", "عقيدات روماتويدية", "تشوه المفاصل"],
+          "symptoms_en": ["Symmetric pain and swelling", "Morning stiffness", "Fatigue", "Rheumatoid nodules", "Joint deformity"],
+          "treatments": ["مضادات روماتيزم", "مثبطات مناعة", "كورتيزون", "أدوية بيولوجية", "علاج طبيعي"],
+          "treatments_en": ["DMARDs", "Immunosuppressants", "Corticosteroids", "Biologics", "Physical therapy"]
+        }
+      ],
+      "keywords": ["autoimmune arthritis", "RA"],
+      "chapter": 4
+    },
+    {
+      "id": 434,
+      "term": "juvenile rheumatoid arthritis",
+      "arabic": "التهاب المفاصل الروماتويدي اليافع (الطفولي)",
+      "latin": "arthritis rheumatoidea juvenilis",
+      "pronunciation": "جو-في-نايل رو-ما-تويد آر-ثراي-تس",
+      "definition": "اضطراب مناعي ذاتي يصيب الأطفال حتى سن 16 سنة، مع أعراض تشمل التيبس والألم وتورم المفاصل والطفح الجلدي والحمى",
+      "definition_en": "An autoimmune disorder affecting children up to age 16, with symptoms including stiffness, pain, joint swelling, rash, and fever",
+      "englishSentence": "Juvenile rheumatoid arthritis is an autoimmune disorder affecting children with symptoms including stiffness, pain, and joint swelling.",
+      "parts": {
+        "root": { "value": "juvenil", "meaning": "يافع", "function": "يشير إلى الأطفال واليافعين" }
+      },
+      "type": "condition",
+      "system": "الجهاز المناعي والهيكلي",
+      "system_en": "Immune and Skeletal System",
+      "systemFunction": "حركة المفاصل ووظيفة المناعة",
+      "systemFunction_en": "Joint movement and immune function",
+      "location": "المفاصل، العينين، الجلد",
+      "location_en": "Joints, eyes, skin",
+      "nearbyOrgans": ["المفاصل", "العينين", "الأنسجة الرخوة"],
+      "nearbyOrgans_en": ["Joints", "Eyes", "Soft tissues"],
+      "diseases": [
+        {
+          "name": "التهاب المفاصل الروماتويدي اليافع",
+          "name_en": "Juvenile idiopathic arthritis",
+          "symptoms": ["ألم وتورم المفاصل", "تيبس", "حمى", "طفح جلدي", "التهاب العين"],
+          "symptoms_en": ["Joint pain and swelling", "Stiffness", "Fever", "Rash", "Eye inflammation"],
+          "treatments": ["مضادات التهاب", "مثبطات مناعة", "أدوية بيولوجية", "علاج طبيعي"],
+          "treatments_en": ["Anti-inflammatories", "Immunosuppressants", "Biologics", "Physical therapy"]
+        }
+      ],
+      "keywords": ["JRA", "childhood arthritis"],
+      "chapter": 4
+    },
+    {
+      "id": 435,
+      "term": "herniated disk",
+      "arabic": "انزلاق غضروفي (قرص منفتق)",
+      "latin": "discus intervertebralis herniatus",
+      "pronunciation": "هير-ني-آي-تيد ديسك",
+      "definition": "تمزق في القرص الفقري يؤدي إلى الضغط على جذور الأعصاب الشوكية",
+      "definition_en": "A rupture of an intervertebral disk resulting in pressure on spinal nerve roots",
+      "englishSentence": "A herniated disk is the breaking apart of an intervertebral disk, resulting in pressure on spinal nerve roots.",
+      "parts": {
+        "root": { "value": "herni", "meaning": "فتق", "function": "يشير إلى الانفتاق" },
+        "suffix": { "value": "ated", "meaning": "مصاب بـ", "function": "يشير إلى الإصابة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "امتصاص الصدمات بين الفقرات",
+      "systemFunction_en": "Shock absorption between vertebrae",
+      "location": "العمود الفقري (غالباً القطني والقطني العجزي)",
+      "location_en": "Spine (often lumbar and lumbosacral)",
+      "nearbyOrgans": ["الحبل الشوكي", "جذور الأعصاب", "الفقرات"],
+      "nearbyOrgans_en": ["Spinal cord", "Nerve roots", "Vertebrae"],
+      "diseases": [
+        {
+          "name": "انزلاق غضروفي قطني",
+          "name_en": "Lumbar herniated disc",
+          "symptoms": ["ألم أسفل الظهر", "عرق النسا", "تنميل", "ضعف عضلي"],
+          "symptoms_en": ["Lower back pain", "Sciatica", "Numbness", "Muscle weakness"],
+          "treatments": ["علاج طبيعي", "مسكنات", "حقن", "جراحة استئصال القرص"],
+          "treatments_en": ["Physical therapy", "Pain relievers", "Injections", "Discectomy surgery"]
+        }
+      ],
+      "keywords": ["slipped disk", "ruptured disk", "prolapsed disk"],
+      "chapter": 4
+    },
+    {
+      "id": 436,
+      "term": "spina bifida",
+      "arabic": "السنسنة المشقوقة (انشقاق العمود الفقري)",
+      "latin": "spina bifida",
+      "pronunciation": "سباي-نا بيف-إي-دا",
+      "definition": "عيب خلقي يحدث خلال الحمل المبكر عندما يفشل القناة الشوكية في الالتفاف الكامل حول الحبل الشوكي لحمايته",
+      "definition_en": "A congenital defect occurring during early pregnancy when the spinal canal fails to close completely around the spinal cord",
+      "englishSentence": "Spina bifida is a congenital defect where the spinal canal fails to close completely around the spinal cord.",
+      "parts": {
+        "root1": { "value": "spin", "meaning": "عمود فقري", "function": "يشير إلى العمود الفقري" },
+        "root2": { "value": "bifid", "meaning": "مشقوق", "function": "يشير إلى الانقسام" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية الحبل الشوكي",
+      "systemFunction_en": "Protect spinal cord",
+      "location": "العمود الفقري (غالباً المنطقة القطنية العجزية)",
+      "location_en": "Spine (often lumbosacral region)",
+      "nearbyOrgans": ["الحبل الشوكي", "السحايا", "جذور الأعصاب"],
+      "nearbyOrgans_en": ["Spinal cord", "Meninges", "Nerve roots"],
+      "diseases": [
+        {
+          "name": "السنسنة المشقوقة",
+          "name_en": "Spina bifida",
+          "symptoms": ["ضعف أو شلل في الساقين", "مشاكل في المثانة والأمعاء", "استسقاء الرأس", "صعوبات تعلم"],
+          "symptoms_en": ["Leg weakness or paralysis", "Bladder and bowel problems", "Hydrocephalus", "Learning difficulties"],
+          "treatments": ["جراحة", "علاج طبيعي", "رعاية داعمة"],
+          "treatments_en": ["Surgery", "Physical therapy", "Supportive care"]
+        }
+      ],
+      "keywords": ["neural tube defect", "split spine"],
+      "chapter": 4
+    },
+    {
+      "id": 437,
+      "term": "kyphosis",
+      "arabic": "حداب (تحدب الظهر)",
+      "latin": "kyphosis",
+      "pronunciation": "كاي-فو-سيس",
+      "definition": "زيادة غير طبيعية في الانحناء الخارجي للعمود الفقري الصدري، ويُعرف أيضاً بالظهر الأحدب",
+      "definition_en": "An abnormal increase in the outward curvature of the thoracic spine, also known as humpback",
+      "englishSentence": "Kyphosis is an abnormal increase in the outward curvature of the thoracic spine, also known as humpback.",
+      "parts": {
+        "root": { "value": "kyph", "meaning": "حدب", "function": "يشير إلى التحدب" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم وحماية الأعضاء",
+      "systemFunction_en": "Support body and protect organs",
+      "location": "العمود الفقري الصدري",
+      "location_en": "Thoracic spine",
+      "nearbyOrgans": ["الفقرات", "الأضلاع", "الرئتين", "القلب"],
+      "nearbyOrgans_en": ["Vertebrae", "Ribs", "Lungs", "Heart"],
+      "diseases": [
+        {
+          "name": "حداب",
+          "name_en": "Kyphosis",
+          "symptoms": ["انحناء الظهر", "ألم الظهر", "تيبس", "صعوبة في التنفس في الحالات الشديدة"],
+          "symptoms_en": ["Rounded back", "Back pain", "Stiffness", "Difficulty breathing in severe cases"],
+          "treatments": ["علاج طبيعي", "تمارين تقوية", "دعامة", "جراحة"],
+          "treatments_en": ["Physical therapy", "Strengthening exercises", "Brace", "Surgery"]
+        }
+      ],
+      "keywords": ["humpback", "dowager's hump"],
+      "chapter": 4
+    },
+    {
+      "id": 438,
+      "term": "craniostenosis",
+      "arabic": "تضيق القحف (تعظم الدروز الباكر)",
+      "latin": "craniostenosis",
+      "pronunciation": "كراي-ني-أو-ستي-نو-سيس",
+      "definition": "تشوه في الجمجمة بسبب الإغلاق المبكر للدرزات القحفية",
+      "definition_en": "A malformation of the skull due to premature closure of the cranial sutures",
+      "englishSentence": "Craniostenosis is a malformation of the skull due to premature closure of the cranial sutures.",
+      "parts": {
+        "root": { "value": "crani/o", "meaning": "جمجمة", "function": "يشير إلى الجمجمة" },
+        "suffix": { "value": "stenosis", "meaning": "تضيق", "function": "يشير إلى التضيق" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية الدماغ",
+      "systemFunction_en": "Protect brain",
+      "location": "الجمجمة",
+      "location_en": "Skull",
+      "nearbyOrgans": ["الدماغ", "العينين", "الوجه"],
+      "nearbyOrgans_en": ["Brain", "Eyes", "Face"],
+      "diseases": [
+        {
+          "name": "تعظم الدروز الباكر",
+          "name_en": "Craniosynostosis",
+          "symptoms": ["شكل غير طبيعي للرأس", "ارتفاع الضغط داخل القحف", "تأخر في النمو", "صداع"],
+          "symptoms_en": ["Abnormal head shape", "Increased intracranial pressure", "Developmental delay", "Headache"],
+          "treatments": ["جراحة", "خوذة تشكيل"],
+          "treatments_en": ["Surgery", "Molding helmet"]
+        }
+      ],
+      "keywords": ["craniosynostosis"],
+      "chapter": 4
+    },
+    {
+      "id": 439,
+      "term": "fibrous dysplasia",
+      "arabic": "خلل التنسج الليفي للعظم",
+      "latin": "dysplasia fibrosa ossis",
+      "pronunciation": "فاي-برس ديس-بلاي-زيا",
+      "definition": "اضطراب عظمي غير معروف السبب يدمر بنية العظم الطبيعية ويستبدلها بنسيج ليفي (يشبه الندبة)، مما يؤدي إلى نمو غير متساو وهشاشة وتشوه في العظام المصابة",
+      "definition_en": "A bone disorder of unknown cause that destroys normal bone structure and replaces it with fibrous tissue, leading to uneven growth, brittleness, and deformity in affected bones",
+      "englishSentence": "Fibrous dysplasia destroys normal bone structure and replaces it with fibrous tissue, leading to uneven growth and brittleness.",
+      "parts": {
+        "root1": { "value": "fibr", "meaning": "ليف", "function": "يشير إلى النسيج الليفي" },
+        "suffix": { "value": "ous", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تكوين العظام الطبيعي",
+      "systemFunction_en": "Normal bone formation",
+      "location": "عظم واحد أو عدة عظام (الجمجمة، الأضلاع، عظام الوجه)",
+      "location_en": "Single or multiple bones (skull, ribs, facial bones)",
+      "nearbyOrgans": ["العظام المصابة", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Affected bones", "Surrounding tissues"],
+      "diseases": [
+        {
+          "name": "خلل التنسج الليفي",
+          "name_en": "Fibrous dysplasia",
+          "symptoms": ["ألم عظمي", "تشوه", "كسور مرضية", "عدم تناسق في الوجه"],
+          "symptoms_en": ["Bone pain", "Deformity", "Pathological fractures", "Facial asymmetry"],
+          "treatments": ["مراقبة", "مسكنات", "جراحة", "بايفوسفونيت"],
+          "treatments_en": ["Observation", "Pain relievers", "Surgery", "Bisphosphonates"]
+        }
+      ],
+      "keywords": ["bone disorder", "fibrous tissue"],
+      "chapter": 4
+    },
+    {
+      "id": 440,
+      "term": "ostealgia",
+      "arabic": "ألم العظم",
+      "latin": "ostealgia",
+      "pronunciation": "أوس-تي-آل-جيا",
+      "definition": "ألم في العظم",
+      "definition_en": "Pain in a bone",
+      "englishSentence": "Ostealgia means pain in a bone.",
+      "parts": {
+        "root": { "value": "oste", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "suffix": { "value": "algia", "meaning": "ألم", "function": "يشير إلى وجود ألم" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم",
+      "systemFunction_en": "Support body",
+      "location": "العظام المصابة",
+      "location_en": "Affected bones",
+      "nearbyOrgans": ["العظام", "السمحاق", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Bones", "Periosteum", "Surrounding tissues"],
+      "diseases": [
+        {
+          "name": "التهاب العظم",
+          "name_en": "Osteitis",
+          "symptoms": ["ألم عظمي", "تورم", "احمرار"],
+          "symptoms_en": ["Bone pain", "Swelling", "Redness"],
+          "treatments": ["مضادات التهاب", "مسكنات", "علاج السبب"],
+          "treatments_en": ["Anti-inflammatories", "Pain relievers", "Treat cause"]
+        }
+      ],
+      "keywords": ["bone pain", "osteodynia"],
+      "chapter": 4
+    },
+    {
+      "id": 441,
+      "term": "osteodynia",
+      "arabic": "ألم العظم",
+      "latin": "osteodynia",
+      "pronunciation": "أوس-تي-أو-دين-يا",
+      "definition": "مرادف لـ ostealgia، يعني ألم في العظم",
+      "definition_en": "Synonym for ostealgia, meaning pain in a bone",
+      "englishSentence": "Osteodynia also means pain in a bone.",
+      "parts": {
+        "root": { "value": "oste", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "suffix": { "value": "dynia", "meaning": "ألم", "function": "يشير إلى وجود ألم" }
+      },
+      "type": "symptom",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم",
+      "systemFunction_en": "Support body",
+      "location": "العظام المصابة",
+      "location_en": "Affected bones",
+      "nearbyOrgans": ["العظام", "السمحاق"],
+      "nearbyOrgans_en": ["Bones", "Periosteum"],
+      "diseases": [],
+      "keywords": ["bone pain"],
+      "chapter": 4
+    },
+    {
+      "id": 442,
+      "term": "osteitis",
+      "arabic": "التهاب العظم",
+      "latin": "osteitis",
+      "pronunciation": "أوس-تي-آي-تس",
+      "definition": "التهاب في العظم",
+      "definition_en": "Inflammation of bone",
+      "englishSentence": "Osteitis is inflammation of bone.",
+      "parts": {
+        "root": { "value": "oste", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم",
+      "systemFunction_en": "Support body",
+      "location": "العظام المصابة",
+      "location_en": "Affected bones",
+      "nearbyOrgans": ["العظام", "السمحاق", "نخاع العظم"],
+      "nearbyOrgans_en": ["Bones", "Periosteum", "Bone marrow"],
+      "diseases": [
+        {
+          "name": "التهاب العظم",
+          "name_en": "Osteitis",
+          "symptoms": ["ألم عظمي", "تورم", "احمرار", "سخونة"],
+          "symptoms_en": ["Bone pain", "Swelling", "Redness", "Warmth"],
+          "treatments": ["مضادات التهاب", "مسكنات", "علاج السبب"],
+          "treatments_en": ["Anti-inflammatories", "Pain relievers", "Treat cause"]
+        }
+      ],
+      "keywords": ["bone inflammation"],
+      "chapter": 4
+    },
+    {
+      "id": 443,
+      "term": "ostitis",
+      "arabic": "التهاب العظم",
+      "latin": "ostitis",
+      "pronunciation": "أوس-تاي-تس",
+      "definition": "تهجئة بديلة لـ osteitis، تعني التهاب العظم",
+      "definition_en": "An alternate spelling of osteitis, meaning inflammation of bone",
+      "englishSentence": "Ostitis is an alternate spelling of osteitis.",
+      "parts": {
+        "root": { "value": "ost", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم",
+      "systemFunction_en": "Support body",
+      "location": "العظام المصابة",
+      "location_en": "Affected bones",
+      "nearbyOrgans": ["العظام", "السمحاق"],
+      "nearbyOrgans_en": ["Bones", "Periosteum"],
+      "diseases": [],
+      "keywords": ["bone inflammation"],
+      "chapter": 4
+    },
+    {
+      "id": 444,
+      "term": "osteomalacia",
+      "arabic": "لين العظام (تلين العظام)",
+      "latin": "osteomalacia",
+      "pronunciation": "أوس-تي-أو-ما-لاي-شيا",
+      "definition": "تليين غير طبيعي للعظام لدى البالغين، يُعرف أيضاً بالكساح عند البالغين، وعادة ما يسببه نقص فيتامين د أو الكالسيوم أو الفوسفات",
+      "definition_en": "Abnormal softening of bones in adults, also known as adult rickets, usually caused by deficiency of vitamin D, calcium, or phosphate",
+      "englishSentence": "Osteomalacia is abnormal softening of bones in adults, usually caused by vitamin D deficiency.",
+      "parts": {
+        "root": { "value": "oste/o", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "suffix": { "value": "malacia", "meaning": "لين", "function": "يشير إلى لين غير طبيعي" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم وتخزين المعادن",
+      "systemFunction_en": "Support body and store minerals",
+      "location": "جميع العظام",
+      "location_en": "All bones",
+      "nearbyOrgans": ["العظام", "العضلات", "المفاصل"],
+      "nearbyOrgans_en": ["Bones", "Muscles", "Joints"],
+      "diseases": [
+        {
+          "name": "لين العظام",
+          "name_en": "Osteomalacia",
+          "symptoms": ["ألم عظمي منتشر", "ضعف عضلي", "صعوبة في المشي", "كسور"],
+          "symptoms_en": ["Widespread bone pain", "Muscle weakness", "Difficulty walking", "Fractures"],
+          "treatments": ["مكملات فيتامين د", "مكملات كالسيوم", "علاج السبب"],
+          "treatments_en": ["Vitamin D supplements", "Calcium supplements", "Treat cause"]
+        }
+      ],
+      "keywords": ["adult rickets", "bone softening"],
+      "chapter": 4
+    },
+    {
+      "id": 445,
+      "term": "osteomyelitis",
+      "arabic": "التهاب العظم والنقي",
+      "latin": "osteomyelitis",
+      "pronunciation": "أوس-تي-أو-ماي-إي-لاي-تس",
+      "definition": "التهاب في نخاع العظم والعظم المجاور، وعادة ما تسببه عدوى بكتيرية تنتقل عبر الدم",
+      "definition_en": "Inflammation of the bone marrow and adjacent bone, often due to bacterial infection spread through the blood",
+      "englishSentence": "Osteomyelitis is inflammation of the bone marrow and adjacent bone, often due to bacterial infection.",
+      "parts": {
+        "root1": { "value": "oste/o", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "root2": { "value": "myel", "meaning": "نخاع", "function": "يشير إلى النخاع" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم وإنتاج خلايا الدم",
+      "systemFunction_en": "Support body and blood cell production",
+      "location": "العظام الطويلة (الساق، الفخذ، العضد) والفقرات",
+      "location_en": "Long bones (tibia, femur, humerus) and vertebrae",
+      "nearbyOrgans": ["نخاع العظم", "السمحاق", "الأنسجة الرخوة المحيطة"],
+      "nearbyOrgans_en": ["Bone marrow", "Periosteum", "Surrounding soft tissues"],
+      "diseases": [
+        {
+          "name": "التهاب العظم والنقي",
+          "name_en": "Osteomyelitis",
+          "symptoms": ["ألم عظمي شديد", "حمى", "تورم واحمرار", "صعوبة في تحريك المنطقة المصابة", "تعب"],
+          "symptoms_en": ["Severe bone pain", "Fever", "Swelling and redness", "Difficulty moving affected area", "Fatigue"],
+          "treatments": ["مضادات حيوية", "جراحة لتنظيف العظم", "إزالة الأنسجة الميتة"],
+          "treatments_en": ["Antibiotics", "Surgery to clean bone", "Removal of dead tissue"]
+        }
+      ],
+      "keywords": ["bone marrow infection"],
+      "chapter": 4
+    },
+    {
+      "id": 446,
+      "term": "osteonecrosis",
+      "arabic": "نخر العظم (موت العظم)",
+      "latin": "osteonecrosis",
+      "pronunciation": "أوس-تي-أو-ني-كرو-سيس",
+      "definition": "موت النسيج العظمي بسبب نقص أو انقطاع إمدادات الدم",
+      "definition_en": "Death of bone tissue due to lack or interruption of blood supply",
+      "englishSentence": "Osteonecrosis is the death of bone tissue due to lack of blood supply.",
+      "parts": {
+        "root": { "value": "oste/o", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "suffix": { "value": "necrosis", "meaning": "نخر", "function": "يشير إلى موت الأنسجة" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم",
+      "systemFunction_en": "Support body",
+      "location": "رأس عظم الفخذ، الركبة، الكتف، الكاحل",
+      "location_en": "Femoral head, knee, shoulder, ankle",
+      "nearbyOrgans": ["العظم", "المفصل", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Bone", "Joint", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "نخر عظم الفخذ",
+          "name_en": "Femoral head necrosis",
+          "symptoms": ["ألم في الورك", "عرج", "محدودية حركة", "ألم يزداد مع الحمل"],
+          "symptoms_en": ["Hip pain", "Limping", "Limited mobility", "Pain worsens with weight-bearing"],
+          "treatments": ["مسكنات", "علاج طبيعي", "جراحة", "استبدال مفصل"],
+          "treatments_en": ["Pain relievers", "Physical therapy", "Surgery", "Joint replacement"]
+        }
+      ],
+      "keywords": ["avascular necrosis", "bone death"],
+      "chapter": 4
+    },
+    {
+      "id": 447,
+      "term": "periostitis",
+      "arabic": "التهاب السمحاق",
+      "latin": "periostitis",
+      "pronunciation": "بير-ي-أوس-تاي-تس",
+      "definition": "التهاب في السمحاق (الغشاء المحيط بالعظم)، وغالباً ما يرتبط بآلام قصبة الساق (shin splints)",
+      "definition_en": "Inflammation of the periosteum (the membrane surrounding bone), often associated with shin splints",
+      "englishSentence": "Periostitis is inflammation of the periosteum, often associated with shin splints.",
+      "parts": {
+        "prefix": { "value": "peri", "meaning": "حول", "function": "يشير إلى المحيط" },
+        "root": { "value": "ost", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تغذية العظم وإصلاحه",
+      "systemFunction_en": "Nourish and repair bone",
+      "location": "غالباً قصبة الساق (الظنبوب)",
+      "location_en": "Often tibia (shin bone)",
+      "nearbyOrgans": ["السمحاق", "العظم", "العضلات المحيطة"],
+      "nearbyOrgans_en": ["Periosteum", "Bone", "Surrounding muscles"],
+      "diseases": [
+        {
+          "name": "آلام قصبة الساق",
+          "name_en": "Shin splints",
+          "symptoms": ["ألم على طول الساق", "ألم يزداد مع النشاط", "تورم خفيف"],
+          "symptoms_en": ["Pain along shin", "Pain worsens with activity", "Mild swelling"],
+          "treatments": ["راحة", "ثلج", "مسكنات", "تمارين إطالة"],
+          "treatments_en": ["Rest", "Ice", "Pain relievers", "Stretching exercises"]
+        }
+      ],
+      "keywords": ["periosteum inflammation", "shin splints"],
+      "chapter": 4
+    },
+    {
+      "id": 448,
+      "term": "rickets",
+      "arabic": "كساح",
+      "latin": "rachitis",
+      "pronunciation": "ريك-إتس",
+      "definition": "مرض نقص غذائي يحدث عند الأطفال، ويتميز بنمو عظمي معيب نتيجة نقص فيتامين د، ويُعرف أيضاً بتلين العظام الطفلي",
+      "definition_en": "A nutritional deficiency disease in children characterized by defective bone growth due to vitamin D deficiency, also known as infantile osteomalacia",
+      "englishSentence": "Rickets is a deficiency disease in children characterized by defective bone growth due to vitamin D deficiency.",
+      "parts": {
+        "root": { "value": "rick", "meaning": "كساح", "function": "يشير إلى مرض الكساح" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "نمو العظام وتكلسها",
+      "systemFunction_en": "Bone growth and calcification",
+      "location": "جميع العظام (خاصة العظام الطويلة)",
+      "location_en": "All bones (especially long bones)",
+      "nearbyOrgans": ["العظام", "الغضاريف", "العضلات"],
+      "nearbyOrgans_en": ["Bones", "Cartilage", "Muscles"],
+      "diseases": [
+        {
+          "name": "كساح الأطفال",
+          "name_en": "Rickets",
+          "symptoms": ["تقوس الساقين", "تأخر في المشي", "ألم عظمي", "ضعف عضلي", "تشوهات هيكلية"],
+          "symptoms_en": ["Bowed legs", "Delayed walking", "Bone pain", "Muscle weakness", "Skeletal deformities"],
+          "treatments": ["مكملات فيتامين د", "مكملات كالسيوم", "التعرض للشمس"],
+          "treatments_en": ["Vitamin D supplements", "Calcium supplements", "Sun exposure"]
+        }
+      ],
+      "keywords": ["infantile osteomalacia", "vitamin D deficiency"],
+      "chapter": 4
+    },
+    {
+      "id": 449,
+      "term": "fracture",
+      "arabic": "كسر",
+      "latin": "fractura",
+      "pronunciation": "فراك-تشر",
+      "definition": "انكسار أو شرخ في العظم، مع أنواع مختلفة حسب شدة ونوع الكسر",
+      "definition_en": "A break or crack in a bone, with different types depending on severity and pattern",
+      "englishSentence": "A fracture is a break in a bone.",
+      "parts": {
+        "root": { "value": "fract", "meaning": "كسر", "function": "يشير إلى الكسر" },
+        "suffix": { "value": "ure", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "injury",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم وحماية الأعضاء",
+      "systemFunction_en": "Support body and protect organs",
+      "location": "أي عظم في الجسم",
+      "location_en": "Any bone in the body",
+      "nearbyOrgans": ["العظم المكسور", "الأنسجة الرخوة المحيطة", "الأوعية الدموية", "الأعصاب"],
+      "nearbyOrgans_en": ["Broken bone", "Surrounding soft tissues", "Blood vessels", "Nerves"],
+      "diseases": [
+        {
+          "name": "كسر العظم",
+          "name_en": "Bone fracture",
+          "symptoms": ["ألم شديد", "تورم", "تشوه", "عدم القدرة على استخدام الجزء المصاب", "كدمات"],
+          "symptoms_en": ["Severe pain", "Swelling", "Deformity", "Inability to use affected part", "Bruising"],
+          "treatments": ["تجبير", "تثبيت", "جراحة", "علاج طبيعي"],
+          "treatments_en": ["Splinting", "Immobilization", "Surgery", "Physical therapy"]
+        }
+      ],
+      "keywords": ["broken bone"],
+      "chapter": 4
+    },
+    {
+      "id": 450,
+      "term": "closed fracture",
+      "arabic": "كسر مغلق (بسيط)",
+      "latin": "fractura clausa",
+      "pronunciation": "كلوزد فراك-تشر",
+      "definition": "كسر في العظم دون وجود جرح مفتوح في الجلد",
+      "definition_en": "A fracture where the bone is broken, but there is no open wound in the skin",
+      "englishSentence": "A closed fracture is one where the bone is broken, but there is no open wound in the skin.",
+      "parts": {
+        "root": { "value": "fract", "meaning": "كسر", "function": "يشير إلى الكسر" },
+        "suffix": { "value": "ure", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "injury",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم",
+      "systemFunction_en": "Support body",
+      "location": "أي عظم",
+      "location_en": "Any bone",
+      "nearbyOrgans": ["العظم المكسور", "الأنسجة الرخوة"],
+      "nearbyOrgans_en": ["Broken bone", "Soft tissues"],
+      "diseases": [],
+      "keywords": ["simple fracture", "complete fracture"],
+      "chapter": 4
+    },
+    {
+      "id": 451,
+      "term": "open fracture",
+      "arabic": "كسر مفتوح (مركب)",
+      "latin": "fractura aperta",
+      "pronunciation": "أوبن فراك-تشر",
+      "definition": "كسر في العظم مع وجود جرح مفتوح في الجلد",
+      "definition_en": "A fracture where the bone is broken and there is an open wound in the skin",
+      "englishSentence": "An open fracture is one where the bone is broken and there is an open wound in the skin.",
+      "parts": {
+        "root": { "value": "fract", "meaning": "كسر", "function": "يشير إلى الكسر" },
+        "suffix": { "value": "ure", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "injury",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم",
+      "systemFunction_en": "Support body",
+      "location": "أي عظم",
+      "location_en": "Any bone",
+      "nearbyOrgans": ["العظم المكسور", "الجلد", "الأنسجة الرخوة"],
+      "nearbyOrgans_en": ["Broken bone", "Skin", "Soft tissues"],
+      "diseases": [
+        {
+          "name": "كسر مفتوح",
+          "name_en": "Open fracture",
+          "symptoms": ["جرح مفتوح", "عظم بارز", "نزيف", "ألم شديد", "خطر عدوى"],
+          "symptoms_en": ["Open wound", "Protruding bone", "Bleeding", "Severe pain", "Infection risk"],
+          "treatments": ["تنظيف الجرح", "مضادات حيوية", "جراحة", "تثبيت"],
+          "treatments_en": ["Wound cleaning", "Antibiotics", "Surgery", "Immobilization"]
+        }
+      ],
+      "keywords": ["compound fracture"],
+      "chapter": 4
+    },
+    {
+      "id": 452,
+      "term": "comminuted fracture",
+      "arabic": "كسر مفتت",
+      "latin": "fractura comminuta",
+      "pronunciation": "كوم-إي-نو-تيد فراك-تشر",
+      "definition": "كسر يكون فيه العظم محطماً أو مفتتاً إلى قطع صغيرة",
+      "definition_en": "A fracture where the bone is splintered or crushed into small pieces",
+      "englishSentence": "A comminuted fracture is one where the bone is splintered or crushed into small pieces.",
+      "parts": {
+        "prefix": { "value": "com", "meaning": "معاً", "function": "يشير إلى التجمع" },
+        "root": { "value": "minut", "meaning": "صغير", "function": "يشير إلى الصغر" },
+        "suffix": { "value": "ed", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "injury",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم",
+      "systemFunction_en": "Support body",
+      "location": "أي عظم (غالباً في حوادث السيارات أو الإصابات الشديدة)",
+      "location_en": "Any bone (often in car accidents or severe trauma)",
+      "nearbyOrgans": ["العظم", "الأنسجة الرخوة", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Bone", "Soft tissues", "Blood vessels"],
+      "diseases": [],
+      "keywords": ["crushed bone", "splintered bone"],
+      "chapter": 4
+    },
+    {
+      "id": 453,
+      "term": "greenstick fracture",
+      "arabic": "كسر غصن النضير (الخيزران)",
+      "latin": "fractura viridis",
+      "pronunciation": "غرين-ستيك فراك-تشر",
+      "definition": "كسر غير كامل حيث ينحني العظم وينكسر جزئياً فقط، ويحدث غالباً عند الأطفال",
+      "definition_en": "An incomplete fracture where the bone is bent and only partially broken, primarily occurring in children",
+      "englishSentence": "A greenstick fracture is one where the bone is bent and only partially broken, primarily occurring in children.",
+      "parts": {
+        "root": { "value": "green", "meaning": "أخضر", "function": "يشير إلى الغصن الأخضر" },
+        "root2": { "value": "stick", "meaning": "غصن", "function": "يشير إلى الغصن" }
+      },
+      "type": "injury",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم",
+      "systemFunction_en": "Support body",
+      "location": "العظام الطويلة (الساعد، الساق) عند الأطفال",
+      "location_en": "Long bones (forearm, leg) in children",
+      "nearbyOrgans": ["العظم", "السمحاق"],
+      "nearbyOrgans_en": ["Bone", "Periosteum"],
+      "diseases": [],
+      "keywords": ["incomplete fracture", "bending fracture"],
+      "chapter": 4
+    },
+    {
+      "id": 454,
+      "term": "fat embolus",
+      "arabic": "صمة دهنية",
+      "latin": "embolus adiposus",
+      "pronunciation": "فات إم-بو-لس",
+      "definition": "يمكن أن تتشكل عندما يُكسر عظم طويل وتُطلق خلايا دهنية من نخاع العظم الأصفر إلى الدم",
+      "definition_en": "Can form when a long bone is fractured and fat cells from yellow bone marrow are released into the bloodstream",
+      "englishSentence": "A fat embolus can form when a long bone is fractured and fat cells are released into the blood.",
+      "parts": {
+        "root1": { "value": "embol", "meaning": "صمة", "function": "يشير إلى الصمة" },
+        "suffix": { "value": "us", "meaning": "مفرد", "function": "يشير إلى المفرد" }
+      },
+      "type": "condition",
+      "system": "الجهاز الدوري والهيكلي",
+      "system_en": "Circulatory and Skeletal System",
+      "systemFunction": "نقل الدم",
+      "systemFunction_en": "Blood circulation",
+      "location": "الأوعية الدموية (غالباً الرئتين)",
+      "location_en": "Blood vessels (often lungs)",
+      "nearbyOrgans": ["الرئتين", "الدماغ", "الجلد"],
+      "nearbyOrgans_en": ["Lungs", "Brain", "Skin"],
+      "diseases": [
+        {
+          "name": "متلازمة الصمة الدهنية",
+          "name_en": "Fat embolism syndrome",
+          "symptoms": ["ضيق تنفس", "تشوش ذهني", "طفح جلدي", "نقص أكسجين"],
+          "symptoms_en": ["Shortness of breath", "Confusion", "Skin rash", "Hypoxia"],
+          "treatments": ["دعم تنفسي", "علاج داعم"],
+          "treatments_en": ["Respiratory support", "Supportive care"]
+        }
+      ],
+      "keywords": ["fat embolism", "bone fracture complication"],
+      "chapter": 4
+    },
+    {
+      "id": 455,
+      "term": "crepitation",
+      "arabic": "فرقعة (صوت طقطقة)",
+      "latin": "crepitatio",
+      "pronunciation": "كريبي-تاي-شن",
+      "definition": "صوت طقطقة أو فرقعة يُسمع عندما تتحرك أطراف العظم المكسور معاً، أو في الرئتين المصابتين بالالتهاب الرئوي، أو في حركات بعض المفاصل",
+      "definition_en": "A grating or crackling sound heard when broken bone ends move together, in lungs with pneumonia, or in movements of certain joints",
+      "englishSentence": "Crepitation is a grating sound heard when bone ends move together, or crackling sounds in lungs or joints.",
+      "parts": {
+        "root": { "value": "crepit", "meaning": "فرقعة", "function": "يشير إلى صوت الطقطقة" },
+        "suffix": { "value": "ation", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "sign",
+      "system": "الجهاز الهيكلي والتنفسي",
+      "system_en": "Skeletal and Respiratory System",
+      "systemFunction": "حركة المفاصل أو التنفس",
+      "systemFunction_en": "Joint movement or breathing",
+      "location": "المفاصل، العظام المكسورة، الرئتين",
+      "location_en": "Joints, fractured bones, lungs",
+      "nearbyOrgans": ["المفصل", "العظم", "الرئة"],
+      "nearbyOrgans_en": ["Joint", "Bone", "Lung"],
+      "diseases": [],
+      "keywords": ["crepitus", "grating sound"],
+      "chapter": 4
+    },
+    {
+      "id": 456,
+      "term": "crepitus",
+      "arabic": "فرقعة",
+      "latin": "crepitus",
+      "pronunciation": "كري-بي-تس",
+      "definition": "مرادف لـ crepitation، وهو صوت الطقطقة",
+      "definition_en": "Synonym for crepitation, a crackling sound",
+      "englishSentence": "Crepitus is another term for crepitation.",
+      "parts": {
+        "root": { "value": "crepit", "meaning": "فرقعة", "function": "يشير إلى صوت الطقطقة" },
+        "suffix": { "value": "us", "meaning": "مفرد", "function": "يشير إلى المفرد" }
+      },
+      "type": "sign",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حركة المفاصل",
+      "systemFunction_en": "Joint movement",
+      "location": "المفاصل، العظام المكسورة",
+      "location_en": "Joints, fractured bones",
+      "nearbyOrgans": ["المفصل", "العظم"],
+      "nearbyOrgans_en": ["Joint", "Bone"],
+      "diseases": [],
+      "keywords": ["crackling sound"],
+      "chapter": 4
+    },
+    {
+      "id": 457,
+      "term": "callus",
+      "arabic": "دشبذ (عظمي أو جلدي)",
+      "latin": "callus",
+      "pronunciation": "كال-س",
+      "definition": "كتلة متكونة حول منطقة الكسر أثناء التئام العظم، والتي تتحول في النهاية إلى عظم؛ أو تثخن في الجلد ناتج عن الاحتكاك المتكرر",
+      "definition_en": "A mass formed around a fracture during bone healing, which eventually turns into bone; also a thickening of skin from repeated friction",
+      "englishSentence": "A callus forms as a bulging deposit around a healing bone fracture, eventually becoming bone; also a thickening of skin from repeated rubbing.",
+      "parts": {
+        "root": { "value": "call", "meaning": "دشبذ", "function": "يشير إلى الدشبذ" },
+        "suffix": { "value": "us", "meaning": "مفرد", "function": "يشير إلى المفرد" }
+      },
+      "type": "tissue",
+      "system": "الجهاز الهيكلي والجلدي",
+      "system_en": "Skeletal and Integumentary System",
+      "systemFunction": "التئام الكسور أو حماية الجلد",
+      "systemFunction_en": "Fracture healing or skin protection",
+      "location": "حول الكسور أو على الجلد (القدمين، اليدين)",
+      "location_en": "Around fractures or on skin (feet, hands)",
+      "nearbyOrgans": ["العظم", "الجلد"],
+      "nearbyOrgans_en": ["Bone", "Skin"],
+      "diseases": [],
+      "keywords": ["healing bone", "skin thickening"],
+      "chapter": 4
+    },
+    {
+      "id": 458,
+      "term": "primary bone cancer",
+      "arabic": "سرطان العظم الأولي",
+      "latin": "cancer ossis primarius",
+      "pronunciation": "براي-مير-ي بون كان-سر",
+      "definition": "ورم خبيث نادر نسبياً ينشأ في العظم نفسه",
+      "definition_en": "A relatively rare malignant tumor originating in the bone itself",
+      "englishSentence": "Primary bone cancer is a rare malignant tumor originating in a bone.",
+      "parts": {
+        "root": { "value": "cancer", "meaning": "سرطان", "function": "يشير إلى الورم الخبيث" }
+      },
+      "type": "tumor",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تكوين العظام",
+      "systemFunction_en": "Bone formation",
+      "location": "العظام (غالباً عظم الفخذ، الساق، العضد)",
+      "location_en": "Bones (often femur, tibia, humerus)",
+      "nearbyOrgans": ["العظم المصاب", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Affected bone", "Surrounding tissues"],
+      "diseases": [
+        {
+          "name": "ساركوما عظمية",
+          "name_en": "Osteosarcoma",
+          "symptoms": ["ألم عظمي", "تورم", "كتلة", "كسر مرضي"],
+          "symptoms_en": ["Bone pain", "Swelling", "Mass", "Pathological fracture"],
+          "treatments": ["جراحة", "علاج كيميائي", "علاج إشعاعي"],
+          "treatments_en": ["Surgery", "Chemotherapy", "Radiation therapy"]
+        }
+      ],
+      "keywords": ["bone sarcoma"],
+      "chapter": 4
+    },
+    {
+      "id": 459,
+      "term": "secondary bone cancer",
+      "arabic": "سرطان العظم الثانوي (النقيلي)",
+      "latin": "cancer ossis secundarius",
+      "pronunciation": "سيك-أون-داي-ري بون كان-سر",
+      "definition": "أورام انتشرت إلى العظام من أعضاء أخرى مثل الثديين والرئتين",
+      "definition_en": "Tumors that have spread (metastasized) to bones from other organs such as the breasts and lungs",
+      "englishSentence": "Secondary bone cancer describes tumors that have metastasized to bones from other organs.",
+      "parts": {
+        "root": { "value": "cancer", "meaning": "سرطان", "function": "يشير إلى الورم الخبيث" }
+      },
+      "type": "tumor",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تكوين العظام",
+      "systemFunction_en": "Bone formation",
+      "location": "العظام (غالباً العمود الفقري، الحوض، الأضلاع)",
+      "location_en": "Bones (often spine, pelvis, ribs)",
+      "nearbyOrgans": ["العظم المصاب", "موقع السرطان الأصلي"],
+      "nearbyOrgans_en": ["Affected bone", "Primary cancer site"],
+      "diseases": [
+        {
+          "name": "نقائل عظمية",
+          "name_en": "Bone metastases",
+          "symptoms": ["ألم عظمي", "كسور مرضية", "فرط كالسيوم الدم"],
+          "symptoms_en": ["Bone pain", "Pathological fractures", "Hypercalcemia"],
+          "treatments": ["علاج إشعاعي", "علاج كيميائي", "بايفوسفونيت"],
+          "treatments_en": ["Radiation therapy", "Chemotherapy", "Bisphosphonates"]
+        }
+      ],
+      "keywords": ["metastatic bone cancer", "bone metastases"],
+      "chapter": 4
+    },
+    {
+      "id": 460,
+      "term": "myeloma",
+      "arabic": "ورم نقوي (مايلوما)",
+      "latin": "myeloma",
+      "pronunciation": "ماي-إي-لو-ما",
+      "definition": "نوع من السرطان يحدث في الخلايا المكونة للدم الموجودة في نخاع العظم الأحمر",
+      "definition_en": "A type of cancer occurring in blood-forming cells in the red bone marrow",
+      "englishSentence": "A myeloma is a cancer occurring in blood-making cells in the red bone marrow.",
+      "parts": {
+        "root": { "value": "myel", "meaning": "نخاع", "function": "يشير إلى نخاع العظم" },
+        "suffix": { "value": "oma", "meaning": "ورم", "function": "يشير إلى ورم" }
+      },
+      "type": "tumor",
+      "system": "الجهاز الدموي والهيكلي",
+      "system_en": "Hematologic and Skeletal System",
+      "systemFunction": "إنتاج خلايا الدم",
+      "systemFunction_en": "Blood cell production",
+      "location": "نخاع العظم (غالباً العمود الفقري، الحوض، الأضلاع)",
+      "location_en": "Bone marrow (often spine, pelvis, ribs)",
+      "nearbyOrgans": ["نخاع العظم", "العظام", "الكلى"],
+      "nearbyOrgans_en": ["Bone marrow", "Bones", "Kidneys"],
+      "diseases": [
+        {
+          "name": "المايلوما المتعددة",
+          "name_en": "Multiple myeloma",
+          "symptoms": ["ألم عظمي", "تعب", "فقر دم", "التهابات متكررة", "فشل كلوي"],
+          "symptoms_en": ["Bone pain", "Fatigue", "Anemia", "Frequent infections", "Kidney failure"],
+          "treatments": ["علاج كيميائي", "أدوية مناعية", "زراعة نخاع العظم"],
+          "treatments_en": ["Chemotherapy", "Immunomodulatory drugs", "Bone marrow transplant"]
+        }
+      ],
+      "keywords": ["multiple myeloma", "bone marrow cancer"],
+      "chapter": 4
+    },
+    {
+      "id": 461,
+      "term": "osteochondroma",
+      "arabic": "ورم عظمي غضروفي",
+      "latin": "osteochondroma",
+      "pronunciation": "أوس-تي-أو-كون-درو-ما",
+      "definition": "نتوء عظمي حميد مغطى بالغضروف، يُعرف أيضاً بالنابتة العظمية الغضروفية (exostosis)",
+      "definition_en": "A benign bony projection covered with cartilage, also known as exostosis",
+      "englishSentence": "An osteochondroma is a benign bony projection covered with cartilage.",
+      "parts": {
+        "root1": { "value": "oste/o", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "root2": { "value": "chondr", "meaning": "غضروف", "function": "يشير إلى الغضروف" },
+        "suffix": { "value": "oma", "meaning": "ورم", "function": "يشير إلى ورم" }
+      },
+      "type": "tumor",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "نمو العظام",
+      "systemFunction_en": "Bone growth",
+      "location": "نهايات العظام الطويلة (غالباً حول الركبة)",
+      "location_en": "Ends of long bones (often around knee)",
+      "nearbyOrgans": ["العظم", "الغضروف", "المفصل المجاور"],
+      "nearbyOrgans_en": ["Bone", "Cartilage", "Adjacent joint"],
+      "diseases": [
+        {
+          "name": "ورم عظمي غضروفي",
+          "name_en": "Osteochondroma",
+          "symptoms": ["كتلة غير مؤلمة", "ألم إذا ضغط على الأعصاب", "تورم"],
+          "symptoms_en": ["Painless mass", "Pain if pressing on nerves", "Swelling"],
+          "treatments": ["مراقبة", "استئصال جراحي"],
+          "treatments_en": ["Observation", "Surgical removal"]
+        }
+      ],
+      "keywords": ["exostosis", "bone spur"],
+      "chapter": 4
+    },
+    {
+      "id": 462,
+      "term": "exostosis",
+      "arabic": "نابتة عظمية",
+      "latin": "exostosis",
+      "pronunciation": "إكس-أوس-تو-سيس",
+      "definition": "نتوء عظمي حميد، مرادف لـ osteochondroma",
+      "definition_en": "A benign bony projection, synonymous with osteochondroma",
+      "englishSentence": "Exostosis is another term for a benign bony projection.",
+      "parts": {
+        "prefix": { "value": "ex", "meaning": "خارج", "function": "يشير إلى الخارج" },
+        "root": { "value": "ost", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "suffix": { "value": "osis", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "tumor",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "نمو العظام",
+      "systemFunction_en": "Bone growth",
+      "location": "العظام",
+      "location_en": "Bones",
+      "nearbyOrgans": ["العظم", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Bone", "Surrounding tissues"],
+      "diseases": [],
+      "keywords": ["bone spur", "osteochondroma"],
+      "chapter": 4
+    },
+    {
+      "id": 463,
+      "term": "osteoporosis",
+      "arabic": "هشاشة العظام (ترقق العظام)",
+      "latin": "osteoporosis",
+      "pronunciation": "أوس-تي-أو-بو-رو-سيس",
+      "definition": "فقدان ملحوظ في كثافة العظام وزيادة في مساميتها، وغالباً ما يرتبط بالتقدم في العمر",
+      "definition_en": "A marked loss of bone density and increase in bone porosity, frequently associated with aging",
+      "englishSentence": "Osteoporosis is a marked loss of bone density and an increase in bone porosity, frequently associated with aging.",
+      "parts": {
+        "root1": { "value": "oste/o", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "root2": { "value": "por", "meaning": "مسام", "function": "يشير إلى المسامية" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم وتخزين الكالسيوم",
+      "systemFunction_en": "Support body and store calcium",
+      "location": "جميع العظام (خاصة العمود الفقري، الورك، الرسغ)",
+      "location_en": "All bones (especially spine, hip, wrist)",
+      "nearbyOrgans": ["العظام", "المفاصل", "العضلات"],
+      "nearbyOrgans_en": ["Bones", "Joints", "Muscles"],
+      "diseases": [
+        {
+          "name": "هشاشة العظام",
+          "name_en": "Osteoporosis",
+          "symptoms": ["كسور متكررة", "آلام الظهر", "انحناء الظهر", "فقدان الطول"],
+          "symptoms_en": ["Frequent fractures", "Back pain", "Curved back", "Height loss"],
+          "treatments": ["مكملات كالسيوم", "مكملات فيتامين د", "بايفوسفونيت", "تمارين رياضية"],
+          "treatments_en": ["Calcium supplements", "Vitamin D supplements", "Bisphosphonates", "Exercise"]
+        }
+      ],
+      "keywords": ["bone density loss", "porous bone"],
+      "chapter": 4
+    },
+    {
+      "id": 464,
+      "term": "osteopenia",
+      "arabic": "قلة العظام (نقص كثافة العظام)",
+      "latin": "osteopenia",
+      "pronunciation": "أوس-تي-أو-بيني-آ",
+      "definition": "كثافة عظمية أقل من المتوسط لدى الشخص الشاب، وهي حالة تُستخدم لوصف شخص ليس لديه هشاشة عظام بعد ولكنه معرض لخطر الإصابة بها",
+      "definition_en": "Bone density that is lower than average in a young person, a condition used to describe someone who does not yet have osteoporosis but is at risk for developing it",
+      "englishSentence": "Osteopenia is thinner than average bone density in a young person, indicating risk for osteoporosis.",
+      "parts": {
+        "root": { "value": "oste/o", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "suffix": { "value": "penia", "meaning": "نقص", "function": "يشير إلى النقص" }
+      },
+      "type": "condition",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم وتخزين الكالسيوم",
+      "systemFunction_en": "Support body and store calcium",
+      "location": "جميع العظام",
+      "location_en": "All bones",
+      "nearbyOrgans": ["العظام", "المفاصل"],
+      "nearbyOrgans_en": ["Bones", "Joints"],
+      "diseases": [
+        {
+          "name": "نقص كثافة العظام",
+          "name_en": "Osteopenia",
+          "symptoms": ["عادة بدون أعراض", "يزيد خطر الكسور"],
+          "symptoms_en": ["Usually asymptomatic", "Increased fracture risk"],
+          "treatments": ["مكملات كالسيوم", "مكملات فيتامين د", "تمارين رياضية", "تغذية سليمة"],
+          "treatments_en": ["Calcium supplements", "Vitamin D supplements", "Exercise", "Proper nutrition"]
+        }
+      ],
+      "keywords": ["low bone density", "pre-osteoporosis"],
+      "chapter": 4
+    },
+    {
+      "id": 465,
+      "term": "osteoporotic hip fracture",
+      "arabic": "كسر الورك الهشاشي",
+      "latin": "fractura coxae osteoporotica",
+      "pronunciation": "أوس-تي-أو-بو-رو-تيك هيب فراك-تشر",
+      "definition": "كسر الورك (كسر عظم الفخذ القريب) الذي يحدث عادة بسبب ضعف العظام الناتج عن هشاشة العظام، ويمكن أن يحدث تلقائياً أو نتيجة السقوط",
+      "definition_en": "A hip fracture (fracture of the proximal femur) usually caused by bone weakening due to osteoporosis, which can occur spontaneously or from a fall",
+      "englishSentence": "An osteoporotic hip fracture is usually caused by bone weakening due to osteoporosis and can occur spontaneously or from a fall.",
+      "parts": {
+        "root1": { "value": "oste/o", "meaning": "عظم", "function": "يشير إلى العظم" },
+        "root2": { "value": "por", "meaning": "مسام", "function": "يشير إلى المسامية" },
+        "suffix": { "value": "otic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "injury",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجسم والحركة",
+      "systemFunction_en": "Body support and movement",
+      "location": "عظم الفخذ القريب (الورك)",
+      "location_en": "Proximal femur (hip)",
+      "nearbyOrgans": ["مفصل الورك", "عظم الفخذ", "الحوض", "الأعصاب والأوعية الدموية"],
+      "nearbyOrgans_en": ["Hip joint", "Femur", "Pelvis", "Nerves and blood vessels"],
+      "diseases": [
+        {
+          "name": "كسر الورك",
+          "name_en": "Hip fracture",
+          "symptoms": ["ألم شديد في الورك", "عدم القدرة على المشي", "تقصير الساق", "دوران الساق للخارج"],
+          "symptoms_en": ["Severe hip pain", "Inability to walk", "Leg shortening", "Leg rotation outward"],
+          "treatments": ["تثبيت جراحي", "استبدال مفصل الورك", "علاج طبيعي"],
+          "treatments_en": ["Surgical fixation", "Hip replacement", "Physical therapy"]
+        }
+      ],
+      "keywords": ["broken hip", "femoral neck fracture"],
+      "chapter": 4
+    },
+    {
+      "id": 466,
+      "term": "arthrodesis",
+      "arabic": "تثبيت المفصل (دمج المفصل جراحياً)",
+      "latin": "arthrodesis",
+      "pronunciation": "آر-ثرو-دي-سيس",
+      "definition": "الدمج الجراحي لعظمتين لتثبيت المفصل (مثل الكاحل أو الكوع أو الكتف)، ويُعرف أيضاً بالقسط الجراحي",
+      "definition_en": "The surgical fusion of two bones to stiffen a joint (such as ankle, elbow, or shoulder), also known as surgical ankylosis",
+      "englishSentence": "Arthrodesis is the surgical fusion of two bones to stiffen a joint.",
+      "parts": {
+        "root": { "value": "arthr/o", "meaning": "مفصل", "function": "يشير إلى المفصل" },
+        "suffix": { "value": "desis", "meaning": "تثبيت", "function": "يشير إلى الربط أو التثبيت" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تثبيت المفاصل",
+      "systemFunction_en": "Stabilize joints",
+      "location": "المفاصل (الكاحل، الكوع، الكتف، العمود الفقري)",
+      "location_en": "Joints (ankle, elbow, shoulder, spine)",
+      "nearbyOrgans": ["العظام", "المفصل", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Bones", "Joint", "Surrounding tissues"],
+      "diseases": [],
+      "keywords": ["surgical ankylosis", "joint fusion"],
+      "chapter": 4
+    },
+    {
+      "id": 467,
+      "term": "arthrolysis",
+      "arabic": "تحرير المفصل (إذابة القسط)",
+      "latin": "arthrolysis",
+      "pronunciation": "آر-ثرو-لاي-سيس",
+      "definition": "التفكيك الجراحي لمفصل مصاب بالقسط (تصلب المفصل)",
+      "definition_en": "The surgical loosening of an ankylosed joint",
+      "englishSentence": "Arthrolysis is the surgical loosening of an ankylosed joint.",
+      "parts": {
+        "root": { "value": "arthr/o", "meaning": "مفصل", "function": "يشير إلى المفصل" },
+        "suffix": { "value": "lysis", "meaning": "تحرير", "function": "يشير إلى التحرير أو التفكيك" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تحرير المفاصل المتصلبة",
+      "systemFunction_en": "Loosen stiff joints",
+      "location": "المفاصل المتصلبة",
+      "location_en": "Stiff joints",
+      "nearbyOrgans": ["المفصل", "الأربطة", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Joint", "Ligaments", "Surrounding tissues"],
+      "diseases": [],
+      "keywords": ["joint mobilization", "loosening ankylosis"],
+      "chapter": 4
+    },
+    {
+      "id": 468,
+      "term": "arthroscopic surgery",
+      "arabic": "جراحة تنظير المفصل",
+      "latin": "chirurgia arthroscopica",
+      "pronunciation": "آر-ثرو-سكوب-يك سير-جري",
+      "definition": "إجراء طفيف التوغل لعلاج الجزء الداخلي من المفصل باستخدام منظار المفصل وأدوات تُدخل عبر شقوق صغيرة",
+      "definition_en": "A minimally invasive procedure to treat the interior of a joint using an arthroscope and instruments inserted through small incisions",
+      "englishSentence": "Arthroscopic surgery is a minimally invasive procedure for treating the interior of a joint.",
+      "parts": {
+        "root1": { "value": "arthr/o", "meaning": "مفصل", "function": "يشير إلى المفصل" },
+        "root2": { "value": "scop", "meaning": "منظار", "function": "يشير إلى الفحص البصري" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تشخيص وعلاج مشاكل المفاصل",
+      "systemFunction_en": "Diagnose and treat joint problems",
+      "location": "المفاصل (الركبة، الكتف، الكاحل، المرفق)",
+      "location_en": "Joints (knee, shoulder, ankle, elbow)",
+      "nearbyOrgans": ["المفصل", "الغضروف", "الأربطة", "الأوتار"],
+      "nearbyOrgans_en": ["Joint", "Cartilage", "Ligaments", "Tendons"],
+      "diseases": [],
+      "keywords": ["keyhole surgery", "joint scope"],
+      "chapter": 4
+    },
+    {
+      "id": 469,
+      "term": "bursectomy",
+      "arabic": "استئصال الجراب",
+      "latin": "bursectomia",
+      "pronunciation": "بير-سيك-تو-مي",
+      "definition": "الاستئصال الجراحي للجراب",
+      "definition_en": "The surgical removal of a bursa",
+      "englishSentence": "A bursectomy is the surgical removal of a bursa.",
+      "parts": {
+        "root": { "value": "burs", "meaning": "جراب", "function": "يشير إلى الجراب" },
+        "suffix": { "value": "ectomy", "meaning": "استئصال", "function": "يشير إلى الإزالة الجراحية" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تقليل الاحتكاك بين الأنسجة",
+      "systemFunction_en": "Reduce friction between tissues",
+      "location": "حول المفاصل (الكتف، المرفق، الورك، الركبة)",
+      "location_en": "Around joints (shoulder, elbow, hip, knee)",
+      "nearbyOrgans": ["المفصل", "الأوتار", "العضلات"],
+      "nearbyOrgans_en": ["Joint", "Tendons", "Muscles"],
+      "diseases": [],
+      "keywords": ["bursa removal"],
+      "chapter": 4
+    },
+    {
+      "id": 470,
+      "term": "chondroplasty",
+      "arabic": "رأب الغضروف (ترميم الغضروف)",
+      "latin": "chondroplastia",
+      "pronunciation": "كون-درو-بلاس-تي",
+      "definition": "الإصلاح الجراحي للغضروف التالف",
+      "definition_en": "The surgical repair of damaged cartilage",
+      "englishSentence": "Chondroplasty is the surgical repair of damaged cartilage.",
+      "parts": {
+        "root": { "value": "chondro", "meaning": "غضروف", "function": "يشير إلى الغضروف" },
+        "suffix": { "value": "plasty", "meaning": "رأب", "function": "يشير إلى الإصلاح الجراحي" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "توفير سطح أملس للمفاصل",
+      "systemFunction_en": "Provide smooth joint surface",
+      "location": "الغضروف المفصلي (غالباً الركبة)",
+      "location_en": "Articular cartilage (often knee)",
+      "nearbyOrgans": ["الغضروف", "المفصل", "العظم"],
+      "nearbyOrgans_en": ["Cartilage", "Joint", "Bone"],
+      "diseases": [],
+      "keywords": ["cartilage repair"],
+      "chapter": 4
+    },
+    {
+      "id": 471,
+      "term": "synovectomy",
+      "arabic": "استئصال الغشاء الزليلي",
+      "latin": "synovectomia",
+      "pronunciation": "سين-أو-فيك-تو-مي",
+      "definition": "الاستئصال الجراحي للغشاء الزليلي من المفصل، ويستخدم غالباً لإصلاح تلف المفاصل الناتج عن التهاب المفاصل الروماتويدي",
+      "definition_en": "The surgical removal of the synovial membrane from a joint, often used to repair joint damage caused by rheumatoid arthritis",
+      "englishSentence": "A synovectomy is the surgical removal of a synovial membrane from a joint.",
+      "parts": {
+        "root": { "value": "synov", "meaning": "زليلي", "function": "يشير إلى الغشاء الزليلي" },
+        "suffix": { "value": "ectomy", "meaning": "استئصال", "function": "يشير إلى الإزالة الجراحية" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "إنتاج السائل الزليلي",
+      "systemFunction_en": "Produce synovial fluid",
+      "location": "الغشاء الزليلي للمفاصل",
+      "location_en": "Synovial membrane of joints",
+      "nearbyOrgans": ["المفصل", "الغضروف", "السائل الزليلي"],
+      "nearbyOrgans_en": ["Joint", "Cartilage", "Synovial fluid"],
+      "diseases": [],
+      "keywords": ["synovial membrane removal"],
+      "chapter": 4
+    },
+    {
+      "id": 472,
+      "term": "radiograph",
+      "arabic": "صورة شعاعية (أشعة سينية)",
+      "latin": "radiographia",
+      "pronunciation": "راي-دي-أو-غراف",
+      "definition": "استخدام الأشعة السينية لتصوير كسور العظام والتشوهات الأخرى",
+      "definition_en": "The use of x-radiation to visualize bone fractures and other abnormalities",
+      "englishSentence": "A radiograph uses x-radiation to visualize bone fractures and other abnormalities.",
+      "parts": {
+        "root1": { "value": "radi/o", "meaning": "إشعاع", "function": "يشير إلى الإشعاع" },
+        "root2": { "value": "graph", "meaning": "تسجيل", "function": "يشير إلى التسجيل أو التصوير" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تصوير العظام والمفاصل",
+      "systemFunction_en": "Image bones and joints",
+      "location": "أي جزء من الجسم",
+      "location_en": "Any body part",
+      "nearbyOrgans": ["العظام", "المفاصل", "الأنسجة الرخوة"],
+      "nearbyOrgans_en": ["Bones", "Joints", "Soft tissues"],
+      "diseases": [],
+      "keywords": ["x-ray", "roentgenogram"],
+      "chapter": 4
+    },
+    {
+      "id": 473,
+      "term": "arthroscopy",
+      "arabic": "تنظير المفصل",
+      "latin": "arthroscopia",
+      "pronunciation": "آر-ثروس-كو-بي",
+      "definition": "الفحص البصري للبنية الداخلية للمفصل باستخدام منظار المفصل",
+      "definition_en": "The visual examination of the internal structure of a joint using an arthroscope",
+      "englishSentence": "Arthroscopy is the visual examination of the internal structure of a joint using an arthroscope.",
+      "parts": {
+        "root": { "value": "arthr/o", "meaning": "مفصل", "function": "يشير إلى المفصل" },
+        "suffix": { "value": "scopy", "meaning": "فحص بصري", "function": "يشير إلى الفحص بالمنظار" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تشخيص مشاكل المفاصل",
+      "systemFunction_en": "Diagnose joint problems",
+      "location": "المفاصل (الركبة، الكتف، الكاحل، المرفق)",
+      "location_en": "Joints (knee, shoulder, ankle, elbow)",
+      "nearbyOrgans": ["المفصل", "الغضروف", "الأربطة", "الأوتار"],
+      "nearbyOrgans_en": ["Joint", "Cartilage", "Ligaments", "Tendons"],
+      "diseases": [],
+      "keywords": ["joint examination", "endoscopy of joint"],
+      "chapter": 4
+    },
+    {
+      "id": 474,
+      "term": "bone marrow biopsy",
+      "arabic": "خزعة نخاع العظم",
+      "latin": "biopsia medullae ossium",
+      "pronunciation": "بون مار-رو باي-أب-سي",
+      "definition": "اختبار تشخيصي قد يكون ضرورياً بعد العثور على أنواع أو أعداد غير طبيعية من خلايا الدم الحمراء أو البيضاء في فحص تعداد الدم الكامل",
+      "definition_en": "A diagnostic test that may be necessary after abnormal types or numbers of red or white blood cells are found in a complete blood count",
+      "englishSentence": "A bone marrow biopsy may be necessary after abnormal blood cells are found in a complete blood count.",
+      "parts": {
+        "root1": { "value": "bi/o", "meaning": "حياة", "function": "يشير إلى الحياة" },
+        "root2": { "value": "ops", "meaning": "منظر", "function": "يشير إلى النظر" },
+        "suffix": { "value": "y", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الدموي والهيكلي",
+      "system_en": "Hematologic and Skeletal System",
+      "systemFunction": "تشخيص أمراض الدم ونخاع العظم",
+      "systemFunction_en": "Diagnose blood and bone marrow diseases",
+      "location": "عظم الحوض (غالباً)",
+      "location_en": "Pelvic bone (often)",
+      "nearbyOrgans": ["نخاع العظم", "العظم", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Bone marrow", "Bone", "Surrounding tissues"],
+      "diseases": [],
+      "keywords": ["marrow sample", "hematologic diagnosis"],
+      "chapter": 4
+    },
+    {
+      "id": 475,
+      "term": "bone marrow aspiration",
+      "arabic": "شفط نخاع العظم",
+      "latin": "aspiratio medullae ossium",
+      "pronunciation": "بون مار-رو أس-بير-أي-شن",
+      "definition": "استخدام حقنة لسحب نخاع العظم السائل للحصول على أنسجة لأغراض تشخيصية أو لجمع نخاع العظم لإجراءات طبية مثل زرع الخلايا الجذعية",
+      "definition_en": "Using a syringe to withdraw liquid bone marrow to obtain tissue for diagnostic purposes or to collect bone marrow for medical procedures such as stem cell transplantation",
+      "englishSentence": "Bone marrow aspiration uses a syringe to withdraw liquid bone marrow for diagnosis or stem cell transplantation.",
+      "parts": {
+        "root": { "value": "aspir", "meaning": "شفط", "function": "يشير إلى السحب" },
+        "suffix": { "value": "ation", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "procedure",
+      "system": "الجهاز الدموي والهيكلي",
+      "system_en": "Hematologic and Skeletal System",
+      "systemFunction": "تشخيص أمراض الدم وجمع الخلايا الجذعية",
+      "systemFunction_en": "Diagnose blood diseases and collect stem cells",
+      "location": "عظم الحوض (غالباً)",
+      "location_en": "Pelvic bone (often)",
+      "nearbyOrgans": ["نخاع العظم", "العظم", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Bone marrow", "Bone", "Surrounding tissues"],
+      "diseases": [],
+      "keywords": ["marrow aspiration", "stem cell harvest"],
+      "chapter": 4
+    },
+    {
+      "id": 476,
+      "term": "magnetic resonance imaging (MRI)",
+      "arabic": "التصوير بالرنين المغناطيسي",
+      "latin": "imaginatio resonantiae magneticae",
+      "pronunciation": "ماغ-نيت-يك ريز-أو-نانس إيم-آ-جينغ",
+      "definition": "تقنية تصوير تُستخدم لتصوير هياكل الأنسجة الرخوة مثل داخل المفاصل المعقدة، وهي ليست الطريقة الأكثر فعالية لتصوير الأنسجة الصلبة مثل العظام",
+      "definition_en": "An imaging technique used to image soft tissue structures such as the interior of complex joints, not the most effective method for imaging hard tissues like bone",
+      "englishSentence": "MRI is used to image soft tissue structures such as the interior of complex joints.",
+      "parts": {
+        "root": { "value": "magnet", "meaning": "مغناطيس", "function": "يشير إلى المغناطيس" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "procedure",
+      "abbreviation": "MRI",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تصوير الأنسجة الرخوة والمفاصل",
+      "systemFunction_en": "Image soft tissues and joints",
+      "location": "أي جزء من الجسم",
+      "location_en": "Any body part",
+      "nearbyOrgans": ["المفاصل", "الأربطة", "الأوتار", "الغضاريف", "العضلات"],
+      "nearbyOrgans_en": ["Joints", "Ligaments", "Tendons", "Cartilage", "Muscles"],
+      "diseases": [],
+      "keywords": ["magnetic resonance", "soft tissue imaging"],
+      "chapter": 4
+    }
+  ]
+}

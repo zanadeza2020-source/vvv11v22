@@ -1,0 +1,2437 @@
+{
+  "chapter": 6,
+  "title": "The Lymphatic and Immune Systems",
+  "arabicTitle": "الجهاز اللمفاوي والمناعي",
+  "description": "شرح تركيب ووظائف الجهاز اللمفاوي والمناعي، بما في ذلك الأعضاء اللمفاوية، الخلايا المتخصصة، تفاعلات المناعة، والاضطرابات المرتبطة بهما مثل الحساسية، أمراض المناعة الذاتية، نقص المناعة، والأورام.",
+  "description_en": "Explanation of the structure and functions of the lymphatic and immune systems, including lymphoid organs, specialized cells, immune reactions, and associated disorders such as allergies, autoimmune diseases, immunodeficiency, and tumors.",
+  "terms": [
+    {
+      "id": 601,
+      "term": "lymphatic system",
+      "arabic": "الجهاز اللمفاوي",
+      "latin": "systema lymphaticum",
+      "pronunciation": "ليم-فا-تيك سيس-تم",
+      "definition": "جهاز يعمل بالتعاون مع أجهزة الجسم الأخرى لأداء وظائف تشمل امتصاص الدهون والفيتامينات الذائبة في الدهون، إزالة الفضلات من الأنسجة، ودعم الجهاز المناعي.",
+      "definition_en": "A system that works with other body systems to perform functions including absorbing fats and fat-soluble vitamins, removing waste from tissues, and supporting the immune system.",
+      "englishSentence": "The lymphatic system performs functions including absorbing fats, removing waste, and aiding the immune system.",
+      "parts": {
+        "root": { "value": "lymph", "meaning": "لمف", "function": "يشير إلى اللمف" },
+        "suffix": { "value": "atic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "system",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "امتصاص الدهون، إزالة الفضلات، الدفاع عن الجسم ضد مسببات الأمراض",
+      "systemFunction_en": "Absorb fats, remove waste, defend body against pathogens",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": ["الجهاز الدوري", "الجهاز الهضمي", "الجهاز المناعي", "الطحال", "الغدة الزعترية"],
+      "nearbyOrgans_en": ["Circulatory system", "Digestive system", "Immune system", "Spleen", "Thymus"],
+      "diseases": [
+        {
+          "name": "وذمة لمفية",
+          "name_en": "Lymphedema",
+          "symptoms": ["تورم الأطراف", "ثقل", "تغيرات جلدية"],
+          "symptoms_en": ["Limb swelling", "Heaviness", "Skin changes"],
+          "treatments": ["تصريف لمفاوي", "جوارب ضاغطة", "علاج طبيعي"],
+          "treatments_en": ["Lymphatic drainage", "Compression garments", "Physical therapy"]
+        },
+        {
+          "name": "التهاب الأوعية اللمفاوية",
+          "name_en": "Lymphangitis",
+          "symptoms": ["خطوط حمراء تحت الجلد", "حمى", "قشعريرة", "تورم"],
+          "symptoms_en": ["Red streaks under skin", "Fever", "Chills", "Swelling"],
+          "treatments": ["مضادات حيوية", "مسكنات", "مضادات التهاب"],
+          "treatments_en": ["Antibiotics", "Pain relievers", "Anti-inflammatories"]
+        }
+      ],
+      "functions": [
+        "امتصاص الدهون والفيتامينات الذائبة في الدهون من الأمعاء الدقيقة",
+        "إزالة الفضلات من الأنسجة",
+        "تقديم المساعدة للجهاز المناعي"
+      ],
+      "keywords": ["lymph", "lymph nodes", "secondary circulatory system"],
+      "chapter": 6
+    },
+    {
+      "id": 602,
+      "term": "lymph",
+      "arabic": "لمف",
+      "latin": "lympha",
+      "pronunciation": "ليمف",
+      "definition": "سائل صافٍ مائي ينقل الفضلات والبروتينات خارج الفراغات بين خلايا الأنسجة، ويدمر البكتيريا أو مسببات الأمراض الأخرى.",
+      "definition_en": "A clear, watery fluid that transports waste products and proteins out of tissue spaces and destroys bacteria or other pathogens.",
+      "englishSentence": "Lymph is a clear, watery fluid that transports waste products and destroys pathogens.",
+      "parts": {
+        "root": { "value": "lymph", "meaning": "لمف", "function": "يشير إلى اللمف" }
+      },
+      "type": "fluid",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "نقل الفضلات والبروتينات والخلايا المناعية",
+      "systemFunction_en": "Transport waste, proteins, and immune cells",
+      "location": "الأوعية اللمفاوية والفراغات بين الخلايا",
+      "location_en": "Lymphatic vessels and interstitial spaces",
+      "nearbyOrgans": ["الأوعية اللمفاوية", "العقد اللمفاوية", "الأنسجة"],
+      "nearbyOrgans_en": ["Lymphatic vessels", "Lymph nodes", "Tissues"],
+      "diseases": [
+        {
+          "name": "داء الفيلاريات",
+          "name_en": "Filariasis",
+          "symptoms": ["تورم شديد", "سماكة الجلد", "ألم"],
+          "symptoms_en": ["Severe swelling", "Skin thickening", "Pain"],
+          "treatments": ["أدوية مضادة للطفيليات", "جراحة"],
+          "treatments_en": ["Antiparasitic drugs", "Surgery"]
+        }
+      ],
+      "keywords": ["lymphatic fluid", "tissue fluid"],
+      "chapter": 6
+    },
+    {
+      "id": 603,
+      "term": "lymphatic vessels",
+      "arabic": "أوعية لمفاوية",
+      "latin": "vasa lymphatica",
+      "pronunciation": "ليم-فا-تيك فيس-لس",
+      "definition": "أوعية تنقل اللمف من الأنسجة في جميع أنحاء الجسم وتعيد هذا السائل في النهاية إلى الدورة الدموية الوريدية.",
+      "definition_en": "Vessels that transport lymph from tissues throughout the body and eventually return this fluid to the venous circulation.",
+      "englishSentence": "Lymphatic vessels transport lymph from tissues and return it to the venous circulation.",
+      "parts": {
+        "root": { "value": "lymph", "meaning": "لمف", "function": "يشير إلى اللمف" },
+        "suffix": { "value": "atic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "vessel",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "نقل اللمف وإعادة السوائل إلى الدورة الدموية",
+      "systemFunction_en": "Transport lymph and return fluids to circulation",
+      "location": "جميع أنحاء الجسم بجانب الأوعية الدموية",
+      "location_en": "Throughout the body alongside blood vessels",
+      "nearbyOrgans": ["العقد اللمفاوية", "الأوردة", "الأنسجة"],
+      "nearbyOrgans_en": ["Lymph nodes", "Veins", "Tissues"],
+      "diseases": [
+        {
+          "name": "التهاب الأوعية اللمفاوية",
+          "name_en": "Lymphangitis",
+          "symptoms": ["خطوط حمراء", "ألم", "تورم", "حمى"],
+          "symptoms_en": ["Red streaks", "Pain", "Swelling", "Fever"],
+          "treatments": ["مضادات حيوية", "مضادات التهاب"],
+          "treatments_en": ["Antibiotics", "Anti-inflammatories"]
+        }
+      ],
+      "keywords": ["lymphatics", "lymph channels"],
+      "chapter": 6
+    },
+    {
+      "id": 604,
+      "term": "lymph nodes",
+      "arabic": "عقد لمفاوية",
+      "latin": "nodi lymphatici",
+      "pronunciation": "ليمف نودز",
+      "definition": "هياكل صغيرة على شكل حبة الفاصولياء تحتوي على خلايا لمفاوية متخصصة قادرة على تدمير مسببات الأمراض، وتعمل كمرشحات لللمف.",
+      "definition_en": "Small bean-shaped structures containing specialized lymphocytes capable of destroying pathogens, acting as filters for lymph.",
+      "englishSentence": "Lymph nodes are small bean-shaped structures containing lymphocytes that destroy pathogens and filter lymph.",
+      "parts": {
+        "root": { "value": "nod", "meaning": "عقدة", "function": "يشير إلى العقدة" }
+      },
+      "type": "organ",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تصفية اللمف وإنتاج الخلايا اللمفاوية",
+      "systemFunction_en": "Filter lymph and produce lymphocytes",
+      "location": "مناطق متفرقة من الجسم (الرقبة، الإبط، الأربية)",
+      "location_en": "Various body regions (neck, armpits, groin)",
+      "nearbyOrgans": ["الأوعية اللمفاوية", "الأنسجة المحيطة", "الغدد اللمفاوية الأخرى"],
+      "nearbyOrgans_en": ["Lymphatic vessels", "Surrounding tissues", "Other lymph nodes"],
+      "diseases": [
+        {
+          "name": "التهاب العقد اللمفاوية",
+          "name_en": "Lymphadenitis",
+          "symptoms": ["تورم العقد", "ألم", "احمرار", "حمى"],
+          "symptoms_en": ["Swollen nodes", "Pain", "Redness", "Fever"],
+          "treatments": ["مضادات حيوية", "مسكنات", "علاج السبب"],
+          "treatments_en": ["Antibiotics", "Pain relievers", "Treat cause"]
+        },
+        {
+          "name": "سرطان الغدد اللمفاوية",
+          "name_en": "Lymphoma",
+          "symptoms": ["تورم غير مؤلم", "حمى", "تعرق ليلي", "فقدان وزن"],
+          "symptoms_en": ["Painless swelling", "Fever", "Night sweats", "Weight loss"],
+          "treatments": ["علاج كيميائي", "علاج إشعاعي", "علاج مناعي"],
+          "treatments_en": ["Chemotherapy", "Radiation therapy", "Immunotherapy"]
+        }
+      ],
+      "keywords": ["lymph glands", "lymph filters"],
+      "chapter": 6
+    },
+    {
+      "id": 605,
+      "term": "lymphocytes",
+      "arabic": "لمفاويات",
+      "latin": "lymphocyti",
+      "pronunciation": "ليم-فو-سايتس",
+      "definition": "خلايا دم بيضاء متخصصة لها أدوار في كل من الجهاز اللمفاوي والمناعي، وتشمل الخلايا البائية (B cells) والتائية (T cells).",
+      "definition_en": "Specialized white blood cells with roles in both the lymphatic and immune systems, including B cells and T cells.",
+      "englishSentence": "Lymphocytes are specialized white blood cells with roles in both the lymphatic and immune systems.",
+      "parts": {
+        "root": { "value": "lymph", "meaning": "لمف", "function": "يشير إلى اللمف" },
+        "suffix": { "value": "cytes", "meaning": "خلايا", "function": "يشير إلى الخلايا" }
+      },
+      "type": "cell",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "الدفاع عن الجسم عبر المناعة الخلوية والخلطية",
+      "systemFunction_en": "Body defense through cellular and humoral immunity",
+      "location": "الدم، العقد اللمفاوية، الطحال، الأنسجة اللمفاوية",
+      "location_en": "Blood, lymph nodes, spleen, lymphoid tissues",
+      "nearbyOrgans": ["الغدة الزعترية", "الطحال", "العقد اللمفاوية"],
+      "nearbyOrgans_en": ["Thymus", "Spleen", "Lymph nodes"],
+      "diseases": [
+        {
+          "name": "ابيضاض الدم اللمفاوي",
+          "name_en": "Lymphocytic leukemia",
+          "symptoms": ["تعب", "حمى", "تضخم عقد", "التهابات متكررة"],
+          "symptoms_en": ["Fatigue", "Fever", "Enlarged nodes", "Frequent infections"],
+          "treatments": ["علاج كيميائي", "علاج مناعي", "زراعة نخاع"],
+          "treatments_en": ["Chemotherapy", "Immunotherapy", "Marrow transplant"]
+        }
+      ],
+      "keywords": ["B cells", "T cells", "lymphoid cells"],
+      "chapter": 6
+    },
+    {
+      "id": 606,
+      "term": "cervical lymph nodes",
+      "arabic": "عقد لمفاوية عنقية",
+      "latin": "nodi lymphatici cervicales",
+      "pronunciation": "سير-في-كال ليمف نودز",
+      "definition": "مجموعة من العقد اللمفاوية تقع على جانبي الرقبة",
+      "definition_en": "A group of lymph nodes located along the sides of the neck",
+      "englishSentence": "Cervical lymph nodes are located along the sides of the neck.",
+      "parts": {
+        "root": { "value": "cervic", "meaning": "عنق", "function": "يشير إلى الرقبة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تصفية اللمف القادم من الرأس والرقبة",
+      "systemFunction_en": "Filter lymph from head and neck",
+      "location": "الرقبة",
+      "location_en": "Neck",
+      "nearbyOrgans": ["الغدة الدرقية", "الحنجرة", "البلعوم", "الأوعية الدموية العنقية"],
+      "nearbyOrgans_en": ["Thyroid gland", "Larynx", "Pharynx", "Cervical blood vessels"],
+      "diseases": [
+        {
+          "name": "التهاب العقد اللمفاوية العنقية",
+          "name_en": "Cervical lymphadenitis",
+          "symptoms": ["تورم الرقبة", "ألم", "حمى", "صعوبة بلع"],
+          "symptoms_en": ["Neck swelling", "Pain", "Fever", "Difficulty swallowing"],
+          "treatments": ["مضادات حيوية", "مسكنات"],
+          "treatments_en": ["Antibiotics", "Pain relievers"]
+        }
+      ],
+      "keywords": ["neck lymph nodes"],
+      "chapter": 6
+    },
+    {
+      "id": 607,
+      "term": "axillary lymph nodes",
+      "arabic": "عقد لمفاوية إبطية",
+      "latin": "nodi lymphatici axillares",
+      "pronunciation": "آك-سي-لار-ي ليمف نودز",
+      "definition": "مجموعة من العقد اللمفاوية تقع تحت الإبطين في منطقة الإبط",
+      "definition_en": "A group of lymph nodes located under the arms in the armpits",
+      "englishSentence": "Axillary lymph nodes are located under the arms in the armpits.",
+      "parts": {
+        "root": { "value": "axill", "meaning": "إبط", "function": "يشير إلى الإبط" },
+        "suffix": { "value": "ary", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تصفية اللمف القادم من الذراعين والصدر والثديين",
+      "systemFunction_en": "Filter lymph from arms, chest, and breasts",
+      "location": "تحت الإبط",
+      "location_en": "Under arms (armpits)",
+      "nearbyOrgans": ["الثدي", "الأوعية الدموية الإبطية", "الأعصاب", "العضلات"],
+      "nearbyOrgans_en": ["Breast", "Axillary blood vessels", "Nerves", "Muscles"],
+      "diseases": [
+        {
+          "name": "سرطان الثدي النقيلي",
+          "name_en": "Metastatic breast cancer",
+          "symptoms": ["تورم العقد الإبطية", "كتلة في الثدي", "تغيرات جلدية"],
+          "symptoms_en": ["Swollen axillary nodes", "Breast lump", "Skin changes"],
+          "treatments": ["جراحة", "علاج كيميائي", "علاج إشعاعي"],
+          "treatments_en": ["Surgery", "Chemotherapy", "Radiation therapy"]
+        }
+      ],
+      "keywords": ["armpit lymph nodes"],
+      "chapter": 6
+    },
+    {
+      "id": 608,
+      "term": "inguinal lymph nodes",
+      "arabic": "عقد لمفاوية أربية",
+      "latin": "nodi lymphatici inguinales",
+      "pronunciation": "إن-غوي-نال ليمف نودز",
+      "definition": "مجموعة من العقد اللمفاوية تقع في المنطقة الأربية (أعلى الفخذ)",
+      "definition_en": "A group of lymph nodes located in the groin area of the lower abdomen",
+      "englishSentence": "Inguinal lymph nodes are located in the groin area of the lower abdomen.",
+      "parts": {
+        "root": { "value": "inguin", "meaning": "أربية", "function": "يشير إلى المنطقة الأربية" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تصفية اللمف القادم من الساقين والأعضاء التناسلية الخارجية وأسفل البطن",
+      "systemFunction_en": "Filter lymph from legs, external genitalia, and lower abdomen",
+      "location": "المنطقة الأربية",
+      "location_en": "Groin area",
+      "nearbyOrgans": ["الأعضاء التناسلية الخارجية", "الأوعية الفخذية", "أسفل البطن"],
+      "nearbyOrgans_en": ["External genitalia", "Femoral vessels", "Lower abdomen"],
+      "diseases": [
+        {
+          "name": "التهاب العقد الأربية",
+          "name_en": "Inguinal lymphadenitis",
+          "symptoms": ["تورم في الفخذ", "ألم", "احمرار", "حمى"],
+          "symptoms_en": ["Groin swelling", "Pain", "Redness", "Fever"],
+          "treatments": ["مضادات حيوية", "علاج السبب"],
+          "treatments_en": ["Antibiotics", "Treat cause"]
+        }
+      ],
+      "keywords": ["groin lymph nodes"],
+      "chapter": 6
+    },
+    {
+      "id": 609,
+      "term": "tonsils",
+      "arabic": "لوزتان",
+      "latin": "tonsillae",
+      "pronunciation": "تون-سيلز",
+      "definition": "ثلاث كتل من النسيج اللمفاوي تشكل حلقة واقية حول الجزء الخلفي من الأنف والجزء العلوي من الحلق، وتمنع دخول مسببات الأمراض عبر الأنف والفم.",
+      "definition_en": "Three masses of lymphoid tissue forming a protective ring around the back of the nose and upper throat, preventing pathogen entry through the nose and mouth.",
+      "englishSentence": "The tonsils are three masses of lymphoid tissue forming a protective ring around the back of the nose and throat.",
+      "parts": {
+        "root": { "value": "tonsill", "meaning": "لوزة", "function": "يشير إلى اللوزة" }
+      },
+      "type": "organ",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "التقاط وتدمير مسببات الأمراض الداخلة عبر الفم والأنف",
+      "systemFunction_en": "Trap and destroy pathogens entering through mouth and nose",
+      "location": "الحلق (البلعوم)",
+      "location_en": "Throat (pharynx)",
+      "nearbyOrgans": ["اللهاة", "البلعوم", "اللسان", "الحنجرة"],
+      "nearbyOrgans_en": ["Uvula", "Pharynx", "Tongue", "Larynx"],
+      "diseases": [
+        {
+          "name": "التهاب اللوزتين",
+          "name_en": "Tonsillitis",
+          "symptoms": ["ألم حلق", "حمى", "صعوبة بلع", "تورم اللوزتين"],
+          "symptoms_en": ["Sore throat", "Fever", "Difficulty swallowing", "Swollen tonsils"],
+          "treatments": ["مضادات حيوية", "مسكنات", "استئصال اللوزتين"],
+          "treatments_en": ["Antibiotics", "Pain relievers", "Tonsillectomy"]
+        }
+      ],
+      "keywords": ["palatine tonsils", "pharyngeal tonsils", "adenoids"],
+      "chapter": 6
+    },
+    {
+      "id": 610,
+      "term": "thymus",
+      "arabic": "الغدة الزعترية (التوتة)",
+      "latin": "thymus",
+      "pronunciation": "ثاي-مس",
+      "definition": "غدة صماء تقع فوق القلب، وتتكون إلى حد كبير من النسيج اللمفاوي، وتساعد الجهاز المناعي.",
+      "definition_en": "An endocrine gland located above the heart, largely composed of lymphoid tissue, assisting the immune system.",
+      "englishSentence": "The thymus is an endocrine gland located above the heart that assists the immune system.",
+      "parts": {
+        "root": { "value": "thym", "meaning": "زعترية", "function": "يشير إلى الغدة الزعترية" }
+      },
+      "type": "gland",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "نضج وتمايز الخلايا التائية",
+      "systemFunction_en": "Maturation and differentiation of T cells",
+      "location": "أعلى القلب، خلف عظمة القص",
+      "location_en": "Above heart, behind sternum",
+      "nearbyOrgans": ["القلب", "القص", "الرئتين", "القصبة الهوائية"],
+      "nearbyOrgans_en": ["Heart", "Sternum", "Lungs", "Trachea"],
+      "diseases": [
+        {
+          "name": "الوهن العضلي الوبيل",
+          "name_en": "Myasthenia gravis",
+          "symptoms": ["ضعف عضلي", "تدلي الجفون", "صعوبة بلع", "تعب"],
+          "symptoms_en": ["Muscle weakness", "Ptosis", "Difficulty swallowing", "Fatigue"],
+          "treatments": ["أدوية", "استئصال الغدة الزعترية", "تبادل البلازما"],
+          "treatments_en": ["Medications", "Thymectomy", "Plasmapheresis"]
+        },
+        {
+          "name": "ورم الغدة الزعترية",
+          "name_en": "Thymoma",
+          "symptoms": ["سعال", "ضيق تنفس", "ألم صدر", "ضعف عضلي"],
+          "symptoms_en": ["Cough", "Shortness of breath", "Chest pain", "Muscle weakness"],
+          "treatments": ["جراحة", "علاج إشعاعي"],
+          "treatments_en": ["Surgery", "Radiation therapy"]
+        }
+      ],
+      "keywords": ["thymus gland"],
+      "chapter": 6
+    },
+    {
+      "id": 611,
+      "term": "Peyer's patches",
+      "arabic": "لطخ باير (بقع باير)",
+      "latin": "noduli lymphatici aggregati",
+      "pronunciation": "بي-يرز باتش-يز",
+      "definition": "هياكل من النسيج اللمفاوي تقع على جدران اللفائفي (الجزء الأخير من الأمعاء الدقيقة)، وتعمل على حماية الجسم من دخول مسببات الأمراض عبر الجهاز الهضمي.",
+      "definition_en": "Structures of lymphoid tissue located on the walls of the ileum (final part of the small intestine), protecting the body from pathogen entry through the digestive system.",
+      "englishSentence": "Peyer's patches are lymphoid tissue structures on the ileum walls that protect against pathogens entering through the digestive system.",
+      "parts": {
+        "root": { "value": "Peyer", "meaning": "باير", "function": "يشير إلى العالم يوهان باير" }
+      },
+      "type": "structure",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "مراقبة وتدمير مسببات الأمراض في الأمعاء",
+      "systemFunction_en": "Monitor and destroy pathogens in intestines",
+      "location": "جدران اللفائفي (الأمعاء الدقيقة)",
+      "location_en": "Ileum walls (small intestine)",
+      "nearbyOrgans": ["الأمعاء الدقيقة", "الزائدة الدودية", "الغدد الليمفاوية المساريقية"],
+      "nearbyOrgans_en": ["Small intestine", "Appendix", "Mesenteric lymph nodes"],
+      "diseases": [
+        {
+          "name": "داء كرون",
+          "name_en": "Crohn's disease",
+          "symptoms": ["ألم بطني", "إسهال", "فقدان وزن", "تعب"],
+          "symptoms_en": ["Abdominal pain", "Diarrhea", "Weight loss", "Fatigue"],
+          "treatments": ["أدوية مثبطة للمناعة", "مضادات التهاب", "جراحة"],
+          "treatments_en": ["Immunosuppressants", "Anti-inflammatories", "Surgery"]
+        }
+      ],
+      "keywords": ["gut-associated lymphoid tissue", "GALT"],
+      "chapter": 6
+    },
+    {
+      "id": 612,
+      "term": "vermiform appendix",
+      "arabic": "الزائدة الدودية",
+      "latin": "appendix vermiformis",
+      "pronunciation": "فير-مي-فورم آ-بين-ديكس",
+      "definition": "امتداد صغير يشبه الدودة من الأعور (بداية الأمعاء الغليظة)، يحتوي على نسيج لمفاوي ويلعب دوراً في المناعة.",
+      "definition_en": "A small, worm-like pouch extending from the cecum (beginning of the large intestine), containing lymphoid tissue and playing a role in immunity.",
+      "englishSentence": "The vermiform appendix is a small, worm-like pouch containing lymphoid tissue.",
+      "parts": {
+        "root1": { "value": "vermi", "meaning": "دودة", "function": "يشير إلى الدودة" },
+        "root2": { "value": "form", "meaning": "شكل", "function": "يشير إلى الشكل" }
+      },
+      "type": "organ",
+      "system": "الجهاز الهضمي واللمفاوي",
+      "system_en": "Digestive and Lymphatic System",
+      "systemFunction": "دعم المناعة في الأمعاء وتخزين البكتيريا النافعة",
+      "systemFunction_en": "Support intestinal immunity and store beneficial bacteria",
+      "location": "الربع السفلي الأيمن من البطن، متصل بالأعور",
+      "location_en": "Right lower quadrant of abdomen, attached to cecum",
+      "nearbyOrgans": ["الأعور", "الأمعاء الدقيقة", "الأمعاء الغليظة", "الثرب"],
+      "nearbyOrgans_en": ["Cecum", "Small intestine", "Large intestine", "Omentum"],
+      "diseases": [
+        {
+          "name": "التهاب الزائدة الدودية",
+          "name_en": "Appendicitis",
+          "symptoms": ["ألم في الربع السفلي الأيمن", "غثيان", "قيء", "حمى"],
+          "symptoms_en": ["Right lower quadrant pain", "Nausea", "Vomiting", "Fever"],
+          "treatments": ["استئصال الزائدة الدودية", "مضادات حيوية"],
+          "treatments_en": ["Appendectomy", "Antibiotics"]
+        }
+      ],
+      "keywords": ["appendix"],
+      "chapter": 6
+    },
+    {
+      "id": 613,
+      "term": "spleen",
+      "arabic": "الطحال",
+      "latin": "splen, lien",
+      "pronunciation": "سبلين",
+      "definition": "كتلة كيسية من النسيج اللمفاوي تقع في الربع العلوي الأيسر من البطن، أسفل الحجاب الحاجز وخلف المعدة. يقوم بتصفية الكائنات الدقيقة، وتكوين اللمفاويات والوحيدات، وتدمير خلايا الدم الحمراء القديمة، وتخزين الكريات الحمراء.",
+      "definition_en": "A sac-like mass of lymphoid tissue in the left upper quadrant of the abdomen, below the diaphragm and behind the stomach. It filters microorganisms, forms lymphocytes and monocytes, destroys old red blood cells, and stores erythrocytes.",
+      "englishSentence": "The spleen filters microorganisms, forms lymphocytes, destroys old red blood cells, and stores erythrocytes.",
+      "parts": {
+        "root": { "value": "splen", "meaning": "طحال", "function": "يشير إلى الطحال" }
+      },
+      "type": "organ",
+      "system": "الجهاز اللمفاوي والمناعي والدموي",
+      "system_en": "Lymphatic, Immune, and Hematologic System",
+      "systemFunction": "تصفية الدم، إنتاج الخلايا الليمفاوية، تخزين الدم، إزالة خلايا الدم الحمراء القديمة",
+      "systemFunction_en": "Filter blood, produce lymphocytes, store blood, remove old red blood cells",
+      "location": "الربع العلوي الأيسر من البطن، تحت الحجاب الحاجز وخلف المعدة",
+      "location_en": "Left upper quadrant of abdomen, below diaphragm and behind stomach",
+      "nearbyOrgans": ["المعدة", "البنكرياس", "الكلى اليسرى", "القولون", "الحجاب الحاجز"],
+      "nearbyOrgans_en": ["Stomach", "Pancreas", "Left kidney", "Colon", "Diaphragm"],
+      "diseases": [
+        {
+          "name": "تضخم الطحال",
+          "name_en": "Splenomegaly",
+          "symptoms": ["ألم في الربع العلوي الأيسر", "شعور بالامتلاء", "فقر دم"],
+          "symptoms_en": ["Left upper quadrant pain", "Feeling of fullness", "Anemia"],
+          "treatments": ["علاج السبب", "استئصال الطحال"],
+          "treatments_en": ["Treat cause", "Splenectomy"]
+        },
+        {
+          "name": "تمزق الطحال",
+          "name_en": "Splenic rupture",
+          "symptoms": ["ألم شديد", "نزيف داخلي", "هبوط ضغط"],
+          "symptoms_en": ["Severe pain", "Internal bleeding", "Hypotension"],
+          "treatments": ["جراحة طارئة", "استئصال الطحال", "نقل دم"],
+          "treatments_en": ["Emergency surgery", "Splenectomy", "Blood transfusion"]
+        }
+      ],
+      "functions": [
+        "تصفية الكائنات الدقيقة والمواد الغريبة من الدم",
+        "تكوين اللمفاويات والوحيدات",
+        "تدمير خلايا الدم الحمراء القديمة وإطلاق الهيموجلوبين لإعادة استخدامه",
+        "تخزين الكريات الحمراء الإضافية"
+      ],
+      "keywords": ["splen/o"],
+      "chapter": 6
+    },
+    {
+      "id": 614,
+      "term": "hemolytic",
+      "arabic": "حال للدم",
+      "latin": "haemolyticus",
+      "pronunciation": "هي-مو-لي-تيك",
+      "definition": "متعلق بتدمير خلايا الدم الحمراء",
+      "definition_en": "Pertaining to the destruction of red blood cells",
+      "englishSentence": "Hemolytic refers to the destruction of red blood cells.",
+      "parts": {
+        "root": { "value": "hem/o", "meaning": "دم", "function": "يشير إلى الدم" },
+        "suffix": { "value": "lytic", "meaning": "محلل", "function": "يشير إلى التحلل" }
+      },
+      "type": "adjective",
+      "system": "الجهاز الدموي",
+      "system_en": "Hematologic System",
+      "systemFunction": "تدمير خلايا الدم الحمراء",
+      "systemFunction_en": "Destruction of red blood cells",
+      "location": "الدم والطحال",
+      "location_en": "Blood and spleen",
+      "nearbyOrgans": ["الطحال", "الكبد", "نخاع العظم"],
+      "nearbyOrgans_en": ["Spleen", "Liver", "Bone marrow"],
+      "diseases": [
+        {
+          "name": "فقر الدم الانحلالي",
+          "name_en": "Hemolytic anemia",
+          "symptoms": ["تعب", "شحوب", "يرقان", "تضخم طحال"],
+          "symptoms_en": ["Fatigue", "Pallor", "Jaundice", "Splenomegaly"],
+          "treatments": ["كورتيزون", "مثبطات مناعة", "استئصال طحال"],
+          "treatments_en": ["Corticosteroids", "Immunosuppressants", "Splenectomy"]
+        }
+      ],
+      "keywords": ["erythrocyte destruction"],
+      "chapter": 6
+    },
+    {
+      "id": 615,
+      "term": "lymphadenitis",
+      "arabic": "التهاب العقد اللمفاوية",
+      "latin": "lymphadenitis",
+      "pronunciation": "ليم-فاد-إي-ناي-تس",
+      "definition": "التهاب في العقد اللمفاوية، وغالباً ما يكون مؤشراً على وجود عدوى",
+      "definition_en": "Inflammation of the lymph nodes, often indicating an infection",
+      "englishSentence": "Lymphadenitis is inflammation of the lymph nodes, often indicating an infection.",
+      "parts": {
+        "root": { "value": "lymphaden", "meaning": "عقدة لمفاوية", "function": "يشير إلى العقدة اللمفاوية" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تصفية اللمف ومكافحة العدوى",
+      "systemFunction_en": "Filter lymph and fight infection",
+      "location": "العقد اللمفاوية (غالباً الرقبة، الإبط، الأربية)",
+      "location_en": "Lymph nodes (often neck, armpit, groin)",
+      "nearbyOrgans": ["العقد اللمفاوية", "الأوعية اللمفاوية", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Lymph nodes", "Lymphatic vessels", "Surrounding tissues"],
+      "diseases": [
+        {
+          "name": "التهاب العقد اللمفاوية",
+          "name_en": "Lymphadenitis",
+          "symptoms": ["تورم مؤلم", "احمرار", "سخونة", "حمى"],
+          "symptoms_en": ["Painful swelling", "Redness", "Warmth", "Fever"],
+          "treatments": ["مضادات حيوية", "مسكنات", "علاج السبب"],
+          "treatments_en": ["Antibiotics", "Pain relievers", "Treat cause"]
+        }
+      ],
+      "keywords": ["swollen glands", "lymph node inflammation"],
+      "chapter": 6
+    },
+    {
+      "id": 616,
+      "term": "lymphadenopathy",
+      "arabic": "اعتلال العقد اللمفاوية",
+      "latin": "lymphadenopathia",
+      "pronunciation": "ليم-فاد-إي-نوب-آ-ثي",
+      "definition": "أي عملية مرضية تؤثر على عقدة لمفاوية أو أكثر",
+      "definition_en": "Any disease process affecting one or more lymph nodes",
+      "englishSentence": "Lymphadenopathy is any disease process affecting a lymph node or nodes.",
+      "parts": {
+        "root": { "value": "lymphaden/o", "meaning": "عقدة لمفاوية", "function": "يشير إلى العقدة اللمفاوية" },
+        "suffix": { "value": "pathy", "meaning": "مرض", "function": "يشير إلى المرض" }
+      },
+      "type": "condition",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تصفية اللمف",
+      "systemFunction_en": "Filter lymph",
+      "location": "العقد اللمفاوية",
+      "location_en": "Lymph nodes",
+      "nearbyOrgans": ["العقد اللمفاوية", "الأوعية اللمفاوية"],
+      "nearbyOrgans_en": ["Lymph nodes", "Lymphatic vessels"],
+      "diseases": [
+        {
+          "name": "اعتلال العقد اللمفاوية",
+          "name_en": "Lymphadenopathy",
+          "symptoms": ["تورم العقد", "ألم", "أعراض المرض الأساسي"],
+          "symptoms_en": ["Enlarged nodes", "Pain", "Symptoms of underlying disease"],
+          "treatments": ["علاج السبب", "مراقبة"],
+          "treatments_en": ["Treat cause", "Observation"]
+        }
+      ],
+      "keywords": ["enlarged lymph nodes", "lymph node disease"],
+      "chapter": 6
+    },
+    {
+      "id": 617,
+      "term": "lymphangioma",
+      "arabic": "ورم وعائي لمفي",
+      "latin": "lymphangioma",
+      "pronunciation": "ليم-فان-جي-أو-ما",
+      "definition": "ورم حميد يتكون من تجمع غير طبيعي للأوعية اللمفاوية بسبب تشوه خلقي في الجهاز اللمفاوي",
+      "definition_en": "A benign tumor formed by abnormal accumulation of lymphatic vessels due to congenital malformation of the lymphatic system",
+      "englishSentence": "A lymphangioma is a benign tumor formed by abnormal lymphatic vessels due to congenital malformation.",
+      "parts": {
+        "root1": { "value": "lymph", "meaning": "لمف", "function": "يشير إلى اللمف" },
+        "root2": { "value": "angi", "meaning": "وعاء", "function": "يشير إلى الأوعية" },
+        "suffix": { "value": "oma", "meaning": "ورم", "function": "يشير إلى ورم" }
+      },
+      "type": "tumor",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "نقل اللمف",
+      "systemFunction_en": "Lymph transport",
+      "location": "الجلد والأنسجة تحت الجلد (غالباً الرأس والرقبة)",
+      "location_en": "Skin and subcutaneous tissues (often head and neck)",
+      "nearbyOrgans": ["الأوعية اللمفاوية", "الجلد", "العضلات"],
+      "nearbyOrgans_en": ["Lymphatic vessels", "Skin", "Muscles"],
+      "diseases": [
+        {
+          "name": "ورم وعائي لمفي",
+          "name_en": "Lymphangioma",
+          "symptoms": ["كتلة لينة", "تورم", "عادة غير مؤلم"],
+          "symptoms_en": ["Soft mass", "Swelling", "Usually painless"],
+          "treatments": ["مراقبة", "استئصال جراحي", "علاج بالليزر"],
+          "treatments_en": ["Observation", "Surgical removal", "Laser therapy"]
+        }
+      ],
+      "keywords": ["lymphatic malformation", "benign lymph vessel tumor"],
+      "chapter": 6
+    },
+    {
+      "id": 618,
+      "term": "splenomegaly",
+      "arabic": "تضخم الطحال",
+      "latin": "splenomegalia",
+      "pronunciation": "سبلي-نو-ميغ-آ-لي",
+      "definition": "تضخم غير طبيعي في الطحال، يمكن أن يحدث بسبب النزيف الناتج عن إصابة، أو مرض معدي مثل كثرة الوحيدات، أو خلل في وظائف الجهاز المناعي.",
+      "definition_en": "Abnormal enlargement of the spleen, which can occur due to bleeding from injury, infectious disease such as mononucleosis, or dysfunction of the immune system.",
+      "englishSentence": "Splenomegaly is abnormal enlargement of the spleen due to injury, infection, or immune dysfunction.",
+      "parts": {
+        "root": { "value": "splen/o", "meaning": "طحال", "function": "يشير إلى الطحال" },
+        "suffix": { "value": "megaly", "meaning": "تضخم", "function": "يشير إلى التضخم" }
+      },
+      "type": "condition",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تصفية الدم وإنتاج الخلايا المناعية",
+      "systemFunction_en": "Filter blood and produce immune cells",
+      "location": "الطحال",
+      "location_en": "Spleen",
+      "nearbyOrgans": ["المعدة", "البنكرياس", "الكلى اليسرى", "القولون"],
+      "nearbyOrgans_en": ["Stomach", "Pancreas", "Left kidney", "Colon"],
+      "diseases": [
+        {
+          "name": "تضخم الطحال",
+          "name_en": "Splenomegaly",
+          "symptoms": ["ألم في الربع العلوي الأيسر", "شعور بالامتلاء", "فقر دم"],
+          "symptoms_en": ["Left upper quadrant pain", "Feeling of fullness", "Anemia"],
+          "treatments": ["علاج السبب", "استئصال الطحال"],
+          "treatments_en": ["Treat cause", "Splenectomy"]
+        }
+      ],
+      "keywords": ["enlarged spleen"],
+      "chapter": 6
+    },
+    {
+      "id": 619,
+      "term": "splenorrhagia",
+      "arabic": "نزيف طحالي",
+      "latin": "splenorrhagia",
+      "pronunciation": "سبلي-نو-راي-جيا",
+      "definition": "نزيف من الطحال",
+      "definition_en": "Bleeding from the spleen",
+      "englishSentence": "Splenorrhagia is bleeding from the spleen.",
+      "parts": {
+        "root": { "value": "splen/o", "meaning": "طحال", "function": "يشير إلى الطحال" },
+        "suffix": { "value": "rrhagia", "meaning": "نزيف", "function": "يشير إلى النزيف" }
+      },
+      "type": "condition",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تخزين الدم",
+      "systemFunction_en": "Store blood",
+      "location": "الطحال",
+      "location_en": "Spleen",
+      "nearbyOrgans": ["الطحال", "البطن", "الحجاب الحاجز"],
+      "nearbyOrgans_en": ["Spleen", "Abdomen", "Diaphragm"],
+      "diseases": [
+        {
+          "name": "تمزق الطحال",
+          "name_en": "Splenic rupture",
+          "symptoms": ["ألم شديد", "نزيف داخلي", "هبوط ضغط"],
+          "symptoms_en": ["Severe pain", "Internal bleeding", "Hypotension"],
+          "treatments": ["جراحة طارئة", "استئصال الطحال", "نقل دم"],
+          "treatments_en": ["Emergency surgery", "Splenectomy", "Blood transfusion"]
+        }
+      ],
+      "keywords": ["splenic bleeding"],
+      "chapter": 6
+    },
+    {
+      "id": 620,
+      "term": "lymphoscintigraphy",
+      "arabic": "التصوير الومضاني للأوعية اللمفاوية",
+      "latin": "lymphoscintigraphia",
+      "pronunciation": "ليم-فو-سين-تي-جرا-في",
+      "definition": "اختبار تشخيصي يتم إجراؤه للكشف عن تلف أو تشوهات في الأوعية اللمفاوية",
+      "definition_en": "A diagnostic test performed to detect damage or abnormalities in the lymphatic vessels",
+      "englishSentence": "Lymphoscintigraphy is a diagnostic test to detect damage or malformations of lymphatic vessels.",
+      "parts": {
+        "root1": { "value": "lympho", "meaning": "لمف", "function": "يشير إلى اللمف" },
+        "root2": { "value": "scint", "meaning": "ومض", "function": "يشير إلى الوميض" },
+        "suffix": { "value": "graphy", "meaning": "تصوير", "function": "يشير إلى التصوير" }
+      },
+      "type": "procedure",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تشخيص أمراض الأوعية اللمفاوية",
+      "systemFunction_en": "Diagnose lymphatic vessel diseases",
+      "location": "الأوعية اللمفاوية",
+      "location_en": "Lymphatic vessels",
+      "nearbyOrgans": ["الأوعية اللمفاوية", "العقد اللمفاوية"],
+      "nearbyOrgans_en": ["Lymphatic vessels", "Lymph nodes"],
+      "diseases": [],
+      "keywords": ["lymphatic imaging", "lymphatic scan"],
+      "chapter": 6
+    },
+    {
+      "id": 621,
+      "term": "lymphedema",
+      "arabic": "وذمة لمفية",
+      "latin": "lymphoedema",
+      "pronunciation": "ليم-في-دي-ما",
+      "definition": "تورم بسبب تراكم غير طبيعي للسائل اللمفاوي في الأنسجة",
+      "definition_en": "Swelling due to abnormal accumulation of lymphatic fluid in the tissues",
+      "englishSentence": "Lymphedema is swelling due to abnormal accumulation of lymph fluid within the tissues.",
+      "parts": {
+        "root": { "value": "lymph", "meaning": "لمف", "function": "يشير إلى اللمف" },
+        "suffix": { "value": "edema", "meaning": "وذمة", "function": "يشير إلى التورم" }
+      },
+      "type": "condition",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تصريف السوائل من الأنسجة",
+      "systemFunction_en": "Drain fluids from tissues",
+      "location": "الأطراف (غالباً الذراعين أو الساقين)",
+      "location_en": "Limbs (often arms or legs)",
+      "nearbyOrgans": ["الجلد", "الأنسجة تحت الجلد", "الأوعية اللمفاوية"],
+      "nearbyOrgans_en": ["Skin", "Subcutaneous tissue", "Lymphatic vessels"],
+      "diseases": [
+        {
+          "name": "الوذمة اللمفية",
+          "name_en": "Lymphedema",
+          "symptoms": ["تورم", "ثقل", "تغيرات جلدية", "انزعاج"],
+          "symptoms_en": ["Swelling", "Heaviness", "Skin changes", "Discomfort"],
+          "treatments": ["تصريف لمفاوي", "جوارب ضاغطة", "علاج طبيعي"],
+          "treatments_en": ["Lymphatic drainage", "Compression garments", "Physical therapy"]
+        }
+      ],
+      "keywords": ["lymphatic swelling", "lymph obstruction"],
+      "chapter": 6
+    },
+    {
+      "id": 622,
+      "term": "primary lymphedema",
+      "arabic": "وذمة لمفية أولية",
+      "latin": "lymphoedema primarium",
+      "pronunciation": "براي-مير-ي ليم-في-دي-ما",
+      "definition": "اضطراب وراثي ناتج عن تشوه في الجهاز اللمفاوي، يسبب عادة تورماً في القدمين والساقين ويمكن أن يظهر في أي وقت من الحياة.",
+      "definition_en": "A hereditary disorder resulting from malformation of the lymphatic system, typically causing swelling in the feet and legs that can appear at any time in life.",
+      "englishSentence": "Primary lymphedema is a hereditary disorder due to malformation of the lymphatic system.",
+      "parts": {
+        "root": { "value": "prim", "meaning": "أول", "function": "يشير إلى الأولية" },
+        "suffix": { "value": "ary", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تصريف السوائل من الأنسجة",
+      "systemFunction_en": "Drain fluids from tissues",
+      "location": "القدمين والساقين",
+      "location_en": "Feet and legs",
+      "nearbyOrgans": ["الجلد", "الأنسجة تحت الجلد", "الأوعية اللمفاوية"],
+      "nearbyOrgans_en": ["Skin", "Subcutaneous tissue", "Lymphatic vessels"],
+      "diseases": [
+        {
+          "name": "داء ميلروي",
+          "name_en": "Milroy's disease",
+          "symptoms": ["تورم خلقي", "وذمة لمفية منذ الولادة"],
+          "symptoms_en": ["Congenital swelling", "Lymphedema from birth"],
+          "treatments": ["تصريف لمفاوي", "جوارب ضاغطة"],
+          "treatments_en": ["Lymphatic drainage", "Compression garments"]
+        }
+      ],
+      "keywords": ["hereditary lymphedema"],
+      "chapter": 6
+    },
+    {
+      "id": 623,
+      "term": "secondary lymphedema",
+      "arabic": "وذمة لمفية ثانوية",
+      "latin": "lymphoedema secundarium",
+      "pronunciation": "سيك-أون-داي-ري ليم-في-دي-ما",
+      "definition": "تورم ناتج عن تلف في الجهاز اللمفاوي، غالباً بسبب علاج السرطان (جراحة، علاج كيميائي، أو إشعاعي) أو الصدمات (حروق، إصابات، تندب).",
+      "definition_en": "Swelling caused by damage to the lymphatic system, often due to cancer treatment (surgery, chemotherapy, or radiation) or trauma (burns, injuries, scarring).",
+      "englishSentence": "Secondary lymphedema is caused by damage to the lymphatic system from cancer treatment or trauma.",
+      "parts": {
+        "root": { "value": "secund", "meaning": "ثان", "function": "يشير إلى الثانوية" },
+        "suffix": { "value": "ary", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز اللمفاوي والمناعي",
+      "system_en": "Lymphatic and Immune System",
+      "systemFunction": "تصريف السوائل من الأنسجة",
+      "systemFunction_en": "Drain fluids from tissues",
+      "location": "الذراع (بعد استئصال الثدي) أو الساق",
+      "location_en": "Arm (after mastectomy) or leg",
+      "nearbyOrgans": ["الجلد", "الأنسجة تحت الجلد", "الأوعية اللمفاوية"],
+      "nearbyOrgans_en": ["Skin", "Subcutaneous tissue", "Lymphatic vessels"],
+      "diseases": [
+        {
+          "name": "وذمة لمفية بعد استئصال الثدي",
+          "name_en": "Post-mastectomy lymphedema",
+          "symptoms": ["تورم الذراع", "ثقل", "محدودية حركة"],
+          "symptoms_en": ["Arm swelling", "Heaviness", "Limited mobility"],
+          "treatments": ["تصريف لمفاوي", "كم ضاغط", "علاج طبيعي"],
+          "treatments_en": ["Lymphatic drainage", "Compression sleeve", "Physical therapy"]
+        }
+      ],
+      "keywords": ["acquired lymphedema", "cancer-related lymphedema"],
+      "chapter": 6
+    },
+    {
+      "id": 624,
+      "term": "immune system",
+      "arabic": "جهاز مناعي",
+      "latin": "systema immunitatis",
+      "pronunciation": "إم-يون سيس-تم",
+      "definition": "الجهاز الذي يحمي الجسم من المواد الضارة بما في ذلك مسببات الأمراض، المواد المسببة للحساسية، السموم، والخلايا الخبيثة.",
+      "definition_en": "The system that protects the body from harmful substances including pathogens, allergens, toxins, and malignant cells.",
+      "englishSentence": "The immune system protects the body from pathogens, allergens, toxins, and malignant cells.",
+      "parts": {
+        "root": { "value": "immun", "meaning": "مناعة", "function": "يشير إلى المناعة" },
+        "suffix": { "value": "e", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "system",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "حماية الجسم من المواد الضارة ومسببات الأمراض",
+      "systemFunction_en": "Protect body from harmful substances and pathogens",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": ["الجهاز اللمفاوي", "الطحال", "الغدة الزعترية", "نخاع العظم"],
+      "nearbyOrgans_en": ["Lymphatic system", "Spleen", "Thymus", "Bone marrow"],
+      "diseases": [
+        {
+          "name": "نقص المناعة",
+          "name_en": "Immunodeficiency",
+          "symptoms": ["التهابات متكررة", "التهابات شديدة", "التهابات غير عادية"],
+          "symptoms_en": ["Frequent infections", "Severe infections", "Unusual infections"],
+          "treatments": ["علاج السبب", "جلوبيولين مناعي", "زراعة نخاع"],
+          "treatments_en": ["Treat cause", "Immunoglobulin", "Marrow transplant"]
+        },
+        {
+          "name": "مرض مناعي ذاتي",
+          "name_en": "Autoimmune disease",
+          "symptoms": ["تختلف حسب المرض", "التهاب", "ألم", "خلل وظيفي"],
+          "symptoms_en": ["Varies by disease", "Inflammation", "Pain", "Dysfunction"],
+          "treatments": ["مثبطات مناعة", "كورتيزون", "أدوية بيولوجية"],
+          "treatments_en": ["Immunosuppressants", "Corticosteroids", "Biologics"]
+        }
+      ],
+      "functions": [
+        "منع دخول المواد الضارة إلى الجسم",
+        "تدمير المواد الضارة التي تدخل الجسم"
+      ],
+      "keywords": ["immunity", "defense system"],
+      "chapter": 6
+    },
+    {
+      "id": 625,
+      "term": "pathogens",
+      "arabic": "مسببات الأمراض",
+      "latin": "pathogeni",
+      "pronunciation": "با-ثو-جينز",
+      "definition": "كائنات دقيقة مسببة للأمراض",
+      "definition_en": "Disease-producing microorganisms",
+      "englishSentence": "Pathogens are disease-producing microorganisms.",
+      "parts": {
+        "root": { "value": "patho", "meaning": "مرض", "function": "يشير إلى المرض" },
+        "suffix": { "value": "gens", "meaning": "مولد", "function": "يشير إلى المسبب" }
+      },
+      "type": "concept",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "مكافحة العدوى",
+      "systemFunction_en": "Fight infection",
+      "location": "البيئة المحيطة والجسم",
+      "location_en": "Environment and body",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [
+        {
+          "name": "الأمراض المعدية",
+          "name_en": "Infectious diseases",
+          "symptoms": "تختلف حسب العامل الممرض",
+          "symptoms_en": "Vary by pathogen",
+          "treatments": "مضادات حيوية، مضادات فيروسات، مضادات فطريات",
+          "treatments_en": "Antibiotics, antivirals, antifungals"
+        }
+      ],
+      "keywords": ["germs", "infectious agents"],
+      "chapter": 6
+    },
+    {
+      "id": 626,
+      "term": "allergens",
+      "arabic": "مواد مسببة للحساسية",
+      "latin": "allergena",
+      "pronunciation": "آل-إر-جينز",
+      "definition": "مواد تنتج تفاعلات تحسسية",
+      "definition_en": "Substances that produce allergic reactions",
+      "englishSentence": "Allergens are substances that produce allergic reactions.",
+      "parts": {
+        "root": { "value": "allerg", "meaning": "حساسية", "function": "يشير إلى الحساسية" },
+        "suffix": { "value": "ens", "meaning": "مسبب", "function": "يشير إلى المسبب" }
+      },
+      "type": "concept",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "التعرف على المواد الغريبة",
+      "systemFunction_en": "Recognize foreign substances",
+      "location": "البيئة المحيطة",
+      "location_en": "Environment",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [
+        {
+          "name": "الربو",
+          "name_en": "Asthma",
+          "symptoms": ["ضيق تنفس", "أزيز", "سعال"],
+          "symptoms_en": ["Shortness of breath", "Wheezing", "Cough"],
+          "treatments": ["موسعات شعب", "كورتيزون", "تجنب المثيرات"],
+          "treatments_en": ["Bronchodilators", "Corticosteroids", "Avoid triggers"]
+        }
+      ],
+      "keywords": ["allergy triggers"],
+      "chapter": 6
+    },
+    {
+      "id": 627,
+      "term": "toxins",
+      "arabic": "سموم",
+      "latin": "toxina",
+      "pronunciation": "توك-سينز",
+      "definition": "مواد سامة أو ضارة",
+      "definition_en": "Poisonous or harmful substances",
+      "englishSentence": "Toxins are poisonous or harmful substances.",
+      "parts": {
+        "root": { "value": "tox", "meaning": "سم", "function": "يشير إلى السم" },
+        "suffix": { "value": "ins", "meaning": "مواد", "function": "يشير إلى المواد" }
+      },
+      "type": "concept",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "إزالة السموم من الجسم",
+      "systemFunction_en": "Remove toxins from body",
+      "location": "البيئة والجسم",
+      "location_en": "Environment and body",
+      "nearbyOrgans": ["الكبد", "الكلى"],
+      "nearbyOrgans_en": ["Liver", "Kidneys"],
+      "diseases": [
+        {
+          "name": "التسمم",
+          "name_en": "Poisoning",
+          "symptoms": ["غثيان", "قيء", "إسهال", "ألم بطني"],
+          "symptoms_en": ["Nausea", "Vomiting", "Diarrhea", "Abdominal pain"],
+          "treatments": ["غسيل معدة", "ترياق", "علاج داعم"],
+          "treatments_en": ["Gastric lavage", "Antidote", "Supportive care"]
+        }
+      ],
+      "keywords": ["poisons"],
+      "chapter": 6
+    },
+    {
+      "id": 628,
+      "term": "malignant cells",
+      "arabic": "خلايا خبيثة",
+      "latin": "cellulae malignae",
+      "pronunciation": "ما-ليغ-نانت سيلز",
+      "definition": "خلايا سرطانية قد تهدد الحياة",
+      "definition_en": "Potentially life-threatening cancer cells",
+      "englishSentence": "Malignant cells are potentially life-threatening cancer cells.",
+      "parts": {
+        "root": { "value": "malign", "meaning": "خبيث", "function": "يشير إلى الخبث" },
+        "suffix": { "value": "ant", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "cell",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "نمو الخلايا",
+      "systemFunction_en": "Cell growth",
+      "location": "أنسجة وأعضاء مختلفة",
+      "location_en": "Various tissues and organs",
+      "nearbyOrgans": ["حسب موقع الورم"],
+      "nearbyOrgans_en": ["Depends on tumor location"],
+      "diseases": [
+        {
+          "name": "السرطان",
+          "name_en": "Cancer",
+          "symptoms": ["كتلة", "نزيف", "ألم", "فقدان وزن"],
+          "symptoms_en": ["Mass", "Bleeding", "Pain", "Weight loss"],
+          "treatments": ["جراحة", "علاج كيميائي", "علاج إشعاعي", "علاج مناعي"],
+          "treatments_en": ["Surgery", "Chemotherapy", "Radiation therapy", "Immunotherapy"]
+        }
+      ],
+      "keywords": ["cancer cells"],
+      "chapter": 6
+    },
+    {
+      "id": 629,
+      "term": "antigen",
+      "arabic": "مستضد",
+      "latin": "antigenum",
+      "pronunciation": "آن-تي-جين",
+      "definition": "أي مادة يعتبرها الجسم غريبة، وتشمل الفيروسات والبكتيريا والسموم والأنسجة المزروعة. يستجيب الجهاز المناعي فوراً لوجود أي مستضد.",
+      "definition_en": "Any substance regarded as foreign by the body, including viruses, bacteria, toxins, and transplanted tissues. The immune system responds immediately to any antigen.",
+      "englishSentence": "An antigen is any substance regarded as foreign by the body, triggering an immune response.",
+      "parts": {
+        "prefix": { "value": "anti", "meaning": "ضد", "function": "يشير إلى المقاومة" },
+        "root": { "value": "gen", "meaning": "مولد", "function": "يشير إلى المسبب" }
+      },
+      "type": "concept",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "تحفيز الاستجابة المناعية",
+      "systemFunction_en": "Stimulate immune response",
+      "location": "على سطح الكائنات الدقيقة والخلايا الغريبة",
+      "location_en": "On surface of microorganisms and foreign cells",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [
+        {
+          "name": "رفض الزرع",
+          "name_en": "Transplant rejection",
+          "symptoms": ["خلل في وظيفة العضو المزروع", "ألم", "حمى"],
+          "symptoms_en": ["Organ dysfunction", "Pain", "Fever"],
+          "treatments": ["مثبطات مناعة", "كورتيزون"],
+          "treatments_en": ["Immunosuppressants", "Corticosteroids"]
+        }
+      ],
+      "keywords": ["immunogen", "foreign substance"],
+      "chapter": 6
+    },
+    {
+      "id": 630,
+      "term": "antibody",
+      "arabic": "جسم مضاد",
+      "latin": "anticorpus",
+      "pronunciation": "آن-تي-بود-ي",
+      "definition": "بروتين مقاوم للأمراض يصنعه الجهاز المناعي استجابة لوجود مستضد معين، ويسمى أيضاً جلوبيولين مناعي.",
+      "definition_en": "A disease-fighting protein created by the immune system in response to a specific antigen, also called immunoglobulin.",
+      "englishSentence": "An antibody is a disease-fighting protein created by the immune system in response to a specific antigen.",
+      "parts": {
+        "prefix": { "value": "anti", "meaning": "ضد", "function": "يشير إلى المقاومة" }
+      },
+      "type": "protein",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "التعرف على المستضدات وتدميرها",
+      "systemFunction_en": "Recognize and destroy antigens",
+      "location": "الدم وسوائل الجسم",
+      "location_en": "Blood and body fluids",
+      "nearbyOrgans": ["الدم", "الجهاز اللمفاوي", "الأنسجة"],
+      "nearbyOrgans_en": ["Blood", "Lymphatic system", "Tissues"],
+      "diseases": [
+        {
+          "name": "نقص الغلوبيولين المناعي",
+          "name_en": "Immunoglobulin deficiency",
+          "symptoms": ["التهابات متكررة", "التهابات شديدة"],
+          "symptoms_en": ["Frequent infections", "Severe infections"],
+          "treatments": ["جلوبيولين مناعي وريدي"],
+          "treatments_en": ["IVIG"]
+        }
+      ],
+      "keywords": ["immunoglobulin", "Ig"],
+      "chapter": 6
+    },
+    {
+      "id": 631,
+      "term": "immunoglobulins",
+      "arabic": "جلوبيولينات مناعية",
+      "latin": "immunoglobulina",
+      "pronunciation": "إم-يو-نو-غلوب-يو-لينز",
+      "definition": "بروتينات ترتبط بمستضدات محددة في استجابة الجسم المضاد للمستضد، وهي معروفة أيضاً بالأجسام المضادة.",
+      "definition_en": "Proteins that bind with specific antigens in the antigen-antibody response, also known as antibodies.",
+      "englishSentence": "Immunoglobulins bind with specific antigens in the antigen-antibody response.",
+      "parts": {
+        "prefix": { "value": "immuno", "meaning": "مناعي", "function": "يشير إلى المناعة" },
+        "root": { "value": "globul", "meaning": "كروي", "function": "يشير إلى الشكل الكروي" },
+        "suffix": { "value": "ins", "meaning": "بروتينات", "function": "يشير إلى البروتينات" }
+      },
+      "type": "protein",
+      "abbreviation": "Igs",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "المناعة الخلطية",
+      "systemFunction_en": "Humoral immunity",
+      "location": "الدم وسوائل الجسم",
+      "location_en": "Blood and body fluids",
+      "nearbyOrgans": ["الدم", "الأنسجة اللمفاوية"],
+      "nearbyOrgans_en": ["Blood", "Lymphoid tissues"],
+      "diseases": [
+        {
+          "name": "المايلوما المتعددة",
+          "name_en": "Multiple myeloma",
+          "symptoms": ["ألم عظمي", "فقر دم", "فشل كلوي", "التهابات"],
+          "symptoms_en": ["Bone pain", "Anemia", "Kidney failure", "Infections"],
+          "treatments": ["علاج كيميائي", "أدوية مناعية", "زراعة نخاع"],
+          "treatments_en": ["Chemotherapy", "Immunomodulators", "Marrow transplant"]
+        }
+      ],
+      "keywords": ["antibodies"],
+      "chapter": 6
+    },
+    {
+      "id": 632,
+      "term": "plasma cells",
+      "arabic": "خلايا بلازمية",
+      "latin": "plasmocyti",
+      "pronunciation": "بلاز-ما سيلز",
+      "definition": "خلايا دم بيضاء متخصصة تنتج أجساماً مضادة مشفرة لتدمير مستضدات محددة.",
+      "definition_en": "Specialized white blood cells that produce antibodies coded to destroy specific antigens.",
+      "englishSentence": "Plasma cells are specialized white blood cells that produce antibodies coded to destroy specific antigens.",
+      "parts": {
+        "root": { "value": "plasm", "meaning": "بلازما", "function": "يشير إلى البلازما" }
+      },
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "إنتاج الأجسام المضادة",
+      "systemFunction_en": "Produce antibodies",
+      "location": "نخاع العظم والأنسجة اللمفاوية",
+      "location_en": "Bone marrow and lymphoid tissues",
+      "nearbyOrgans": ["نخاع العظم", "الطحال", "العقد اللمفاوية"],
+      "nearbyOrgans_en": ["Bone marrow", "Spleen", "Lymph nodes"],
+      "diseases": [
+        {
+          "name": "المايلوما المتعددة",
+          "name_en": "Multiple myeloma",
+          "symptoms": ["ألم عظمي", "فقر دم", "فشل كلوي", "التهابات"],
+          "symptoms_en": ["Bone pain", "Anemia", "Kidney failure", "Infections"],
+          "treatments": ["علاج كيميائي", "أدوية مناعية", "زراعة نخاع"],
+          "treatments_en": ["Chemotherapy", "Immunomodulators", "Marrow transplant"]
+        }
+      ],
+      "keywords": ["antibody-producing cells"],
+      "chapter": 6
+    },
+    {
+      "id": 633,
+      "term": "immunoglobulin G",
+      "arabic": "جلوبيولين مناعي G",
+      "latin": "immunoglobulinum G",
+      "pronunciation": "إم-يو-نو-غلوب-يو-لين جي",
+      "definition": "أكثر فئة وفرة من الأجسام المضادة، توجد في مصل الدم واللمف، وهي نشطة ضد البكتيريا والفطريات والفيروسات والجسيمات الغريبة.",
+      "definition_en": "The most abundant class of antibodies, found in blood serum and lymph, active against bacteria, fungi, viruses, and foreign particles.",
+      "englishSentence": "Immunoglobulin G (IgG) is the most abundant antibody class, active against bacteria, fungi, and viruses.",
+      "parts": {
+        "prefix": { "value": "immuno", "meaning": "مناعي", "function": "يشير إلى المناعة" },
+        "root": { "value": "globul", "meaning": "كروي", "function": "يشير إلى الشكل الكروي" }
+      },
+      "type": "protein",
+      "abbreviation": "IgG",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "المناعة طويلة المدى، تذكر المستضدات",
+      "systemFunction_en": "Long-term immunity, remember antigens",
+      "location": "الدم واللمف وسوائل الجسم",
+      "location_en": "Blood, lymph, and body fluids",
+      "nearbyOrgans": ["الدم", "الأنسجة"],
+      "nearbyOrgans_en": ["Blood", "Tissues"],
+      "diseases": [
+        {
+          "name": "نقص IgG",
+          "name_en": "IgG deficiency",
+          "symptoms": ["التهابات متكررة", "التهابات الجيوب الأنفية", "التهاب رئوي"],
+          "symptoms_en": ["Frequent infections", "Sinusitis", "Pneumonia"],
+          "treatments": ["جلوبيولين مناعي وريدي"],
+          "treatments_en": ["IVIG"]
+        }
+      ],
+      "keywords": ["IgG"],
+      "chapter": 6
+    },
+    {
+      "id": 634,
+      "term": "immunoglobulin A",
+      "arabic": "جلوبيولين مناعي A",
+      "latin": "immunoglobulinum A",
+      "pronunciation": "إم-يو-نو-غلوب-يو-لين إي",
+      "definition": "فئة من الأجسام المضادة تنتج بشكل أساسي ضد المستضدات المبتلعة، وتوجد في إفرازات الجسم مثل اللعاب والعرق والدموع، وتمنع ارتباط الفيروسات والبكتيريا بالأسطح الظهارية.",
+      "definition_en": "A class of antibodies produced mainly against ingested antigens, found in body secretions such as saliva, sweat, and tears, preventing viral and bacterial attachment to epithelial surfaces.",
+      "englishSentence": "Immunoglobulin A (IgA) is found in body secretions and prevents pathogen attachment to epithelial surfaces.",
+      "parts": {
+        "prefix": { "value": "immuno", "meaning": "مناعي", "function": "يشير إلى المناعة" },
+        "root": { "value": "globul", "meaning": "كروي", "function": "يشير إلى الشكل الكروي" }
+      },
+      "type": "protein",
+      "abbreviation": "IgA",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "حماية الأسطح المخاطية",
+      "systemFunction_en": "Protect mucous membranes",
+      "location": "إفرازات الجسم (اللعاب، الدموع، حليب الثدي، إفرازات الأمعاء)",
+      "location_en": "Body secretions (saliva, tears, breast milk, intestinal secretions)",
+      "nearbyOrgans": ["الجهاز التنفسي", "الجهاز الهضمي", "الغدد اللعابية", "الغدد الدمعية"],
+      "nearbyOrgans_en": ["Respiratory tract", "Digestive tract", "Salivary glands", "Lacrimal glands"],
+      "diseases": [
+        {
+          "name": "نقص IgA",
+          "name_en": "IgA deficiency",
+          "symptoms": ["التهابات الجهاز التنفسي", "التهابات الجهاز الهضمي", "حساسية"],
+          "symptoms_en": ["Respiratory infections", "Gastrointestinal infections", "Allergies"],
+          "treatments": ["علاج الأعراض", "تجنب منتجات الدم المحتوية على IgA"],
+          "treatments_en": ["Symptom management", "Avoid IgA-containing blood products"]
+        }
+      ],
+      "keywords": ["IgA", "secretory antibody"],
+      "chapter": 6
+    },
+    {
+      "id": 635,
+      "term": "immunoglobulin M",
+      "arabic": "جلوبيولين مناعي M",
+      "latin": "immunoglobulinum M",
+      "pronunciation": "إم-يو-نو-غلوب-يو-لين إم",
+      "definition": "فئة من الأجسام المضادة توجد في سوائل الجسم المنتشرة، وهي أول الأجسام المضادة التي تظهر استجابة للتعرض الأولي لمستضد.",
+      "definition_en": "A class of antibodies found in circulating body fluids, the first antibodies to appear in response to initial exposure to an antigen.",
+      "englishSentence": "Immunoglobulin M (IgM) is the first antibody to appear in response to initial antigen exposure.",
+      "parts": {
+        "prefix": { "value": "immuno", "meaning": "مناعي", "function": "يشير إلى المناعة" },
+        "root": { "value": "globul", "meaning": "كروي", "function": "يشير إلى الشكل الكروي" }
+      },
+      "type": "protein",
+      "abbreviation": "IgM",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الاستجابة الأولية للعدوى",
+      "systemFunction_en": "Primary response to infection",
+      "location": "الدم وسوائل الجسم",
+      "location_en": "Blood and body fluids",
+      "nearbyOrgans": ["الدم", "الأنسجة"],
+      "nearbyOrgans_en": ["Blood", "Tissues"],
+      "diseases": [
+        {
+          "name": "الغلوبيولين الضخم في الدم",
+          "name_en": "Macroglobulinemia",
+          "symptoms": ["تعب", "نزيف", "تشوش رؤية", "تضخم عقد"],
+          "symptoms_en": ["Fatigue", "Bleeding", "Blurred vision", "Enlarged nodes"],
+          "treatments": ["علاج كيميائي", "تبادل البلازما"],
+          "treatments_en": ["Chemotherapy", "Plasmapheresis"]
+        }
+      ],
+      "keywords": ["IgM", "primary response antibody"],
+      "chapter": 6
+    },
+    {
+      "id": 636,
+      "term": "immunoglobulin D",
+      "arabic": "جلوبيولين مناعي D",
+      "latin": "immunoglobulinum D",
+      "pronunciation": "إم-يو-نو-غلوب-يو-لين دي",
+      "definition": "فئة من الأجسام المضادة توجد فقط على سطح الخلايا البائية، وهي مهمة في تنشيط الخلايا البائية.",
+      "definition_en": "A class of antibodies found only on the surface of B cells, important in B cell activation.",
+      "englishSentence": "Immunoglobulin D (IgD) is found on B cell surfaces and is important in B cell activation.",
+      "parts": {
+        "prefix": { "value": "immuno", "meaning": "مناعي", "function": "يشير إلى المناعة" },
+        "root": { "value": "globul", "meaning": "كروي", "function": "يشير إلى الشكل الكروي" }
+      },
+      "type": "protein",
+      "abbreviation": "IgD",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "تنشيط الخلايا البائية",
+      "systemFunction_en": "Activate B cells",
+      "location": "سطح الخلايا البائية",
+      "location_en": "Surface of B cells",
+      "nearbyOrgans": ["الأنسجة اللمفاوية", "الدم"],
+      "nearbyOrgans_en": ["Lymphoid tissues", "Blood"],
+      "diseases": [],
+      "keywords": ["IgD", "B cell receptor"],
+      "chapter": 6
+    },
+    {
+      "id": 637,
+      "term": "immunoglobulin E",
+      "arabic": "جلوبيولين مناعي E",
+      "latin": "immunoglobulinum E",
+      "pronunciation": "إم-يو-نو-غلوب-يو-لين إي",
+      "definition": "فئة من الأجسام المضادة تنتج في الرئتين والجلد والأغشية المخاطية، وهي مسؤولة عن تفاعلات الحساسية.",
+      "definition_en": "A class of antibodies produced in the lungs, skin, and mucous membranes, responsible for allergic reactions.",
+      "englishSentence": "Immunoglobulin E (IgE) is responsible for allergic reactions.",
+      "parts": {
+        "prefix": { "value": "immuno", "meaning": "مناعي", "function": "يشير إلى المناعة" },
+        "root": { "value": "globul", "meaning": "كروي", "function": "يشير إلى الشكل الكروي" }
+      },
+      "type": "protein",
+      "abbreviation": "IgE",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الدفاع ضد الطفيليات والتوسط في الحساسية",
+      "systemFunction_en": "Defense against parasites and mediate allergies",
+      "location": "الرئتين، الجلد، الأغشية المخاطية",
+      "location_en": "Lungs, skin, mucous membranes",
+      "nearbyOrgans": ["الجهاز التنفسي", "الجلد", "الجهاز الهضمي"],
+      "nearbyOrgans_en": ["Respiratory tract", "Skin", "Digestive tract"],
+      "diseases": [
+        {
+          "name": "الربو التحسسي",
+          "name_en": "Allergic asthma",
+          "symptoms": ["ضيق تنفس", "أزيز", "سعال", "ضيق صدر"],
+          "symptoms_en": ["Shortness of breath", "Wheezing", "Cough", "Chest tightness"],
+          "treatments": ["موسعات شعب", "كورتيزون", "مضادات IgE"],
+          "treatments_en": ["Bronchodilators", "Corticosteroids", "Anti-IgE"]
+        },
+        {
+          "name": "التهاب الجلد التأتبي",
+          "name_en": "Atopic dermatitis",
+          "symptoms": ["حكة", "احمرار", "جفاف الجلد", "طفح"],
+          "symptoms_en": ["Itching", "Redness", "Dry skin", "Rash"],
+          "treatments": ["مرطبات", "كورتيزون موضعي", "مضادات حساسية"],
+          "treatments_en": ["Moisturizers", "Topical corticosteroids", "Antihistamines"]
+        }
+      ],
+      "keywords": ["IgE", "allergy antibody"],
+      "chapter": 6
+    },
+    {
+      "id": 638,
+      "term": "B cells",
+      "arabic": "خلايا بائية",
+      "latin": "lymphocyti B",
+      "pronunciation": "بي سيلز",
+      "definition": "لمفاويات متخصصة تنتج وتفرز الأجسام المضادة. كل لمفاوية بائية تصنع جسماً مضاداً محدداً قادراً على تدمير مستضد معين، وهي أكثر فعالية ضد الفيروسات والبكتيريا المنتشرة في الدم.",
+      "definition_en": "Specialized lymphocytes that produce and secrete antibodies. Each B lymphocyte makes a specific antibody capable of destroying a specific antigen, most effective against viruses and bacteria circulating in the blood.",
+      "englishSentence": "B cells are specialized lymphocytes that produce and secrete antibodies against specific antigens.",
+      "parts": {
+        "root": { "value": "B", "meaning": "بائي", "function": "يشير إلى الخلايا البائية (من bursa)" }
+      },
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "إنتاج الأجسام المضادة (المناعة الخلطية)",
+      "systemFunction_en": "Produce antibodies (humoral immunity)",
+      "location": "الدم، العقد اللمفاوية، الطحال، الأنسجة اللمفاوية",
+      "location_en": "Blood, lymph nodes, spleen, lymphoid tissues",
+      "nearbyOrgans": ["الطحال", "العقد اللمفاوية", "اللطخ باير"],
+      "nearbyOrgans_en": ["Spleen", "Lymph nodes", "Peyer's patches"],
+      "diseases": [
+        {
+          "name": "ابيضاض الدم اللمفاوي المزمن",
+          "name_en": "Chronic lymphocytic leukemia",
+          "symptoms": ["تعب", "تضخم عقد", "التهابات متكررة", "تضخم طحال"],
+          "symptoms_en": ["Fatigue", "Enlarged nodes", "Frequent infections", "Splenomegaly"],
+          "treatments": ["مراقبة", "علاج كيميائي", "علاج مناعي"],
+          "treatments_en": ["Observation", "Chemotherapy", "Immunotherapy"]
+        }
+      ],
+      "keywords": ["B lymphocytes", "antibody-producing cells"],
+      "chapter": 6
+    },
+    {
+      "id": 639,
+      "term": "T cells",
+      "arabic": "خلايا تائية",
+      "latin": "lymphocyti T",
+      "pronunciation": "تي سيلز",
+      "definition": "لمفاويات صغيرة تنضج في الغدة الزعترية بفعل هرمون الثيموسين. تساهم في الدفاع المناعي بتنسيق الدفاعات وقتل الخلايا المصابة عند التلامس.",
+      "definition_en": "Small lymphocytes that mature in the thymus gland under the influence of thymosin hormone. They contribute to immune defense by coordinating defenses and killing infected cells upon contact.",
+      "englishSentence": "T cells are lymphocytes that mature in the thymus and coordinate immune defenses.",
+      "parts": {
+        "root": { "value": "T", "meaning": "تائي", "function": "يشير إلى الخلايا التائية (من thymus)" }
+      },
+      "type": "cell",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "المناعة الخلوية، تنسيق الاستجابة المناعية",
+      "systemFunction_en": "Cell-mediated immunity, coordinate immune response",
+      "location": "الدم، العقد اللمفاوية، الطحال، الأنسجة اللمفاوية",
+      "location_en": "Blood, lymph nodes, spleen, lymphoid tissues",
+      "nearbyOrgans": ["الغدة الزعترية", "الطحال", "العقد اللمفاوية"],
+      "nearbyOrgans_en": ["Thymus", "Spleen", "Lymph nodes"],
+      "diseases": [
+        {
+          "name": "فيروس نقص المناعة البشرية",
+          "name_en": "HIV",
+          "symptoms": ["حمى", "تعب", "تضخم عقد", "التهابات انتهازية"],
+          "symptoms_en": ["Fever", "Fatigue", "Enlarged nodes", "Opportunistic infections"],
+          "treatments": ["مضادات فيروسات", "علاج داعم"],
+          "treatments_en": ["Antiretrovirals", "Supportive care"]
+        }
+      ],
+      "keywords": ["T lymphocytes", "cell-mediated immunity"],
+      "chapter": 6
+    },
+    {
+      "id": 640,
+      "term": "thymosin",
+      "arabic": "ثيموسين (هرمون الغدة الزعترية)",
+      "latin": "thymosinum",
+      "pronunciation": "ثاي-مو-سين",
+      "definition": "هرمون تفرزه الغدة الزعترية ويساعد في نضج الخلايا التائية",
+      "definition_en": "A hormone secreted by the thymus gland that helps T cells mature",
+      "englishSentence": "Thymosin is a hormone secreted by the thymus that helps T cells mature.",
+      "parts": {
+        "root": { "value": "thym", "meaning": "زعترية", "function": "يشير إلى الغدة الزعترية" },
+        "suffix": { "value": "in", "meaning": "بروتين", "function": "يشير إلى البروتين" }
+      },
+      "type": "hormone",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "نضج الخلايا التائية",
+      "systemFunction_en": "T cell maturation",
+      "location": "الغدة الزعترية",
+      "location_en": "Thymus gland",
+      "nearbyOrgans": ["الغدة الزعترية", "الدم"],
+      "nearbyOrgans_en": ["Thymus", "Blood"],
+      "diseases": [],
+      "keywords": ["thymic hormone"],
+      "chapter": 6
+    },
+    {
+      "id": 641,
+      "term": "interferon",
+      "arabic": "إنترفيرون",
+      "latin": "interferonum",
+      "pronunciation": "إن-تر-فير-أون",
+      "definition": "عائلة من البروتينات تنتجها الخلايا التائية، وتخصصها محاربة الفيروسات بإبطاء أو إيقاف تكاثرها.",
+      "definition_en": "A family of proteins produced by T cells, specialized to fight viruses by slowing or stopping their multiplication.",
+      "englishSentence": "Interferon is a family of proteins produced by T cells that fights viruses by slowing their multiplication.",
+      "parts": {
+        "prefix": { "value": "inter", "meaning": "بين", "function": "يشير إلى التفاعل" },
+        "root": { "value": "fer", "meaning": "يحمل", "function": "يشير إلى الحمل" },
+        "suffix": { "value": "on", "meaning": "بروتين", "function": "يشير إلى البروتين" }
+      },
+      "type": "protein",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "مكافحة الالتهابات الفيروسية",
+      "systemFunction_en": "Fight viral infections",
+      "location": "تنتجها الخلايا المصابة بالفيروسات",
+      "location_en": "Produced by virus-infected cells",
+      "nearbyOrgans": ["الدم", "الأنسجة"],
+      "nearbyOrgans_en": ["Blood", "Tissues"],
+      "diseases": [
+        {
+          "name": "التهاب الكبد الفيروسي المزمن",
+          "name_en": "Chronic viral hepatitis",
+          "symptoms": ["تعب", "يرقان", "ألم بطني"],
+          "symptoms_en": ["Fatigue", "Jaundice", "Abdominal pain"],
+          "treatments": ["إنترفيرون", "مضادات فيروسات"],
+          "treatments_en": ["Interferon", "Antivirals"]
+        }
+      ],
+      "keywords": ["antiviral proteins"],
+      "chapter": 6
+    },
+    {
+      "id": 642,
+      "term": "lymphokines",
+      "arabic": "ليمفوكينات",
+      "latin": "lymphokinae",
+      "pronunciation": "ليم-فو-كينز",
+      "definition": "بروتينات تنتجها الخلايا التائية، توجه استجابة الجسم المضاد للمستضد عن طريق الإشارة بين خلايا الجهاز المناعي، وتجذب البلاعم إلى موقع العدوى.",
+      "definition_en": "Proteins produced by T cells that direct the antigen-antibody response by signaling between immune system cells and attract macrophages to the infection site.",
+      "englishSentence": "Lymphokines are proteins produced by T cells that signal between immune cells and attract macrophages.",
+      "parts": {
+        "root": { "value": "lymph", "meaning": "لمف", "function": "يشير إلى اللمف" },
+        "suffix": { "value": "kines", "meaning": "حركة", "function": "يشير إلى الحركة والتنشيط" }
+      },
+      "type": "protein",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "التواصل بين خلايا الجهاز المناعي",
+      "systemFunction_en": "Communication between immune cells",
+      "location": "تنتجها الخلايا التائية",
+      "location_en": "Produced by T cells",
+      "nearbyOrgans": ["الأنسجة اللمفاوية", "مواقع الالتهاب"],
+      "nearbyOrgans_en": ["Lymphoid tissues", "Inflammation sites"],
+      "diseases": [],
+      "keywords": ["cytokines", "immune signaling"],
+      "chapter": 6
+    },
+    {
+      "id": 643,
+      "term": "complement",
+      "arabic": "المتممة (النظام المتمم)",
+      "latin": "complementum",
+      "pronunciation": "كوم-بلي-منت",
+      "definition": "مجموعة من البروتينات التي تنتشر عادة في الدم بشكل غير نشط وتنشط عند التلامس مع مستضدات غير محددة مثل خلايا الدم الغريبة أو البكتيريا، ثم تحدد هذه الغزاة وتجذب البلعميات لتدميرها.",
+      "definition_en": "A group of proteins that normally circulate in the blood in an inactive form and activate upon contact with nonspecific antigens such as foreign blood cells or bacteria, then mark these invaders and attract phagocytes to destroy them.",
+      "englishSentence": "Complement is a group of inactive proteins in blood that activate upon contact with antigens to destroy them.",
+      "parts": {
+        "prefix": { "value": "com", "meaning": "معاً", "function": "يشير إلى المشاركة" },
+        "root": { "value": "ple", "meaning": "يملأ", "function": "يشير إلى الإكمال" },
+        "suffix": { "value": "ment", "meaning": "نتيجة", "function": "يشير إلى النتيجة" }
+      },
+      "type": "protein",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "تدمير مسببات الأمراض عبر سلسلة من التفاعلات",
+      "systemFunction_en": "Destroy pathogens through cascade reactions",
+      "location": "الدم وسوائل الجسم",
+      "location_en": "Blood and body fluids",
+      "nearbyOrgans": ["الدم", "الكبد", "الأنسجة"],
+      "nearbyOrgans_en": ["Blood", "Liver", "Tissues"],
+      "diseases": [
+        {
+          "name": "نقص المتممة",
+          "name_en": "Complement deficiency",
+          "symptoms": ["التهابات متكررة", "التهابات بكتيرية شديدة", "أمراض مناعة ذاتية"],
+          "symptoms_en": ["Frequent infections", "Severe bacterial infections", "Autoimmune diseases"],
+          "treatments": ["الوقاية", "تطعيمات", "علاج العدوى"],
+          "treatments_en": ["Prevention", "Vaccinations", "Treat infections"]
+        }
+      ],
+      "keywords": ["complement system"],
+      "chapter": 6
+    },
+    {
+      "id": 644,
+      "term": "natural immunity",
+      "arabic": "مناعة طبيعية",
+      "latin": "immunitas naturalis",
+      "pronunciation": "نات-شو-رال إم-يو-ني-تي",
+      "definition": "مناعة تنتقل من الأم إلى جنينها قبل الولادة، وتستمر لفترة قصيرة فقط.",
+      "definition_en": "Immunity passed from mother to fetus before birth, lasting only a short time.",
+      "englishSentence": "Natural immunity is passed from mother to fetus before birth and lasts only a short time.",
+      "parts": {
+        "root": { "value": "natur", "meaning": "طبيعة", "function": "يشير إلى الطبيعة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "concept",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "حماية المولود في الأشهر الأولى",
+      "systemFunction_en": "Protect newborn in first months",
+      "location": "دم الأم والجنين",
+      "location_en": "Mother and fetal blood",
+      "nearbyOrgans": ["المشيمة", "الدم"],
+      "nearbyOrgans_en": ["Placenta", "Blood"],
+      "diseases": [],
+      "keywords": ["innate immunity", "congenital immunity"],
+      "chapter": 6
+    },
+    {
+      "id": 645,
+      "term": "passive immunity",
+      "arabic": "مناعة سلبية",
+      "latin": "immunitas passiva",
+      "pronunciation": "باس-إيف إم-يو-ني-تي",
+      "definition": "مناعة تنتقل من الأم إلى طفلها بعد الولادة من خلال حليب الثدي.",
+      "definition_en": "Immunity passed from mother to child after birth through breast milk.",
+      "englishSentence": "Passive immunity is passed from mother to child after birth through breast milk.",
+      "parts": {
+        "root": { "value": "pass", "meaning": "سلب", "function": "يشير إلى السلبية" },
+        "suffix": { "value": "ive", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "concept",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "حماية الرضيع",
+      "systemFunction_en": "Protect infant",
+      "location": "حليب الثدي",
+      "location_en": "Breast milk",
+      "nearbyOrgans": ["الثدي", "الجهاز الهضمي للرضيع"],
+      "nearbyOrgans_en": ["Breast", "Infant digestive tract"],
+      "diseases": [],
+      "keywords": ["maternal immunity"],
+      "chapter": 6
+    },
+    {
+      "id": 646,
+      "term": "acquired immunity",
+      "arabic": "مناعة مكتسبة",
+      "latin": "immunitas acquisita",
+      "pronunciation": "آك-كوايرد إم-يو-ني-تي",
+      "definition": "إنتاج الأجسام المضادة ضد مستضد معين بواسطة الجهاز المناعي إما عن طريق الإصابة بمرض معدي (مثل جدري الماء) أو عن طريق التطعيم ضد مرض (مثل شلل الأطفال).",
+      "definition_en": "Production of antibodies against a specific antigen by the immune system either through contracting an infectious disease (such as chickenpox) or through vaccination against a disease (such as polio).",
+      "englishSentence": "Acquired immunity is the production of antibodies against a specific antigen through infection or vaccination.",
+      "parts": {
+        "prefix": { "value": "ac", "meaning": "إلى", "function": "يشير إلى الاتجاه" },
+        "root": { "value": "quir", "meaning": "يكتسب", "function": "يشير إلى الاكتساب" },
+        "suffix": { "value": "ed", "meaning": "ماضي", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "concept",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "حماية طويلة المدى ضد مسببات الأمراض المحددة",
+      "systemFunction_en": "Long-term protection against specific pathogens",
+      "location": "جهاز المناعة بأكمله",
+      "location_en": "Entire immune system",
+      "nearbyOrgans": ["الأنسجة اللمفاوية", "الدم"],
+      "nearbyOrgans_en": ["Lymphoid tissues", "Blood"],
+      "diseases": [],
+      "keywords": ["active immunity"],
+      "chapter": 6
+    },
+    {
+      "id": 647,
+      "term": "vaccination",
+      "arabic": "تطعيم",
+      "latin": "vaccinatio",
+      "pronunciation": "فاك-سي-ناي-شن",
+      "definition": "توفير الحماية للأفراد المعرضين للإصابة من الأمراض المعدية عن طريق إعطاء لقاح لتوفير مناعة مكتسبة ضد مرض معين.",
+      "definition_en": "Providing protection to susceptible individuals from communicable diseases by administering a vaccine to provide acquired immunity against a specific disease.",
+      "englishSentence": "Vaccination provides protection from communicable diseases by administering a vaccine.",
+      "parts": {
+        "root": { "value": "vaccin", "meaning": "لقاح", "function": "يشير إلى اللقاح" },
+        "suffix": { "value": "ation", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "procedure",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "تحفيز المناعة المكتسبة ضد أمراض محددة",
+      "systemFunction_en": "Stimulate acquired immunity against specific diseases",
+      "location": "موقع الحقن (غالباً العضلة)",
+      "location_en": "Injection site (often muscle)",
+      "nearbyOrgans": ["العضلات", "الجلد", "الأنسجة اللمفاوية"],
+      "nearbyOrgans_en": ["Muscles", "Skin", "Lymphoid tissues"],
+      "diseases": [],
+      "keywords": ["immunization"],
+      "chapter": 6
+    },
+    {
+      "id": 648,
+      "term": "vaccine",
+      "arabic": "لقاح",
+      "latin": "vaccinum",
+      "pronunciation": "فاك-سين",
+      "definition": "مستحضر يحتوي على مستضد، يتكون من كائنات مسببة للمرض كاملة أو جزئية تم قتلها أو إضعافها.",
+      "definition_en": "A preparation containing an antigen, consisting of whole or partial disease-causing organisms that have been killed or weakened.",
+      "englishSentence": "A vaccine is a preparation containing an antigen from weakened or killed pathogens.",
+      "parts": {
+        "root": { "value": "vaccin", "meaning": "لقاح", "function": "يشير إلى اللقاح" },
+        "suffix": { "value": "e", "meaning": "اسم", "function": "يشير إلى المادة" }
+      },
+      "type": "substance",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "تحفيز إنتاج الأجسام المضادة دون التسبب بالمرض",
+      "systemFunction_en": "Stimulate antibody production without causing disease",
+      "location": "تعطى في العضل أو تحت الجلد",
+      "location_en": "Given intramuscularly or subcutaneously",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["immunizing agent"],
+      "chapter": 6
+    },
+    {
+      "id": 649,
+      "term": "allergic reaction",
+      "arabic": "تفاعل تحسسي",
+      "latin": "reactio allergica",
+      "pronunciation": "آ-لير-جيك ري-آك-شن",
+      "definition": "يحدث عندما يتفاعل الجهاز المناعي للجسم مع مادة مسببة للحساسية غير ضارة مثل حبوب اللقاح أو الطعام.",
+      "definition_en": "Occurs when the body's immune system reacts to a harmless allergen such as pollen or food.",
+      "englishSentence": "An allergic reaction occurs when the immune system reacts to a harmless allergen.",
+      "parts": {
+        "root": { "value": "allerg", "meaning": "حساسية", "function": "يشير إلى الحساسية" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "response",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الدفاع ضد المواد الغريبة",
+      "systemFunction_en": "Defense against foreign substances",
+      "location": "الجلد، الجهاز التنفسي، الجهاز الهضمي",
+      "location_en": "Skin, respiratory tract, digestive tract",
+      "nearbyOrgans": ["الجلد", "الرئتين", "الأمعاء", "الأنف"],
+      "nearbyOrgans_en": ["Skin", "Lungs", "Intestines", "Nose"],
+      "diseases": [
+        {
+          "name": "التهاب الأنف التحسسي",
+          "name_en": "Allergic rhinitis",
+          "symptoms": ["عطس", "سيلان أنف", "حكة", "احتقان"],
+          "symptoms_en": ["Sneezing", "Runny nose", "Itching", "Congestion"],
+          "treatments": ["مضادات هيستامين", "كورتيزون أنفي", "تجنب المثيرات"],
+          "treatments_en": ["Antihistamines", "Nasal corticosteroids", "Avoid triggers"]
+        }
+      ],
+      "keywords": ["hypersensitivity reaction"],
+      "chapter": 6
+    },
+    {
+      "id": 650,
+      "term": "allergy",
+      "arabic": "حساسية",
+      "latin": "allergia",
+      "pronunciation": "آ-لير-جي",
+      "definition": "فرط استجابة الجسم لمستضد معين",
+      "definition_en": "An overreaction by the body to a particular antigen",
+      "englishSentence": "An allergy is an overreaction by the body to a particular antigen.",
+      "parts": {
+        "root": { "value": "allerg", "meaning": "حساسية", "function": "يشير إلى الحساسية" },
+        "suffix": { "value": "y", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الاستجابة للمواد الغريبة",
+      "systemFunction_en": "Response to foreign substances",
+      "location": "متعدد (الجلد، الجهاز التنفسي، الجهاز الهضمي)",
+      "location_en": "Multiple (skin, respiratory tract, digestive tract)",
+      "nearbyOrgans": ["الجلد", "الرئتين", "الأنف", "العينين", "الأمعاء"],
+      "nearbyOrgans_en": ["Skin", "Lungs", "Nose", "Eyes", "Intestines"],
+      "diseases": [
+        {
+          "name": "حساسية الطعام",
+          "name_en": "Food allergy",
+          "symptoms": ["طفح", "حكة", "تورم", "ضيق تنفس", "غثيان"],
+          "symptoms_en": ["Rash", "Itching", "Swelling", "Shortness of breath", "Nausea"],
+          "treatments": ["تجنب الطعام", "مضادات هيستامين", "إبينفرين"],
+          "treatments_en": ["Avoid food", "Antihistamines", "Epinephrine"]
+        }
+      ],
+      "keywords": ["hypersensitivity"],
+      "chapter": 6
+    },
+    {
+      "id": 651,
+      "term": "localized allergic response",
+      "arabic": "استجابة تحسسية موضعية",
+      "latin": "responsum allergicum locale",
+      "pronunciation": "لو-كا-لايزد آ-لير-جيك ري-سبونس",
+      "definition": "تشمل الاحمرار والحكة والحرقان حيث تلامس الجلد مع مادة مسببة للحساسية. على الرغم من أن الجسم يتفاعل بشكل خفيف في المرة الأولى، إلا أن الحساسية تتأسس ويمكن أن تسبب الاتصالات المستقبلية أعراضاً أكثر شدة.",
+      "definition_en": "Includes redness, itching, and burning where skin contacts an allergen. Although the body reacts mildly the first time, the allergy becomes established and future contacts can cause more severe symptoms.",
+      "englishSentence": "A localized allergic response includes redness, itching, and burning at the contact site.",
+      "parts": {
+        "root": { "value": "loc", "meaning": "موضع", "function": "يشير إلى الموضع" },
+        "suffix": { "value": "ized", "meaning": "مصاب بـ", "function": "يشير إلى التموضع" }
+      },
+      "type": "response",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الاستجابة للمواد الغريبة",
+      "systemFunction_en": "Response to foreign substances",
+      "location": "موقع التلامس مع مسبب الحساسية",
+      "location_en": "Contact site with allergen",
+      "nearbyOrgans": ["الجلد", "الأغشية المخاطية"],
+      "nearbyOrgans_en": ["Skin", "Mucous membranes"],
+      "diseases": [
+        {
+          "name": "التهاب الجلد التماسي",
+          "name_en": "Contact dermatitis",
+          "symptoms": ["طفح", "حكة", "احمرار", "بثور"],
+          "symptoms_en": ["Rash", "Itching", "Redness", "Blisters"],
+          "treatments": ["كورتيزون موضعي", "تجنب المسبب", "مضادات هيستامين"],
+          "treatments_en": ["Topical corticosteroids", "Avoid trigger", "Antihistamines"]
+        }
+      ],
+      "keywords": ["cellular response", "contact dermatitis"],
+      "chapter": 6
+    },
+    {
+      "id": 652,
+      "term": "systemic reaction",
+      "arabic": "تفاعل جهازي",
+      "latin": "reactio systemica",
+      "pronunciation": "سيس-تيم-يك ري-آك-شن",
+      "definition": "استجابة شديدة لمسبب الحساسية، تُعرف أيضاً باسم التأق أو الصدمة التأقية، وتتطور أعراضها بسرعة ويمكن أن تؤدي إلى الوفاة خلال دقائق بدون تدخل طبي.",
+      "definition_en": "A severe response to an allergen, also known as anaphylaxis or anaphylactic shock, with symptoms developing rapidly and potentially leading to death within minutes without medical intervention.",
+      "englishSentence": "A systemic reaction, or anaphylaxis, is a severe response to an allergen that can be fatal.",
+      "parts": {
+        "root": { "value": "system", "meaning": "جهاز", "function": "يشير إلى الجهاز" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "response",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الاستجابة للمواد الغريبة",
+      "systemFunction_en": "Response to foreign substances",
+      "location": "جميع أجهزة الجسم",
+      "location_en": "All body systems",
+      "nearbyOrgans": ["الجهاز التنفسي", "الجهاز الدوري", "الجلد", "الجهاز الهضمي"],
+      "nearbyOrgans_en": ["Respiratory system", "Circulatory system", "Skin", "Digestive system"],
+      "diseases": [],
+      "keywords": ["anaphylaxis", "anaphylactic shock"],
+      "chapter": 6
+    },
+    {
+      "id": 653,
+      "term": "anaphylaxis",
+      "arabic": "تأق (صدمة تأقية)",
+      "latin": "anaphylaxia",
+      "pronunciation": "آن-آ-في-لاك-سيس",
+      "definition": "استجابة جهازية شديدة لمسبب الحساسية تتطور بسرعة ويمكن أن تكون قاتلة.",
+      "definition_en": "A severe, rapid systemic allergic response that can be fatal.",
+      "englishSentence": "Anaphylaxis is a severe, rapid systemic allergic response.",
+      "parts": {
+        "prefix": { "value": "ana", "meaning": "ضد", "function": "يشير إلى المقاومة" },
+        "root": { "value": "phylax", "meaning": "حماية", "function": "يشير إلى الحماية" },
+        "suffix": { "value": "is", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الاستجابة للمواد الغريبة",
+      "systemFunction_en": "Response to foreign substances",
+      "location": "جميع أجهزة الجسم",
+      "location_en": "All body systems",
+      "nearbyOrgans": ["الجهاز التنفسي", "الجهاز الدوري", "الجلد", "الجهاز الهضمي"],
+      "nearbyOrgans_en": ["Respiratory system", "Circulatory system", "Skin", "Digestive system"],
+      "diseases": [
+        {
+          "name": "صدمة تأقية",
+          "name_en": "Anaphylactic shock",
+          "symptoms": ["ضيق تنفس", "هبوط ضغط", "طفح", "تورم", "فقدان وعي"],
+          "symptoms_en": ["Shortness of breath", "Hypotension", "Rash", "Swelling", "Loss of consciousness"],
+          "treatments": ["إبينفرين", "مضادات هيستامين", "كورتيزون", "دعم تنفسي"],
+          "treatments_en": ["Epinephrine", "Antihistamines", "Corticosteroids", "Respiratory support"]
+        }
+      ],
+      "keywords": ["anaphylactic shock"],
+      "chapter": 6
+    },
+    {
+      "id": 654,
+      "term": "antihistamines",
+      "arabic": "مضادات الهيستامين",
+      "latin": "antihistaminica",
+      "pronunciation": "آن-تي-هيس-تا-مينز",
+      "definition": "أدوية تُعطى لتخفيف أو منع أعراض حمى القش، تعمل عن طريق منع تأثيرات الهيستامين الذي تنتجه الجسم ويسبب الحكة والعطس وسيلان الأنف ودموع العين.",
+      "definition_en": "Medications given to relieve or prevent hay fever symptoms, working by blocking the effects of histamine produced by the body that causes itching, sneezing, runny nose, and watery eyes.",
+      "englishSentence": "Antihistamines relieve allergy symptoms by preventing the effects of histamine.",
+      "parts": {
+        "prefix": { "value": "anti", "meaning": "ضد", "function": "يشير إلى المقاومة" },
+        "root": { "value": "histamin", "meaning": "هيستامين", "function": "يشير إلى الهيستامين" },
+        "suffix": { "value": "es", "meaning": "جمع", "function": "يشير إلى الجمع" }
+      },
+      "type": "medication",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "منع تأثيرات الهيستامين",
+      "systemFunction_en": "Block histamine effects",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout body",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["histamine blockers", "allergy meds"],
+      "chapter": 6
+    },
+    {
+      "id": 655,
+      "term": "histamine",
+      "arabic": "هيستامين",
+      "latin": "histaminum",
+      "pronunciation": "هيس-تا-مين",
+      "definition": "مادة تنتجها الجسم وتسبب أعراض الحساسية مثل الحكة والعطس وسيلان الأنف ودموع العين.",
+      "definition_en": "A substance produced by the body that causes allergy symptoms such as itching, sneezing, runny nose, and watery eyes.",
+      "englishSentence": "Histamine is a substance that causes allergy symptoms like itching and sneezing.",
+      "parts": {
+        "root": { "value": "hist", "meaning": "نسيج", "function": "يشير إلى النسيج" },
+        "suffix": { "value": "amine", "meaning": "أمين", "function": "يشير إلى المركب الأميني" }
+      },
+      "type": "chemical",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "التوسط في الاستجابة التحسسية",
+      "systemFunction_en": "Mediate allergic response",
+      "location": "الخلايا البدينة والقاعدات",
+      "location_en": "Mast cells and basophils",
+      "nearbyOrgans": ["الجلد", "الجهاز التنفسي", "الجهاز الهضمي"],
+      "nearbyOrgans_en": ["Skin", "Respiratory tract", "Digestive tract"],
+      "diseases": [],
+      "keywords": ["allergy mediator"],
+      "chapter": 6
+    },
+    {
+      "id": 656,
+      "term": "autoimmune disorder",
+      "arabic": "اضطراب مناعي ذاتي",
+      "latin": "morbus autoimmune",
+      "pronunciation": "أو-تو-إم-يون ديس-أور-در",
+      "definition": "أي من مجموعة كبيرة من الأمراض التي تتميز بحالة ينتج فيها الجهاز المناعي أجساماً مضادة ضد أنسجة الجسم نفسه. يبدو أن هذا الخلل في وظائف الجهاز المناعي ينتقل وراثياً.",
+      "definition_en": "Any of a large group of diseases characterized by a condition in which the immune system produces antibodies against the body's own tissues. This dysfunction of the immune system appears to be hereditary.",
+      "englishSentence": "An autoimmune disorder is when the immune system produces antibodies against its own tissues.",
+      "parts": {
+        "prefix": { "value": "auto", "meaning": "ذاتي", "function": "يشير إلى الذات" },
+        "root": { "value": "immun", "meaning": "مناعة", "function": "يشير إلى المناعة" },
+        "suffix": { "value": "e", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "مهاجمة المواد الغريبة",
+      "systemFunction_en": "Attack foreign substances",
+      "location": "يعتمد على المرض المحدد",
+      "location_en": "Depends on specific disease",
+      "nearbyOrgans": ["يعتمد على المرض"],
+      "nearbyOrgans_en": ["Depends on disease"],
+      "diseases": [
+        {
+          "name": "الذئبة الحمامية الجهازية",
+          "name_en": "Systemic lupus erythematosus",
+          "symptoms": ["طفح", "ألم مفاصل", "حمى", "تعب", "تلف كلوي"],
+          "symptoms_en": ["Rash", "Joint pain", "Fever", "Fatigue", "Kidney damage"],
+          "treatments": ["مثبطات مناعة", "كورتيزون", "مضادات التهاب"],
+          "treatments_en": ["Immunosuppressants", "Corticosteroids", "Anti-inflammatories"]
+        },
+        {
+          "name": "التهاب المفاصل الروماتويدي",
+          "name_en": "Rheumatoid arthritis",
+          "symptoms": ["ألم مفاصل", "تورم", "تيبس صباحي", "تعب"],
+          "symptoms_en": ["Joint pain", "Swelling", "Morning stiffness", "Fatigue"],
+          "treatments": ["مضادات روماتيزم", "مثبطات مناعة", "أدوية بيولوجية"],
+          "treatments_en": ["DMARDs", "Immunosuppressants", "Biologics"]
+        }
+      ],
+      "keywords": ["autoimmunity", "self-attacking immunity"],
+      "chapter": 6
+    },
+    {
+      "id": 657,
+      "term": "immunodeficiency disorder",
+      "arabic": "اضطراب نقص المناعة",
+      "latin": "morbus immunodeficientiae",
+      "pronunciation": "إم-يو-نو-دي-في-شن-سي ديس-أور-در",
+      "definition": "يحدث عندما تكون الاستجابة المناعية معرضة للخطر (ضعيفة، منخفضة، غائبة، أو لا تعمل بشكل صحيح).",
+      "definition_en": "Occurs when the immune response is compromised (weak, low, absent, or not functioning properly).",
+      "englishSentence": "An immunodeficiency disorder occurs when the immune response is compromised.",
+      "parts": {
+        "prefix": { "value": "immuno", "meaning": "مناعي", "function": "يشير إلى المناعة" },
+        "root": { "value": "deficient", "meaning": "ناقص", "function": "يشير إلى النقص" },
+        "suffix": { "value": "cy", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الدفاع عن الجسم",
+      "systemFunction_en": "Body defense",
+      "location": "جهاز المناعة بأكمله",
+      "location_en": "Entire immune system",
+      "nearbyOrgans": ["نخاع العظم", "الغدة الزعترية", "الطحال", "العقد اللمفاوية"],
+      "nearbyOrgans_en": ["Bone marrow", "Thymus", "Spleen", "Lymph nodes"],
+      "diseases": [
+        {
+          "name": "نقص المناعة المشترك الشديد",
+          "name_en": "Severe combined immunodeficiency",
+          "symptoms": ["التهابات شديدة ومتكررة", "فشل نمو", "التهابات انتهازية"],
+          "symptoms_en": ["Severe frequent infections", "Failure to thrive", "Opportunistic infections"],
+          "treatments": ["زراعة نخاع العظم", "جلوبيولين مناعي", "علاج جيني"],
+          "treatments_en": ["Bone marrow transplant", "Immunoglobulin", "Gene therapy"]
+        }
+      ],
+      "keywords": ["immunocompromised", "immune deficiency"],
+      "chapter": 6
+    },
+    {
+      "id": 658,
+      "term": "human immunodeficiency virus",
+      "arabic": "فيروس نقص المناعة البشرية",
+      "latin": "virus immunodeficientiae humanae",
+      "pronunciation": "هيو-مان إم-يو-نو-دي-في-شن-سي فاي-رس",
+      "definition": "فيروس يتلف أو يقتل خلايا الجهاز المناعي، مما يتسبب في فشله تدريجياً، وبالتالي يترك الجسم عرضة للإصابة بالعدوى الانتهازية التي تهدد الحياة.",
+      "definition_en": "A virus that damages or kills cells of the immune system, causing it to fail progressively, thus leaving the body vulnerable to life-threatening opportunistic infections.",
+      "englishSentence": "HIV is the virus that damages immune cells, causing progressive immune failure.",
+      "parts": {
+        "root": { "value": "virus", "meaning": "فيروس", "function": "يشير إلى الفيروس" }
+      },
+      "type": "virus",
+      "abbreviation": "HIV",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "مهاجمة الخلايا التائية المساعدة",
+      "systemFunction_en": "Attack helper T cells",
+      "location": "الدم والخلايا المناعية",
+      "location_en": "Blood and immune cells",
+      "nearbyOrgans": ["الدم", "الجهاز اللمفاوي"],
+      "nearbyOrgans_en": ["Blood", "Lymphatic system"],
+      "diseases": [
+        {
+          "name": "الإيدز",
+          "name_en": "AIDS",
+          "symptoms": ["التهابات انتهازية", "فقدان وزن", "تعب", "حمى", "تعرق ليلي"],
+          "symptoms_en": ["Opportunistic infections", "Weight loss", "Fatigue", "Fever", "Night sweats"],
+          "treatments": ["مضادات فيروسات", "علاج داعم", "وقاية من العدوى"],
+          "treatments_en": ["Antiretrovirals", "Supportive care", "Infection prophylaxis"]
+        }
+      ],
+      "keywords": ["HIV", "AIDS virus"],
+      "chapter": 6
+    },
+    {
+      "id": 659,
+      "term": "acquired immunodeficiency syndrome",
+      "arabic": "متلازمة نقص المناعة المكتسب (الإيدز)",
+      "latin": "syndroma immunodeficientiae acquisitae",
+      "pronunciation": "آك-كوايرد إم-يو-نو-دي-في-شن-سي سين-دروم",
+      "definition": "المرحلة الأكثر تقدماً وقاتلة من عدوى فيروس نقص المناعة البشرية.",
+      "definition_en": "The most advanced and fatal stage of an HIV infection.",
+      "englishSentence": "AIDS is the most advanced and fatal stage of an HIV infection.",
+      "parts": {
+        "prefix": { "value": "ac", "meaning": "إلى", "function": "يشير إلى الاتجاه" },
+        "root": { "value": "quir", "meaning": "يكتسب", "function": "يشير إلى الاكتساب" },
+        "suffix": { "value": "ed", "meaning": "ماضي", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "abbreviation": "AIDS",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الدفاع عن الجسم",
+      "systemFunction_en": "Body defense",
+      "location": "جهاز المناعة بأكمله",
+      "location_en": "Entire immune system",
+      "nearbyOrgans": ["الدم", "الجهاز اللمفاوي", "جميع الأعضاء"],
+      "nearbyOrgans_en": ["Blood", "Lymphatic system", "All organs"],
+      "diseases": [],
+      "keywords": ["AIDS", "end-stage HIV"],
+      "chapter": 6
+    },
+    {
+      "id": 660,
+      "term": "opportunistic infection",
+      "arabic": "عدوى انتهازية",
+      "latin": "infectio opportunistica",
+      "pronunciation": "أب-أور-تو-نيس-تيك إن-فيك-شن",
+      "definition": "عدوى تسببها مسببات الأمراض التي لا تنتج عادة مرضاً في البشر الأصحاء، ولكن عندما يكون المضيف ضعيفاً، تكون هذه المسببات قادرة على التسبب في العدوى.",
+      "definition_en": "An infection caused by pathogens that do not normally produce illness in healthy humans, but when the host is weakened, these pathogens are able to cause infection.",
+      "englishSentence": "An opportunistic infection is caused by pathogens that don't normally cause illness in healthy people.",
+      "parts": {
+        "root": { "value": "opportun", "meaning": "فرصة", "function": "يشير إلى الفرصة" },
+        "suffix": { "value": "istic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "infection",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "الدفاع عن الجسم",
+      "systemFunction_en": "Body defense",
+      "location": "متعدد (حسب العامل الممرض)",
+      "location_en": "Multiple (depends on pathogen)",
+      "nearbyOrgans": ["الرئتين", "الجهاز الهضمي", "الجلد", "الدماغ"],
+      "nearbyOrgans_en": ["Lungs", "Digestive tract", "Skin", "Brain"],
+      "diseases": [
+        {
+          "name": "الالتهاب الرئوي بالمتكيسة الجؤجؤية",
+          "name_en": "Pneumocystis pneumonia",
+          "symptoms": ["حمى", "سعال", "ضيق تنفس", "تعب"],
+          "symptoms_en": ["Fever", "Cough", "Shortness of breath", "Fatigue"],
+          "treatments": ["مضادات حيوية", "علاج داعم"],
+          "treatments_en": ["Antibiotics", "Supportive care"]
+        }
+      ],
+      "keywords": ["opportunistic pathogen", "immunocompromised infection"],
+      "chapter": 6
+    },
+    {
+      "id": 661,
+      "term": "Kaposi's sarcoma",
+      "arabic": "ساركوما كابوزي",
+      "latin": "sarcoma Kaposi",
+      "pronunciation": "كاب-أو-سيز سار-كو-ما",
+      "definition": "مثال على عدوى انتهازية ترتبط غالباً بفيروس نقص المناعة البشرية. يسبب هذا السرطان نمو بقع من الأنسجة غير الطبيعية تحت الجلد، في بطانة الفم والأنف والحنجرة، أو في الأعضاء الأخرى.",
+      "definition_en": "An example of an opportunistic infection often associated with HIV. This cancer causes growth of patches of abnormal tissue under the skin, in the lining of the mouth, nose, and throat, or in other organs.",
+      "englishSentence": "Kaposi's sarcoma is an opportunistic infection associated with HIV, causing abnormal tissue growth.",
+      "parts": {
+        "root": { "value": "Kaposi", "meaning": "كابوزي", "function": "يشير إلى الطبيب كابوزي" }
+      },
+      "type": "tumor",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "نمو الخلايا",
+      "systemFunction_en": "Cell growth",
+      "location": "الجلد، الأغشية المخاطية، الأعضاء الداخلية",
+      "location_en": "Skin, mucous membranes, internal organs",
+      "nearbyOrgans": ["الجلد", "الفم", "الأنف", "الحنجرة", "الجهاز الهضمي"],
+      "nearbyOrgans_en": ["Skin", "Mouth", "Nose", "Throat", "Digestive tract"],
+      "diseases": [
+        {
+          "name": "ساركوما كابوزي",
+          "name_en": "Kaposi's sarcoma",
+          "symptoms": ["بقع جلدية", "آفات في الفم", "تورم", "ألم"],
+          "symptoms_en": ["Skin patches", "Mouth lesions", "Swelling", "Pain"],
+          "treatments": ["علاج كيميائي", "علاج إشعاعي", "علاج مناعي"],
+          "treatments_en": ["Chemotherapy", "Radiation therapy", "Immunotherapy"]
+        }
+      ],
+      "keywords": ["KS", "HIV-associated cancer"],
+      "chapter": 6
+    },
+    {
+      "id": 662,
+      "term": "oncology",
+      "arabic": "علم الأورام",
+      "latin": "oncologia",
+      "pronunciation": "أون-كو-لو-جي",
+      "definition": "دراسة الوقاية من الأورام والسرطان وأسبابها وعلاجها",
+      "definition_en": "The study of the prevention, causes, and treatment of tumors and cancer",
+      "englishSentence": "Oncology is the study of the prevention, causes, and treatment of tumors and cancer.",
+      "parts": {
+        "root": { "value": "onc", "meaning": "ورم", "function": "يشير إلى الورم" },
+        "suffix": { "value": "ology", "meaning": "علم", "function": "يشير إلى مجال الدراسة" }
+      },
+      "type": "specialty",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "تشخيص وعلاج الأورام",
+      "systemFunction_en": "Diagnose and treat tumors",
+      "location": "عيادات ومستشفيات",
+      "location_en": "Clinics and hospitals",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["cancer study", "tumor specialist field"],
+      "chapter": 6
+    },
+    {
+      "id": 663,
+      "term": "neoplasm",
+      "arabic": "ورم (نمو جديد)",
+      "latin": "neoplasma",
+      "pronunciation": "ني-أو-بلازم",
+      "definition": "نمو نسيجي يشكل كتلة غير طبيعية، ويكون تكاثر الخلايا داخله غير منضبط، وسريع بشكل غير طبيعي، ومتقدم.",
+      "definition_en": "A growth of tissue that forms an abnormal mass, with uncontrolled, abnormally rapid, and progressive cell multiplication.",
+      "englishSentence": "A neoplasm is a growth of tissue that forms an abnormal mass with uncontrolled cell multiplication.",
+      "parts": {
+        "prefix": { "value": "neo", "meaning": "جديد", "function": "يشير إلى الجديد" },
+        "suffix": { "value": "plasm", "meaning": "تكوين", "function": "يشير إلى النمو" }
+      },
+      "type": "tumor",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "نمو الخلايا",
+      "systemFunction_en": "Cell growth",
+      "location": "أي نسيج أو عضو",
+      "location_en": "Any tissue or organ",
+      "nearbyOrgans": ["حسب موقع الورم"],
+      "nearbyOrgans_en": ["Depends on tumor location"],
+      "diseases": [
+        {
+          "name": "السرطان",
+          "name_en": "Cancer",
+          "symptoms": ["كتلة", "نزيف", "ألم", "فقدان وزن"],
+          "symptoms_en": ["Mass", "Bleeding", "Pain", "Weight loss"],
+          "treatments": ["جراحة", "علاج كيميائي", "علاج إشعاعي"],
+          "treatments_en": ["Surgery", "Chemotherapy", "Radiation therapy"]
+        }
+      ],
+      "keywords": ["tumor", "abnormal growth"],
+      "chapter": 6
+    },
+    {
+      "id": 664,
+      "term": "benign tumor",
+      "arabic": "ورم حميد",
+      "latin": "tumor benignus",
+      "pronunciation": "بي-ناين تو-مور",
+      "definition": "نمو غير سرطاني، لكن يمكن أن يسبب مشاكل عن طريق الضغط على الهياكل المجاورة.",
+      "definition_en": "A non-cancerous growth, but can cause problems by pressing on adjacent structures.",
+      "englishSentence": "A benign tumor is a non-cancerous growth that may cause problems by pressing on adjacent structures.",
+      "parts": {
+        "root": { "value": "benign", "meaning": "حميد", "function": "يشير إلى الحميد" }
+      },
+      "type": "tumor",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "نمو الخلايا",
+      "systemFunction_en": "Cell growth",
+      "location": "أي نسيج أو عضو",
+      "location_en": "Any tissue or organ",
+      "nearbyOrgans": ["الهياكل المجاورة للورم"],
+      "nearbyOrgans_en": ["Structures adjacent to tumor"],
+      "diseases": [
+        {
+          "name": "الورم الليفي الرحمي",
+          "name_en": "Uterine fibroid",
+          "symptoms": ["نزيف", "ألم", "ضغط"],
+          "symptoms_en": ["Bleeding", "Pain", "Pressure"],
+          "treatments": ["مراقبة", "أدوية", "جراحة"],
+          "treatments_en": ["Observation", "Medications", "Surgery"]
+        }
+      ],
+      "keywords": ["non-cancerous", "benign neoplasm"],
+      "chapter": 6
+    },
+    {
+      "id": 665,
+      "term": "malignant tumor",
+      "arabic": "ورم خبيث",
+      "latin": "tumor malignus",
+      "pronunciation": "ما-ليغ-نانت تو-مور",
+      "definition": "ورم ضار، قادر على الانتشار إلى مواقع بعيدة في الجسم، ويمكن أن يصبح تدريجياً أكثر سوءاً ويهدد الحياة.",
+      "definition_en": "A harmful tumor, capable of spreading to distant sites in the body, and can progressively become worse and life-threatening.",
+      "englishSentence": "A malignant tumor is harmful, capable of spreading, and progressively life-threatening.",
+      "parts": {
+        "root": { "value": "malign", "meaning": "خبيث", "function": "يشير إلى الخبث" },
+        "suffix": { "value": "ant", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "tumor",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "نمو الخلايا",
+      "systemFunction_en": "Cell growth",
+      "location": "أي نسيج أو عضو",
+      "location_en": "Any tissue or organ",
+      "nearbyOrgans": ["حسب موقع الورم"],
+      "nearbyOrgans_en": ["Depends on tumor location"],
+      "diseases": [],
+      "keywords": ["cancerous", "malignant neoplasm"],
+      "chapter": 6
+    },
+    {
+      "id": 666,
+      "term": "angiogenesis",
+      "arabic": "تولد الأوعية",
+      "latin": "angiogenesis",
+      "pronunciation": "آن-جي-أو-جين-إ-سيس",
+      "definition": "العملية التي يدعم من خلالها الورم نموه عن طريق إنشاء إمدادات الدم الخاصة به.",
+      "definition_en": "The process through which a tumor supports its growth by creating its own blood supply.",
+      "englishSentence": "Angiogenesis is the process through which a tumor creates its own blood supply to support growth.",
+      "parts": {
+        "root": { "value": "angi/o", "meaning": "وعاء", "function": "يشير إلى الأوعية" },
+        "suffix": { "value": "genesis", "meaning": "تكون", "function": "يشير إلى التكون" }
+      },
+      "type": "process",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "تكوين أوعية دموية جديدة",
+      "systemFunction_en": "Form new blood vessels",
+      "location": "حول الورم",
+      "location_en": "Around tumor",
+      "nearbyOrgans": ["الورم", "الأوعية الدموية المجاورة"],
+      "nearbyOrgans_en": ["Tumor", "Adjacent blood vessels"],
+      "diseases": [],
+      "keywords": ["blood vessel formation", "tumor vascularization"],
+      "chapter": 6
+    },
+    {
+      "id": 667,
+      "term": "cancer",
+      "arabic": "سرطان",
+      "latin": "cancer",
+      "pronunciation": "كان-سر",
+      "definition": "فئة من الأمراض التي تتميز بالانقسام غير المنضبط للخلايا وقدرة هذه الخلايا على غزو الأنسجة الأخرى، إما عن طريق الغزو المباشر للنمو في الأنسجة المجاورة أو عن طريق الانتشار إلى مواقع بعيدة عن طريق النقائل.",
+      "definition_en": "A class of diseases characterized by uncontrolled cell division and the ability of these cells to invade other tissues, either by direct growth into adjacent tissue or by spreading to distant sites via metastasis.",
+      "englishSentence": "Cancer is characterized by uncontrolled cell division and the ability to invade other tissues.",
+      "parts": {
+        "root": { "value": "canc", "meaning": "سرطان", "function": "يشير إلى السرطان" },
+        "suffix": { "value": "er", "meaning": "اسم", "function": "يشير إلى المرض" }
+      },
+      "type": "disease",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "نمو الخلايا",
+      "systemFunction_en": "Cell growth",
+      "location": "أي نسيج أو عضو",
+      "location_en": "Any tissue or organ",
+      "nearbyOrgans": ["حسب موقع السرطان"],
+      "nearbyOrgans_en": ["Depends on cancer location"],
+      "diseases": [
+        {
+          "name": "سرطان الرئة",
+          "name_en": "Lung cancer",
+          "symptoms": ["سعال", "ضيق تنفس", "ألم صدر", "نفث دم"],
+          "symptoms_en": ["Cough", "Shortness of breath", "Chest pain", "Hemoptysis"],
+          "treatments": ["جراحة", "علاج كيميائي", "علاج إشعاعي", "علاج مناعي"],
+          "treatments_en": ["Surgery", "Chemotherapy", "Radiation therapy", "Immunotherapy"]
+        }
+      ],
+      "keywords": ["malignancy", "carcinoma", "sarcoma"],
+      "chapter": 6
+    },
+    {
+      "id": 668,
+      "term": "metastasis",
+      "arabic": "ورم نقيلي (انتقال السرطان)",
+      "latin": "metastasis",
+      "pronunciation": "مي-تاس-تا-سيس",
+      "definition": "موقع سرطاني جديد ينتج عن عملية الانتشار، ويمكن أن يكون داخل نفس الجهاز أو في جهاز آخر بعيداً عن الموقع الأساسي.",
+      "definition_en": "A new cancer site resulting from the spreading process, which can be within the same organ or in another organ distant from the primary site.",
+      "englishSentence": "A metastasis is a new cancer site resulting from the spreading process.",
+      "parts": {
+        "prefix": { "value": "meta", "meaning": "بعد", "function": "يشير إلى التغيير" },
+        "root": { "value": "stas", "meaning": "وضع", "function": "يشير إلى الموضع" },
+        "suffix": { "value": "is", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "process",
+      "plural": "metastases",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "انتشار الخلايا السرطانية",
+      "systemFunction_en": "Spread of cancer cells",
+      "location": "أعضاء بعيدة عن الورم الأساسي",
+      "location_en": "Organs distant from primary tumor",
+      "nearbyOrgans": ["حسب موقع النقيلة"],
+      "nearbyOrgans_en": ["Depends on metastasis location"],
+      "diseases": [
+        {
+          "name": "نقائل عظمية",
+          "name_en": "Bone metastases",
+          "symptoms": ["ألم عظمي", "كسور مرضية"],
+          "symptoms_en": ["Bone pain", "Pathological fractures"],
+          "treatments": ["علاج إشعاعي", "علاج كيميائي", "بايفوسفونيت"],
+          "treatments_en": ["Radiation therapy", "Chemotherapy", "Bisphosphonates"]
+        }
+      ],
+      "keywords": ["cancer spread", "secondary tumor"],
+      "chapter": 6
+    },
+    {
+      "id": 669,
+      "term": "carcinoma",
+      "arabic": "سرطانة",
+      "latin": "carcinoma",
+      "pronunciation": "كار-سي-نو-ما",
+      "definition": "ورم خبيث يحدث في النسيج الظهاري (الذي يشكل الغطاء الواقي لجميع الأسطح الداخلية والخارجية للجسم).",
+      "definition_en": "A malignant tumor that occurs in epithelial tissue (which forms the protective covering for all internal and external surfaces of the body).",
+      "englishSentence": "A carcinoma is a malignant tumor that occurs in epithelial tissue.",
+      "parts": {
+        "root": { "value": "carcin", "meaning": "سرطان", "function": "يشير إلى السرطان" },
+        "suffix": { "value": "oma", "meaning": "ورم", "function": "يشير إلى ورم" }
+      },
+      "type": "tumor",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "تغطية الأسطح",
+      "systemFunction_en": "Cover surfaces",
+      "location": "الجلد، الأغشية المخاطية، الغدد",
+      "location_en": "Skin, mucous membranes, glands",
+      "nearbyOrgans": ["حسب موقع السرطانة"],
+      "nearbyOrgans_en": ["Depends on carcinoma location"],
+      "diseases": [
+        {
+          "name": "سرطانة الخلايا القاعدية",
+          "name_en": "Basal cell carcinoma",
+          "symptoms": ["قرحة", "عقيدة", "نزيف"],
+          "symptoms_en": ["Ulcer", "Nodule", "Bleeding"],
+          "treatments": ["استئصال جراحي", "كشط", "علاج موضعي"],
+          "treatments_en": ["Surgical excision", "Curettage", "Topical therapy"]
+        }
+      ],
+      "keywords": ["epithelial cancer", "carcinoma"],
+      "chapter": 6
+    },
+    {
+      "id": 670,
+      "term": "sarcoma",
+      "arabic": "ساركوما",
+      "latin": "sarcoma",
+      "pronunciation": "سار-كو-ما",
+      "definition": "ورم خبيث ينشأ من الأنسجة الضامة، بما في ذلك الأنسجة الصلبة والأنسجة الرخوة والأنسجة السائلة.",
+      "definition_en": "A malignant tumor arising from connective tissues, including hard tissues, soft tissues, and fluid tissues.",
+      "englishSentence": "A sarcoma is a malignant tumor arising from connective tissues.",
+      "parts": {
+        "root": { "value": "sarc", "meaning": "لحمي", "function": "يشير إلى النسيج الضام" },
+        "suffix": { "value": "oma", "meaning": "ورم", "function": "يشير إلى ورم" }
+      },
+      "type": "tumor",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "دعم وربط الأنسجة",
+      "systemFunction_en": "Support and connect tissues",
+      "location": "العظام، العضلات، الأنسجة الدهنية، الأوعية الدموية",
+      "location_en": "Bones, muscles, fatty tissues, blood vessels",
+      "nearbyOrgans": ["حسب موقع الساركوما"],
+      "nearbyOrgans_en": ["Depends on sarcoma location"],
+      "diseases": [
+        {
+          "name": "ساركوما العظام",
+          "name_en": "Osteosarcoma",
+          "symptoms": ["ألم عظمي", "تورم", "كتلة"],
+          "symptoms_en": ["Bone pain", "Swelling", "Mass"],
+          "treatments": ["جراحة", "علاج كيميائي"],
+          "treatments_en": ["Surgery", "Chemotherapy"]
+        }
+      ],
+      "keywords": ["connective tissue cancer"],
+      "chapter": 6
+    },
+    {
+      "id": 671,
+      "term": "lymphoma",
+      "arabic": "ليمفوما",
+      "latin": "lymphoma",
+      "pronunciation": "ليم-فو-ما",
+      "definition": "مصطلح عام يطلق على الأورام الخبيثة التي تؤثر على الأنسجة اللمفاوية، بما في ذلك العقد اللمفاوية والطحال والكبد ونخاع العظام.",
+      "definition_en": "A general term for malignant tumors that affect lymphoid tissues, including lymph nodes, spleen, liver, and bone marrow.",
+      "englishSentence": "Lymphoma is a malignancy affecting lymphoid tissues.",
+      "parts": {
+        "root": { "value": "lymph", "meaning": "لمف", "function": "يشير إلى اللمف" },
+        "suffix": { "value": "oma", "meaning": "ورم", "function": "يشير إلى ورم" }
+      },
+      "type": "tumor",
+      "system": "علم الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "الدفاع المناعي",
+      "systemFunction_en": "Immune defense",
+      "location": "العقد اللمفاوية، الطحال، الكبد، نخاع العظم",
+      "location_en": "Lymph nodes, spleen, liver, bone marrow",
+      "nearbyOrgans": ["العقد اللمفاوية", "الطحال", "الكبد", "نخاع العظم"],
+      "nearbyOrgans_en": ["Lymph nodes", "Spleen", "Liver", "Bone marrow"],
+      "diseases": [
+        {
+          "name": "ليمفوما هودجكين",
+          "name_en": "Hodgkin lymphoma",
+          "symptoms": ["تضخم عقد", "حمى", "تعرق ليلي", "فقدان وزن"],
+          "symptoms_en": ["Enlarged nodes", "Fever", "Night sweats", "Weight loss"],
+          "treatments": ["علاج كيميائي", "علاج إشعاعي"],
+          "treatments_en": ["Chemotherapy", "Radiation therapy"]
+        },
+        {
+          "name": "ليمفوما لاهودجكين",
+          "name_en": "Non-Hodgkin lymphoma",
+          "symptoms": ["تضخم عقد", "حمى", "تعرق ليلي", "فقدان وزن"],
+          "symptoms_en": ["Enlarged nodes", "Fever", "Night sweats", "Weight loss"],
+          "treatments": ["علاج كيميائي", "علاج مناعي", "علاج إشعاعي"],
+          "treatments_en": ["Chemotherapy", "Immunotherapy", "Radiation therapy"]
+        }
+      ],
+      "keywords": ["lymphoid tissue cancer", "Hodgkin's", "non-Hodgkin's"],
+      "chapter": 6
+    }
+  ]
+}

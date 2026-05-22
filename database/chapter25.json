@@ -1,0 +1,1320 @@
+{
+  "chapter": 25,
+  "title": "الجهاز العصبي",
+  "title_ar": "الجهاز العصبي",
+  "title_en": "Nervous System",
+  "description": "مصطلحات الجهاز العصبي المستخرجة من كتاب تشريح ووظائف الأعضاء",
+  "description_en": "Terms for Nervous System extracted from Anatomy and Physiology textbook",
+  "terms": [
+    {
+      "id": 3568,
+      "term": "central nervous system",
+      "arabic": "الجهاز العصبي المركزي",
+      "latin": "systema nervosum centrale",
+      "pronunciation": "سينترال نيرفاس سيستم",
+      "definition": "القسم الرئيسي من الجهاز العصبي المكوّن من الدماغ والحبل الشوكي. يُعالج المعلومات الحسية ويُنسّق الاستجابات ويُتيح التفكير والتعلم والذاكرة. محمي بالسحايا والسائل الدماغي الشوكي والجمجمة والعمود الفقري.",
+      "definition_en": "The main division of the nervous system consisting of the brain and spinal cord. Processes sensory information, coordinates responses, and enables thought, learning, and memory. Protected by meninges, CSF, skull, and vertebral column.",
+      "englishSentence": "The central nervous system integrates all incoming sensory information and directs appropriate motor responses.",
+      "type": "system",
+      "chapter": 25,
+      "keywords": [
+        "brain",
+        "spinal cord",
+        "integration",
+        "جهاز عصبي مركزي",
+        "دماغ"
+      ]
+    },
+    {
+      "id": 3569,
+      "term": "peripheral nervous system",
+      "arabic": "الجهاز العصبي الطرفي",
+      "latin": "systema nervosum periphericum",
+      "pronunciation": "بيريفيرال نيرفاس سيستم",
+      "definition": "جميع الأنسجة العصبية خارج الجهاز العصبي المركزي تشمل الأعصاب والعقد العصبية. يُقسَّم وظيفياً إلى القسم الحسي الوارد والقسم الحركي الصادر.",
+      "definition_en": "All nervous tissue outside the CNS including nerves and ganglia. Functionally divided into sensory (afferent) division bringing signals to CNS and motor (efferent) division carrying signals from CNS.",
+      "englishSentence": "Peripheral neuropathy damages the peripheral nervous system, causing numbness and weakness in the extremities.",
+      "type": "system",
+      "chapter": 25,
+      "keywords": [
+        "nerves",
+        "ganglia",
+        "afferent",
+        "efferent",
+        "جهاز عصبي طرفي",
+        "أعصاب"
+      ]
+    },
+    {
+      "id": 3570,
+      "term": "somatic nervous system",
+      "arabic": "الجهاز العصبي الجسدي",
+      "latin": "systema nervosum somaticum",
+      "pronunciation": "سوماتيك نيرفاس سيستم",
+      "definition": "الجزء الإرادي من القسم الحركي الصادر في الجهاز العصبي الطرفي. يُعصّب العضلات الهيكلية ويسمح بالحركة الإرادية الواعية. نيوروناته حركية تتصل مباشرة بالعضلات.",
+      "definition_en": "The voluntary part of the efferent PNS. Innervates skeletal muscles and enables conscious voluntary movement. Its motor neurons connect directly to skeletal muscles.",
+      "englishSentence": "The somatic nervous system controls voluntary movements like picking up a pen or walking up stairs.",
+      "type": "system",
+      "chapter": 25,
+      "keywords": [
+        "voluntary",
+        "skeletal muscle",
+        "conscious",
+        "جسدي",
+        "إرادي"
+      ]
+    },
+    {
+      "id": 3571,
+      "term": "autonomic nervous system",
+      "arabic": "الجهاز العصبي الذاتي (اللاإرادي)",
+      "latin": "systema nervosum autonomicum",
+      "pronunciation": "أوتونوميك نيرفاس سيستم",
+      "definition": "الجزء اللاإرادي من الجهاز العصبي يُنظّم تلقائياً وظائف الجسم الداخلية: نبض القلب والتنفس والهضم وضغط الدم. يُقسَّم إلى الودّي (fight-or-flight) والنظير الودّي (rest-and-digest).",
+      "definition_en": "The involuntary division of the nervous system that automatically regulates internal body functions: heart rate, breathing, digestion, blood pressure. Divided into sympathetic (fight-or-flight) and parasympathetic (rest-and-digest).",
+      "englishSentence": "The autonomic nervous system keeps the heart beating and lungs breathing without conscious effort.",
+      "type": "system",
+      "chapter": 25,
+      "keywords": [
+        "involuntary",
+        "heart rate",
+        "digestion",
+        "sympathetic",
+        "ذاتي",
+        "لا إرادي"
+      ]
+    },
+    {
+      "id": 3572,
+      "term": "sympathetic division",
+      "arabic": "القسم الودّي",
+      "latin": "divisio sympathica",
+      "pronunciation": "سيمبثيتيك ديفيجن",
+      "definition": "القسم الودّي من الجهاز العصبي الذاتي يُحضّر الجسم لمواقف الطوارئ والإجهاد (fight-or-flight). يزيد نبض القلب وضغط الدم ويُوسّع الأوعية التاجية ويُقلّص الأوعية الجلدية ويُوسّع الحدقة والقصبات الهوائية. ناقله العصبي: النوريبينفرين.",
+      "definition_en": "The ANS division that prepares the body for emergency and stress (fight-or-flight). Increases heart rate, blood pressure, dilates coronary vessels, constricts skin vessels, dilates pupils and bronchi. Neurotransmitter: norepinephrine.",
+      "englishSentence": "The sympathetic division triggers the fight-or-flight response when you encounter a threatening situation.",
+      "type": "system",
+      "chapter": 25,
+      "keywords": [
+        "fight-or-flight",
+        "norepinephrine",
+        "stress response",
+        "ودّي",
+        "طوارئ"
+      ]
+    },
+    {
+      "id": 3573,
+      "term": "parasympathetic division",
+      "arabic": "القسم نظير الودّي",
+      "latin": "divisio parasympathica",
+      "pronunciation": "باراسيمبثيتيك ديفيجن",
+      "definition": "القسم نظير الودّي من الجهاز العصبي الذاتي يُحافظ على الوظائف الاعتيادية للجسم في حالة الراحة (rest-and-digest). يُبطئ نبض القلب ويُضيّق الحدقة ويُحفّز الهضم والتبوّل. ناقله العصبي: الأستيل كولين.",
+      "definition_en": "The ANS division that maintains normal resting body functions (rest-and-digest). Slows heart rate, constricts pupils, stimulates digestion and urination. Neurotransmitter: acetylcholine.",
+      "englishSentence": "The parasympathetic division dominates during rest, promoting digestion and conserving energy.",
+      "type": "system",
+      "chapter": 25,
+      "keywords": [
+        "rest-and-digest",
+        "acetylcholine",
+        "heart rate decrease",
+        "نظير ودّي",
+        "راحة"
+      ]
+    },
+    {
+      "id": 3574,
+      "term": "neuroglia",
+      "arabic": "الخلايا الدبقية",
+      "latin": "neuroglia",
+      "pronunciation": "نيوروغليا",
+      "definition": "خلايا الدعم في الجهاز العصبي. لا تُوصّل النبضات العصبية لكنها تُغذّي الخلايا العصبية وتحميها وتدعمها. أكثر عدداً من الخلايا العصبية (10:1). تنقسم إلى خلايا دبقية مركزية وطرفية.",
+      "definition_en": "Support cells of the nervous system. Do not conduct nerve impulses but nourish, protect, and support neurons. More numerous than neurons (10:1). Divided into CNS and PNS glial cells.",
+      "englishSentence": "Gliomas are brain tumors arising from neuroglia; they are more common than tumors from neurons.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "support cells",
+        "non-conducting",
+        "brain tumor",
+        "دبقية",
+        "خلايا دعم"
+      ]
+    },
+    {
+      "id": 3575,
+      "term": "astrocytes",
+      "arabic": "الخلايا النجمية",
+      "latin": "astrocyti",
+      "pronunciation": "أستروسايتس",
+      "definition": "أكثر الخلايا الدبقية وفرةً في الجهاز العصبي المركزي. نجمية الشكل بامتدادات طويلة. تُشكّل الحاجز الدماغي الدموي وتُغذّي الخلايا العصبية وتُنظّم البيئة الكيميائية وتُشارك في إصلاح الأنسجة.",
+      "definition_en": "The most abundant CNS glial cells. Star-shaped with long processes. Form the blood-brain barrier, nourish neurons, regulate the chemical environment, and participate in tissue repair.",
+      "englishSentence": "Astrocytes form the blood-brain barrier by wrapping their processes around brain capillaries.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "blood-brain barrier",
+        "star-shaped",
+        "most abundant",
+        "نجمية",
+        "حاجز دماغي"
+      ]
+    },
+    {
+      "id": 3576,
+      "term": "microglia",
+      "arabic": "الخلايا الصغيرة الدبقية",
+      "latin": "microglia",
+      "pronunciation": "مايكروغليا",
+      "definition": "خلايا مناعية في الجهاز العصبي المركزي. صغيرة ومتنقلة. تُراقب الدماغ وتُدافع عنه عبر البلعمة للحطام الخلوي والكائنات الدقيقة الضارة. تُشبه الضامّات في الدم.",
+      "definition_en": "Immune cells of the CNS. Small and mobile. Patrol and defend the brain by phagocytizing cellular debris and harmful microorganisms. CNS equivalent of blood macrophages.",
+      "englishSentence": "Microglia become activated during brain infection or injury, removing dead cells and pathogens.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "immune cells",
+        "phagocytosis",
+        "brain defense",
+        "دبقية صغيرة",
+        "مناعة دماغ"
+      ]
+    },
+    {
+      "id": 3577,
+      "term": "ependymal cells",
+      "arabic": "الخلايا البطانية العصبية",
+      "latin": "cellulae ependymales",
+      "pronunciation": "إيبينديمال سيلز",
+      "definition": "خلايا تُبطّن البطينات الدماغية والقناة المركزية للحبل الشوكي. تُنتج السائل الدماغي الشوكي (CSF) وتُساعد في تدويره. بعضها مهدّب لتحريك السائل.",
+      "definition_en": "Cells lining the brain ventricles and central canal of the spinal cord. Produce cerebrospinal fluid (CSF) and help circulate it. Some are ciliated to move the fluid.",
+      "englishSentence": "Ependymal cells line the ventricles and produce the CSF that cushions and protects the brain.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "CSF production",
+        "ventricles",
+        "central canal",
+        "بطانية عصبية",
+        "سائل دماغي"
+      ]
+    },
+    {
+      "id": 3578,
+      "term": "oligodendrocytes",
+      "arabic": "قليلة التشعبات",
+      "latin": "oligodendrocyti",
+      "pronunciation": "أوليغودندروسايتس",
+      "definition": "خلايا دبقية في الجهاز العصبي المركزي تُشكّل غمد المايلين حول المحاور العصبية. كل خلية تُغلّف أجزاء من عدة محاور. تدمير غمد المايلين (كما في التصلب المتعدد) يُعطّل التوصيل العصبي.",
+      "definition_en": "CNS glial cells that form the myelin sheath around axons. Each cell can myelinate segments of several axons. Destruction of myelin (as in multiple sclerosis) disrupts nerve conduction.",
+      "englishSentence": "Oligodendrocytes myelinate CNS axons; their destruction in MS causes progressive neurological deficits.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "myelin sheath",
+        "CNS",
+        "multiple sclerosis",
+        "قليلة التشعبات",
+        "مايلين"
+      ]
+    },
+    {
+      "id": 3579,
+      "term": "Schwann cells",
+      "arabic": "خلايا شوان",
+      "latin": "cellulae Schwannii",
+      "pronunciation": "شوان سيلز",
+      "definition": "خلايا دبقية في الجهاز العصبي الطرفي تُشكّل غمد المايلين حول محاور الأعصاب الطرفية. كل خلية تُغلّف جزءاً من محور عصبي واحد فقط. تُتيح تجديد الألياف العصبية الطرفية بعد تلفها.",
+      "definition_en": "PNS glial cells that form the myelin sheath around peripheral nerve axons. Each cell myelinates one segment of a single axon. Enable peripheral nerve fiber regeneration after damage.",
+      "englishSentence": "Schwann cells guide regenerating peripheral nerve fibers back to their targets after injury.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "PNS myelin",
+        "nerve regeneration",
+        "peripheral",
+        "خلايا شوان",
+        "تجديد عصبي"
+      ]
+    },
+    {
+      "id": 3580,
+      "term": "soma",
+      "arabic": "جسم الخلية العصبية",
+      "latin": "soma neuronis",
+      "pronunciation": "سوما",
+      "definition": "جسم الخلية العصبية يحتوي على النواة والعضيات الأيضية. المركز الغذائي والإنتاجي للخلية العصبية. يحتوي على التشعبات (dendrites) كامتدادات لاستقبال الإشارات.",
+      "definition_en": "The cell body of the neuron containing the nucleus and metabolic organelles. The nutritional and manufacturing center of the neuron. Has dendritic extensions for signal reception.",
+      "englishSentence": "The soma integrates all incoming signals from dendrites and determines whether to fire an action potential.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "cell body",
+        "nucleus",
+        "metabolic center",
+        "جسم خلية عصبية",
+        "نواة"
+      ]
+    },
+    {
+      "id": 3581,
+      "term": "myelin sheath",
+      "arabic": "غمد المايلين",
+      "latin": "vagina myelini",
+      "pronunciation": "مايلين شيث",
+      "definition": "غلاف دهني أبيض اللون يُحيط بمحاور الخلايا العصبية الكبيرة. يُشكّله خلايا شوان في الجهاز الطرفي وقليلات التشعبات في المركزي. يُسرّع التوصيل العصبي بالتوصيل القفزي ويمنع تشتت الإشارة.",
+      "definition_en": "A white fatty sheath surrounding large nerve axons. Formed by Schwann cells in PNS and oligodendrocytes in CNS. Speeds nerve conduction via saltatory conduction and prevents signal loss.",
+      "englishSentence": "The myelin sheath dramatically increases the speed of nerve impulse transmission from 1 m/s to over 100 m/s.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "white matter",
+        "insulation",
+        "conduction speed",
+        "غمد مايلين",
+        "توصيل سريع"
+      ]
+    },
+    {
+      "id": 3582,
+      "term": "nodes of Ranvier",
+      "arabic": "عقد رانفييه",
+      "latin": "nodi Ranvieri",
+      "pronunciation": "نودز أوف رانفييه",
+      "definition": "الفجوات أو الانقطاعات في غمد المايلين بين خلايا شوان المتجاورة. في هذه المناطق يُجدَّد جهد الفعل أثناء التوصيل القفزي مما يُسرّع التوصيل العصبي بشكل كبير.",
+      "definition_en": "The gaps or interruptions in the myelin sheath between adjacent Schwann cells. At these points, the action potential is regenerated during saltatory conduction, greatly speeding nerve transmission.",
+      "englishSentence": "Nerve impulses jump from node to node along myelinated fibers in saltatory conduction.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "gaps in myelin",
+        "saltatory conduction",
+        "action potential",
+        "عقد رانفييه",
+        "توصيل قفزي"
+      ]
+    },
+    {
+      "id": 3583,
+      "term": "multipolar neuron",
+      "arabic": "العصبون متعدد الأقطاب",
+      "latin": "neuron multipolare",
+      "pronunciation": "مالتيبولار نيورون",
+      "definition": "النوع الأكثر شيوعاً من الخلايا العصبية. له جسم خلوي مع تشعبات متعددة ومحور واحد. معظم الخلايا العصبية الحركية وخلايا الجهاز العصبي المركزي من هذا النوع.",
+      "definition_en": "The most common neuron type. Has a cell body with multiple dendrites and one axon. Most motor neurons and CNS interneurons are of this type.",
+      "englishSentence": "Motor neurons that innervate skeletal muscles are multipolar neurons with many dendrites receiving input.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "multiple dendrites",
+        "motor neuron",
+        "most common",
+        "متعدد الأقطاب",
+        "حركي"
+      ]
+    },
+    {
+      "id": 3584,
+      "term": "bipolar neuron",
+      "arabic": "العصبون ثنائي القطب",
+      "latin": "neuron bipolare",
+      "pronunciation": "بايبولار نيورون",
+      "definition": "خلية عصبية لها تشعبة واحدة ومحور واحد وجسم خلوي بينهما. نادرة نسبياً وتوجد بشكل رئيسي في أعضاء الحواس الخاصة: شبكية العين والأذن الداخلية وظهارة الشم.",
+      "definition_en": "A neuron with one dendrite and one axon with the cell body between them. Relatively rare, found mainly in special sense organs: retina, inner ear, and olfactory epithelium.",
+      "englishSentence": "Bipolar neurons in the retina transmit visual signals from photoreceptors to the optic nerve.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "one dendrite",
+        "special senses",
+        "retina",
+        "ثنائي القطب",
+        "حواس خاصة"
+      ]
+    },
+    {
+      "id": 3585,
+      "term": "unipolar neuron",
+      "arabic": "العصبون أحادي القطب",
+      "latin": "neuron unipolare",
+      "pronunciation": "يونيبولار نيورون",
+      "definition": "خلية عصبية لها امتداد واحد يخرج من الجسم الخلوي ثم يتفرع لفرعين: محيطي (يتجه للمستقبلات الحسية) ومركزي (يتجه للجهاز العصبي المركزي). معظم الخلايا العصبية الحسية من هذا النوع.",
+      "definition_en": "A neuron with a single process leaving the cell body that divides into peripheral branch (to sensory receptors) and central branch (to CNS). Most sensory neurons are unipolar.",
+      "englishSentence": "Unipolar sensory neurons carry pain, temperature, and touch signals from the skin to the spinal cord.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "single process",
+        "sensory neuron",
+        "peripheral branch",
+        "أحادي القطب",
+        "حسي"
+      ]
+    },
+    {
+      "id": 3586,
+      "term": "sensory neurons",
+      "arabic": "الخلايا العصبية الحسية (الواردة)",
+      "latin": "neurona afferentia",
+      "pronunciation": "سينسوري نيورونز",
+      "definition": "خلايا عصبية تحمل النبضات العصبية من المستقبلات الحسية إلى الجهاز العصبي المركزي. تُعصّب الجلد والعضلات والأعضاء الداخلية. معظمها أحادية القطب.",
+      "definition_en": "Neurons that carry impulses from sensory receptors toward the CNS. Innervate skin, muscles, and internal organs. Most are unipolar neurons.",
+      "englishSentence": "Sensory neurons carry pain signals from your finger to the spinal cord when you touch something hot.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "afferent",
+        "receptors to CNS",
+        "pain",
+        "حسي",
+        "وارد"
+      ]
+    },
+    {
+      "id": 3587,
+      "term": "motor neurons",
+      "arabic": "الخلايا العصبية الحركية (الصادرة)",
+      "latin": "neurona efferentia",
+      "pronunciation": "موتور نيورونز",
+      "definition": "خلايا عصبية تحمل النبضات العصبية من الجهاز العصبي المركزي إلى الأعضاء المستجيبة (العضلات والغدد). معظمها متعددة الأقطاب وهي المسؤولة عن الحركة والإفراز.",
+      "definition_en": "Neurons that carry impulses from CNS toward effectors (muscles and glands). Most are multipolar neurons responsible for movement and secretion.",
+      "englishSentence": "Motor neurons in the spinal cord transmit signals to skeletal muscles to produce voluntary movement.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "efferent",
+        "CNS to muscles",
+        "movement",
+        "حركي",
+        "صادر"
+      ]
+    },
+    {
+      "id": 3588,
+      "term": "interneurons",
+      "arabic": "الخلايا العصبية الوسيطة (الرابطة)",
+      "latin": "interneurona",
+      "pronunciation": "إنتيرنيورونز",
+      "definition": "خلايا عصبية توجد بالكامل داخل الجهاز العصبي المركزي. تربط الخلايا الحسية بالحركية وتُعالج المعلومات وتُنسّق الاستجابات المعقدة. تُمثّل 99% من خلايا الجهاز العصبي.",
+      "definition_en": "Neurons found entirely within the CNS. Connect sensory and motor neurons, process information, and coordinate complex responses. Represent 99% of all nervous system neurons.",
+      "englishSentence": "Interneurons in the brain allow complex information processing that enables learning, memory, and decision-making.",
+      "type": "cell_type",
+      "chapter": 25,
+      "keywords": [
+        "association neuron",
+        "CNS only",
+        "processing",
+        "وسيطة",
+        "رابطة"
+      ]
+    },
+    {
+      "id": 3589,
+      "term": "resting membrane potential",
+      "arabic": "جهد الغشاء في حالة الراحة",
+      "latin": "potentiale membranae quiescentis",
+      "pronunciation": "ريستينغ ميمبرين بوتينشال",
+      "definition": "الشحنة الكهربائية السلبية نسبياً على السطح الداخلي لغشاء الخلية العصبية في حالة الراحة (حوالي -70 ميليفولت). ينتج عن توزيع غير متساوٍ للأيونات (Na⁺ خارج، K⁺ داخل) بواسطة مضخة Na⁺/K⁺.",
+      "definition_en": "The relatively negative electrical charge on the inner surface of the neuron membrane at rest (about -70 mV). Results from unequal ion distribution (Na⁺ outside, K⁺ inside) maintained by the Na⁺/K⁺ pump.",
+      "englishSentence": "The resting membrane potential of -70 mV is the 'loaded spring' ready to fire when threshold is reached.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "-70 mV",
+        "ion distribution",
+        "Na/K pump",
+        "جهد راحة",
+        "شحنة غشاء"
+      ]
+    },
+    {
+      "id": 3590,
+      "term": "action potential",
+      "arabic": "جهد الفعل (السيالة العصبية)",
+      "latin": "potentiale actionis",
+      "pronunciation": "أكشن بوتينشال",
+      "definition": "موجة من الاستقطاب وإعادة الاستقطاب تنتقل على طول غشاء الخلية العصبية. يحدث عند الوصول للعتبة (-55 mV): تفتح قنوات Na⁺ → يدخل Na⁺ (استقطاب +30 mV) → تفتح قنوات K⁺ → يخرج K⁺ (إعادة الاستقطاب).",
+      "definition_en": "A wave of depolarization and repolarization traveling along the neuron membrane. Occurs when threshold (-55 mV) is reached: Na⁺ channels open → Na⁺ enters (depolarization to +30 mV) → K⁺ channels open → K⁺ exits (repolarization).",
+      "englishSentence": "An action potential travels down the axon at speeds up to 120 m/s in heavily myelinated fibers.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "depolarization",
+        "repolarization",
+        "threshold",
+        "sodium",
+        "جهد فعل",
+        "سيالة"
+      ]
+    },
+    {
+      "id": 3591,
+      "term": "depolarization",
+      "arabic": "إزالة الاستقطاب",
+      "latin": "depolarisatio",
+      "pronunciation": "ديبولاريزيشن",
+      "definition": "المرحلة الأولى من جهد الفعل حيث يصبح داخل الغشاء أقل سلبيةً ثم إيجابياً. يحدث بسبب فتح قنوات Na⁺ الجهدية وتدفق Na⁺ للداخل مما يُغيّر الشحنة من -70 mV إلى +30 mV.",
+      "definition_en": "The first phase of action potential where the inside of the membrane becomes less negative then positive. Caused by voltage-gated Na⁺ channels opening and Na⁺ flowing inward, changing charge from -70 mV to +30 mV.",
+      "englishSentence": "Depolarization is like a wave of electrical excitation spreading across the neuron membrane.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "sodium influx",
+        "positive charge",
+        "action potential phase",
+        "إزالة استقطاب",
+        "نا+"
+      ]
+    },
+    {
+      "id": 3592,
+      "term": "repolarization",
+      "arabic": "إعادة الاستقطاب",
+      "latin": "repolarisatio",
+      "pronunciation": "ريبولاريزيشن",
+      "definition": "المرحلة الثانية من جهد الفعل حيث يعود داخل الغشاء لشحنته السلبية. يحدث بسبب فتح قنوات K⁺ وخروج K⁺ من الخلية مما يُعيد الشحنة للسلبية.",
+      "definition_en": "The second phase of action potential where the inside of the membrane returns to its negative charge. Caused by K⁺ channels opening and K⁺ flowing outward, restoring the negative charge.",
+      "englishSentence": "Repolarization quickly restores the membrane potential after each action potential, allowing rapid repeated firing.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "potassium efflux",
+        "negative charge",
+        "membrane recovery",
+        "إعادة استقطاب",
+        "ك+"
+      ]
+    },
+    {
+      "id": 3593,
+      "term": "refractory period",
+      "arabic": "الفترة المقاومة (الحرارية)",
+      "latin": "periodus refractaria",
+      "pronunciation": "ريفراكتوري بيريود",
+      "definition": "الفترة بعد جهد الفعل التي تكون فيها الخلية العصبية غير قادرة على توليد جهد فعل جديد. تضمن أن جهد الفعل يسير في اتجاه واحد فقط وتُحدّد الحد الأقصى لتكرار الإطلاق.",
+      "definition_en": "The period after an action potential during which the neuron cannot generate a new action potential. Ensures unidirectional impulse conduction and limits the maximum firing frequency.",
+      "englishSentence": "The refractory period prevents action potentials from traveling backward along an axon.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "unidirectional",
+        "no firing",
+        "recovery period",
+        "فترة مقاومة",
+        "اتجاه واحد"
+      ]
+    },
+    {
+      "id": 3594,
+      "term": "saltatory conduction",
+      "arabic": "التوصيل القفزي",
+      "latin": "conductio saltatoria",
+      "pronunciation": "سالتاتوري كوندَكشن",
+      "definition": "طريقة التوصيل السريع في المحاور المغلّفة بالمايلين. يقفز جهد الفعل من عقدة رانفييه إلى التالية بدلاً من الانتشار المستمر على طول الغشاء. يُسرّع التوصيل بشكل كبير ويوفر الطاقة.",
+      "definition_en": "The rapid conduction method in myelinated axons. The action potential jumps from one node of Ranvier to the next rather than spreading continuously along the membrane. Greatly speeds conduction and saves energy.",
+      "englishSentence": "Saltatory conduction allows myelinated nerves to transmit impulses much faster than unmyelinated fibers.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "node to node",
+        "myelinated",
+        "fast conduction",
+        "توصيل قفزي",
+        "مايلين"
+      ]
+    },
+    {
+      "id": 3595,
+      "term": "synapse",
+      "arabic": "التشابك العصبي",
+      "latin": "synapsis",
+      "pronunciation": "سيناپس",
+      "definition": "المنطقة التي تنتقل فيها الإشارة من خلية عصبية إلى أخرى أو من خلية عصبية إلى خلية مستجيبة. تتكون من: الجزء قبل التشابكي (طرف المحور المُفرِز) والشق التشابكي والجزء بعد التشابكي (الخلية التالية).",
+      "definition_en": "The junction where a signal is transmitted from one neuron to another or to an effector cell. Consists of: presynaptic terminal (releasing axon end), synaptic cleft, and postsynaptic cell (receiving cell).",
+      "englishSentence": "Chemical synapses use neurotransmitters to bridge the gap between neurons and transfer the signal.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "junction",
+        "neurotransmitter",
+        "cleft",
+        "تشابك عصبي",
+        "وصل عصبي"
+      ]
+    },
+    {
+      "id": 3596,
+      "term": "neurotransmitters",
+      "arabic": "الناقلات العصبية",
+      "latin": "neurotransmissores",
+      "pronunciation": "نيوروترانسميترز",
+      "definition": "مواد كيميائية تُفرَز من الأطراف المحورية في الشق التشابكي لنقل الإشارة إلى الخلية التالية. أمثلتها: الأستيل كولين، النوريبينفرين، الدوبامين، السيروتونين، GABA، الغلوتامات.",
+      "definition_en": "Chemical substances released from axon terminals into the synaptic cleft to transmit signals to the next cell. Examples: acetylcholine, norepinephrine, dopamine, serotonin, GABA, glutamate.",
+      "englishSentence": "Most antidepressants work by increasing the availability of neurotransmitters like serotonin in the synaptic cleft.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "chemical signal",
+        "acetylcholine",
+        "dopamine",
+        "serotonin",
+        "ناقل عصبي",
+        "كيمياء"
+      ]
+    },
+    {
+      "id": 3597,
+      "term": "GABA",
+      "arabic": "حمض غاما-أمينوبيوتيريك",
+      "latin": "acidum gamma-aminobutyricum",
+      "pronunciation": "غابا",
+      "definition": "الناقل العصبي الكابح الرئيسي في الجهاز العصبي المركزي. يُثبّط نشاط الخلايا العصبية التالية بتقليل احتمال توليد جهد فعل. نقصه مرتبط بالتشنجات والقلق. تعمل عليه الكحول ومهدئات البنزوديازيبين.",
+      "definition_en": "The main inhibitory neurotransmitter in the CNS. Inhibits postsynaptic neurons by decreasing the likelihood of firing an action potential. Its deficiency is linked to seizures and anxiety. Alcohol and benzodiazepines enhance it.",
+      "englishSentence": "GABA is the primary inhibitory neurotransmitter; drugs like diazepam enhance GABA to reduce anxiety.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "inhibitory",
+        "CNS",
+        "anxiety",
+        "seizures",
+        "GABA",
+        "كابح عصبي"
+      ]
+    },
+    {
+      "id": 3598,
+      "term": "dopamine",
+      "arabic": "الدوبامين",
+      "latin": "dopaminum",
+      "pronunciation": "دوبامين",
+      "definition": "ناقل عصبي متعدد الوظائف يُشارك في التحكم بالحركة والمكافأة والدافعية والتعلم والمشاعر. نقصه في الجهاز الأسود-المخطط يُسبّب داء باركنسون. زيادته في مسارات المكافأة تُسبّب الإدمان.",
+      "definition_en": "A multifunctional neurotransmitter involved in motor control, reward, motivation, learning, and mood. Its deficiency in the substantia nigra causes Parkinson's disease. Excess in reward pathways causes addiction.",
+      "englishSentence": "Dopamine released during pleasurable activities creates the sensation of reward and motivates behavior.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "reward",
+        "Parkinson's",
+        "motivation",
+        "movement",
+        "دوبامين",
+        "مكافأة"
+      ]
+    },
+    {
+      "id": 3599,
+      "term": "serotonin",
+      "arabic": "السيروتونين",
+      "latin": "serotoninum",
+      "pronunciation": "سيروتونين",
+      "definition": "ناقل عصبي يُنظّم المزاج والنوم والشهية والسلوك العاطفي والإحساس بالألم. نقصه مرتبط بالاكتئاب والقلق. تعمل عليه كثير من مضادات الاكتئاب (SSRIs).",
+      "definition_en": "A neurotransmitter that regulates mood, sleep, appetite, emotional behavior, and pain sensation. Its deficiency is linked to depression and anxiety. Many antidepressants (SSRIs) work by increasing it.",
+      "englishSentence": "Low serotonin levels are associated with depression; SSRIs treat depression by preventing serotonin reuptake.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "mood regulation",
+        "depression",
+        "sleep",
+        "SSRIs",
+        "سيروتونين",
+        "مزاج"
+      ]
+    },
+    {
+      "id": 3600,
+      "term": "reflex arc",
+      "arabic": "القوس الانعكاسي",
+      "latin": "arcus reflexus",
+      "pronunciation": "ريفليكس آرك",
+      "definition": "المسار العصبي الذي يُنتج الفعل الانعكاسي (الانعكاس). يتكون من خمسة مكونات: مستقبل → خلية عصبية حسية → مركز تكامل (حبل شوكي) → خلية عصبية حركية → مستجيب. يحدث دون الوعي.",
+      "definition_en": "The neural pathway that produces a reflex action. Five components: receptor → sensory neuron → integration center (spinal cord) → motor neuron → effector. Occurs without conscious awareness.",
+      "englishSentence": "Withdrawing your hand from a hot surface is a spinal reflex arc that occurs before pain is consciously perceived.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "reflex",
+        "five components",
+        "spinal cord",
+        "قوس انعكاسي",
+        "رد فعل"
+      ]
+    },
+    {
+      "id": 3601,
+      "term": "stretch reflex",
+      "arabic": "الانعكاس المطّاطي (الوتري)",
+      "latin": "reflexus myotaticus",
+      "pronunciation": "ستريتش ريفليكس",
+      "definition": "انعكاس أحادي التشابك يُسبّب انقباض العضلة عند تمددها. مثاله الكلاسيكي الانعكاس الرضفي (طرق الركبة): تمدد وتر الرضفة → تنبيه محوريات العضلة → انقباض عضلة الرباعية → مد الركبة. يختبر سلامة قطاعات الحبل الشوكي.",
+      "definition_en": "A monosynaptic reflex causing muscle contraction when stretched. Classic example: patellar reflex (knee jerk): patella tendon tap → muscle spindle activation → quadriceps contraction → knee extension. Tests spinal cord integrity.",
+      "englishSentence": "The patellar reflex (knee jerk) is a stretch reflex used to assess the health of lumbar spinal cord segments.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "patellar reflex",
+        "monosynaptic",
+        "muscle spindle",
+        "انعكاس مطاطي",
+        "انعكاس رضفي"
+      ]
+    },
+    {
+      "id": 3602,
+      "term": "meninges",
+      "arabic": "السحايا",
+      "latin": "meninges",
+      "pronunciation": "مينينجيز",
+      "definition": "ثلاث طبقات من أغشية النسيج الضام تُغلّف وتحمي الدماغ والحبل الشوكي: الأم الجافية (الخارجية القوية) والأم العنكبوتية (الوسطى الشبكية) والأم الرقيقة (الداخلية الملتصقة بالنسيج العصبي).",
+      "definition_en": "Three layers of connective tissue membranes encasing and protecting the brain and spinal cord: dura mater (tough outer), arachnoid mater (middle web-like), pia mater (delicate inner adhering to nervous tissue).",
+      "englishSentence": "Meningitis is a life-threatening infection of the meninges surrounding the brain and spinal cord.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "dura mater",
+        "arachnoid",
+        "pia mater",
+        "سحايا",
+        "حماية دماغ"
+      ]
+    },
+    {
+      "id": 3603,
+      "term": "dura mater",
+      "arabic": "الأم الجافية",
+      "latin": "dura mater",
+      "pronunciation": "دورا ميتر",
+      "definition": "الطبقة الخارجية والأقوى من السحايا. تتكون من نسيج ضام ليفي كثيف. تُشكّل طيات تفصل تجاويف الدماغ (المنجلي الكبير بين الفصين الكبيرين، والخيمة بين المخيخ والفصوص القذالية).",
+      "definition_en": "The outermost and strongest meningeal layer. Made of dense fibrous connective tissue. Forms folds separating brain regions (falx cerebri between hemispheres, tentorium between cerebellum and occipital lobes).",
+      "englishSentence": "An epidural hematoma forms between the skull and dura mater after head trauma.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "outermost",
+        "tough layer",
+        "falx cerebri",
+        "أم جافية",
+        "سحاء خارجي"
+      ]
+    },
+    {
+      "id": 3604,
+      "term": "arachnoid mater",
+      "arabic": "الأم العنكبوتية",
+      "latin": "arachnoidea mater",
+      "pronunciation": "أراكنويد ميتر",
+      "definition": "الطبقة الوسطى من السحايا. تشبه نسيجاً شبكياً. الفضاء تحت العنكبوتي (بينها وبين الأم الرقيقة) يحتوي السائل الدماغي الشوكي. الزوائد العنكبوتية تُعيد امتصاص السائل الدماغي الشوكي في الدورة الوريدية.",
+      "definition_en": "The middle meningeal layer resembling a cobweb. The subarachnoid space (between it and pia mater) contains CSF. Arachnoid villi reabsorb CSF into the venous circulation.",
+      "englishSentence": "A subarachnoid hemorrhage fills the arachnoid space with blood, causing severe headache and neurological symptoms.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "middle layer",
+        "subarachnoid space",
+        "CSF",
+        "أم عنكبوتية",
+        "سائل دماغي شوكي"
+      ]
+    },
+    {
+      "id": 3605,
+      "term": "pia mater",
+      "arabic": "الأم الرقيقة",
+      "latin": "pia mater",
+      "pronunciation": "بيا ميتر",
+      "definition": "الطبقة الداخلية الأدق والأرق من السحايا. تلتصق مباشرةً بسطح الدماغ والحبل الشوكي وتتبع كل التلافيف والتخاريم. غنية بالأوعية الدموية التي تُغذّي الأنسجة العصبية.",
+      "definition_en": "The innermost, thinnest meningeal layer. Adheres directly to brain and spinal cord surface, following all gyri and sulci. Rich in blood vessels that nourish nervous tissue.",
+      "englishSentence": "The pia mater is the delicate innermost layer that hugs every contour of the brain surface.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "innermost layer",
+        "brain surface",
+        "blood vessels",
+        "أم رقيقة",
+        "سحاء داخلي"
+      ]
+    },
+    {
+      "id": 3606,
+      "term": "cerebrospinal fluid",
+      "arabic": "السائل الدماغي الشوكي",
+      "latin": "liquor cerebrospinalis",
+      "pronunciation": "سيريبروسباينال فلويد",
+      "definition": "سائل مائي صافٍ يشغل البطينات الدماغية والفضاء تحت العنكبوتي. يُنتجه الضفيرة المشيمية ويُعاد امتصاصه في الزوائد العنكبوتية. وظائفه: حماية الدماغ (وسادة مائية) وتبادل المواد الغذائية والفضلات.",
+      "definition_en": "Clear watery fluid filling brain ventricles and subarachnoid space. Produced by choroid plexus and reabsorbed at arachnoid villi. Functions: brain cushioning, nutrient and waste exchange.",
+      "englishSentence": "A lumbar puncture (spinal tap) samples CSF to diagnose meningitis, multiple sclerosis, and other neurological diseases.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "cushioning",
+        "choroid plexus",
+        "ventricles",
+        "سائل دماغي شوكي",
+        "بطينات"
+      ]
+    },
+    {
+      "id": 3607,
+      "term": "ventricles",
+      "arabic": "البطينات الدماغية",
+      "latin": "ventriculi cerebri",
+      "pronunciation": "فينتريكلز",
+      "definition": "أربعة تجاويف مملوءة بالسائل الدماغي الشوكي داخل الدماغ: البطينان الجانبيان (في نصفي الكرة المخية) والبطين الثالث (في الدماغ البيني) والبطين الرابع (في جذع الدماغ). تُنتج الضفيرة المشيمية فيها السائل.",
+      "definition_en": "Four fluid-filled cavities inside the brain: two lateral ventricles (in cerebral hemispheres), third ventricle (in diencephalon), fourth ventricle (in brainstem). Choroid plexus produces CSF here.",
+      "englishSentence": "Blockage of CSF drainage from the ventricles causes hydrocephalus, with increased intracranial pressure.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "four cavities",
+        "CSF",
+        "choroid plexus",
+        "بطينات دماغية",
+        "تجاويف دماغية"
+      ]
+    },
+    {
+      "id": 3608,
+      "term": "blood-brain barrier",
+      "arabic": "الحاجز الدماغي الدموي",
+      "latin": "bariera haematoencephalica",
+      "pronunciation": "بلود برين باريير",
+      "definition": "حاجز انتقائي يحمي الدماغ من المواد الضارة في الدم. يتكون من اتحاد الخلايا البطانية للشعيرات الدموية الدماغية بوصلات محكمة مُعززة بامتدادات الخلايا النجمية. يسمح بمرور الغلوكوز والأكسجين لكن يمنع معظم الأدوية والسموم.",
+      "definition_en": "A selective barrier protecting the brain from harmful blood substances. Formed by tight junctions between brain capillary endothelial cells reinforced by astrocyte processes. Allows glucose and oxygen but blocks most drugs and toxins.",
+      "englishSentence": "The blood-brain barrier protects the brain but also makes treating brain tumors with chemotherapy very difficult.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "selective barrier",
+        "astrocytes",
+        "tight junctions",
+        "حاجز دماغي",
+        "حماية دماغ"
+      ]
+    },
+    {
+      "id": 3609,
+      "term": "cerebrum",
+      "arabic": "المخ (الدماغ الكبير)",
+      "latin": "cerebrum",
+      "pronunciation": "سيريبرم",
+      "definition": "أكبر جزء من الدماغ ويُشكّل 83% من وزنه. مقسَّم إلى نصفين كبيرين يرتبطان بالجسم الثفني. قشرته الرمادية تُعالج المعلومات الحسية والحركية والإدراكية. يُقسَّم كل نصف إلى أربعة فصوص.",
+      "definition_en": "The largest brain part, comprising 83% of its weight. Divided into two hemispheres connected by the corpus callosum. Its gray cortex processes sensory, motor, and cognitive information. Each hemisphere has four lobes.",
+      "englishSentence": "The cerebrum is the seat of consciousness, intelligence, memory, and voluntary movement.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "cerebral hemispheres",
+        "consciousness",
+        "cortex",
+        "مخ",
+        "دماغ كبير"
+      ]
+    },
+    {
+      "id": 3610,
+      "term": "cerebral cortex",
+      "arabic": "القشرة المخية",
+      "latin": "cortex cerebri",
+      "pronunciation": "سيريبرال كورتيكس",
+      "definition": "الطبقة الخارجية الرمادية من المخ. تحتوي على جسم الخلايا العصبية. مطوية في تلافيف (تضاريس) وأخاديد (أخدود) لزيادة المساحة السطحية. منطقة المعالجة العليا للمعلومات الحسية والحركية والإدراكية.",
+      "definition_en": "The outer gray layer of the cerebrum. Contains neuron cell bodies. Folded into gyri (ridges) and sulci (grooves) to maximize surface area. The highest processing center for sensory, motor, and cognitive information.",
+      "englishSentence": "The cerebral cortex is what makes humans unique; it enables complex language, abstract thinking, and creativity.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "gray matter",
+        "gyri",
+        "sulci",
+        "higher functions",
+        "قشرة مخية",
+        "رمادية"
+      ]
+    },
+    {
+      "id": 3611,
+      "term": "frontal lobe",
+      "arabic": "الفص الجبهي",
+      "latin": "lobus frontalis",
+      "pronunciation": "فرونتال لوب",
+      "definition": "الفص الأمامي من المخ أمام شق رولاند. يحتوي على القشرة الحركية الأولية (تتحكم في الحركة الإرادية) ومنطقة بروكا (التعبير عن الكلام في النصف الأيسر). مسؤول عن الشخصية وصنع القرار والتخطيط.",
+      "definition_en": "The anterior cerebral lobe in front of the central sulcus. Contains primary motor cortex (controls voluntary movement) and Broca's area (speech production in left hemisphere). Responsible for personality, decision-making, and planning.",
+      "englishSentence": "Damage to the frontal lobe can dramatically alter personality and impair judgment and decision-making.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "motor cortex",
+        "Broca's area",
+        "personality",
+        "فص جبهي",
+        "كلام"
+      ]
+    },
+    {
+      "id": 3612,
+      "term": "parietal lobe",
+      "arabic": "الفص الجداري",
+      "latin": "lobus parietalis",
+      "pronunciation": "باريتال لوب",
+      "definition": "الفص العلوي الخلفي من المخ خلف شق رولاند. يحتوي على القشرة الحسية الجسدية الأولية التي تستقبل المعلومات اللمسية والألمية والحرارية والضغط. مسؤول عن الإدراك المكاني والانتباه.",
+      "definition_en": "The superior posterior cerebral lobe behind the central sulcus. Contains primary somatosensory cortex receiving touch, pain, temperature, and pressure information. Responsible for spatial awareness and attention.",
+      "englishSentence": "Damage to the parietal lobe can cause neglect syndrome, where patients ignore one side of their body.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "somatosensory cortex",
+        "touch",
+        "spatial awareness",
+        "فص جداري",
+        "حسي"
+      ]
+    },
+    {
+      "id": 3613,
+      "term": "temporal lobe",
+      "arabic": "الفص الصدغي",
+      "latin": "lobus temporalis",
+      "pronunciation": "تيمبورال لوب",
+      "definition": "الفص الجانبي السفلي من المخ. يحتوي على القشرة السمعية الأولية ومنطقة ويرنيك (فهم الكلام في النصف الأيسر). مهم للذاكرة والتعرف على الوجوه والمعالجة اللغوية.",
+      "definition_en": "The lateral inferior cerebral lobe. Contains primary auditory cortex and Wernicke's area (speech comprehension in left hemisphere). Important for memory, face recognition, and language processing.",
+      "englishSentence": "Damage to Wernicke's area in the left temporal lobe causes fluent but meaningless speech.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "auditory cortex",
+        "Wernicke's area",
+        "memory",
+        "فص صدغي",
+        "سمع"
+      ]
+    },
+    {
+      "id": 3614,
+      "term": "occipital lobe",
+      "arabic": "الفص القذالي",
+      "latin": "lobus occipitalis",
+      "pronunciation": "أوكسيبيتال لوب",
+      "definition": "الفص الخلفي من المخ. يحتوي على القشرة البصرية الأولية التي تُعالج المعلومات البصرية القادمة من شبكية العين عبر العصب البصري. إصابته تُسبّب العمى القشري.",
+      "definition_en": "The posterior cerebral lobe. Contains primary visual cortex that processes visual information from the retina via the optic nerve. Damage causes cortical blindness.",
+      "englishSentence": "The occipital lobe is the brain's visual processing center; a stroke here can cause blindness even with intact eyes.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "visual cortex",
+        "vision",
+        "optic nerve",
+        "فص قذالي",
+        "بصر"
+      ]
+    },
+    {
+      "id": 3615,
+      "term": "corpus callosum",
+      "arabic": "الجسم الثفني",
+      "latin": "corpus callosum",
+      "pronunciation": "كوربوس كالوسم",
+      "definition": "أكبر وأهم الوصلات العصبية بين نصفي الكرة المخية. يتكون من أكثر من 200 مليون ألياف عصبية. يُتيح التنسيق والتواصل بين الجانبين الأيمن والأيسر من الدماغ.",
+      "definition_en": "The largest and most important neural connection between the two cerebral hemispheres. Contains more than 200 million nerve fibers. Enables coordination and communication between the right and left sides of the brain.",
+      "englishSentence": "Surgical cutting of the corpus callosum (split-brain) to treat epilepsy revealed that each hemisphere has distinct functions.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "hemispheres connection",
+        "commissure",
+        "split brain",
+        "جسم ثفني",
+        "وصل دماغي"
+      ]
+    },
+    {
+      "id": 3616,
+      "term": "thalamus",
+      "arabic": "المهاد",
+      "latin": "thalamus",
+      "pronunciation": "ثالاموس",
+      "definition": "محطة التحويل الرئيسية في الدماغ البيني. يستقبل جميع المعلومات الحسية (ما عدا الشمية) ويُوجّهها إلى المناطق القشرية المناسبة. يُشارك في الوعي والنوم والانتباه والإدراك الحسي.",
+      "definition_en": "The main relay station in the diencephalon. Receives all sensory information (except olfactory) and routes it to the appropriate cortical areas. Participates in consciousness, sleep, attention, and sensory perception.",
+      "englishSentence": "The thalamus acts as the brain's switchboard, routing sensory information to the correct cortical processing areas.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "relay station",
+        "sensory routing",
+        "consciousness",
+        "مهاد",
+        "محطة تحويل"
+      ]
+    },
+    {
+      "id": 3617,
+      "term": "hypothalamus",
+      "arabic": "ما تحت المهاد",
+      "latin": "hypothalamus",
+      "pronunciation": "هايبوثالاموس",
+      "definition": "منطقة صغيرة في قاع الدماغ البيني هي مركز التحكم في التوازن الداخلي. وظائفه: تنظيم الحرارة والجوع والعطش والنوم والدوافع الجنسية والعواطف. يُتحكم في الغدة النخامية عبر الهرمونات الطلاقة والكابحة.",
+      "definition_en": "Small region at the floor of the diencephalon; the homeostasis control center. Functions: regulates temperature, hunger, thirst, sleep, sexual drive, and emotions. Controls pituitary via releasing and inhibiting hormones.",
+      "englishSentence": "The hypothalamus is the 'brain's brain,' controlling fundamental drives like hunger, thirst, and body temperature.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "homeostasis",
+        "hunger",
+        "thirst",
+        "temperature",
+        "تحت المهاد",
+        "توازن"
+      ]
+    },
+    {
+      "id": 3618,
+      "term": "cerebellum",
+      "arabic": "المخيخ",
+      "latin": "cerebellum",
+      "pronunciation": "سيريبيلم",
+      "definition": "ثاني أكبر جزء من الدماغ، يقع خلف جذع الدماغ. يُنسّق الحركة الإرادية ويُحافظ على التوازن والوضعية. يستقبل معلومات من القشرة الحركية ومستقبلات التحسس العميق والجهاز الدهليزي ويُعدّل الحركة.",
+      "definition_en": "Second largest brain part, located posterior to the brainstem. Coordinates voluntary movement and maintains balance and posture. Receives input from motor cortex, proprioceptors, and vestibular system to fine-tune movement.",
+      "englishSentence": "Damage to the cerebellum causes ataxia, a condition where movements become clumsy and uncoordinated.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "coordination",
+        "balance",
+        "posture",
+        "ataxia",
+        "مخيخ",
+        "توازن"
+      ]
+    },
+    {
+      "id": 3619,
+      "term": "brainstem",
+      "arabic": "جذع الدماغ",
+      "latin": "truncus cerebri",
+      "pronunciation": "برين ستيم",
+      "definition": "الجزء السفلي من الدماغ يربطه بالحبل الشوكي. يتكون من الدماغ المتوسط والجسر والبصلة السيسائية. يتحكم في الوظائف الحيوية: ضربات القلب والتنفس وضغط الدم. يُشكّل مسارات تقاطع الشبكة الصاعدة.",
+      "definition_en": "The inferior brain section connecting cerebrum to spinal cord. Consists of midbrain, pons, and medulla oblongata. Controls vital functions: heart rate, breathing, blood pressure. Contains the reticular activating system.",
+      "englishSentence": "The brainstem is essential for life; damage to it causes immediate loss of consciousness and vital function control.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "vital centers",
+        "midbrain",
+        "pons",
+        "medulla",
+        "جذع دماغ",
+        "وظائف حيوية"
+      ]
+    },
+    {
+      "id": 3620,
+      "term": "medulla oblongata",
+      "arabic": "البصلة السيسائية (النخاع المستطيل)",
+      "latin": "medulla oblongata",
+      "pronunciation": "ميدولا أوبلونغاتا",
+      "definition": "الجزء السفلي من جذع الدماغ يتصل بالحبل الشوكي. يحتوي على مراكز التحكم الحيوية: مركز القلب والأوعية وتنظيم التنفس. كما يتحكم في الابتلاع والقيء والسعال والعطس.",
+      "definition_en": "The most inferior brainstem section connecting to spinal cord. Contains vital reflex centers: cardiac center, vasomotor center, respiratory centers. Also controls swallowing, vomiting, coughing, and sneezing.",
+      "englishSentence": "The medulla oblongata contains the cardiac and respiratory centers that keep you alive every moment.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "cardiac center",
+        "respiratory center",
+        "vital reflexes",
+        "بصلة سيسائية",
+        "مركز حيوي"
+      ]
+    },
+    {
+      "id": 3621,
+      "term": "pons",
+      "arabic": "الجسر (بونس)",
+      "latin": "pons",
+      "pronunciation": "بونز",
+      "definition": "الجزء الأوسط من جذع الدماغ بين الدماغ المتوسط والبصلة السيسائية. يتحكم في بعض جوانب التنفس ويُساعد في تنسيق الحركات ويحتوي على نوى الأعصاب القحفية الخامس والسادس والسابع والثامن.",
+      "definition_en": "The middle brainstem section between midbrain and medulla. Regulates some aspects of breathing, helps coordinate movement, and contains nuclei for cranial nerves V, VI, VII, and VIII.",
+      "englishSentence": "The pons connects the two halves of the cerebellum and coordinates messages between the cerebrum and cerebellum.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "breathing regulation",
+        "cranial nerves",
+        "coordination",
+        "جسر",
+        "بونس"
+      ]
+    },
+    {
+      "id": 3622,
+      "term": "basal ganglia",
+      "arabic": "العقد القاعدية",
+      "latin": "ganglia basalia",
+      "pronunciation": "بيسال غانغليا",
+      "definition": "مجموعة من التجمعات العصبية العميقة في نصفي الكرة المخية. تُشارك في تنسيق الحركة الإرادية الناعمة وتنظيم التوتر العضلي. اضطرابها يُسبّب داء باركنسون (نقص الدوبامين) ورقصة هنتنغتون.",
+      "definition_en": "Deep neural clusters in the cerebral hemispheres. Participate in coordinating smooth voluntary movement and regulating muscle tone. Disorders cause Parkinson's disease (dopamine deficiency) and Huntington's disease.",
+      "englishSentence": "Parkinson's disease results from degeneration of dopamine-producing cells in the basal ganglia.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "voluntary movement",
+        "dopamine",
+        "Parkinson's",
+        "عقد قاعدية",
+        "حركة"
+      ]
+    },
+    {
+      "id": 3623,
+      "term": "limbic system",
+      "arabic": "الجهاز الحوفي",
+      "latin": "systema limbicum",
+      "pronunciation": "ليمبيك سيستم",
+      "definition": "مجموعة من الهياكل الدماغية حول الدماغ البيني. مسؤول عن العواطف والذاكرة العاطفية والدوافع والسلوك. يشمل اللوزة الدماغية (العاطفة والخوف) والحصين (الذاكرة طويلة المدى) والتلفيف الحزامي.",
+      "definition_en": "A group of brain structures surrounding the diencephalon. Responsible for emotions, emotional memory, drives, and behavior. Includes amygdala (emotion, fear), hippocampus (long-term memory), and cingulate gyrus.",
+      "englishSentence": "The limbic system is the 'emotional brain' that generates feelings of fear, pleasure, anger, and motivation.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "emotions",
+        "memory",
+        "amygdala",
+        "hippocampus",
+        "جهاز حوفي",
+        "عواطف"
+      ]
+    },
+    {
+      "id": 3624,
+      "term": "hippocampus",
+      "arabic": "الحُصَيْن",
+      "latin": "hippocampus",
+      "pronunciation": "هيبوكامبوس",
+      "definition": "هيكل في الفص الصدغي يشبه حصان البحر شكلاً. ضروري لتحويل الذاكرة القصيرة إلى طويلة المدى وللتعلم المكاني. يضمر في مرضى ألزهايمر مما يُفسّر صعوبة تكوين ذكريات جديدة.",
+      "definition_en": "A seahorse-shaped structure in the temporal lobe. Essential for converting short-term to long-term memory and spatial learning. Atrophies in Alzheimer's disease, explaining difficulty forming new memories.",
+      "englishSentence": "The hippocampus consolidates new memories during sleep; this is why sleep deprivation impairs learning.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "memory formation",
+        "Alzheimer's",
+        "spatial memory",
+        "حصين",
+        "ذاكرة"
+      ]
+    },
+    {
+      "id": 3625,
+      "term": "amygdala",
+      "arabic": "اللوزة الدماغية",
+      "latin": "corpus amygdaloideum",
+      "pronunciation": "أميغدالا",
+      "definition": "هيكل بادانة الشكل في الفص الصدغي. مركز العواطف والاستجابة للخوف والقلق. يُطلق استجابة fight-or-flight عند تقييم التهديدات. يُشفّر الذكريات العاطفية المكثفة.",
+      "definition_en": "An almond-shaped structure in the temporal lobe. Center for emotion, fear, and anxiety responses. Triggers fight-or-flight response when assessing threats. Encodes emotionally intense memories.",
+      "englishSentence": "The amygdala fires rapidly when you encounter a threat, triggering the fear response before the conscious brain can analyze it.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "fear",
+        "emotion",
+        "fight-or-flight",
+        "anxiety",
+        "لوزة دماغية",
+        "خوف"
+      ]
+    },
+    {
+      "id": 3626,
+      "term": "spinal cord",
+      "arabic": "الحبل الشوكي",
+      "latin": "medulla spinalis",
+      "pronunciation": "سباينال كورد",
+      "definition": "الجزء الأسطواني من الجهاز العصبي المركزي الممتد من البصلة السيسائية إلى مستوى L1-L2. يُحمى بالعمود الفقري. يُوصّل المعلومات بين الدماغ والجسم ويُنفّذ الأفعال الانعكاسية بشكل مستقل.",
+      "definition_en": "The cylindrical CNS structure extending from the medulla oblongata to L1-L2 vertebral level. Protected by the vertebral column. Conducts information between brain and body and independently executes reflex actions.",
+      "englishSentence": "A spinal cord injury at C4 or above can cause complete paralysis of all limbs and respiratory muscles.",
+      "type": "organ",
+      "chapter": 25,
+      "keywords": [
+        "spinal cord",
+        "reflex",
+        "vertebral column",
+        "حبل شوكي",
+        "ردود أفعال"
+      ]
+    },
+    {
+      "id": 3627,
+      "term": "gray matter",
+      "arabic": "المادة الرمادية",
+      "latin": "substantia grisea",
+      "pronunciation": "غري ماتر",
+      "definition": "الجزء من الجهاز العصبي المركزي الذي يحتوي على أجسام الخلايا العصبية والتشعبات والخلايا الدبقية دون غمد مايلين. في الدماغ تُشكّل القشرة الخارجية. في الحبل الشوكي تُشكّل النواة الداخلية على شكل H.",
+      "definition_en": "CNS region containing neuron cell bodies, dendrites, and glial cells without myelin. In the brain, forms the outer cortex. In the spinal cord, forms the inner H-shaped core.",
+      "englishSentence": "Gray matter processing is measured by fMRI scans to understand which brain regions are active during different tasks.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "cell bodies",
+        "cortex",
+        "H-shaped",
+        "مادة رمادية",
+        "قشرة"
+      ]
+    },
+    {
+      "id": 3628,
+      "term": "white matter",
+      "arabic": "المادة البيضاء",
+      "latin": "substantia alba",
+      "pronunciation": "وايت ماتر",
+      "definition": "الجزء من الجهاز العصبي المركزي الذي يحتوي على المحاور المغلّفة بغمد المايلين الدهني الأبيض. يُشكّل المسارات التي تنقل الإشارات عبر الجهاز العصبي. في الدماغ يقع تحت القشرة.",
+      "definition_en": "CNS region containing myelinated axons whose white fatty myelin sheath gives it its color. Forms the tracts that conduct signals throughout the nervous system. Located beneath the cortex in the brain.",
+      "englishSentence": "White matter disease damages the myelin sheaths, disrupting communication between different brain regions.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "myelinated axons",
+        "tracts",
+        "communication pathways",
+        "مادة بيضاء",
+        "مايلين"
+      ]
+    },
+    {
+      "id": 3629,
+      "term": "cranial nerves",
+      "arabic": "الأعصاب القحفية",
+      "latin": "nervi craniales",
+      "pronunciation": "كرانيال نيرفز",
+      "definition": "اثنا عشر زوجاً من الأعصاب الناشئة من الدماغ وجذع الدماغ. مُرقّمة I-XII. بعضها حسي (I الشمي، II البصري، VIII الدهليزي القوقعي) وبعضها حركي وبعضها مختلط (X العصب المبهم الأطول). تُعصّب الرأس والرقبة ومعظم الصدر والبطن.",
+      "definition_en": "Twelve pairs of nerves arising from the brain and brainstem, numbered I-XII. Some sensory (I olfactory, II optic, VIII vestibulocochlear), some motor, some mixed (X vagus, the longest). Innervate head, neck, and most chest and abdomen.",
+      "englishSentence": "The vagus nerve (CN X) is the longest cranial nerve, controlling heart rate, digestion, and breathing.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "twelve pairs",
+        "cranial",
+        "vagus",
+        "sensory motor",
+        "أعصاب قحفية",
+        "اثنا عشر"
+      ]
+    },
+    {
+      "id": 3630,
+      "term": "vagus nerve",
+      "arabic": "العصب المبهم",
+      "latin": "nervus vagus",
+      "pronunciation": "فيغوس نيرف",
+      "definition": "العصب القحفي العاشر (X) وأطول الأعصاب القحفية. عصب مختلط (حسي وحركي). يُعصّب الجهاز التنفسي والقلب والجهاز الهضمي والكبد. الناقل الرئيسي للجهاز العصبي نظير الودّي للصدر والبطن.",
+      "definition_en": "Cranial nerve X, the longest cranial nerve. A mixed (sensory and motor) nerve. Innervates respiratory tract, heart, digestive system, and liver. The main parasympathetic nerve for chest and abdomen.",
+      "englishSentence": "Stimulation of the vagus nerve slows the heart rate and is used to treat certain arrhythmias.",
+      "type": "nerve",
+      "chapter": 25,
+      "keywords": [
+        "CN X",
+        "parasympathetic",
+        "heart rate",
+        "digestion",
+        "مبهم",
+        "عصب عاشر"
+      ]
+    },
+    {
+      "id": 3631,
+      "term": "spinal nerves",
+      "arabic": "الأعصاب الشوكية",
+      "latin": "nervi spinales",
+      "pronunciation": "سباينال نيرفز",
+      "definition": "31 زوجاً من الأعصاب المختلطة الخارجة من الحبل الشوكي عبر الثقوب الفقرية: 8 عنقية + 12 صدرية + 5 قطنية + 5 عجزية + 1 عصعصية. كل عصب له جذر أمامي (حركي) وخلفي (حسي).",
+      "definition_en": "31 pairs of mixed nerves exiting the spinal cord through intervertebral foramina: 8 cervical + 12 thoracic + 5 lumbar + 5 sacral + 1 coccygeal. Each has a ventral (motor) root and dorsal (sensory) root.",
+      "englishSentence": "Each spinal nerve innervates a specific dermatomal region; dermatomal maps help localize spinal cord injuries.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "31 pairs",
+        "mixed nerve",
+        "dermatome",
+        "أعصاب شوكية",
+        "31 زوج"
+      ]
+    },
+    {
+      "id": 3632,
+      "term": "brachial plexus",
+      "arabic": "الضفيرة العضدية",
+      "latin": "plexus brachialis",
+      "pronunciation": "برايكيال بليكسوس",
+      "definition": "شبكة من الجذور العصبية الشوكية (C5-T1) تُعصّب الطرف العلوي (الذراع والساعد واليد). تُشكّل الأعصاب الرئيسية: الزندي، الكعبري، المتوسط، العضلي الجلدي، الإبطي. إصابتها تُسبّب شلل اليد.",
+      "definition_en": "A network of spinal nerve roots (C5-T1) innervating the upper limb (arm, forearm, hand). Forms major nerves: ulnar, radial, median, musculocutaneous, axillary. Injury causes arm paralysis.",
+      "englishSentence": "A brachial plexus injury during difficult childbirth can cause Erb's palsy, paralyzing the arm.",
+      "type": "concept",
+      "chapter": 25,
+      "keywords": [
+        "C5-T1",
+        "upper limb",
+        "arm nerves",
+        "ضفيرة عضدية",
+        "عصب ذراع"
+      ]
+    },
+    {
+      "id": 3633,
+      "term": "multiple sclerosis",
+      "arabic": "التصلب المتعدد",
+      "latin": "sclerosis multiplex",
+      "pronunciation": "مالتيبل سكليروسيس",
+      "definition": "مرض مناعي ذاتي يهاجم فيه الجهاز المناعي غمد المايلين في الجهاز العصبي المركزي. يُسبّب تندّب بؤري (لويحات) يُعطّل التوصيل العصبي. أعراضه: ضعف بصري وشلل جزئي وتعب وفقدان التوازن. تسير عادةً بنوبات وهدأة.",
+      "definition_en": "An autoimmune disease where the immune system attacks CNS myelin sheaths. Causes focal scarring (plaques) disrupting nerve conduction. Symptoms: vision loss, partial paralysis, fatigue, balance problems. Usually relapsing-remitting.",
+      "englishSentence": "Multiple sclerosis can be diagnosed by MRI showing demyelinating plaques scattered throughout the brain and spinal cord.",
+      "type": "disease",
+      "chapter": 25,
+      "keywords": [
+        "demyelination",
+        "autoimmune",
+        "myelin",
+        "plaques",
+        "تصلب متعدد",
+        "مايلين"
+      ]
+    },
+    {
+      "id": 3634,
+      "term": "Parkinson's disease",
+      "arabic": "داء باركنسون",
+      "latin": "morbus Parkinson",
+      "pronunciation": "باركينسنز ديزيز",
+      "definition": "مرض عصبي تنكسي يُسبّبه تدمير تدريجي للخلايا المنتجة للدوبامين في المادة السوداء بالعقد القاعدية. يُسبّب: الرعشة في الراحة، والصلابة العضلية، وبطء الحركة (بطء حركي)، وعدم الثبات. علاجه بالليفودوبا.",
+      "definition_en": "A neurodegenerative disease caused by progressive destruction of dopamine-producing cells in the substantia nigra of basal ganglia. Causes: resting tremor, rigidity, bradykinesia (slow movement), postural instability. Treated with levodopa.",
+      "englishSentence": "Parkinson's disease causes the characteristic 'pill-rolling' resting tremor as dopamine levels decline.",
+      "type": "disease",
+      "chapter": 25,
+      "keywords": [
+        "dopamine deficiency",
+        "tremor",
+        "bradykinesia",
+        "basal ganglia",
+        "باركنسون",
+        "رعشة"
+      ]
+    },
+    {
+      "id": 3635,
+      "term": "Alzheimer's disease",
+      "arabic": "داء ألزهايمر",
+      "latin": "morbus Alzheimer",
+      "pronunciation": "ألزهايمرز ديزيز",
+      "definition": "أكثر أمراض الخرف شيوعاً. يتميز بتراكم لويحات بيتا-أميلويد بين الخلايا العصبية وتشابكات تاو داخلها مع ضمور الحصين واللوزة. يُسبّب فقدان الذاكرة والتدهور الإدراكي التدريجي.",
+      "definition_en": "The most common dementia. Characterized by beta-amyloid plaques between neurons, tau tangles within them, and atrophy of hippocampus and amygdala. Causes progressive memory loss and cognitive decline.",
+      "englishSentence": "Alzheimer's disease typically begins with short-term memory loss as the hippocampus deteriorates first.",
+      "type": "disease",
+      "chapter": 25,
+      "keywords": [
+        "dementia",
+        "amyloid plaques",
+        "memory loss",
+        "hippocampus",
+        "ألزهايمر",
+        "خرف"
+      ]
+    }
+  ]
+}

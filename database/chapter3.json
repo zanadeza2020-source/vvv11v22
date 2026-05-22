@@ -1,0 +1,1170 @@
+{
+  "chapter": 3,
+  "title": "Anatomic Reference Systems, Structural Units, and Pathology",
+  "title_ar": "أنظمة الإسناد التشريحي، الوحدات البنائية، وعلم الأمراض",
+  "title_en": "Anatomic Reference Systems, Structural Units, and Pathology",
+  "description": "شرح المستويات التشريحية، اتجاهات الجسم، التجاويف، الخلايا والأنسجة، الغدد، وأنماط انتشار الأمراض مع المصطلحات المرتبطة.",
+  "description_en": "Explanation of anatomical planes, body directions, cavities, cells and tissues, glands, and disease outbreak patterns with related terminology.",
+  "terms": [
+    {
+      "id": 301,
+      "term": "anatomic reference systems",
+      "arabic": "أنظمة الإسناد التشريحي",
+      "latin": "systemata anatomica referentiae",
+      "pronunciation": "أنا-توم-يك ريف-رنس سيس-تمز",
+      "definition": "طرق لوصف موقع أجزاء الجسم المختلفة، وتشمل المستويات، الاتجاهات، والتجاويف",
+      "definition_en": "Ways to describe the location of different body parts, including planes, directions, and cavities",
+      "englishSentence": "Anatomic reference systems are ways to describe the location of different body parts, including planes, directions, and cavities.",
+      "type": "concept",
+      "chapter": 3,
+      "keywords": ["anatomical position", "body location", "anatomical reference"]
+    },
+    {
+      "id": 302,
+      "term": "body planes",
+      "arabic": "المستويات الجسدية",
+      "latin": "plana corporis",
+      "pronunciation": "بودي بلاينز",
+      "definition": "خطوط عمودية وأفقية وهمية تستخدم لتقسيم الجسم إلى أقسام",
+      "definition_en": "Imaginary vertical and horizontal lines used to divide the body into sections",
+      "englishSentence": "Body planes are imaginary vertical and horizontal lines used to divide the body into sections.",
+      "type": "concept",
+      "chapter": 3,
+      "keywords": ["anatomical planes", "sections", "body divisions"]
+    },
+    {
+      "id": 303,
+      "term": "vertical planes",
+      "arabic": "المستويات الرأسية",
+      "latin": "plana verticalia",
+      "pronunciation": "فير-تي-كل بلاينز",
+      "definition": "مستويات صاعدة ونازلة تكون بزاوية قائمة مع الأفق",
+      "definition_en": "Up-and-down planes that are at a right angle to the horizon",
+      "englishSentence": "Vertical planes are up-and-down planes that are at a right angle to the horizon.",
+      "type": "concept",
+      "chapter": 3,
+      "keywords": ["sagittal", "frontal", "vertical sections"]
+    },
+    {
+      "id": 304,
+      "term": "midsagittal plane",
+      "arabic": "المستوى الناصف السهمي",
+      "latin": "planum midsagittale",
+      "pronunciation": "ميد-ساج-إي-تال بلاين",
+      "definition": "مستوى رأسي يقسم الجسم إلى نصفين متساويين (أيمن وأيسر)",
+      "definition_en": "A vertical plane that divides the body into equal left and right halves",
+      "englishSentence": "The midsagittal plane divides the body into equal left and right halves.",
+      "type": "plane",
+      "chapter": 3,
+      "keywords": ["median plane", "midline", "sagittal plane"]
+    },
+    {
+      "id": 305,
+      "term": "sagittal plane",
+      "arabic": "المستوى السهمي",
+      "latin": "planum sagittale",
+      "pronunciation": "ساج-إي-تال بلاين",
+      "definition": "مستوى رأسي يقسم الجسم إلى أجزاء غير متساوية (يمين ويسار)",
+      "definition_en": "A vertical plane that divides the body into unequal left and right portions",
+      "englishSentence": "A sagittal plane divides the body into unequal left and right portions.",
+      "type": "plane",
+      "chapter": 3,
+      "keywords": ["lateral plane", "parasagittal"]
+    },
+    {
+      "id": 306,
+      "term": "frontal plane",
+      "arabic": "المستوى الأمامي (الإكليلي)",
+      "latin": "planum frontale",
+      "pronunciation": "فرون-تال بلاين",
+      "definition": "مستوى رأسي يقسم الجسم إلى أجزاء أمامية (أمام) وخلفية (خلف)",
+      "definition_en": "A vertical plane that divides the body into anterior (front) and posterior (back) portions",
+      "englishSentence": "A frontal plane is a vertical plane that divides the body into anterior (front) and posterior (back) portions.",
+      "type": "plane",
+      "chapter": 3,
+      "keywords": ["coronal plane", "frontal section"]
+    },
+    {
+      "id": 307,
+      "term": "horizontal plane",
+      "arabic": "المستوى الأفقي",
+      "latin": "planum horizontale",
+      "pronunciation": "هور-إي-زون-تال بلاين",
+      "definition": "مستوى عرضي مسطح مثل الأفق",
+      "definition_en": "A flat, crosswise plane, such as the horizon",
+      "englishSentence": "A horizontal plane is a flat, crosswise plane, such as the horizon.",
+      "type": "plane",
+      "chapter": 3,
+      "keywords": ["transverse plane", "cross-sectional"]
+    },
+    {
+      "id": 308,
+      "term": "transverse plane",
+      "arabic": "المستوى المستعرض",
+      "latin": "planum transversale",
+      "pronunciation": "ترانس-فيرس بلاين",
+      "definition": "مستوى أفقي يقسم الجسم إلى أجزاء علوية (فوقية) وسفلية (تحتية)",
+      "definition_en": "A horizontal plane that divides the body into superior (upper) and inferior (lower) portions",
+      "englishSentence": "A transverse plane is a horizontal plane that divides the body into superior (upper) and inferior (lower) portions.",
+      "type": "plane",
+      "chapter": 3,
+      "keywords": ["cross-sectional plane", "axial plane"]
+    },
+    {
+      "id": 309,
+      "term": "ventral",
+      "arabic": "بطني (أمامي)",
+      "latin": "ventralis",
+      "pronunciation": "فين-ترال",
+      "definition": "يشير إلى الجانب الأمامي أو البطني للعضو أو الجسم",
+      "definition_en": "Refers to the front, or belly side, of the organ or body",
+      "englishSentence": "Ventral refers to the front, or belly side, of the organ or body.",
+      "parts": {
+        "root": { "value": "ventr", "meaning": "بطن", "function": "يشير إلى البطن" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "direction",
+      "chapter": 3,
+      "keywords": ["anterior", "belly side", "front"]
+    },
+    {
+      "id": 310,
+      "term": "dorsal",
+      "arabic": "ظهري (خلفي)",
+      "latin": "dorsalis",
+      "pronunciation": "دور-سال",
+      "definition": "يشير إلى الجزء الخلفي من العضو أو الجسم",
+      "definition_en": "Refers to the back of the organ or body",
+      "englishSentence": "Dorsal refers to the back of the organ or body.",
+      "parts": {
+        "root": { "value": "dors", "meaning": "ظهر", "function": "يشير إلى الظهر" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "direction",
+      "chapter": 3,
+      "keywords": ["posterior", "back side", "rear"]
+    },
+    {
+      "id": 311,
+      "term": "anterior",
+      "arabic": "أمامي",
+      "latin": "anterior",
+      "pronunciation": "آن-تير-ي-ور",
+      "definition": "يقع في الأمام أو على الجزء الأمامي من العضو",
+      "definition_en": "Situated in the front or forward part of an organ",
+      "englishSentence": "Anterior means situated in the front or forward part of an organ.",
+      "parts": {
+        "suffix": { "value": "ior", "meaning": "متعلق بـ", "function": "يشير إلى اتجاه" }
+      },
+      "type": "direction",
+      "chapter": 3,
+      "keywords": ["front", "ventral", "forward"]
+    },
+    {
+      "id": 312,
+      "term": "posterior",
+      "arabic": "خلفي",
+      "latin": "posterior",
+      "pronunciation": "بوس-تير-ي-ور",
+      "definition": "يقع في الخلف أو على الجزء الخلفي من العضو",
+      "definition_en": "Situated in the back or on the back part of an organ",
+      "englishSentence": "Posterior means situated in the back or on the back part of an organ.",
+      "parts": {
+        "suffix": { "value": "ior", "meaning": "متعلق بـ", "function": "يشير إلى اتجاه" }
+      },
+      "type": "direction",
+      "chapter": 3,
+      "keywords": ["back", "dorsal", "rear"]
+    },
+    {
+      "id": 313,
+      "term": "superior",
+      "arabic": "علوي (فوقي)",
+      "latin": "superior",
+      "pronunciation": "سو-بير-ي-ور",
+      "definition": "أعلى، أو باتجاه الرأس",
+      "definition_en": "Above, or toward the head",
+      "englishSentence": "Superior means above, or toward the head.",
+      "type": "direction",
+      "chapter": 3,
+      "keywords": ["above", "cranial", "upper"]
+    },
+    {
+      "id": 314,
+      "term": "inferior",
+      "arabic": "سفلي (تحتي)",
+      "latin": "inferior",
+      "pronunciation": "إن-فير-ي-ور",
+      "definition": "أسفل، أو باتجاه القدمين",
+      "definition_en": "Below, or toward the feet",
+      "englishSentence": "Inferior means below, or toward the feet.",
+      "type": "direction",
+      "chapter": 3,
+      "keywords": ["below", "caudal", "lower"]
+    },
+    {
+      "id": 315,
+      "term": "cephalic",
+      "arabic": "رأسي (باتجاه الرأس)",
+      "latin": "cephalicus",
+      "pronunciation": "سيف-آل-يك",
+      "definition": "باتجاه الرأس",
+      "definition_en": "Toward the head",
+      "englishSentence": "Cephalic means toward the head.",
+      "parts": {
+        "root": { "value": "cephal", "meaning": "رأس", "function": "يشير إلى الرأس" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "direction",
+      "chapter": 3,
+      "keywords": ["headward", "superior", "cranial"]
+    },
+    {
+      "id": 316,
+      "term": "caudal",
+      "arabic": "ذنبي (باتجاه الأسفل)",
+      "latin": "caudalis",
+      "pronunciation": "كاو-دال",
+      "definition": "باتجاه الجزء السفلي من الجسم (باتجاه الذيل)",
+      "definition_en": "Toward the lower part of the body (toward the tail)",
+      "englishSentence": "Caudal means toward the lower part of the body.",
+      "parts": {
+        "root": { "value": "caud", "meaning": "ذنب", "function": "يشير إلى الذيل أو الأسفل" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "direction",
+      "chapter": 3,
+      "keywords": ["tailward", "inferior", "downward"]
+    },
+    {
+      "id": 317,
+      "term": "proximal",
+      "arabic": "داني (قريب)",
+      "latin": "proximalis",
+      "pronunciation": "بروك-سي-مال",
+      "definition": "يقع بالقرب من نقطة الأصل أو خط منتصف الجسم",
+      "definition_en": "Situated nearest the midline or beginning of a body structure",
+      "englishSentence": "Proximal means situated nearest the midline or beginning of a body structure.",
+      "parts": {
+        "root": { "value": "proxim", "meaning": "قريب", "function": "يشير إلى القرب" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "direction",
+      "chapter": 3,
+      "keywords": ["near", "close", "nearest"]
+    },
+    {
+      "id": 318,
+      "term": "distal",
+      "arabic": "قصي (بعيد)",
+      "latin": "distalis",
+      "pronunciation": "ديس-تال",
+      "definition": "يقع بعيداً عن نقطة الأصل أو خط منتصف الجسم",
+      "definition_en": "Situated farthest from the midline or beginning of a body structure",
+      "englishSentence": "Distal means situated farthest from the midline or beginning of a body structure.",
+      "parts": {
+        "root": { "value": "dist", "meaning": "بعيد", "function": "يشير إلى البعد" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "direction",
+      "chapter": 3,
+      "keywords": ["far", "distant", "farthest"]
+    },
+    {
+      "id": 319,
+      "term": "humerus",
+      "arabic": "عظم العضد",
+      "latin": "humerus",
+      "pronunciation": "هيو-مير-اس",
+      "definition": "عظم الذراع العلوي الممتد من الكتف إلى المرفق",
+      "definition_en": "The bone of the upper arm, extending from shoulder to elbow",
+      "englishSentence": "The humerus is the bone of the upper arm, extending from shoulder to elbow.",
+      "type": "noun",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تكوين هيكل الذراع العلوي",
+      "systemFunction_en": "Form the structure of the upper arm",
+      "location": "الذراع العلوي",
+      "location_en": "Upper arm",
+      "nearbyOrgans": ["الكتف", "المرفق", "الكعبرة", "الزند"],
+      "nearbyOrgans_en": ["Shoulder", "Elbow", "Radius", "Ulna"],
+      "diseases": [
+        {
+          "name": "كسر عظم العضد",
+          "name_en": "Humerus fracture",
+          "symptoms": ["ألم شديد", "تورم", "تشوه", "عدم القدرة على تحريك الذراع"],
+          "symptoms_en": ["Severe pain", "Swelling", "Deformity", "Inability to move arm"],
+          "treatments": ["تجبير", "جراحة", "تثبيت", "علاج طبيعي"],
+          "treatments_en": ["Splinting", "Surgery", "Immobilization", "Physical therapy"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["humerus", "upper arm bone", "arm bone"]
+    },
+    {
+      "id": 320,
+      "term": "body cavities",
+      "arabic": "التجاويف الجسدية",
+      "latin": "cavitates corporis",
+      "pronunciation": "بودي كاف-إي-تيز",
+      "definition": "مساحات داخل الجسم تحتوي وتحمي الأعضاء الداخلية",
+      "definition_en": "Spaces within the body that contain and protect internal organs",
+      "englishSentence": "Body cavities are spaces within the body that contain and protect internal organs.",
+      "type": "concept",
+      "chapter": 3,
+      "keywords": ["thoracic cavity", "abdominal cavity", "cranial cavity", "body spaces"]
+    },
+    {
+      "id": 321,
+      "term": "dorsal cavity",
+      "arabic": "التجويف الظهري (الخلفي)",
+      "latin": "cavitas dorsalis",
+      "pronunciation": "دور-سال كاف-إي-تي",
+      "definition": "تجويف يقع على طول الجزء الخلفي من الجسم والرأس، ويحتوي على أعضاء الجهاز العصبي",
+      "definition_en": "A cavity located along the back of the body and head, containing organs of the nervous system",
+      "englishSentence": "The dorsal cavity is located along the back of the body and head, containing organs of the nervous system.",
+      "type": "cavity",
+      "chapter": 3,
+      "keywords": ["cranial cavity", "spinal cavity", "posterior cavity"]
+    },
+    {
+      "id": 322,
+      "term": "cranial cavity",
+      "arabic": "التجويف القحفي (الجمجمي)",
+      "latin": "cavitas cranii",
+      "pronunciation": "كراي-ني-آل كاف-إي-تي",
+      "definition": "التجويف داخل الجمجمة الذي يحيط بالدماغ ويحميه",
+      "definition_en": "The cavity within the skull that surrounds and protects the brain",
+      "englishSentence": "The cranial cavity is located within the skull and surrounds and protects the brain.",
+      "type": "cavity",
+      "chapter": 3,
+      "keywords": ["skull cavity", "brain cavity", "intracranial space"]
+    },
+    {
+      "id": 323,
+      "term": "spinal cavity",
+      "arabic": "التجويف الشوكي (الفقري)",
+      "latin": "cavitas spinalis",
+      "pronunciation": "سباي-نال كاف-إي-تي",
+      "definition": "التجويف داخل العمود الفقري الذي يحيط بالحبل الشوكي ويحميه",
+      "definition_en": "The cavity within the spinal column that surrounds and protects the spinal cord",
+      "englishSentence": "The spinal cavity is located within the spinal column and surrounds and protects the spinal cord.",
+      "type": "cavity",
+      "chapter": 3,
+      "keywords": ["vertebral canal", "spinal canal", "neural canal"]
+    },
+    {
+      "id": 324,
+      "term": "ventral cavity",
+      "arabic": "التجويف البطني (الأمامي)",
+      "latin": "cavitas ventralis",
+      "pronunciation": "فين-ترال كاف-إي-تي",
+      "definition": "تجويف يقع على طول الجزء الأمامي من الجسم، ويحتوي على أعضاء تحافظ على التوازن الداخلي",
+      "definition_en": "A cavity located along the front of the body, containing organs that maintain homeostasis",
+      "englishSentence": "The ventral cavity is located along the front of the body and contains organs that maintain homeostasis.",
+      "type": "cavity",
+      "chapter": 3,
+      "keywords": ["thoracic cavity", "abdominopelvic cavity", "anterior cavity"]
+    },
+    {
+      "id": 325,
+      "term": "thoracic cavity",
+      "arabic": "التجويف الصدري",
+      "latin": "cavitas thoracis",
+      "pronunciation": "ثو-راس-يك كاف-إي-تي",
+      "definition": "تجويف الصدر الذي يحيط بالقلب والرئتين ويحميهما",
+      "definition_en": "The chest cavity that surrounds and protects the heart and lungs",
+      "englishSentence": "The thoracic cavity surrounds and protects the heart and the lungs.",
+      "type": "cavity",
+      "chapter": 3,
+      "keywords": ["chest cavity", "thorax", "mediastinum"]
+    },
+    {
+      "id": 326,
+      "term": "diaphragm",
+      "arabic": "الحجاب الحاجز",
+      "latin": "diaphragma",
+      "pronunciation": "داي-آ-فرام",
+      "definition": "عضلة تفصل بين التجويف الصدري والتجويف البطني",
+      "definition_en": "A muscle that separates the thoracic and abdominal cavities",
+      "englishSentence": "The diaphragm is a muscle that separates the thoracic and abdominal cavities.",
+      "type": "muscle",
+      "system": "الجهاز التنفسي والعضلي",
+      "system_en": "Respiratory and Muscular System",
+      "systemFunction": "المساعدة في عملية التنفس",
+      "systemFunction_en": "Assist in the breathing process",
+      "location": "أسفل الرئتين، يفصل الصدر عن البطن",
+      "location_en": "Below the lungs, separating chest from abdomen",
+      "nearbyOrgans": ["الرئتين", "القلب", "الكبد", "المعدة"],
+      "nearbyOrgans_en": ["Lungs", "Heart", "Liver", "Stomach"],
+      "diseases": [
+        {
+          "name": "شلل الحجاب الحاجز",
+          "name_en": "Diaphragmatic paralysis",
+          "symptoms": ["ضيق تنفس", "صعوبة في التنفس عند الاستلقاء", "تعب"],
+          "symptoms_en": ["Shortness of breath", "Difficulty breathing when lying down", "Fatigue"],
+          "treatments": ["علاج السبب", "تهوية ميكانيكية", "تمارين تنفس"],
+          "treatments_en": ["Treat underlying cause", "Mechanical ventilation", "Breathing exercises"]
+        },
+        {
+          "name": "فتق حجابي",
+          "name_en": "Hiatal hernia",
+          "symptoms": ["حرقة", "ألم صدر", "صعوبة بلع", "قلس حمضي"],
+          "symptoms_en": ["Heartburn", "Chest pain", "Difficulty swallowing", "Acid reflux"],
+          "treatments": ["أدوية", "تعديل نمط الحياة", "جراحة"],
+          "treatments_en": ["Medications", "Lifestyle changes", "Surgery"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["diaphragm", "breathing muscle", "respiratory muscle"]
+    },
+    {
+      "id": 327,
+      "term": "abdominal cavity",
+      "arabic": "التجويف البطني",
+      "latin": "cavitas abdominis",
+      "pronunciation": "آب-دوم-إي-نال كاف-إي-تي",
+      "definition": "تجويف يحتوي على أعضاء الجهاز الهضمي الرئيسية",
+      "definition_en": "A cavity containing the major organs of digestion",
+      "englishSentence": "The abdominal cavity contains primarily the major organs of digestion.",
+      "type": "cavity",
+      "chapter": 3,
+      "keywords": ["abdomen", "peritoneal cavity", "digestive organs"]
+    },
+    {
+      "id": 328,
+      "term": "pelvic cavity",
+      "arabic": "التجويف الحوضي",
+      "latin": "cavitas pelvis",
+      "pronunciation": "بيل-فيك كاف-إي-تي",
+      "definition": "الفراغ الذي تشكله عظام الحوض ويحتوي على أعضاء الجهاز التناسلي والإخراجي",
+      "definition_en": "The space formed by the hip bones, containing organs of the reproductive and excretory systems",
+      "englishSentence": "The pelvic cavity contains primarily the organs of the reproductive and excretory systems.",
+      "type": "cavity",
+      "chapter": 3,
+      "keywords": ["pelvis", "reproductive organs", "urinary bladder"]
+    },
+    {
+      "id": 329,
+      "term": "homeostasis",
+      "arabic": "التوازن الداخلي (الاستتباب)",
+      "latin": "homeostasis",
+      "pronunciation": "هو-مي-أو-ستاي-سيس",
+      "definition": "العمليات التي يحافظ من خلالها الجسم على بيئة داخلية ثابتة",
+      "definition_en": "The processes through which the body maintains a constant internal environment",
+      "englishSentence": "Homeostasis is the process through which the body maintains a constant internal environment.",
+      "type": "concept",
+      "chapter": 3,
+      "keywords": ["internal balance", "equilibrium", "steady state"]
+    },
+    {
+      "id": 330,
+      "term": "cells",
+      "arabic": "خلايا",
+      "latin": "cellulae",
+      "pronunciation": "سيلز",
+      "definition": "الوحدات الهيكلية والوظيفية الأساسية للجسم",
+      "definition_en": "The basic structural and functional units of the body",
+      "englishSentence": "Cells are the basic structural and functional units of the body.",
+      "type": "concept",
+      "chapter": 3,
+      "keywords": ["basic unit", "cellular", "cell biology"]
+    },
+    {
+      "id": 331,
+      "term": "cytology",
+      "arabic": "علم الخلية",
+      "latin": "cytologia",
+      "pronunciation": "ساي-تول-أو-جي",
+      "definition": "دراسة تشريح ووظائف وأمراض وكيمياء الخلية",
+      "definition_en": "The study of the anatomy, physiology, pathology, and chemistry of the cell",
+      "englishSentence": "Cytology is the study of the anatomy, physiology, pathology, and chemistry of the cell.",
+      "parts": {
+        "root": { "value": "cyt", "meaning": "خلية", "function": "يشير إلى الخلية" },
+        "suffix": { "value": "ology", "meaning": "علم", "function": "يشير إلى مجال الدراسة" }
+      },
+      "type": "science",
+      "chapter": 3,
+      "keywords": ["cytology", "cell study", "cell biology"]
+    },
+    {
+      "id": 332,
+      "term": "stem cells",
+      "arabic": "خلايا جذعية",
+      "latin": "cellulae praecursoriae",
+      "pronunciation": "ستيم سيلز",
+      "definition": "خلايا غير متخصصة قادرة على تجديد نفسها لفترات طويلة والتحول إلى خلايا متخصصة",
+      "definition_en": "Unspecialized cells that can renew themselves for long periods and transform into specialized cells",
+      "englishSentence": "Stem cells are unspecialized cells that can renew themselves and transform into specialized cells.",
+      "type": "cell",
+      "system": "عام",
+      "system_en": "General",
+      "systemFunction": "تكوين الأنسجة المختلفة",
+      "systemFunction_en": "Form different tissues",
+      "location": "نخاع العظم، الأنسجة المختلفة",
+      "location_en": "Bone marrow, various tissues",
+      "nearbyOrgans": ["نخاع العظم", "الدم", "الأنسجة المختلفة"],
+      "nearbyOrgans_en": ["Bone marrow", "Blood", "Various tissues"],
+      "diseases": [
+        {
+          "name": "فشل نخاع العظم",
+          "name_en": "Bone marrow failure",
+          "symptoms": ["تعب", "شحوب", "نزيف", "التهابات متكررة"],
+          "symptoms_en": ["Fatigue", "Pallor", "Bleeding", "Frequent infections"],
+          "treatments": ["زراعة الخلايا الجذعية", "نقل دم", "أدوية"],
+          "treatments_en": ["Stem cell transplantation", "Blood transfusion", "Medications"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["stem cells", "undifferentiated cells", "regenerative cells"]
+    },
+    {
+      "id": 333,
+      "term": "hemopoietic tissue",
+      "arabic": "نسيج مكون للدم",
+      "latin": "textus haemopoieticus",
+      "pronunciation": "هي-مو-بو-إي-تيك تيش-يو",
+      "definition": "النسيج المسؤول عن إنتاج خلايا الدم، مثل نخاع العظم",
+      "definition_en": "Blood-forming tissue, such as bone marrow",
+      "englishSentence": "Hemopoietic tissue is blood-forming tissue, such as bone marrow.",
+      "type": "tissue",
+      "system": "الجهاز الدموي",
+      "system_en": "Hematologic System",
+      "systemFunction": "إنتاج خلايا الدم",
+      "systemFunction_en": "Produce blood cells",
+      "location": "نخاع العظم",
+      "location_en": "Bone marrow",
+      "nearbyOrgans": ["العظام", "الدم", "الطحال"],
+      "nearbyOrgans_en": ["Bones", "Blood", "Spleen"],
+      "diseases": [
+        {
+          "name": "ابيضاض الدم",
+          "name_en": "Leukemia",
+          "symptoms": ["تعب", "التهابات متكررة", "نزيف", "كدمات"],
+          "symptoms_en": ["Fatigue", "Frequent infections", "Bleeding", "Bruising"],
+          "treatments": ["علاج كيميائي", "زراعة نخاع عظم", "علاج موجه"],
+          "treatments_en": ["Chemotherapy", "Bone marrow transplant", "Targeted therapy"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["hemopoietic tissue", "bone marrow", "hematopoietic"]
+    },
+    {
+      "id": 334,
+      "term": "graft versus host disease",
+      "arabic": "داء الطعم حيال الثوي (رفض الزرع)",
+      "latin": "morbus transplantationis contra hospitem",
+      "pronunciation": "جرافت فيرسس هوست ديزيز",
+      "definition": "حالة قد تحدث بعد زرع الخلايا الجذعية حيث تهاجم الخلايا المزروعة جسم المتلقي",
+      "definition_en": "A condition that may occur after stem cell transplantation where donor cells attack the recipient's body",
+      "englishSentence": "Graft versus host disease is a complication where donor cells attack the recipient's body.",
+      "type": "condition",
+      "abbreviation": "GvHD",
+      "system": "الجهاز المناعي",
+      "system_en": "Immune System",
+      "systemFunction": "رد فعل مناعي",
+      "systemFunction_en": "Immune reaction",
+      "location": "الجلد، الكبد، الأمعاء",
+      "location_en": "Skin, liver, intestines",
+      "nearbyOrgans": ["الجهاز الهضمي", "الجلد", "الكبد"],
+      "nearbyOrgans_en": ["Digestive system", "Skin", "Liver"],
+      "diseases": [
+        {
+          "name": "داء الطعم حيال الثوي الحاد",
+          "name_en": "Acute GVHD",
+          "symptoms": ["طفح جلدي", "إسهال", "اضطرابات كبدية", "يرقان"],
+          "symptoms_en": ["Skin rash", "Diarrhea", "Liver dysfunction", "Jaundice"],
+          "treatments": ["مثبطات مناعة", "كورتيزون", "علاج داعم"],
+          "treatments_en": ["Immunosuppressants", "Corticosteroids", "Supportive care"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["GVHD", "graft versus host disease", "transplant rejection"]
+    },
+    {
+      "id": 335,
+      "term": "tissues",
+      "arabic": "أنسجة",
+      "latin": "textus",
+      "pronunciation": "تيش-يوز",
+      "definition": "مجموعة من الخلايا المتخصصة المتشابهة التي تتحد معاً لأداء وظائف محددة",
+      "definition_en": "Groups of similarly specialized cells that join together to perform specific functions",
+      "englishSentence": "Tissues are groups of similarly specialized cells that join together to perform specific functions.",
+      "type": "concept",
+      "chapter": 3,
+      "keywords": ["epithelial tissue", "connective tissue", "muscle tissue", "nerve tissue"]
+    },
+    {
+      "id": 336,
+      "term": "histology",
+      "arabic": "علم الأنسجة",
+      "latin": "histologia",
+      "pronunciation": "هيس-تول-أو-جي",
+      "definition": "دراسة بنية الأنسجة وتكوينها ووظائفها",
+      "definition_en": "The study of the structure, composition, and function of tissues",
+      "englishSentence": "Histology is the study of the structure, composition, and function of tissues.",
+      "parts": {
+        "root": { "value": "hist", "meaning": "نسيج", "function": "يشير إلى النسيج" },
+        "suffix": { "value": "ology", "meaning": "علم", "function": "يشير إلى مجال الدراسة" }
+      },
+      "type": "science",
+      "chapter": 3,
+      "keywords": ["histology", "tissue study", "microscopic anatomy"]
+    },
+    {
+      "id": 337,
+      "term": "histologist",
+      "arabic": "أخصائي أنسجة",
+      "latin": "histologus",
+      "pronunciation": "هيس-تول-أو-جيست",
+      "definition": "متخصص في دراسة تنظيم الأنسجة على جميع المستويات",
+      "definition_en": "A specialist in the study of the organization of tissues at all levels",
+      "englishSentence": "A histologist is a specialist in the study of the organization of tissues.",
+      "parts": {
+        "root": { "value": "hist", "meaning": "نسيج", "function": "يشير إلى النسيج" },
+        "suffix": { "value": "ologist", "meaning": "أخصائي", "function": "يشير إلى المختص" }
+      },
+      "type": "specialist",
+      "chapter": 3,
+      "keywords": ["histologist", "tissue specialist", "microscopist"]
+    },
+    {
+      "id": 338,
+      "term": "aplasia",
+      "arabic": "انعدام التنسج / عدم تكون",
+      "latin": "aplasia",
+      "pronunciation": "آ-بلاي-زيا",
+      "definition": "تطور معيب أو غياب خلقي لعضو أو نسيج",
+      "definition_en": "Defective development or congenital absence of an organ or tissue",
+      "englishSentence": "Aplasia is the defective development or congenital absence of an organ or tissue.",
+      "parts": {
+        "prefix": { "value": "a", "meaning": "عدم، بدون", "function": "يشير إلى النفي" },
+        "suffix": { "value": "plasia", "meaning": "تكون", "function": "يشير إلى التكون" }
+      },
+      "type": "condition",
+      "system": "عام",
+      "system_en": "General",
+      "diseases": [
+        {
+          "name": "لاتنسج نخاع العظم",
+          "name_en": "Bone marrow aplasia",
+          "symptoms": ["تعب", "شحوب", "نزيف", "التهابات متكررة"],
+          "symptoms_en": ["Fatigue", "Pallor", "Bleeding", "Frequent infections"],
+          "treatments": ["نقل دم", "زراعة نخاع عظم", "عوامل تحفيز النخاع"],
+          "treatments_en": ["Blood transfusion", "Bone marrow transplant", "Colony-stimulating factors"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["aplasia", "agenesis", "absence"]
+    },
+    {
+      "id": 339,
+      "term": "hypoplasia",
+      "arabic": "نقص التنسج",
+      "latin": "hypoplasia",
+      "pronunciation": "هاي-بو-بلاي-زيا",
+      "definition": "تطور غير مكتمل لعضو أو نسيج بسبب نقص في عدد الخلايا",
+      "definition_en": "Incomplete development of an organ or tissue due to a deficiency in cell number",
+      "englishSentence": "Hypoplasia is the incomplete development of an organ or tissue due to a deficiency in cell number.",
+      "parts": {
+        "prefix": { "value": "hypo", "meaning": "نقص", "function": "يشير إلى النقص" },
+        "suffix": { "value": "plasia", "meaning": "تكون", "function": "يشير إلى التكون" }
+      },
+      "type": "condition",
+      "system": "عام",
+      "system_en": "General",
+      "diseases": [
+        {
+          "name": "نقص تنسج الكلى",
+          "name_en": "Renal hypoplasia",
+          "symptoms": ["ارتفاع ضغط الدم", "فشل كلوي", "قلة البول"],
+          "symptoms_en": ["High blood pressure", "Kidney failure", "Decreased urine output"],
+          "treatments": ["مراقبة", "علاج الأعراض", "غسيل كلوي في الحالات الشديدة"],
+          "treatments_en": ["Monitoring", "Symptom management", "Dialysis in severe cases"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["hypoplasia", "underdevelopment", "incomplete development"]
+    },
+    {
+      "id": 340,
+      "term": "anaplasia",
+      "arabic": "انعدام التمايز الخلوي",
+      "latin": "anaplasia",
+      "pronunciation": "آن-آ-بلاي-زيا",
+      "definition": "تغير في بنية الخلايا وتوجهها تجاه بعضها البعض، وهو تطور خلوي مميز لتكوين الأورام السرطانية",
+      "definition_en": "A change in cell structure and orientation, characteristic of cancer formation",
+      "englishSentence": "Anaplasia is a change in cell structure and orientation, characteristic of cancer formation.",
+      "parts": {
+        "prefix": { "value": "ana", "meaning": "خلف، عكسي", "function": "يشير إلى العودة" },
+        "suffix": { "value": "plasia", "meaning": "تكون", "function": "يشير إلى التكون" }
+      },
+      "type": "condition",
+      "system": "الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "تمايز الخلايا",
+      "systemFunction_en": "Cell differentiation",
+      "location": "الأنسجة السرطانية",
+      "location_en": "Cancerous tissues",
+      "diseases": [
+        {
+          "name": "الأورام سيئة التمايز",
+          "name_en": "Poorly differentiated tumors",
+          "symptoms": ["نمو سريع", "انتشار مبكر", "استجابة ضعيفة للعلاج"],
+          "symptoms_en": ["Rapid growth", "Early metastasis", "Poor treatment response"],
+          "treatments": ["علاج كيميائي مكثف", "علاج إشعاعي", "علاج موجه"],
+          "treatments_en": ["Intensive chemotherapy", "Radiation therapy", "Targeted therapy"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["anaplasia", "dedifferentiation", "loss of differentiation"]
+    },
+    {
+      "id": 341,
+      "term": "leiomyosarcoma",
+      "arabic": "ورم عضلي أملس خبيث",
+      "latin": "leiomyosarcoma",
+      "pronunciation": "لاي-أو-ماي-أو-سار-كو-ما",
+      "definition": "ورم خبيث في العضلات الملساء",
+      "definition_en": "A malignant smooth muscle tumor",
+      "englishSentence": "Leiomyosarcoma is a malignant smooth muscle tumor.",
+      "parts": {
+        "prefix": { "value": "leio", "meaning": "أملس", "function": "يشير إلى النعومة" },
+        "root": { "value": "myo", "meaning": "عضلة", "function": "يشير إلى العضلة" },
+        "suffix": { "value": "sarcoma", "meaning": "ساركوما", "function": "يشير إلى ورم خبيث" }
+      },
+      "type": "tumor",
+      "system": "الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "حركة الأعضاء",
+      "systemFunction_en": "Organ movement",
+      "location": "الرحم، المعدة، الأمعاء، الأوعية الدموية",
+      "location_en": "Uterus, stomach, intestines, blood vessels",
+      "nearbyOrgans": ["الرحم", "الجهاز الهضمي", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Uterus", "Digestive tract", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "ساركوما عضلية ملساء رحمية",
+          "name_en": "Uterine leiomyosarcoma",
+          "symptoms": ["نزيف مهبلي غير طبيعي", "ألم حوضي", "كتلة في الحوض"],
+          "symptoms_en": ["Abnormal vaginal bleeding", "Pelvic pain", "Pelvic mass"],
+          "treatments": ["استئصال الرحم", "علاج كيميائي", "علاج إشعاعي"],
+          "treatments_en": ["Hysterectomy", "Chemotherapy", "Radiation therapy"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["leiomyosarcoma", "smooth muscle cancer", "soft tissue sarcoma"]
+    },
+    {
+      "id": 342,
+      "term": "leiomyoma",
+      "arabic": "ورم عضلي أملس حميد",
+      "latin": "leiomyoma",
+      "pronunciation": "لاي-أو-ماي-أو-ما",
+      "definition": "ورم حميد في العضلات الملساء",
+      "definition_en": "A benign smooth muscle tumor",
+      "englishSentence": "Leiomyoma is a benign smooth muscle tumor.",
+      "parts": {
+        "prefix": { "value": "leio", "meaning": "أملس", "function": "يشير إلى النعومة" },
+        "root": { "value": "myo", "meaning": "عضلة", "function": "يشير إلى العضلة" },
+        "suffix": { "value": "oma", "meaning": "ورم", "function": "يشير إلى ورم" }
+      },
+      "type": "tumor",
+      "system": "الأورام",
+      "system_en": "Oncology",
+      "systemFunction": "حركة الأعضاء",
+      "systemFunction_en": "Organ movement",
+      "location": "الرحم (الأكثر شيوعاً)",
+      "location_en": "Uterus (most common)",
+      "nearbyOrgans": ["الرحم", "المثانة", "المستقيم"],
+      "nearbyOrgans_en": ["Uterus", "Bladder", "Rectum"],
+      "diseases": [
+        {
+          "name": "أورام الرحم الليفية",
+          "name_en": "Uterine fibroids",
+          "symptoms": ["نزيف حيضي غزير", "ألم حوضي", "ضغط على المثانة", "عقم"],
+          "symptoms_en": ["Heavy menstrual bleeding", "Pelvic pain", "Bladder pressure", "Infertility"],
+          "treatments": ["مراقبة", "أدوية", "استئصال الورم", "استئصال الرحم", "إصمام الشريان الرحمي"],
+          "treatments_en": ["Observation", "Medications", "Myomectomy", "Hysterectomy", "Uterine artery embolization"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["leiomyoma", "fibroid", "benign smooth muscle tumor"]
+    },
+    {
+      "id": 343,
+      "term": "dysplasia",
+      "arabic": "خلل التنسج",
+      "latin": "dysplasia",
+      "pronunciation": "ديس-بلاي-زيا",
+      "definition": "تطور أو نمو غير طبيعي للخلايا أو الأنسجة أو الأعضاء",
+      "definition_en": "Abnormal development or growth of cells, tissues, or organs",
+      "englishSentence": "Dysplasia is abnormal development or growth of cells, tissues, or organs.",
+      "parts": {
+        "prefix": { "value": "dys", "meaning": "خلل", "function": "يشير إلى الخلل" },
+        "suffix": { "value": "plasia", "meaning": "تكون", "function": "يشير إلى التكون" }
+      },
+      "type": "condition",
+      "system": "عام",
+      "system_en": "General",
+      "diseases": [
+        {
+          "name": "خلل تنسج عنق الرحم",
+          "name_en": "Cervical dysplasia",
+          "symptoms": ["غالباً بلا أعراض", "يكشف بمسحة عنق الرحم"],
+          "symptoms_en": ["Often asymptomatic", "Detected by Pap smear"],
+          "treatments": ["مراقبة", "خزعة", "كشط", "استئصال مخروطي", "علاج بالتبريد"],
+          "treatments_en": ["Monitoring", "Biopsy", "Curettage", "Cone biopsy", "Cryotherapy"]
+        },
+        {
+          "name": "خلل تنسج الورك",
+          "name_en": "Hip dysplasia",
+          "symptoms": ["عدم استقرار المفصل", "عرج", "ألم", "قصر الساق"],
+          "symptoms_en": ["Joint instability", "Limping", "Pain", "Leg length discrepancy"],
+          "treatments": ["حفاضات مزدوجة", "جهاز بافليك", "جراحة", "تجبير"],
+          "treatments_en": ["Double diapering", "Pavlik harness", "Surgery", "Bracing"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["dysplasia", "abnormal growth", "precancerous"]
+    },
+    {
+      "id": 344,
+      "term": "hyperplasia",
+      "arabic": "فرط التنسج",
+      "latin": "hyperplasia",
+      "pronunciation": "هاي-بر-بلاي-زيا",
+      "definition": "تضخم عضو أو نسيج بسبب زيادة غير طبيعية في عدد الخلايا",
+      "definition_en": "Enlargement of an organ or tissue due to an abnormal increase in cell number",
+      "englishSentence": "Hyperplasia is enlargement due to an abnormal increase in the number of cells.",
+      "parts": {
+        "prefix": { "value": "hyper", "meaning": "فرط", "function": "يشير إلى الزيادة" },
+        "suffix": { "value": "plasia", "meaning": "تكون", "function": "يشير إلى التكون" }
+      },
+      "type": "condition",
+      "system": "عام",
+      "system_en": "General",
+      "diseases": [
+        {
+          "name": "فرط تنسج البروستاتا الحميد",
+          "name_en": "Benign prostatic hyperplasia",
+          "symptoms": ["صعوبة التبول", "تبول متكرر", "ضعف تدفق البول", "تبول ليلي"],
+          "symptoms_en": ["Difficulty urinating", "Frequent urination", "Weak stream", "Nocturia"],
+          "treatments": ["أدوية", "جراحة بالمنظار", "استئصال البروستاتا عبر الإحليل"],
+          "treatments_en": ["Medications", "Minimally invasive surgery", "Transurethral resection of prostate"]
+        },
+        {
+          "name": "فرط تنسج بطانة الرحم",
+          "name_en": "Endometrial hyperplasia",
+          "symptoms": ["نزيف غير طبيعي", "نزيف بين الدورات", "نزيف بعد انقطاع الطمث"],
+          "symptoms_en": ["Abnormal bleeding", "Bleeding between periods", "Postmenopausal bleeding"],
+          "treatments": ["هرمونات", "خزعة", "استئصال الرحم"],
+          "treatments_en": ["Hormones", "Biopsy", "Hysterectomy"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["hyperplasia", "increased cell number", "overgrowth"]
+    },
+    {
+      "id": 345,
+      "term": "hypertrophy",
+      "arabic": "تضخم (زيادة الحجم)",
+      "latin": "hypertrophia",
+      "pronunciation": "هاي-بر-ترو-في",
+      "definition": "زيادة في حجم جزء من الجسم أو عضو بسبب زيادة في حجم الخلايا، وليس عددها",
+      "definition_en": "An increase in bulk of a body part or organ due to an increase in cell size, not number",
+      "englishSentence": "Hypertrophy is an increase in bulk due to an increase in cell size, not number.",
+      "parts": {
+        "prefix": { "value": "hyper", "meaning": "فرط", "function": "يشير إلى الزيادة" },
+        "suffix": { "value": "trophy", "meaning": "نمو", "function": "يشير إلى النمو" }
+      },
+      "type": "condition",
+      "system": "عام",
+      "system_en": "General",
+      "diseases": [
+        {
+          "name": "تضخم عضلة القلب",
+          "name_en": "Cardiac hypertrophy",
+          "symptoms": ["ضيق تنفس", "ألم صدر", "خفقان", "تعب"],
+          "symptoms_en": ["Shortness of breath", "Chest pain", "Palpitations", "Fatigue"],
+          "treatments": ["أدوية", "تعديل نمط الحياة", "علاج السبب"],
+          "treatments_en": ["Medications", "Lifestyle changes", "Treat underlying cause"]
+        },
+        {
+          "name": "تضخم عضلي",
+          "name_en": "Muscle hypertrophy",
+          "symptoms": ["زيادة حجم العضلات", "قوة متزايدة"],
+          "symptoms_en": ["Increased muscle size", "Increased strength"],
+          "treatments": ["تمارين مقاومة", "تغذية مناسبة"],
+          "treatments_en": ["Resistance exercise", "Proper nutrition"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["hypertrophy", "increased cell size", "enlargement"]
+    },
+    {
+      "id": 346,
+      "term": "glands",
+      "arabic": "غدد",
+      "latin": "glandulae",
+      "pronunciation": "غلاندز",
+      "definition": "مجموعة من الخلايا الظهارية المتخصصة القادرة على إنتاج الإفرازات",
+      "definition_en": "Groups of specialized epithelial cells capable of producing secretions",
+      "englishSentence": "A gland is a group of specialized epithelial cells capable of producing secretions.",
+      "type": "organ",
+      "chapter": 3,
+      "keywords": ["glands", "secretory organs", "endocrine", "exocrine"]
+    },
+    {
+      "id": 347,
+      "term": "exocrine glands",
+      "arabic": "غدد خارجية الإفراز (قنوية)",
+      "latin": "glandulae exocrinae",
+      "pronunciation": "إكس-أو-كراين غلاندز",
+      "definition": "غدد تفرز مواد كيميائية في قنوات تؤدي إلى أعضاء أخرى أو خارج الجسم، مثل الغدد العرقية",
+      "definition_en": "Glands that secrete substances into ducts that lead to other organs or out of the body",
+      "englishSentence": "Exocrine glands secrete substances into ducts that lead to other organs or out of the body.",
+      "parts": {
+        "prefix": { "value": "exo", "meaning": "خارج", "function": "يشير إلى الخارج" },
+        "root": { "value": "crin", "meaning": "يفرز", "function": "يشير إلى الإفراز" }
+      },
+      "type": "gland",
+      "chapter": 3,
+      "keywords": ["exocrine glands", "duct glands", "sweat glands"]
+    },
+    {
+      "id": 348,
+      "term": "endocrine glands",
+      "arabic": "غدد صماء (داخلية الإفراز)",
+      "latin": "glandulae endocrinae",
+      "pronunciation": "إن-دو-كراين غلاندز",
+      "definition": "غدد تنتج هرمونات وتفرزها مباشرة في مجرى الدم، وليس لديها قنوات",
+      "definition_en": "Glands that produce hormones and secrete them directly into the bloodstream",
+      "englishSentence": "Endocrine glands produce hormones and secrete them directly into the bloodstream.",
+      "parts": {
+        "prefix": { "value": "endo", "meaning": "داخل", "function": "يشير إلى الداخل" },
+        "root": { "value": "crin", "meaning": "يفرز", "function": "يشير إلى الإفراز" }
+      },
+      "type": "gland",
+      "chapter": 3,
+      "keywords": ["endocrine glands", "ductless glands", "hormone glands"]
+    },
+    {
+      "id": 349,
+      "term": "adenitis",
+      "arabic": "التهاب الغدة",
+      "latin": "adenitis",
+      "pronunciation": "آد-إي-ناي-تس",
+      "definition": "التهاب يصيب الغدة",
+      "definition_en": "Inflammation of a gland",
+      "englishSentence": "Adenitis is inflammation of a gland.",
+      "parts": {
+        "root": { "value": "aden", "meaning": "غدة", "function": "يشير إلى الغدة" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز الغدي",
+      "system_en": "Glandular System",
+      "diseases": [
+        {
+          "name": "التهاب الغدة اللمفاوية",
+          "name_en": "Lymphadenitis",
+          "symptoms": ["تورم العقد اللمفاوية", "ألم", "احمرار", "حمى"],
+          "symptoms_en": ["Swollen lymph nodes", "Pain", "Redness", "Fever"],
+          "treatments": ["مضادات حيوية", "مسكنات", "علاج السبب"],
+          "treatments_en": ["Antibiotics", "Pain relievers", "Treat cause"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["adenitis", "gland inflammation"]
+    },
+    {
+      "id": 350,
+      "term": "adenocarcinoma",
+      "arabic": "سرطان غدي",
+      "latin": "adenocarcinoma",
+      "pronunciation": "آد-إي-نو-كار-سي-نو-ما",
+      "definition": "ورم خبيث ينشأ في النسيج الغدي",
+      "definition_en": "A malignant tumor originating in glandular tissue",
+      "englishSentence": "Adenocarcinoma is a malignant tumor originating in glandular tissue.",
+      "parts": {
+        "root1": { "value": "aden", "meaning": "غدة", "function": "يشير إلى الغدة" },
+        "root2": { "value": "carcin", "meaning": "سرطان", "function": "يشير إلى السرطان" },
+        "suffix": { "value": "oma", "meaning": "ورم", "function": "يشير إلى ورم" }
+      },
+      "type": "tumor",
+      "system": "الأورام",
+      "system_en": "Oncology",
+      "diseases": [
+        {
+          "name": "سرطانة غدية رئوية",
+          "name_en": "Lung adenocarcinoma",
+          "symptoms": ["سعال", "ضيق تنفس", "ألم صدر", "نفث الدم"],
+          "symptoms_en": ["Cough", "Shortness of breath", "Chest pain", "Coughing up blood"],
+          "treatments": ["جراحة", "علاج كيميائي", "علاج إشعاعي", "علاج موجه"],
+          "treatments_en": ["Surgery", "Chemotherapy", "Radiation therapy", "Targeted therapy"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["adenocarcinoma", "glandular cancer", "malignant tumor"]
+    },
+    {
+      "id": 351,
+      "term": "adenoma",
+      "arabic": "ورم غدي حميد",
+      "latin": "adenoma",
+      "pronunciation": "آد-إي-نو-ما",
+      "definition": "ورم حميد ينشأ في النسيج الغدي أو يشبهه",
+      "definition_en": "A benign tumor arising in or resembling glandular tissue",
+      "englishSentence": "Adenoma is a benign tumor arising in or resembling glandular tissue.",
+      "parts": {
+        "root": { "value": "aden", "meaning": "غدة", "function": "يشير إلى الغدة" },
+        "suffix": { "value": "oma", "meaning": "ورم", "function": "يشير إلى ورم" }
+      },
+      "type": "tumor",
+      "system": "الأورام",
+      "system_en": "Oncology",
+      "diseases": [
+        {
+          "name": "ورم غدي نخامي",
+          "name_en": "Pituitary adenoma",
+          "symptoms": ["صداع", "اضطرابات بصرية", "اضطرابات هرمونية"],
+          "symptoms_en": ["Headache", "Visual disturbances", "Hormonal disorders"],
+          "treatments": ["جراحة", "أدوية", "علاج إشعاعي"],
+          "treatments_en": ["Surgery", "Medications", "Radiation therapy"]
+        },
+        {
+          "name": "ورم غدي قولوني",
+          "name_en": "Colonic adenoma",
+          "symptoms": ["غالباً بلا أعراض", "نزيف مستقيمي", "تغير عادات التبرز"],
+          "symptoms_en": ["Often asymptomatic", "Rectal bleeding", "Change in bowel habits"],
+          "treatments": ["استئصال بالمنظار", "مراقبة"],
+          "treatments_en": ["Endoscopic removal", "Surveillance"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["adenoma", "benign tumor", "glandular tumor"]
+    },
+    {
+      "id": 352,
+      "term": "adenomalacia",
+      "arabic": "ليونة الغدة",
+      "latin": "adenomalacia",
+      "pronunciation": "آد-إي-نو-ما-لاي-شيا",
+      "definition": "تليين غير طبيعي في الغدة",
+      "definition_en": "Abnormal softening of a gland",
+      "englishSentence": "Adenomalacia is abnormal softening of a gland.",
+      "parts": {
+        "root": { "value": "aden", "meaning": "غدة", "function": "يشير إلى الغدة" },
+        "suffix": { "value": "malacia", "meaning": "لين", "function": "يشير إلى لين غير طبيعي" }
+      },
+      "type": "condition",
+      "system": "الجهاز الغدي",
+      "system_en": "Glandular System",
+      "chapter": 3,
+      "keywords": ["adenomalacia", "gland softening"]
+    },
+    {
+      "id": 353,
+      "term": "adenosis",
+      "arabic": "مرض غدي",
+      "latin": "adenosis",
+      "pronunciation": "آد-إي-نو-سيس",
+      "definition": "أي حالة مرضية تصيب الغدة",
+      "definition_en": "Any disease condition of a gland",
+      "englishSentence": "Adenosis is any disease condition of a gland.",
+      "parts": {
+        "root": { "value": "aden", "meaning": "غدة", "function": "يشير إلى الغدة" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز الغدي",
+      "system_en": "Glandular System",
+      "diseases": [
+        {
+          "name": "تصلب الغدة",
+          "name_en": "Sclerosing adenosis",
+          "symptoms": ["كتلة", "ألم", "تغيرات في الثدي"],
+          "symptoms_en": ["Lump", "Pain", "Breast changes"],
+          "treatments": ["مراقبة", "خزعة"],
+          "treatments_en": ["Observation", "Biopsy"]
+        }
+      ],
+      "chapter": 3,
+      "keywords": ["adenosis", "gland disease"]
+    },
+    {
+      "id": 354,
+      "term": "adenosclerosis",
+      "arabic": "تصلب الغدة",
+      "latin": "adenosclerosis",
+      "pronunciation": "آد-إي-نو-سكلي-رو-سيس",
+      "definition": "تصلب غير طبيعي في الغدة",
+      "definition_en": "Abnormal hardening of a gland",
+      "englishSentence": "Adenosclerosis is abnormal hardening of a gland.",
+      "parts": {
+        "root": { "value": "aden", "meaning": "غدة", "function": "يشير إلى الغدة" },
+        "suffix": { "value": "sclerosis", "meaning": "تصلب", "function": "يشير إلى تصلب غير طبيعي" }
+      },
+      "type": "condition",
+      "system": "الجهاز الغدي",
+      "system_en": "Glandular System",
+      "chapter": 3,
+      "keywords": ["adenosclerosis", "gland hardening"]
+    },
+    {
+      "id": 355,
+      "term": "endemic",
+      "arabic": "مستوطن (مرض)",
+      "latin": "endemicus",
+      "pronunciation": "إن-ديم-يك",
+      "definition": "الوجود المستمر لمرض ما ضمن مجموعة سكانية أو منطقة معينة",
+      "definition_en": "The ongoing presence of a disease within a population or area",
+      "englishSentence": "Endemic refers to the ongoing presence of a disease within a population or area.",
+      "parts": {
+        "prefix": { "value": "en", "meaning": "في", "function": "يشير إلى داخل" },
+        "root": { "value": "dem", "meaning": "شعب", "function": "يشير إلى السكان" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "concept",
+      "chapter": 3,
+      "keywords": ["endemic", "local disease", "constant presence"]
+    },
+    {
+      "id": 356,
+      "term": "epidemic",
+      "arabic": "وباء",
+      "latin": "epidemicus",
+      "pronunciation": "إب-إي-ديم-يك",
+      "definition": "تفشي مفاجئ وواسع النطاق لمرض ما ضمن مجموعة سكانية أو منطقة محددة",
+      "definition_en": "A sudden and widespread outbreak of a disease within a specific population or area",
+      "englishSentence": "An epidemic is a sudden and widespread outbreak of a disease within a specific population or area.",
+      "parts": {
+        "prefix": { "value": "epi", "meaning": "على", "function": "يشير إلى فوق" },
+        "root": { "value": "dem", "meaning": "شعب", "function": "يشير إلى السكان" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "concept",
+      "chapter": 3,
+      "keywords": ["epidemic", "outbreak", "widespread disease"]
+    },
+    {
+      "id": 357,
+      "term": "pandemic",
+      "arabic": "جائحة",
+      "latin": "pandemicus",
+      "pronunciation": "بان-ديم-يك",
+      "definition": "تفشي مرض على منطقة جغرافية واسعة، وربما في جميع أنحاء العالم",
+      "definition_en": "An outbreak of a disease over a large geographic area, possibly worldwide",
+      "englishSentence": "A pandemic refers to an outbreak over a large geographic area, possibly worldwide.",
+      "parts": {
+        "prefix": { "value": "pan", "meaning": "كل", "function": "يشير إلى الشمول" },
+        "root": { "value": "dem", "meaning": "شعب", "function": "يشير إلى السكان" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "concept",
+      "chapter": 3,
+      "keywords": ["pandemic", "global disease", "worldwide outbreak"]
+    }
+  ]
+}

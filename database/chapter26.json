@@ -1,0 +1,2115 @@
+{
+  "chapter": 26,
+  "title": "الحواس الخاصة والجهاز الغدي",
+  "title_ar": "الحواس الخاصة والجهاز الغدي",
+  "title_en": "Special Senses and Endocrine System",
+  "description": "مصطلحات الحواس الخاصة والجهاز الغدي المستخرجة من كتاب تشريح ووظائف الأعضاء",
+  "description_en": "Terms for Special Senses and Endocrine System extracted from Anatomy and Physiology textbook",
+  "terms": [
+    {
+      "id": 3636,
+      "term": "sclera",
+      "arabic": "الصلبة (بياض العين)",
+      "latin": "sclera",
+      "pronunciation": "سكليرا",
+      "definition": "الطبقة الخارجية البيضاء للعين تُشكّل حوالي 5/6 من محيطها الخارجي. نسيج ضام ليفي كثيف يُعطي العين شكلها ويحميها. تستمر للأمام لتصبح القرنية الشفافة.",
+      "definition_en": "The white outer layer of the eye forming about 5/6 of its external surface. Dense fibrous connective tissue giving the eye its shape and protecting it. Continues anteriorly as the transparent cornea.",
+      "englishSentence": "The sclera is the tough protective outer coat of the eye, commonly known as the white of the eye.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "white of eye",
+        "outer coat",
+        "eye protection",
+        "صلبة",
+        "بياض العين"
+      ]
+    },
+    {
+      "id": 3637,
+      "term": "cornea",
+      "arabic": "القرنية",
+      "latin": "cornea",
+      "pronunciation": "كورنيا",
+      "definition": "الجزء الأمامي الشفاف من العين يُشكّل نافذتها البصرية. عديمة الأوعية الدموية تتغذى بالانتشار من الخلط المائي والدموع. تكسر الضوء القادم وتُوجّهه نحو العدسة. غنية بالنهايات العصبية الحرة فهي حساسة جداً.",
+      "definition_en": "The transparent anterior portion of the eye forming its optical window. Avascular, nourished by diffusion from aqueous humor and tears. Refracts incoming light toward the lens. Rich in free nerve endings, extremely sensitive.",
+      "englishSentence": "LASIK surgery reshapes the cornea to correct refractive errors like myopia and hyperopia.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "transparent",
+        "refraction",
+        "avascular",
+        "LASIK",
+        "قرنية",
+        "كسر ضوء"
+      ]
+    },
+    {
+      "id": 3638,
+      "term": "iris",
+      "arabic": "القزحية",
+      "latin": "iris",
+      "pronunciation": "أيريس",
+      "definition": "الجزء الملوّن من العين المكوّن من ألياف عضلية ملساء دائرية وشعاعية. تتحكم في حجم الحدقة ومن ثَمّ كمية الضوء الداخلة: تنقبض الحدقة في الضوء الساطع وتتسع في الظلام. لون القزحية يحدده الميلانين.",
+      "definition_en": "The colored part of the eye composed of circular and radial smooth muscle fibers. Controls pupil size and the amount of light entering: pupil constricts in bright light and dilates in darkness. Color determined by melanin.",
+      "englishSentence": "The iris acts like a camera aperture, automatically adjusting the pupil size to control how much light enters the eye.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "pupil control",
+        "eye color",
+        "melanin",
+        "light regulation",
+        "قزحية",
+        "حدقة"
+      ]
+    },
+    {
+      "id": 3639,
+      "term": "pupil",
+      "arabic": "الحدقة",
+      "latin": "pupilla",
+      "pronunciation": "بيوبيل",
+      "definition": "الفتحة المركزية في القزحية التي يدخل من خلالها الضوء إلى باطن العين. تتوسع في الظلام بفعل الجهاز الودّي وتتضيق في الضوء بفعل نظير الودّي.",
+      "definition_en": "The central opening in the iris through which light enters the inner eye. Dilates in darkness under sympathetic control and constricts in bright light under parasympathetic control.",
+      "englishSentence": "Doctors check pupil reactions to light to assess brainstem function during neurological exams.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "light entry",
+        "dilation",
+        "constriction",
+        "حدقة",
+        "إنسان العين"
+      ]
+    },
+    {
+      "id": 3640,
+      "term": "retina",
+      "arabic": "الشبكية",
+      "latin": "retina",
+      "pronunciation": "ريتينا",
+      "definition": "الطبقة الداخلية المستشعرة للضوء في العين. تحتوي على المستقبلات الضوئية (العصي والمخاريط) والخلايا العصبية المترابطة. تُحوّل الضوء إلى إشارات عصبية ترسلها عبر العصب البصري إلى القشرة البصرية.",
+      "definition_en": "The innermost light-sensitive layer of the eye containing photoreceptors (rods and cones) and interconnected neurons. Converts light into neural signals sent via the optic nerve to the visual cortex.",
+      "englishSentence": "Retinal detachment is an emergency; if untreated, it causes permanent blindness as photoreceptors are deprived of blood.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "photoreceptors",
+        "rods",
+        "cones",
+        "optic nerve",
+        "شبكية",
+        "مستقبلات ضوئية"
+      ]
+    },
+    {
+      "id": 3641,
+      "term": "rods",
+      "arabic": "العصي",
+      "latin": "cellulae bacillares",
+      "pronunciation": "رودز",
+      "definition": "مستقبلات ضوئية في الشبكية مسؤولة عن الرؤية في الضوء الخافت والرؤية المحيطية والرؤية أحادية اللون. أكثر عدداً من المخاريط (حوالي 120 مليون). تحتوي على صبغة الرودوبسين. توجد في محيط الشبكية.",
+      "definition_en": "Photoreceptors responsible for dim light, peripheral, and black-and-white vision. More numerous than cones (about 120 million). Contain rhodopsin pigment. Found in the retinal periphery, absent from the fovea.",
+      "englishSentence": "Rods are so sensitive they can respond to a single photon of light in complete darkness.",
+      "type": "cell_type",
+      "chapter": 26,
+      "keywords": [
+        "dim light",
+        "peripheral vision",
+        "rhodopsin",
+        "عصي",
+        "رودوبسين"
+      ]
+    },
+    {
+      "id": 3642,
+      "term": "cones",
+      "arabic": "المخاريط",
+      "latin": "cellulae coniformes",
+      "pronunciation": "كونز",
+      "definition": "مستقبلات ضوئية مسؤولة عن الرؤية الملوّنة والرؤية الدقيقة في الضوء الساطع. ثلاثة أنواع حساسة للأحمر والأخضر والأزرق. تتركز في النقرة المركزية. نقصها يُسبّب عمى الألوان.",
+      "definition_en": "Photoreceptors responsible for color and fine detail vision in bright light. Three types sensitive to red, green, and blue. Concentrated in the fovea centralis. Deficiency causes color blindness.",
+      "englishSentence": "Cones in the fovea provide the sharp, colorful vision needed for reading and face recognition.",
+      "type": "cell_type",
+      "chapter": 26,
+      "keywords": [
+        "color vision",
+        "fovea",
+        "bright light",
+        "three types",
+        "مخاريط",
+        "ألوان"
+      ]
+    },
+    {
+      "id": 3643,
+      "term": "fovea centralis",
+      "arabic": "النقرة المركزية",
+      "latin": "fovea centralis",
+      "pronunciation": "فوفيا سينتراليس",
+      "definition": "منطقة صغيرة في مركز اللطخة الصفراء في الشبكية تتركز فيها المخاريط حصراً. تُعطي أحدّ رؤية بصرية وأعظم وضوح. عند النظر مباشرة لشيء تُسقَط صورته على النقرة.",
+      "definition_en": "A small pit in the center of the macula lutea where cones are exclusively concentrated. Provides the sharpest visual acuity and greatest detail. When looking directly at something its image falls on the fovea.",
+      "englishSentence": "The fovea centralis is the area of greatest visual acuity; reading requires continually moving the fovea across the text.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "sharpest vision",
+        "cones only",
+        "visual acuity",
+        "نقرة",
+        "حدة بصر"
+      ]
+    },
+    {
+      "id": 3644,
+      "term": "optic disc",
+      "arabic": "القرص البصري (النقطة العمياء)",
+      "latin": "discus nervi optici",
+      "pronunciation": "أوبتيك ديسك",
+      "definition": "النقطة في الشبكية حيث تخرج ألياف العصب البصري من العين. تفتقر تماماً إلى المستقبلات الضوئية لذا تُسمى 'النقطة العمياء'. يُفيد في تقييم الضغط داخل العين.",
+      "definition_en": "The point in the retina where optic nerve fibers exit the eye. Completely lacks photoreceptors creating a blind spot. Useful for evaluating intraocular pressure in glaucoma assessment.",
+      "englishSentence": "Everyone has a blind spot where the optic disc is, but the brain fills in the gap so we don't notice it.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "blind spot",
+        "optic nerve",
+        "no photoreceptors",
+        "قرص بصري",
+        "نقطة عمياء"
+      ]
+    },
+    {
+      "id": 3645,
+      "term": "lens",
+      "arabic": "العدسة",
+      "latin": "lens crystallina",
+      "pronunciation": "لينز",
+      "definition": "هيكل ثنائي التحدب شفاف لا أوعية دموية فيه ولا أعصاب. يُركّز الضوء على الشبكية عبر الانكسار. يُغيّر انحناءه للملاءمة. يتشكل من بروتينات الكريستالين. يفقد مرونته مع التقدم في السن.",
+      "definition_en": "A biconvex transparent avascular structure focusing light on the retina through refraction. Changes curvature for accommodation. Composed of crystallin proteins. Loses flexibility with age causing presbyopia.",
+      "englishSentence": "Cataracts occur when crystallin proteins in the lens clump together making the lens cloudy and vision blurry.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "biconvex",
+        "accommodation",
+        "crystallin",
+        "transparent",
+        "عدسة",
+        "تركيز ضوء"
+      ]
+    },
+    {
+      "id": 3646,
+      "term": "accommodation",
+      "arabic": "الملاءمة البصرية",
+      "latin": "accommodatio visus",
+      "pronunciation": "أكوموديشن",
+      "definition": "قدرة العين على تغيير قوة تركيزها بتغيير انحناء العدسة. للرؤية القريبة: تنقبض العضلة الهدبية → تسترخي الروابط المعلقة → تزداد تحدباً. للبعيدة: العكس. تتراجع مع التقدم في السن.",
+      "definition_en": "The eye's ability to change focusing power by changing lens curvature. Near vision: ciliary muscle contracts → suspensory ligaments relax → lens becomes more convex. Far vision: reverse. Declines with age.",
+      "englishSentence": "Accommodation allows the same eye to focus clearly on a nearby book and then on a distant mountain.",
+      "type": "process",
+      "chapter": 26,
+      "keywords": [
+        "lens curvature",
+        "ciliary muscle",
+        "near far vision",
+        "ملاءمة",
+        "تكيف عدسة"
+      ]
+    },
+    {
+      "id": 3647,
+      "term": "aqueous humor",
+      "arabic": "الخلط المائي",
+      "latin": "humor aquosus",
+      "pronunciation": "إيكويوس هيومر",
+      "definition": "سائل مائي في التجويف الأمامي للعين. يُنتجه الجسم الهدبي ويُصرَّف عبر قناة شليم. يُغذّي القرنية والعدسة ويُحافظ على الضغط داخل العين. ارتفاع ضغطه يُسبّب الجلوكوما.",
+      "definition_en": "Watery fluid filling the anterior cavity of the eye. Produced by the ciliary body and drained through the canal of Schlemm. Nourishes cornea and lens and maintains intraocular pressure. Excess causes glaucoma.",
+      "englishSentence": "Glaucoma results from impaired drainage of aqueous humor increasing intraocular pressure and damaging the optic nerve.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "intraocular pressure",
+        "glaucoma",
+        "ciliary body",
+        "خلط مائي",
+        "ضغط عين"
+      ]
+    },
+    {
+      "id": 3648,
+      "term": "vitreous humor",
+      "arabic": "الخلط الزجاجي",
+      "latin": "humor vitreus",
+      "pronunciation": "فيتريوس هيومر",
+      "definition": "مادة هلامية شفافة تملأ التجويف الخلفي للعين. تُثبّت الشبكية في مكانها وتُحافظ على شكل العين الكروي وتُنقل الضوء. تتشكل جنينياً ولا تُجدَّد.",
+      "definition_en": "A clear gel-like substance filling the posterior cavity of the eye. Holds the retina in place, maintains the spherical eye shape, and transmits light to the retina. Forms embryonically and is not renewed.",
+      "englishSentence": "Floaters seen in the visual field are caused by small clumps of cells in the vitreous humor casting shadows on the retina.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "gel-like",
+        "retina support",
+        "posterior cavity",
+        "خلط زجاجي",
+        "هلام عين"
+      ]
+    },
+    {
+      "id": 3649,
+      "term": "optic nerve",
+      "arabic": "العصب البصري",
+      "latin": "nervus opticus",
+      "pronunciation": "أوبتيك نيرف",
+      "definition": "العصب القحفي الثاني (II). يحمل النبضات البصرية من خلايا العقدة في الشبكية إلى التصالب البصري ثم القشرة البصرية. يحتوي على أكثر من مليون ليفة عصبية.",
+      "definition_en": "Cranial nerve II. Carries visual impulses from ganglion cells of the retina to the optic chiasm then to the visual cortex. Contains over 1 million nerve fibers.",
+      "englishSentence": "Damage to the optic nerve as in glaucoma causes irreversible vision loss because optic nerve fibers cannot regenerate.",
+      "type": "nerve",
+      "chapter": 26,
+      "keywords": [
+        "CN II",
+        "visual pathway",
+        "ganglion cells",
+        "عصب بصري",
+        "رؤية"
+      ]
+    },
+    {
+      "id": 3650,
+      "term": "optic chiasm",
+      "arabic": "التصالب البصري",
+      "latin": "chiasma opticum",
+      "pronunciation": "أوبتيك كايازم",
+      "definition": "نقطة تقاطع الأعصاب البصرية أمام الغدة النخامية. ألياف النصف الأنفي من كل شبكية تتصالب للجانب الآخر بينما تبقى ألياف النصف الصدغي في نفس الجانب مما يُتيح لكل نصف كرة دماغي معالجة المجال البصري المقابل.",
+      "definition_en": "The crossing point of the two optic nerves anterior to the pituitary gland. Nasal retina fibers cross to the opposite side while temporal fibers remain ipsilateral allowing each hemisphere to process the contralateral visual field.",
+      "englishSentence": "A pituitary tumor pressing on the optic chiasm causes bitemporal hemianopia with loss of peripheral vision in both eyes.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "crossing",
+        "optic nerves",
+        "visual field",
+        "تصالب بصري",
+        "مجال بصري"
+      ]
+    },
+    {
+      "id": 3651,
+      "term": "myopia",
+      "arabic": "قصر النظر",
+      "latin": "myopia",
+      "pronunciation": "مايوبيا",
+      "definition": "خلل انكساري تقع فيه البؤرة البصرية أمام الشبكية. يُرى القريب بوضوح والبعيد بضبابية. يُصحَّح بعدسات مقعّرة (نافية) أو بجراحة LASIK.",
+      "definition_en": "A refractive error where the focal point falls in front of the retina. Near objects are clear, distant objects blurry. Corrected by concave lenses or LASIK surgery.",
+      "englishSentence": "Myopia has become increasingly common especially in children who spend more time on screens.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "nearsighted",
+        "concave lens",
+        "blurry distance",
+        "قصر نظر",
+        "انكسار"
+      ]
+    },
+    {
+      "id": 3652,
+      "term": "hyperopia",
+      "arabic": "طول النظر",
+      "latin": "hyperopia",
+      "pronunciation": "هايبيروبيا",
+      "definition": "خلل انكساري تقع فيه البؤرة البصرية خلف الشبكية. يُرى البعيد أفضل من القريب. يُصحَّح بعدسات محدبة (جامعة) أو بجراحة LASIK.",
+      "definition_en": "A refractive error where the focal point falls behind the retina. Distant objects clearer than near objects. Corrected by convex lenses or LASIK surgery.",
+      "englishSentence": "Children with undiagnosed hyperopia may struggle with reading because the eyes must work excessively to focus on close objects.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "farsighted",
+        "convex lens",
+        "near vision",
+        "طول نظر",
+        "انكسار"
+      ]
+    },
+    {
+      "id": 3653,
+      "term": "astigmatism",
+      "arabic": "اللابؤرية",
+      "latin": "astigmatismus",
+      "pronunciation": "أستيغماتيزم",
+      "definition": "خلل انكساري ناتج عن عدم انتظام انحناء القرنية أو العدسة مما يُسبّب تشوّهاً في الصورة. يُصحَّح بعدسات أسطوانية.",
+      "definition_en": "A refractive error from irregular curvature of the cornea or lens producing distorted or blurry images. Corrected with cylindrical lenses.",
+      "englishSentence": "Astigmatism causes straight lines to appear wavy or blurred at certain orientations.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "irregular cornea",
+        "blurry vision",
+        "cylindrical lens",
+        "لابؤرية",
+        "قرنية"
+      ]
+    },
+    {
+      "id": 3654,
+      "term": "presbyopia",
+      "arabic": "قصر النظر الشيخوخي",
+      "latin": "presbyopia",
+      "pronunciation": "بريسبيوبيا",
+      "definition": "فقدان مرتبط بالسن لقدرة الملاءمة البصرية. يُسببه تصلّب العدسة وفقدان مرونتها. يبدأ بعد سن 40 عادةً. يُصحَّح بنظارات القراءة.",
+      "definition_en": "Age-related loss of accommodation ability caused by lens stiffening and loss of elasticity. Usually begins after age 40. Corrected by reading glasses.",
+      "englishSentence": "Presbyopia explains why most people over 45 need reading glasses to see small print clearly.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "aging",
+        "lens stiffening",
+        "reading glasses",
+        "شيخوخة",
+        "قراءة"
+      ]
+    },
+    {
+      "id": 3655,
+      "term": "glaucoma",
+      "arabic": "الجلوكوما (المياه الزرقاء)",
+      "latin": "glaucoma",
+      "pronunciation": "غلاوكوما",
+      "definition": "مجموعة أمراض تتميز بارتفاع الضغط داخل العين يُضرّ بالعصب البصري تدريجياً. يُؤدي إلى فقدان الرؤية المحيطية أولاً ثم المركزية. من أهم أسباب العمى القابل للوقاية.",
+      "definition_en": "A group of diseases characterized by elevated intraocular pressure progressively damaging the optic nerve. Leads to peripheral vision loss first then central vision. A leading preventable cause of blindness.",
+      "englishSentence": "Regular eye exams can detect glaucoma early before significant vision loss has occurred.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "intraocular pressure",
+        "optic nerve damage",
+        "blindness",
+        "جلوكوما",
+        "ضغط عين"
+      ]
+    },
+    {
+      "id": 3656,
+      "term": "cataract",
+      "arabic": "إعتام عدسة العين (المياه البيضاء)",
+      "latin": "cataracta",
+      "pronunciation": "كاتاراكت",
+      "definition": "تعتيم العدسة الشفافة بسبب تلف بروتينات الكريستالين. يُسبّب ضبابية الرؤية وضعف الرؤية الليلية. من أشيع أسباب العمى عالمياً. يُعالج جراحياً بزرع عدسة اصطناعية.",
+      "definition_en": "Clouding of the transparent lens due to crystallin protein damage. Causes blurry vision and poor night vision. One of the most common causes of blindness worldwide. Treated surgically with artificial lens implant.",
+      "englishSentence": "Cataract surgery is the most commonly performed surgical procedure worldwide restoring clear vision.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "lens clouding",
+        "crystallin",
+        "surgery",
+        "إعتام عدسة",
+        "عمى"
+      ]
+    },
+    {
+      "id": 3657,
+      "term": "lacrimal apparatus",
+      "arabic": "الجهاز الدمعي",
+      "latin": "apparatus lacrimalis",
+      "pronunciation": "لاكريمال أباراتوس",
+      "definition": "مجموعة الهياكل المنتجة للدموع وصارفتها. تتكون من: الغدة الدمعية → ثقوب دمعية → قنيات دمعية → كيس دمعي → قناة أنفية دمعية → التجويف الأنفي. الدموع تحتوي الليزوزيم المضاد للبكتيريا.",
+      "definition_en": "Structures producing and draining tears. Consists of: lacrimal gland → puncta → canaliculi → lacrimal sac → nasolacrimal duct → nasal cavity. Tears contain lysozyme antibacterial enzyme.",
+      "englishSentence": "The lacrimal apparatus keeps the eye surface moist and clean; a blocked nasolacrimal duct causes excessive tearing.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "tears",
+        "lacrimal gland",
+        "lysozyme",
+        "جهاز دمعي",
+        "دموع"
+      ]
+    },
+    {
+      "id": 3658,
+      "term": "conjunctiva",
+      "arabic": "الملتحمة",
+      "latin": "conjunctiva",
+      "pronunciation": "كونجانكتيفا",
+      "definition": "غشاء مخاطي رقيق شفاف يُبطّن الجفنين من الداخل ويُغطّي الجزء الأمامي من مقلة العين. يُفرز مكوّنات الدموع. التهابه يُسبّب 'العين الحمراء' (الرمد).",
+      "definition_en": "A thin transparent mucous membrane lining the inner eyelids and covering the anterior eyeball. Secretes tear components. Inflammation causes pink eye (conjunctivitis).",
+      "englishSentence": "Conjunctivitis causes redness and discharge as the inflamed conjunctiva produces excess mucus.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "pink eye",
+        "conjunctivitis",
+        "mucous membrane",
+        "ملتحمة",
+        "رمد"
+      ]
+    },
+    {
+      "id": 3659,
+      "term": "tympanic membrane",
+      "arabic": "طبلة الأذن",
+      "latin": "membrana tympanica",
+      "pronunciation": "تيمبانيك ميمبرين",
+      "definition": "غشاء رقيق يفصل قناة الأذن الخارجية عن الأذن الوسطى. يهتز عند وصول موجات الصوت وينقل الاهتزازات إلى العظيمات السمعية. ثقبه يُسبّب فقدان السمع.",
+      "definition_en": "A thin membrane separating the external auditory canal from the middle ear. Vibrates when sound waves arrive and transmits vibrations to the ossicles. Perforation causes hearing loss.",
+      "englishSentence": "A ruptured tympanic membrane from a cotton swab or loud explosion can cause temporary hearing loss.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "eardrum",
+        "vibration",
+        "sound transmission",
+        "طبلة أذن",
+        "اهتزاز"
+      ]
+    },
+    {
+      "id": 3660,
+      "term": "ossicles",
+      "arabic": "العظيمات السمعية",
+      "latin": "ossicula auditus",
+      "pronunciation": "أوسيكلز",
+      "definition": "ثلاث عظيمات في الأذن الوسطى هي أصغر عظام الجسم. تُنقل وتُضخّم اهتزازات طبلة الأذن إلى النافذة البيضاوية: المطرقة ← السندان ← الركاب. تضخّم الصوت 20 مرة.",
+      "definition_en": "Three tiny middle ear bones, the smallest in the body. Transmit and amplify eardrum vibrations to the oval window: malleus (hammer) ← incus (anvil) ← stapes (stirrup). Amplify sound 20 times.",
+      "englishSentence": "The ossicles form a mechanical chain that amplifies sound vibrations and transfers them from air to the fluid-filled cochlea.",
+      "type": "bone",
+      "chapter": 26,
+      "keywords": [
+        "malleus",
+        "incus",
+        "stapes",
+        "smallest bones",
+        "عظيمات سمعية",
+        "أذن وسطى"
+      ]
+    },
+    {
+      "id": 3661,
+      "term": "malleus",
+      "arabic": "المطرقة",
+      "latin": "malleus",
+      "pronunciation": "ماليوس",
+      "definition": "أولى العظيمات السمعية الثلاث. تشبه مطرقة. ترتبط مباشرةً بالغشاء الطبلي وتستقبل اهتزازاته وتنقلها إلى السندان.",
+      "definition_en": "The first auditory ossicle. Hammer-shaped. Directly attached to the tympanic membrane receiving its vibrations and transmitting them to the incus.",
+      "englishSentence": "The malleus is directly attached to the eardrum making it the first bone to vibrate when sound enters the ear.",
+      "type": "bone",
+      "chapter": 26,
+      "keywords": [
+        "hammer",
+        "eardrum",
+        "first ossicle",
+        "مطرقة",
+        "أذن"
+      ]
+    },
+    {
+      "id": 3662,
+      "term": "incus",
+      "arabic": "السندان",
+      "latin": "incus",
+      "pronunciation": "إينكوس",
+      "definition": "الوسطى من العظيمات السمعية الثلاث. تشبه السندان. تستقبل الاهتزازات من المطرقة وتنقلها إلى الركاب.",
+      "definition_en": "The middle auditory ossicle. Anvil-shaped. Receives vibrations from the malleus and transmits them to the stapes.",
+      "englishSentence": "The incus acts as a bridge between the malleus and stapes in the ossicular chain.",
+      "type": "bone",
+      "chapter": 26,
+      "keywords": [
+        "anvil",
+        "middle ossicle",
+        "vibration",
+        "سندان",
+        "أذن"
+      ]
+    },
+    {
+      "id": 3663,
+      "term": "stapes",
+      "arabic": "الركاب",
+      "latin": "stapes",
+      "pronunciation": "ستيبيز",
+      "definition": "أصغر العظيمات السمعية وأصغر عظمة في الجسم. يشبه الركاب. قاعدته تضرب النافذة البيضاوية لتنقل الاهتزازات إلى سائل القوقعة.",
+      "definition_en": "The smallest auditory ossicle and the smallest bone in the human body. Stirrup-shaped. Its footplate presses on the oval window transmitting vibrations to cochlear fluid.",
+      "englishSentence": "The stapes is the smallest bone in the body; its footplate transmits sound into the fluid-filled cochlea.",
+      "type": "bone",
+      "chapter": 26,
+      "keywords": [
+        "stirrup",
+        "smallest bone",
+        "oval window",
+        "ركاب",
+        "أصغر عظمة"
+      ]
+    },
+    {
+      "id": 3664,
+      "term": "Eustachian tube",
+      "arabic": "قناة أوستاك (الأنبوب السمعي)",
+      "latin": "tuba auditiva",
+      "pronunciation": "يوستاشيان تيوب",
+      "definition": "قناة تصل الأذن الوسطى بالبلعوم الأنفي. وظيفتها موازنة الضغط الهوائي على جانبي طبلة الأذن. تفتح عند البلع أو التثاؤب. انسدادها يُسبّب الشعور بامتلاء الأذن.",
+      "definition_en": "A canal connecting the middle ear to the nasopharynx. Equalizes air pressure on both sides of the eardrum. Opens when swallowing or yawning. Blockage causes ear fullness and hearing loss.",
+      "englishSentence": "Swallowing when a plane descends equalizes pressure through the Eustachian tube relieving ear discomfort.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "pressure equalization",
+        "nasopharynx",
+        "middle ear",
+        "قناة أوستاك",
+        "ضغط أذن"
+      ]
+    },
+    {
+      "id": 3665,
+      "term": "cochlea",
+      "arabic": "القوقعة",
+      "latin": "cochlea",
+      "pronunciation": "كوكليا",
+      "definition": "هيكل حلزوني في الأذن الداخلية. عضو السمع الحقيقي. تحتوي على ثلاثة أقسام مملوءة بسوائل (البريليمف والإندوليمف). تحتضن عضو كورتي الذي يُحوّل الاهتزازات إلى إشارات عصبية.",
+      "definition_en": "A snail-shell-shaped inner ear structure. The true hearing organ. Contains three fluid-filled chambers (perilymph and endolymph). Houses the organ of Corti converting vibrations into nerve signals.",
+      "englishSentence": "The cochlea converts mechanical sound vibrations into electrical signals sent to the brain via the cochlear nerve.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "hearing organ",
+        "spiral",
+        "organ of Corti",
+        "قوقعة",
+        "سمع"
+      ]
+    },
+    {
+      "id": 3666,
+      "term": "organ of Corti",
+      "arabic": "عضو كورتي",
+      "latin": "organum spirale",
+      "pronunciation": "أورغان أوف كورتي",
+      "definition": "العضو الحسي للسمع داخل القوقعة. يقع على الغشاء القاعدي في القناة القوقعية. يحتوي على خلايا شعرية حسية تتحرك بحركة الإندوليمف فتتولد سيالات عصبية ترسلها للمخ.",
+      "definition_en": "The sensory organ for hearing inside the cochlea. Rests on the basilar membrane in the cochlear duct. Contains hair cells that move with endolymph movement generating nerve impulses sent to the brain.",
+      "englishSentence": "Damage to hair cells of the organ of Corti from loud noise causes permanent sensorineural hearing loss.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "hair cells",
+        "basilar membrane",
+        "hearing",
+        "عضو كورتي",
+        "سمع"
+      ]
+    },
+    {
+      "id": 3667,
+      "term": "hair cells",
+      "arabic": "الخلايا الشعرية",
+      "latin": "cellulae ciliatae",
+      "pronunciation": "هير سيلز",
+      "definition": "المستقبلات الحسية في عضو كورتي وأيضاً في أعضاء التوازن. تمتلك شعيرات حسية على قمتها. تنحني عند تحرك السوائل فتتولد إشارات عصبية. تالفة لا تتجدد فيكون فقدان السمع دائماً.",
+      "definition_en": "Sensory receptors in the organ of Corti and in the balance organs. Have stereocilia on top. Bending by fluid movement generates nerve impulses. Cannot regenerate when damaged causing permanent hearing loss.",
+      "englishSentence": "Noise-induced hearing loss destroys hair cells irreversibly; once gone they cannot be replaced.",
+      "type": "cell_type",
+      "chapter": 26,
+      "keywords": [
+        "stereocilia",
+        "hearing loss",
+        "irreversible",
+        "خلايا شعرية",
+        "فقدان سمع"
+      ]
+    },
+    {
+      "id": 3668,
+      "term": "basilar membrane",
+      "arabic": "الغشاء القاعدي للقوقعة",
+      "latin": "membrana basilaris cochleae",
+      "pronunciation": "بازيلار ميمبرين",
+      "definition": "غشاء داخل القوقعة يُشكّل قاعدة عضو كورتي. ضيق وصلب عند القاعدة يستجيب للأصوات عالية التردد وعريض ومرن عند القمة يستجيب للأصوات المنخفضة. أساس تمييز طبقات الصوت.",
+      "definition_en": "A membrane inside the cochlea forming the floor of the organ of Corti. Narrow and stiff at base responding to high frequencies; wide and flexible at apex responding to low frequencies. Basis of pitch discrimination.",
+      "englishSentence": "Different regions of the basilar membrane vibrate at different frequencies allowing the brain to distinguish pitch.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "frequency",
+        "pitch discrimination",
+        "tonotopy",
+        "غشاء قاعدي",
+        "طبقة صوت"
+      ]
+    },
+    {
+      "id": 3669,
+      "term": "semicircular canals",
+      "arabic": "القنوات نصف الدائرية",
+      "latin": "canales semicirculares",
+      "pronunciation": "سيمي سيركيولار كانالز",
+      "definition": "ثلاث قنوات عظمية متعامدة مع بعضها في الأذن الداخلية. مسؤولة عن التوازن الحركي (الإحساس بدوران الرأس والتسارع الزاوي). تحتوي كل منها على ضفيرة بها قمة عنبية تنحني عند الدوران.",
+      "definition_en": "Three bony canals perpendicular to each other in the inner ear responsible for dynamic equilibrium detecting head rotation and angular acceleration. Each contains an ampulla with a crista ampullaris.",
+      "englishSentence": "The three semicircular canals detect rotation in all three planes of space to maintain dynamic balance.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "dynamic equilibrium",
+        "rotation",
+        "angular acceleration",
+        "قنوات نصف دائرية",
+        "توازن"
+      ]
+    },
+    {
+      "id": 3670,
+      "term": "vestibule",
+      "arabic": "الدهليز",
+      "latin": "vestibulum auris",
+      "pronunciation": "فيستيبيول",
+      "definition": "الجزء الأوسط من الأذن الداخلية يحتوي على الكيس المثلثي والكيس الكروي. مسؤول عن التوازن الساكن (التسارع الخطي والجاذبية). يحتوي على حصيات التوازن التي تُحرّك الخلايا الشعرية عند إمالة الرأس.",
+      "definition_en": "The central inner ear structure containing the utricle and saccule. Responsible for static equilibrium detecting linear acceleration and gravity. Contains otoliths that move hair cells when the head tilts.",
+      "englishSentence": "The vestibule detects head position relative to gravity helping maintain static balance during standing.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "utricle",
+        "saccule",
+        "otoliths",
+        "static equilibrium",
+        "دهليز",
+        "جاذبية"
+      ]
+    },
+    {
+      "id": 3671,
+      "term": "otoliths",
+      "arabic": "حصيات الأذن",
+      "latin": "otolithi",
+      "pronunciation": "أوتوليثس",
+      "definition": "بلورات صغيرة من كربونات الكالسيوم فوق الخلايا الشعرية في الكيسين الدهليزيين. عند إمالة الرأس تتحرك بفعل الجاذبية فتضغط على الخلايا الشعرية وتُولّد إشارات التوازن.",
+      "definition_en": "Small calcium carbonate crystals resting on hair cells in the utricle and saccule. When the head tilts they move under gravity pressing on hair cells and generating equilibrium signals.",
+      "englishSentence": "Displaced otoliths cause benign paroxysmal positional vertigo (BPPV) the most common cause of dizziness.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "calcium carbonate",
+        "BPPV",
+        "gravity",
+        "vertigo",
+        "حصيات أذن",
+        "دوار"
+      ]
+    },
+    {
+      "id": 3672,
+      "term": "vestibulocochlear nerve",
+      "arabic": "العصب الدهليزي القوقعي",
+      "latin": "nervus vestibulocochlearis",
+      "pronunciation": "فيستيبيولوكوكليار نيرف",
+      "definition": "العصب القحفي الثامن (VIII). عصب حسي ثنائي التقسيم: الجزء القوقعي ينقل إشارات السمع والجزء الدهليزي ينقل إشارات التوازن إلى المخيخ وجذع الدماغ.",
+      "definition_en": "Cranial nerve VIII. A sensory nerve with two divisions: cochlear portion carries hearing signals from the organ of Corti; vestibular portion carries balance signals to the cerebellum and brainstem.",
+      "englishSentence": "Acoustic neuroma is a benign tumor on CN VIII causing progressive hearing loss and balance problems.",
+      "type": "nerve",
+      "chapter": 26,
+      "keywords": [
+        "CN VIII",
+        "hearing",
+        "balance",
+        "cochlear",
+        "دهليزي قوقعي",
+        "سمع"
+      ]
+    },
+    {
+      "id": 3673,
+      "term": "olfactory epithelium",
+      "arabic": "الظهارة الشمية",
+      "latin": "epithelium olfactorium",
+      "pronunciation": "أولفاكتوري إيبيثيليم",
+      "definition": "طبقة في سقف وجدار التجويف الأنفي العلوي. تحتوي على مستقبلات شمية (خلايا عصبية ثنائية القطب تُجدَّد كل 60 يوماً) وخلايا داعمة وخلايا قاعدية جذعية. تكتشف الجزيئات المتطايرة.",
+      "definition_en": "A layer in the roof and upper wall of the nasal cavity containing olfactory receptors (bipolar neurons renewed every 60 days) supporting cells and basal stem cells. Detects volatile molecules.",
+      "englishSentence": "The olfactory epithelium is unique because its sensory neurons can regenerate unlike most other neurons.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "smell receptors",
+        "bipolar neurons",
+        "regeneration",
+        "ظهارة شمية",
+        "شم"
+      ]
+    },
+    {
+      "id": 3674,
+      "term": "olfactory nerve",
+      "arabic": "العصب الشمي",
+      "latin": "nervus olfactorius",
+      "pronunciation": "أولفاكتوري نيرف",
+      "definition": "العصب القحفي الأول (I). ينقل الإشارات الشمية من الظهارة الشمية عبر الثقوب في الصفيحة المثقوبة للعظم الغربالي إلى البصلة الشمية في الدماغ. الوحيد الذي يصل الجهاز الحوفي مباشرةً.",
+      "definition_en": "Cranial nerve I. Transmits smell signals from olfactory epithelium through cribriform plate foramina to the olfactory bulb. The only sensory pathway with direct access to the limbic system.",
+      "englishSentence": "The olfactory nerve's direct connection to the limbic system explains why smells so powerfully trigger memories.",
+      "type": "nerve",
+      "chapter": 26,
+      "keywords": [
+        "CN I",
+        "smell",
+        "limbic system",
+        "memory",
+        "شمي",
+        "عصب شمي"
+      ]
+    },
+    {
+      "id": 3675,
+      "term": "taste buds",
+      "arabic": "براعم التذوق",
+      "latin": "caliculi gustatorii",
+      "pronunciation": "تيست بادز",
+      "definition": "مستقبلات التذوق الكيميائية توجد بشكل رئيسي على حليمات اللسان وأيضاً في الحنك الرخو والبلعوم ولسان المزمار. كل برعم يحتوي على 50-100 خلية ذوقية تُحسّ المذاب في اللعاب.",
+      "definition_en": "Chemoreceptors for taste located mainly on tongue papillae and also in the soft palate pharynx and epiglottis. Each bud contains 50-100 taste cells sensing dissolved substances in saliva.",
+      "englishSentence": "Humans have about 10,000 taste buds that detect five basic taste qualities: sweet sour salty bitter and umami.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "taste receptors",
+        "papillae",
+        "five tastes",
+        "براعم تذوق",
+        "لسان"
+      ]
+    },
+    {
+      "id": 3676,
+      "term": "papillae",
+      "arabic": "حليمات اللسان",
+      "latin": "papillae linguae",
+      "pronunciation": "بابيلاي",
+      "definition": "نتوءات على سطح اللسان تحتوي على براعم التذوق. أنواعها: فطرية (منتشرة) وخندقية (الأكبر في مؤخرة اللسان) وورقية (على الجانب) وخيطية (الأكثر شيوعاً لكن بلا براعم تذوق).",
+      "definition_en": "Projections on the tongue surface containing taste buds. Types: fungiform (scattered), vallate/circumvallate (largest, at tongue back), foliate (on sides), and filiform (most numerous, no taste buds, for texture).",
+      "englishSentence": "The large circumvallate papillae form a V-shape at the back of the tongue and contain many of the adult's taste buds.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "tongue",
+        "fungiform",
+        "circumvallate",
+        "taste buds",
+        "حليمات",
+        "لسان"
+      ]
+    },
+    {
+      "id": 3677,
+      "term": "five primary tastes",
+      "arabic": "الأذواق الأساسية الخمسة",
+      "latin": "quinque gustus primarii",
+      "pronunciation": "فايف برايمري تيستس",
+      "definition": "المذاقات الأساسية الخمسة التي يدركها الإنسان: الحلاوة والحموضة والملوحة والمرارة (تحذير من السموم) والأومامي (نكهة اللحوم/الغلوتامات). الذوق يتفاعل مع الشم لإنتاج النكهة الكاملة.",
+      "definition_en": "Five basic tastes humans perceive: sweet (sugars), sour (H+ ions), salty (Na+), bitter (toxin warning), and umami (glutamate, savory). Taste interacts with smell to produce full flavor.",
+      "englishSentence": "Umami the fifth taste was identified by Japanese scientists and is associated with the savory taste of proteins.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "sweet",
+        "sour",
+        "salty",
+        "bitter",
+        "umami",
+        "أذواق خمسة",
+        "نكهة"
+      ]
+    },
+    {
+      "id": 3678,
+      "term": "proprioceptors",
+      "arabic": "مستقبلات التحسس العميق",
+      "latin": "proprioceptores",
+      "pronunciation": "بروبريوسيبتورز",
+      "definition": "مستقبلات حسية في العضلات والأوتار والمفاصل تُعطي الدماغ معلومات عن وضع الجسم وحركته دون الحاجة إلى النظر. تشمل المغازل العضلية وأجهزة غولجي الوترية.",
+      "definition_en": "Sensory receptors in muscles tendons and joints providing the brain with body position and movement information without vision. Include muscle spindles and Golgi tendon organs.",
+      "englishSentence": "Proprioceptors allow you to touch your nose with eyes closed by sensing the position of your arm in space.",
+      "type": "receptor",
+      "chapter": 26,
+      "keywords": [
+        "body position",
+        "muscle spindle",
+        "Golgi tendon",
+        "تحسس عميق",
+        "وضع جسم"
+      ]
+    },
+    {
+      "id": 3679,
+      "term": "nociceptors",
+      "arabic": "مستقبلات الألم",
+      "latin": "nociceptores",
+      "pronunciation": "نوسيسيبتورز",
+      "definition": "مستقبلات حسية متخصصة تكتشف المحفزات الضارة من حرارة مفرطة أو برودة أو ضغط أو مواد كيميائية مؤلمة. معظمها نهايات عصبية حرة. تُسبّب الإحساس بالألم كتحذير من التلف.",
+      "definition_en": "Specialized sensory receptors detecting harmful stimuli: excessive heat cold pressure or painful chemicals. Most are free nerve endings. Produce pain sensation as warning of actual or potential tissue damage.",
+      "englishSentence": "Nociceptors in the skin immediately signal the brain when you touch something hot triggering rapid withdrawal.",
+      "type": "receptor",
+      "chapter": 26,
+      "keywords": [
+        "pain receptors",
+        "free nerve endings",
+        "harmful stimuli",
+        "مستقبلات ألم",
+        "ألم"
+      ]
+    },
+    {
+      "id": 3680,
+      "term": "choroid",
+      "arabic": "المشيمية",
+      "latin": "choroidea",
+      "pronunciation": "كورويد",
+      "definition": "الطبقة الوسطى الخلفية من التونيك الوعائي للعين. غنية جداً بالأوعية الدموية لتغذية الشبكية. تحتوي على ميلانين يمتص الضوء المتشتت ويمنع الانعكاسات الداخلية.",
+      "definition_en": "The posterior layer of the vascular tunic of the eye. Richly vascularized to nourish the retina. Contains melanin absorbing scattered light and preventing internal reflections to improve image clarity.",
+      "englishSentence": "The choroid's rich blood supply nourishes the photoreceptors of the outer retina.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "vascular layer",
+        "retina nourishment",
+        "melanin",
+        "مشيمية",
+        "أوعية عين"
+      ]
+    },
+    {
+      "id": 3681,
+      "term": "ciliary body",
+      "arabic": "الجسم الهدبي",
+      "latin": "corpus ciliare",
+      "pronunciation": "سيلياري بودي",
+      "definition": "هيكل عضلي غدي في الجزء الأمامي من التونيك الوعائي. ينتج الخلط المائي. عضلته الهدبية تتحكم في انحناء العدسة. ترتبط به الروابط المعلقة التي تُثبّت العدسة.",
+      "definition_en": "A muscular-glandular structure in the anterior vascular tunic. Produces aqueous humor. Its ciliary muscle controls lens curvature for accommodation. Anchors the suspensory ligaments holding the lens.",
+      "englishSentence": "The ciliary muscle contracts during near vision accommodation relaxing suspensory ligaments so the lens bulges outward.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "aqueous humor",
+        "accommodation",
+        "lens control",
+        "هدبي",
+        "عدسة عين"
+      ]
+    },
+    {
+      "id": 3682,
+      "term": "facial nerve",
+      "arabic": "العصب الوجهي",
+      "latin": "nervus facialis",
+      "pronunciation": "فيشال نيرف",
+      "definition": "العصب القحفي السابع (VII). عصب مختلط يُعصّب عضلات التعبير الوجهي والغدد الدمعية واللعابية. جزؤه الحسي ينقل الذوق من الثلثين الأماميين من اللسان.",
+      "definition_en": "Cranial nerve VII. A mixed nerve innervating facial expression muscles and lacrimal and submandibular salivary glands. Sensory portion carries taste from the anterior two-thirds of the tongue.",
+      "englishSentence": "Bell's palsy results from facial nerve inflammation causing sudden one-sided facial paralysis.",
+      "type": "nerve",
+      "chapter": 26,
+      "keywords": [
+        "CN VII",
+        "facial expression",
+        "taste",
+        "Bell's palsy",
+        "وجهي",
+        "تعبير"
+      ]
+    },
+    {
+      "id": 3683,
+      "term": "glossopharyngeal nerve",
+      "arabic": "العصب البلعومي اللساني",
+      "latin": "nervus glossopharyngeus",
+      "pronunciation": "غلوسوفارينجيال نيرف",
+      "definition": "العصب القحفي التاسع (IX). ينقل الذوق من الثلث الخلفي من اللسان. يُعصّب عضلات البلع والغدة النكفية اللعابية. يحمل معلومات ضغط الدم من الجيب السباتي.",
+      "definition_en": "Cranial nerve IX. Carries taste from the posterior one-third of the tongue. Innervates swallowing muscles and the parotid salivary gland. Carries blood pressure information from the carotid sinus.",
+      "englishSentence": "The gag reflex involves the glossopharyngeal nerve detecting touch at the back of the throat.",
+      "type": "nerve",
+      "chapter": 26,
+      "keywords": [
+        "CN IX",
+        "posterior tongue",
+        "taste",
+        "swallowing",
+        "بلعومي لساني",
+        "ذوق"
+      ]
+    },
+    {
+      "id": 3684,
+      "term": "hormone",
+      "arabic": "الهرمون",
+      "latin": "hormonum",
+      "pronunciation": "هورمون",
+      "definition": "مادة كيميائية تُفرزها الغدد الصماء مباشرةً في الدم لتُنظّم وظائف الخلايا والأعضاء البعيدة. تؤثر فقط على الخلايا الهدفية التي تمتلك مستقبلات نوعية لها. آثارها أبطأ من الجهاز العصبي لكنها أطول أمداً.",
+      "definition_en": "A chemical substance secreted by endocrine glands directly into the blood to regulate functions of distant cells and organs. Affects only target cells that have specific receptors for it. Slower but longer-lasting than nervous system effects.",
+      "englishSentence": "Hormones act as chemical messengers that travel through the bloodstream to regulate distant target organs.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "chemical messenger",
+        "target cells",
+        "receptors",
+        "هرمون",
+        "رسول كيميائي"
+      ]
+    },
+    {
+      "id": 3685,
+      "term": "target cells",
+      "arabic": "الخلايا الهدفية",
+      "latin": "cellulae scopales",
+      "pronunciation": "تارغيت سيلز",
+      "definition": "الخلايا التي تستجيب لهرمون معين لأنها تمتلك مستقبلات نوعية له. الخلايا التي تفتقر للمستقبل لا تستجيب للهرمون حتى لو كان موجوداً في الدم بتركيز عالٍ.",
+      "definition_en": "Cells that respond to a specific hormone because they possess specific receptors for it. Cells lacking the receptor do not respond to the hormone even if it is present in high blood concentrations.",
+      "englishSentence": "Insulin only affects cells with insulin receptors; fat cells, muscle cells, and liver cells are major insulin target cells.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "receptors",
+        "specificity",
+        "response",
+        "خلايا هدفية",
+        "مستقبلات"
+      ]
+    },
+    {
+      "id": 3686,
+      "term": "steroid hormones",
+      "arabic": "الهرمونات الستيرويدية",
+      "latin": "hormona steroida",
+      "pronunciation": "ستيرويد هورمونز",
+      "definition": "هرمونات مُشتقة من الكوليسترول. قابلة للذوبان في الدهون لذا تعبر مباشرةً الغشاء البلازمي وترتبط بمستقبلات نووية داخلية لتُغيّر التعبير الجيني. أمثلتها: هرمونات قشرة الكظر والهرمونات الجنسية.",
+      "definition_en": "Hormones derived from cholesterol. Lipid-soluble so they cross the plasma membrane directly and bind to internal nuclear receptors to alter gene expression. Examples: adrenal cortex hormones and sex hormones.",
+      "englishSentence": "Steroid hormones like testosterone and estrogen enter cells directly and alter gene expression to produce long-lasting effects.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "cholesterol-derived",
+        "lipid soluble",
+        "nuclear receptors",
+        "ستيرويد",
+        "كوليسترول"
+      ]
+    },
+    {
+      "id": 3687,
+      "term": "amino acid-based hormones",
+      "arabic": "الهرمونات القائمة على الأحماض الأمينية",
+      "latin": "hormona aminoacidata",
+      "pronunciation": "أمينو أسيد بيسد هورمونز",
+      "definition": "أكثر الهرمونات شيوعاً. قابلة للذوبان في الماء لا تستطيع عبور الغشاء البلازمي الدهني. ترتبط بمستقبلات على سطح الخلية وتُفعّل رسائل ثانوية داخلية (مثل cAMP). أمثلتها: الأنسولين وهرمون النمو والأدرينالين.",
+      "definition_en": "The most common hormone type. Water-soluble, cannot cross the lipid plasma membrane. Bind to surface receptors activating internal second messengers (like cAMP). Examples: insulin, growth hormone, epinephrine.",
+      "englishSentence": "Insulin is an amino acid-based hormone that binds surface receptors and triggers glucose uptake without entering the cell.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "water-soluble",
+        "surface receptors",
+        "cAMP",
+        "هرمونات أمينية",
+        "رسائل ثانوية"
+      ]
+    },
+    {
+      "id": 3688,
+      "term": "negative feedback",
+      "arabic": "التغذية الراجعة السلبية (الهرمونية)",
+      "latin": "feedback negativum hormonale",
+      "pronunciation": "نيغاتيف فيدباك",
+      "definition": "الآلية الرئيسية لتنظيم إفراز الهرمونات. عندما يرتفع مستوى الهرمون أو تأثيره يُثبّط هذا الارتفاع إفراز الهرمون المحفّز له. يُشبه منظم الحرارة: عندما يرتفع الهرمون يُرسل إشارة لإيقاف إفرازه.",
+      "definition_en": "The main mechanism for hormone secretion regulation. When a hormone level or its effect rises it inhibits the stimulating hormone release. Like a thermostat: when hormone rises it signals to stop its own secretion.",
+      "englishSentence": "Negative feedback keeps thyroid hormone levels stable by suppressing TSH when T4 levels are sufficient.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "regulation",
+        "inhibition",
+        "homeostasis",
+        "تغذية راجعة سلبية",
+        "تنظيم هرموني"
+      ]
+    },
+    {
+      "id": 3689,
+      "term": "pituitary gland",
+      "arabic": "الغدة النخامية",
+      "latin": "glandula pituitaria",
+      "pronunciation": "بيتيوتاري غلاند",
+      "definition": "غدة بحجم حبة البازلاء في قاع الدماغ تحت منطقة ما تحت المهاد. تُعرف بـ'الغدة الرئيسية' لأنها تتحكم في معظم الغدد الأخرى. تتكون من فصين: أمامي (غدي) وخلفي (عصبي).",
+      "definition_en": "A pea-sized gland at the brain base below the hypothalamus. Called the 'master gland' because it controls most other glands. Composed of two lobes: anterior (adenohypophysis) and posterior (neurohypophysis).",
+      "englishSentence": "The pituitary gland is called the master gland because its hormones control the thyroid, adrenal, and reproductive glands.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "master gland",
+        "anterior",
+        "posterior",
+        "hypothalamus",
+        "نخامية",
+        "غدة رئيسية"
+      ]
+    },
+    {
+      "id": 3690,
+      "term": "anterior pituitary",
+      "arabic": "الفص الأمامي للغدة النخامية",
+      "latin": "adenohypophysis",
+      "pronunciation": "أنتيريور بيتيوتاري",
+      "definition": "الفص الغدي الأكبر من الغدة النخامية. يُنتج هرمونات استجابةً لهرمونات ما تحت المهاد الطلاقة والكابحة. هرموناته: هرمون النمو والبرولاكتين وACTH وTSH وFSH وLH.",
+      "definition_en": "The larger glandular lobe of the pituitary gland. Produces hormones in response to hypothalamic releasing and inhibiting hormones. Its hormones: GH, prolactin, ACTH, TSH, FSH, LH.",
+      "englishSentence": "The anterior pituitary releases six major hormones that regulate growth, metabolism, stress response, and reproduction.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "adenohypophysis",
+        "GH",
+        "TSH",
+        "ACTH",
+        "أمامي نخامي",
+        "هرمونات"
+      ]
+    },
+    {
+      "id": 3691,
+      "term": "posterior pituitary",
+      "arabic": "الفص الخلفي للغدة النخامية",
+      "latin": "neurohypophysis",
+      "pronunciation": "بوستيريور بيتيوتاري",
+      "definition": "الفص العصبي الصغير من الغدة النخامية. لا يُنتج هرمونات بنفسه بل يُخزّن ويُطلق هرمونين ينتجهما ما تحت المهاد: الأوكسيتوسين (يُحفّز انقباضات الرحم وإدرار الحليب) وADH (يُحافظ على الماء في الكلى).",
+      "definition_en": "The smaller neural lobe of the pituitary gland. Does not produce hormones itself but stores and releases two hypothalamic hormones: oxytocin (stimulates uterine contractions and milk ejection) and ADH (conserves kidney water).",
+      "englishSentence": "The posterior pituitary releases oxytocin during labor and ADH during dehydration to conserve water.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "neurohypophysis",
+        "oxytocin",
+        "ADH",
+        "خلفي نخامي",
+        "أوكسيتوسين"
+      ]
+    },
+    {
+      "id": 3692,
+      "term": "growth hormone",
+      "arabic": "هرمون النمو (السوماتوتروبين)",
+      "latin": "somatotropinum",
+      "pronunciation": "غروث هورمون",
+      "definition": "هرمون يُفرزه الفص الأمامي للنخامية يُحفّز نمو الأنسجة وتكاثر الخلايا في جميع أنسجة الجسم. يُعزّز تصنيع البروتين وتحلل الدهون ويرفع نسبة السكر في الدم. إفرازه يُحفّزه GHRH ويُثبّطه السوماتوستاتين.",
+      "definition_en": "A hormone secreted by the anterior pituitary stimulating tissue growth and cell proliferation in all body tissues. Promotes protein synthesis, fat breakdown, and raises blood glucose. Stimulated by GHRH and inhibited by somatostatin.",
+      "englishSentence": "Growth hormone is secreted mostly during deep sleep which is why adequate sleep is essential for children's growth.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "somatotropin",
+        "growth",
+        "protein synthesis",
+        "هرمون نمو",
+        "نمو"
+      ]
+    },
+    {
+      "id": 3693,
+      "term": "gigantism",
+      "arabic": "العملقة",
+      "latin": "gigantismus",
+      "pronunciation": "جايغانتيزم",
+      "definition": "حالة ناتجة عن فرط إفراز هرمون النمو قبل إغلاق الصفيحة المشاشية (في مرحلة الطفولة). تُسبّب طولاً شاذاً وضخامة الأطراف والوجه. سببها الأغلب ورم نخامي حميد.",
+      "definition_en": "A condition from excess growth hormone before epiphyseal plate closure (childhood). Causes abnormal height and enlarged extremities and face. Usually caused by a benign pituitary tumor.",
+      "englishSentence": "Gigantism results in extraordinary height; the tallest person recorded was Robert Wadlow at 2.72 meters.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "excess GH",
+        "childhood",
+        "tall stature",
+        "عملقة",
+        "هرمون نمو"
+      ]
+    },
+    {
+      "id": 3694,
+      "term": "acromegaly",
+      "arabic": "ضخامة الأطراف",
+      "latin": "acromegalia",
+      "pronunciation": "أكروميغالي",
+      "definition": "حالة ناتجة عن فرط إفراز هرمون النمو بعد إغلاق الصفيحة المشاشية (في البالغين). تُسبّب تضخم اليدين والقدمين وعظام الوجه والأعضاء الداخلية مع تشوهات. سببها ورم نخامي.",
+      "definition_en": "A condition from excess growth hormone after epiphyseal plate closure (adults). Causes enlargement of hands, feet, facial bones, and internal organs. Caused by a pituitary tumor.",
+      "englishSentence": "Acromegaly causes the characteristic enlarged jaw, hands, and feet that distinguish it from other conditions.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "excess GH",
+        "adults",
+        "enlarged hands",
+        "ضخامة أطراف",
+        "هرمون نمو"
+      ]
+    },
+    {
+      "id": 3695,
+      "term": "pituitary dwarfism",
+      "arabic": "القصاع النخامي",
+      "latin": "nanismus hypophysialis",
+      "pronunciation": "بيتيوتاري دورفيزم",
+      "definition": "حالة ناتجة عن نقص إفراز هرمون النمو في مرحلة الطفولة. تُسبّب قصر القامة الشديد مع تناسب أجزاء الجسم وذكاء طبيعي. تُعالج بحقن هرمون النمو البشري الاصطناعي.",
+      "definition_en": "A condition from deficient growth hormone in childhood. Causes severe short stature with proportional body parts and normal intelligence. Treated with synthetic human growth hormone injections.",
+      "englishSentence": "Pituitary dwarfism differs from achondroplasia in that body proportions remain normal despite the short stature.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "GH deficiency",
+        "short stature",
+        "childhood",
+        "قصاع نخامي",
+        "قصر"
+      ]
+    },
+    {
+      "id": 3696,
+      "term": "prolactin",
+      "arabic": "البرولاكتين (هرمون الحليب)",
+      "latin": "prolactinum",
+      "pronunciation": "برولاكتين",
+      "definition": "هرمون يُفرزه الفص الأمامي للنخامية بعد الولادة يُحفّز إنتاج الحليب في الغدد الثديية. إفرازه يُثبّط الإباضة في المرضعات. يرتفع أثناء النوم والرضاعة والإجهاد.",
+      "definition_en": "A hormone secreted by the anterior pituitary after childbirth stimulating milk production in mammary glands. Inhibits ovulation in nursing mothers. Elevated during sleep, nursing, and stress.",
+      "englishSentence": "Prolactin surge after delivery stimulates the mammary glands to produce milk for the newborn.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "milk production",
+        "lactation",
+        "mammary glands",
+        "برولاكتين",
+        "حليب"
+      ]
+    },
+    {
+      "id": 3697,
+      "term": "ACTH",
+      "arabic": "الهرمون الموجه لقشرة الكظر",
+      "latin": "corticotropinum",
+      "pronunciation": "إيه سي تي إتش",
+      "definition": "هرمون موجه لقشرة الكظر يُفرزه الفص الأمامي للنخامية استجابةً لـCRH من ما تحت المهاد. يُحفّز قشرة الغدة الكظرية على إفراز الكورتيزول والهرمونات القشرية الأخرى.",
+      "definition_en": "Adrenocorticotropic hormone secreted by the anterior pituitary in response to CRH from the hypothalamus. Stimulates the adrenal cortex to secrete cortisol and other corticosteroids.",
+      "englishSentence": "ACTH levels spike during stress to trigger cortisol release which mobilizes energy for the fight-or-flight response.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "adrenal cortex",
+        "cortisol",
+        "stress",
+        "ACTH",
+        "موجه كظري"
+      ]
+    },
+    {
+      "id": 3698,
+      "term": "TSH",
+      "arabic": "الهرمون المحفّز للدرق",
+      "latin": "thyrotropinum",
+      "pronunciation": "تي إس إتش",
+      "definition": "هرمون محفّز للغدة الدرقية يُفرزه الفص الأمامي للنخامية استجابةً لـTRH من ما تحت المهاد. يُحفّز الغدة الدرقية على تصنيع وإفراز هرموني T3 وT4. ارتفاعه دليل على قصور الغدة الدرقية.",
+      "definition_en": "Thyroid stimulating hormone secreted by the anterior pituitary in response to TRH from the hypothalamus. Stimulates the thyroid gland to synthesize and release T3 and T4. Elevated TSH indicates hypothyroidism.",
+      "englishSentence": "A high TSH blood level indicates the pituitary is working hard to stimulate an underactive thyroid gland.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "thyroid stimulation",
+        "T3 T4",
+        "hypothyroidism",
+        "TSH",
+        "درقي"
+      ]
+    },
+    {
+      "id": 3699,
+      "term": "FSH",
+      "arabic": "هرمون محفّز الجريب",
+      "latin": "follitropinum",
+      "pronunciation": "إف إس إتش",
+      "definition": "هرمون الغوناد المحفز للجريبات. في الإناث يُحفّز نضج الجريبات المبيضية وإفراز الإستروجين. في الذكور يُحفّز إنتاج الحيوانات المنوية في الخصيتين. يُفرزه الفص الأمامي للنخامية.",
+      "definition_en": "Follicle-stimulating hormone. In females stimulates ovarian follicle maturation and estrogen secretion. In males stimulates sperm production in testes. Secreted by the anterior pituitary.",
+      "englishSentence": "FSH injections are used in fertility treatments to stimulate multiple egg production for IVF procedures.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "follicle maturation",
+        "sperm production",
+        "estrogen",
+        "FSH",
+        "جريب"
+      ]
+    },
+    {
+      "id": 3700,
+      "term": "LH",
+      "arabic": "الهرمون الملوتن",
+      "latin": "lutropinum",
+      "pronunciation": "إل إتش",
+      "definition": "الهرمون الملوتن. في الإناث يُحفّز الإباضة وتكوين الجسم الأصفر وإفراز البروجيستيرون. في الذكور يُحفّز خلايا لايديغ في الخصية على إفراز التيستوستيرون. يُفرزه الفص الأمامي للنخامية.",
+      "definition_en": "Luteinizing hormone. In females triggers ovulation and corpus luteum formation and progesterone secretion. In males stimulates Leydig cells in testes to secrete testosterone. Secreted by the anterior pituitary.",
+      "englishSentence": "The LH surge in mid-cycle is the trigger for ovulation releasing the mature egg from the ovarian follicle.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "ovulation",
+        "testosterone",
+        "corpus luteum",
+        "LH",
+        "ملوتن",
+        "إباضة"
+      ]
+    },
+    {
+      "id": 3701,
+      "term": "ADH",
+      "arabic": "الهرمون المضاد للإدرار (الفازوبريسين)",
+      "latin": "vasopressinum",
+      "pronunciation": "إيه دي إتش",
+      "definition": "هرمون مضاد للإدرار يُنتجه ما تحت المهاد ويُخزَّن في الفص الخلفي للنخامية. يُحفّز الكلى على إعادة امتصاص الماء وتخفيف البول. يرتفع عند الجفاف وارتفاع أسمولية الدم. نقصه يُسبّب مرض السكر الكاذب.",
+      "definition_en": "Antidiuretic hormone (vasopressin) produced by the hypothalamus and stored in the posterior pituitary. Stimulates kidneys to reabsorb water and concentrate urine. Rises during dehydration. Deficiency causes diabetes insipidus.",
+      "englishSentence": "ADH conserves water by making the kidney tubules more permeable to water increasing water reabsorption.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "water conservation",
+        "kidney",
+        "dehydration",
+        "diabetes insipidus",
+        "ADH",
+        "مضاد إدرار"
+      ]
+    },
+    {
+      "id": 3702,
+      "term": "diabetes insipidus",
+      "arabic": "مرض السكر الكاذب",
+      "latin": "diabetes insipidus",
+      "pronunciation": "دايابيتيز إنسيبيدوس",
+      "definition": "حالة ناتجة عن نقص إفراز ADH أو عدم استجابة الكلى له. تُسبّب إدراراً مفرطاً (بول كبير الحجم وخفيف التركيز) وعطشاً شديداً. لا علاقة له بمرض السكري (diabetes mellitus).",
+      "definition_en": "A condition from ADH deficiency or kidney resistance to ADH. Causes excessive dilute urine production and severe thirst. Unrelated to diabetes mellitus despite similar name.",
+      "englishSentence": "Patients with diabetes insipidus can produce up to 20 liters of dilute urine per day causing severe dehydration.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "ADH deficiency",
+        "excessive urination",
+        "dilute urine",
+        "سكر كاذب",
+        "بول"
+      ]
+    },
+    {
+      "id": 3703,
+      "term": "oxytocin",
+      "arabic": "الأوكسيتوسين",
+      "latin": "oxytocinum",
+      "pronunciation": "أوكسيتوسين",
+      "definition": "هرمون يُنتجه ما تحت المهاد ويُخزَّن في الفص الخلفي للنخامية. يُحفّز انقباضات الرحم أثناء الولادة (تغذية راجعة إيجابية) وإدرار الحليب لدى الرضاعة. يُعزّز الترابط الاجتماعي والثقة بين الأفراد. يُعرف بـ'هرمون الحب'.",
+      "definition_en": "A hormone produced by the hypothalamus and stored in the posterior pituitary. Stimulates uterine contractions during labor (positive feedback) and milk ejection during nursing. Promotes social bonding and trust. Called the love hormone.",
+      "englishSentence": "Oxytocin released during skin-to-skin contact between mother and newborn promotes attachment and bonding.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "labor",
+        "milk ejection",
+        "bonding",
+        "love hormone",
+        "أوكسيتوسين",
+        "ولادة"
+      ]
+    },
+    {
+      "id": 3704,
+      "term": "thyroid gland",
+      "arabic": "الغدة الدرقية",
+      "latin": "glandula thyroidea",
+      "pronunciation": "ثايرويد غلاند",
+      "definition": "غدة صماء أمامية الرقبة أمام القصبة الهوائية. تتكون من فصين مرتبطين. تُنتج هرموني الثيروكسين (T4) وثلاثي يودوثيرونين (T3) اللذين يُنظّمان الأيض وهرمون الكالسيتونين الذي يُخفّض الكالسيوم.",
+      "definition_en": "An endocrine gland anterior to the neck in front of the trachea. Composed of two connected lobes. Produces thyroxine (T4) and triiodothyronine (T3) regulating metabolism and calcitonin lowering blood calcium.",
+      "englishSentence": "The thyroid gland wraps around the trachea like a butterfly and is the largest endocrine gland in the neck.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "T3 T4",
+        "calcitonin",
+        "metabolism",
+        "درقية",
+        "أيض"
+      ]
+    },
+    {
+      "id": 3705,
+      "term": "thyroid hormone",
+      "arabic": "هرمون الغدة الدرقية",
+      "latin": "hormonum thyroideum",
+      "pronunciation": "ثايرويد هورمون",
+      "definition": "مصطلح يشمل هرمونين: الثيروكسين (T4) وثلاثي يودوثيرونين (T3). يُحتاج إلى اليود لتصنيعهما. يُنظّمان معدل الأيض الأساسي وتوليد الحرارة والنمو والتطور والنضج العقلي. T3 أكثر نشاطاً من T4.",
+      "definition_en": "A term encompassing two hormones: thyroxine (T4) and triiodothyronine (T3). Require iodine for synthesis. Regulate basal metabolic rate, heat production, growth, development, and mental maturation. T3 is more active than T4.",
+      "englishSentence": "Thyroid hormones increase the metabolic rate of almost every cell in the body generating more heat and energy.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "T3",
+        "T4",
+        "iodine",
+        "metabolic rate",
+        "هرمون درقي",
+        "أيض"
+      ]
+    },
+    {
+      "id": 3706,
+      "term": "hyperthyroidism",
+      "arabic": "فرط نشاط الغدة الدرقية",
+      "latin": "hyperthyroidismus",
+      "pronunciation": "هايبيرثايرويديزم",
+      "definition": "حالة ناتجة عن زيادة إفراز هرمونات الغدة الدرقية. الأعراض: فقدان الوزن وتسارع ضربات القلب والارتعاش والعصبية والتعرق المفرط وعدم تحمّل الحرارة. أشيع سببه مرض غريفز (مناعي ذاتي).",
+      "definition_en": "Excess thyroid hormone secretion. Symptoms: weight loss, rapid heart rate, tremors, nervousness, excessive sweating, and heat intolerance. Most common cause is Graves' disease (autoimmune).",
+      "englishSentence": "Graves' disease causes hyperthyroidism and the characteristic bulging eyes (exophthalmos) due to autoimmune tissue swelling.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "Graves disease",
+        "weight loss",
+        "heat intolerance",
+        "فرط درقية",
+        "جريفز"
+      ]
+    },
+    {
+      "id": 3707,
+      "term": "hypothyroidism",
+      "arabic": "قصور الغدة الدرقية",
+      "latin": "hypothyroidismus",
+      "pronunciation": "هايبوثايرويديزم",
+      "definition": "حالة ناتجة عن نقص إفراز هرمونات الغدة الدرقية. في البالغين تُسبّب الوذمة المخاطية (تراكم السوائل وتضخم الأنسجة) والخمول والتعب وزيادة الوزن وعدم تحمّل البرد. في الرضع تُسبّب الكريتينية (تأخر نمو عقلي وجسدي).",
+      "definition_en": "Deficient thyroid hormone secretion. In adults causes myxedema (fluid accumulation and tissue swelling) lethargy fatigue weight gain and cold intolerance. In infants causes cretinism (severe mental and physical developmental delay).",
+      "englishSentence": "Untreated hypothyroidism in newborns causes cretinism with irreversible mental and physical developmental delays.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "myxedema",
+        "cretinism",
+        "weight gain",
+        "cold intolerance",
+        "قصور درقي",
+        "كريتينية"
+      ]
+    },
+    {
+      "id": 3708,
+      "term": "calcitonin",
+      "arabic": "الكالسيتونين",
+      "latin": "calcitoninum",
+      "pronunciation": "كالسيتونين",
+      "definition": "هرمون يُفرزه الخلايا C المجاورة للجريب في الغدة الدرقية. يُخفّض مستوى الكالسيوم في الدم عن طريق تثبيط الأوستيوكلاست وتعزيز ترسّب الكالسيوم في العظام. يعمل عكس هرمون الباراثورمون.",
+      "definition_en": "A hormone secreted by the parafollicular C cells of the thyroid gland. Lowers blood calcium by inhibiting osteoclasts and promoting calcium deposition in bone. Antagonist to parathyroid hormone.",
+      "englishSentence": "Calcitonin lowers blood calcium after a calcium-rich meal by driving calcium from the blood into the bones.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "lower calcium",
+        "osteoclast inhibition",
+        "bone deposition",
+        "كالسيتونين",
+        "كالسيوم"
+      ]
+    },
+    {
+      "id": 3709,
+      "term": "goiter",
+      "arabic": "الدراق (تضخم الغدة الدرقية)",
+      "latin": "struma",
+      "pronunciation": "غويتر",
+      "definition": "تضخم الغدة الدرقية المرئي في الرقبة. قد يكون ناتجاً عن نقص اليود (الدراق البسيط) أو فرط نشاط الغدة أو قصورها أو أمراض مناعية ذاتية. يُعالج بحسب السبب.",
+      "definition_en": "Visible enlargement of the thyroid gland in the neck. May result from iodine deficiency (simple goiter) hyperthyroidism hypothyroidism or autoimmune diseases. Treatment depends on the cause.",
+      "englishSentence": "Iodine deficiency was the leading cause of goiter worldwide until iodized salt became standard.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "thyroid enlargement",
+        "iodine deficiency",
+        "neck",
+        "دراق",
+        "تضخم درقي"
+      ]
+    },
+    {
+      "id": 3710,
+      "term": "parathyroid glands",
+      "arabic": "الغدد جارات الدرق",
+      "latin": "glandulae parathyroideae",
+      "pronunciation": "باراثايرويد غلاندز",
+      "definition": "أربع غدد صغيرة جداً (بحجم حبة العنب) على السطح الخلفي للغدة الدرقية. تُفرز هرمون الباراثورمون (PTH) الذي يُنظّم مستوى الكالسيوم في الدم. قد تُزال عن طريق الخطأ في عمليات الغدة الدرقية.",
+      "definition_en": "Four tiny grape-sized glands on the posterior surface of the thyroid gland. Secrete parathyroid hormone (PTH) that regulates blood calcium levels. May be accidentally removed during thyroid surgery.",
+      "englishSentence": "The parathyroid glands are the primary regulators of blood calcium and therefore bone health.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "PTH",
+        "calcium regulation",
+        "four glands",
+        "جارات درق",
+        "كالسيوم"
+      ]
+    },
+    {
+      "id": 3711,
+      "term": "parathyroid hormone",
+      "arabic": "هرمون الباراثورمون (PTH)",
+      "latin": "parathormonum",
+      "pronunciation": "باراثايرويد هورمون",
+      "definition": "الهرمون الرئيسي لرفع الكالسيوم في الدم. يُحفّز الأوستيوكلاست لتحليل العظم وإطلاق الكالسيوم. يُعزّز إعادة امتصاص الكالسيوم في الكلى. يُفعّل فيتامين D لزيادة امتصاص الكالسيوم من الأمعاء. مضاد للكالسيتونين.",
+      "definition_en": "The primary blood calcium-raising hormone. Stimulates osteoclasts to resorb bone releasing calcium. Enhances calcium reabsorption in kidneys. Activates vitamin D to increase intestinal calcium absorption. Antagonist to calcitonin.",
+      "englishSentence": "When blood calcium drops PTH activates osteoclasts to break down bone releasing calcium back into the blood.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "raise calcium",
+        "osteoclast",
+        "vitamin D",
+        "PTH",
+        "باراثورمون",
+        "كالسيوم"
+      ]
+    },
+    {
+      "id": 3712,
+      "term": "adrenal glands",
+      "arabic": "الغدتان الكظريتان",
+      "latin": "glandulae suprarenales",
+      "pronunciation": "أدرينال غلاندز",
+      "definition": "غدتان صماويتان تقعان فوق الكليتين. لكل منهما منطقتان وظيفياً مختلفتان: قشرة الكظر (الخارجية تُفرز هرمونات ستيرويدية) ونخاع الكظر (الداخلي يُفرز كاتيكولامينات).",
+      "definition_en": "Two endocrine glands sitting atop each kidney. Each has two functionally distinct regions: adrenal cortex (outer secreting steroid hormones) and adrenal medulla (inner secreting catecholamines).",
+      "englishSentence": "The adrenal glands are critical for the stress response; their removal is life-threatening without hormone replacement.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "suprarenal",
+        "cortex",
+        "medulla",
+        "كظرية",
+        "فوق كلوية"
+      ]
+    },
+    {
+      "id": 3713,
+      "term": "adrenal cortex",
+      "arabic": "قشرة الغدة الكظرية",
+      "latin": "cortex glandulae suprarenalis",
+      "pronunciation": "أدرينال كورتيكس",
+      "definition": "الجزء الخارجي من الغدة الكظرية يُفرز ثلاثة أنواع من الهرمونات الستيرويدية من مناطق مختلفة: القشرانيات المعدنية (الألدوستيرون) والقشرانيات السكرية (الكورتيزول) والهرمونات الجنسية (الأندروجينات).",
+      "definition_en": "The outer portion of the adrenal gland secreting three types of steroid hormones from different zones: mineralocorticoids (aldosterone) glucocorticoids (cortisol) and sex hormones (androgens).",
+      "englishSentence": "The adrenal cortex produces hormones essential for life; without cortisol and aldosterone death occurs within days.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "aldosterone",
+        "cortisol",
+        "androgens",
+        "قشرة كظرية",
+        "ستيرويد"
+      ]
+    },
+    {
+      "id": 3714,
+      "term": "aldosterone",
+      "arabic": "الألدوستيرون",
+      "latin": "aldosteronum",
+      "pronunciation": "ألدوستيرون",
+      "definition": "أهم القشرانيات المعدنية. يُفرزه الطبقة الكبيبية في قشرة الكظر. يُنظّم توازن الصوديوم والبوتاسيوم في الدم عبر الكلى: يُعزّز إعادة امتصاص Na⁺ وإطراح K⁺ → يرفع ضغط الدم وحجم الدم. يُحفّزه نقص Na⁺ وارتفاع K⁺ والأنجيوتنسين II.",
+      "definition_en": "The most important mineralocorticoid secreted by the zona glomerulosa of the adrenal cortex. Regulates sodium and potassium balance via kidneys: promotes Na⁺ reabsorption and K⁺ excretion raising blood pressure and volume.",
+      "englishSentence": "Aldosterone deficiency in Addison's disease causes dangerous salt wasting low blood pressure and high potassium.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "sodium",
+        "potassium",
+        "blood pressure",
+        "kidney",
+        "ألدوستيرون",
+        "صوديوم"
+      ]
+    },
+    {
+      "id": 3715,
+      "term": "cortisol",
+      "arabic": "الكورتيزول (هيدروكورتيزون)",
+      "latin": "cortisol",
+      "pronunciation": "كورتيزول",
+      "definition": "أهم القشرانيات السكرية ضروري للحياة. يُفرزه الطبقة الحزمية في قشرة الكظر. يُطلق أثناء الإجهاد. وظائفه: رفع نسبة السكر (تحفيز تكوين الغلوكوز)، مضاد للالتهاب، تثبيط المناعة، تحلّل البروتينات والدهون.",
+      "definition_en": "The most important glucocorticoid essential for life. Secreted by zona fasciculata. Released during stress. Functions: raises blood glucose (gluconeogenesis) anti-inflammatory immune suppression protein and fat catabolism.",
+      "englishSentence": "Chronic stress and high cortisol levels suppress immunity impair memory and cause weight gain especially in the abdomen.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "stress hormone",
+        "gluconeogenesis",
+        "anti-inflammatory",
+        "كورتيزول",
+        "إجهاد"
+      ]
+    },
+    {
+      "id": 3716,
+      "term": "Cushing's syndrome",
+      "arabic": "متلازمة كوشينغ",
+      "latin": "syndroma Cushingi",
+      "pronunciation": "كوشينغز سيندروم",
+      "definition": "حالة ناتجة عن فرط الكورتيزول. الأعراض المميزة: الوجه المدور (وجه القمر) وتجمع الدهون في الرقبة (سنام الجاموس) وارتفاع السكر في الدم وضعف العضلات وهشاشة العظام وارتفاع ضغط الدم. قد تنتج عن علاج بالستيرويدات أو ورم.",
+      "definition_en": "A condition from excess cortisol. Characteristic features: moon face buffalo hump hyperglycemia muscle weakness osteoporosis and hypertension. May result from steroid medication or tumor.",
+      "englishSentence": "Cushing's syndrome patients develop the classic moon face and buffalo hump from redistributed fat deposits.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "moon face",
+        "buffalo hump",
+        "hypercortisolism",
+        "متلازمة كوشينغ",
+        "كورتيزول"
+      ]
+    },
+    {
+      "id": 3717,
+      "term": "Addison's disease",
+      "arabic": "مرض أديسون",
+      "latin": "morbus Addisonii",
+      "pronunciation": "أديسنز ديزيز",
+      "definition": "حالة ناتجة عن قصور قشرة الكظر (نقص الكورتيزول والألدوستيرون). الأعراض: ضعف وتعب وفقدان وزن وانخفاض ضغط الدم وهبوط السكر وتصبّغ الجلد (زيادة ACTH يرتبط بمستقبلات الميلانين). حالة مهددة للحياة.",
+      "definition_en": "Adrenal cortex insufficiency with cortisol and aldosterone deficiency. Symptoms: weakness fatigue weight loss low blood pressure hypoglycemia and skin hyperpigmentation (elevated ACTH stimulates melanin receptors). Life-threatening.",
+      "englishSentence": "Addison's disease requires lifelong corticosteroid replacement therapy because the adrenal glands cannot produce these hormones.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "adrenal insufficiency",
+        "skin pigmentation",
+        "hypotension",
+        "أديسون",
+        "قشرة كظر"
+      ]
+    },
+    {
+      "id": 3718,
+      "term": "adrenal medulla",
+      "arabic": "نخاع الغدة الكظرية",
+      "latin": "medulla glandulae suprarenalis",
+      "pronunciation": "أدرينال ميدولا",
+      "definition": "الجزء الداخلي من الغدة الكظرية المكوّن من نسيج عصبي. يُفرز الكاتيكولامينات: الأدرينالين (إيبينفرين 80%) والنورأدرينالين (نورإيبينفرين 20%). يُنشَّط مباشرةً بواسطة الجهاز العصبي الودّي في حالات الطوارئ.",
+      "definition_en": "The inner portion of the adrenal gland composed of nervous tissue. Secretes catecholamines: epinephrine (adrenaline 80%) and norepinephrine (noradrenaline 20%). Directly activated by the sympathetic nervous system during emergencies.",
+      "englishSentence": "The adrenal medulla releases adrenaline within seconds of a perceived threat producing the immediate fight-or-flight response.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "epinephrine",
+        "norepinephrine",
+        "fight-or-flight",
+        "نخاع كظري",
+        "أدرينالين"
+      ]
+    },
+    {
+      "id": 3719,
+      "term": "epinephrine",
+      "arabic": "الإيبينفرين (الأدرينالين)",
+      "latin": "epinephrinum",
+      "pronunciation": "إيبينيفرين",
+      "definition": "الكاتيكولامين الرئيسي (80%) الذي يُفرزه نخاع الكظر أثناء الإجهاد. يُحفّز استجابة fight-or-flight: تسرّع القلب وارتفاع ضغط الدم وتوسيع الشعب الهوائية ورفع السكر في الدم وتحويل الدم إلى العضلات والدماغ.",
+      "definition_en": "The primary catecholamine (80%) secreted by the adrenal medulla during stress. Triggers fight-or-flight: increases heart rate blood pressure bronchodilation blood glucose and diverts blood to muscles and brain.",
+      "englishSentence": "Epinephrine auto-injectors (EpiPens) save lives in anaphylaxis by reversing severe allergic reactions.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "adrenaline",
+        "fight-or-flight",
+        "anaphylaxis",
+        "EpiPen",
+        "أدرينالين",
+        "طوارئ"
+      ]
+    },
+    {
+      "id": 3720,
+      "term": "norepinephrine",
+      "arabic": "النورإيبينفرين (النورأدرينالين)",
+      "latin": "norepinephrinum",
+      "pronunciation": "نوريبينيفرين",
+      "definition": "الكاتيكولامين الثاني (20%) الذي يُفرزه نخاع الكظر. يُسبّب أساساً تضيّق الأوعية الدموية الطرفية وارتفاع ضغط الدم. ناقل عصبي للجهاز الودّي. يُشارك في اليقظة والانتباه والمزاج.",
+      "definition_en": "The secondary catecholamine (20%) secreted by the adrenal medulla. Primarily causes peripheral vasoconstriction and elevated blood pressure. Neurotransmitter of the sympathetic nervous system. Involved in alertness attention and mood.",
+      "englishSentence": "Norepinephrine constricts blood vessels raising blood pressure and is used to treat septic shock.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "noradrenaline",
+        "vasoconstriction",
+        "blood pressure",
+        "نورأدرينالين",
+        "أوعية"
+      ]
+    },
+    {
+      "id": 3721,
+      "term": "pancreas",
+      "arabic": "البنكرياس",
+      "latin": "pancreas",
+      "pronunciation": "بانكرياس",
+      "definition": "غدة مختلطة خلف المعدة. وظيفتها الخارجية: إفراز إنزيمات هضمية عبر قنوات إلى الاثني عشر. وظيفتها الداخلية: إفراز هرمونات الأنسولين والغلوكاغون من جزر لانغرهانز لتنظيم السكر في الدم.",
+      "definition_en": "A mixed gland behind the stomach. Exocrine function: secretes digestive enzymes through ducts into the duodenum. Endocrine function: secretes insulin and glucagon from islets of Langerhans to regulate blood glucose.",
+      "englishSentence": "The pancreas performs a double duty as both a digestive enzyme factory and a blood sugar regulator.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "mixed gland",
+        "insulin",
+        "glucagon",
+        "islets",
+        "بنكرياس",
+        "سكر"
+      ]
+    },
+    {
+      "id": 3722,
+      "term": "islets of Langerhans",
+      "arabic": "جزر لانغرهانز",
+      "latin": "insulae Langerhansii",
+      "pronunciation": "أيلتس أوف لانغيرهانز",
+      "definition": "مجموعات صغيرة من الخلايا الغدية الصماء منتشرة في البنكرياس. تحتوي على خلايا ألفا (تُفرز الغلوكاغون) وخلايا بيتا (تُفرز الأنسولين) وخلايا دلتا (تُفرز السوماتوستاتين).",
+      "definition_en": "Small clusters of endocrine cells scattered throughout the pancreas. Contain alpha cells (secrete glucagon) beta cells (secrete insulin) and delta cells (secrete somatostatin).",
+      "englishSentence": "The islets of Langerhans constitute only 1-2% of pancreatic mass but perform the critical role of blood glucose regulation.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "alpha cells",
+        "beta cells",
+        "insulin",
+        "glucagon",
+        "جزر لانغرهانز",
+        "بنكرياس"
+      ]
+    },
+    {
+      "id": 3723,
+      "term": "insulin",
+      "arabic": "الأنسولين",
+      "latin": "insulinum",
+      "pronunciation": "إنسيولين",
+      "definition": "هرمون تُفرزه خلايا بيتا في جزر لانغرهانز استجابةً لارتفاع السكر في الدم. يُخفّض السكر بتحفيز امتصاص الغلوكوز في خلايا العضلات والدهون. يُحفّز تصنيع الغليكوجين في الكبد والعضلات. ونقصه يُسبّب السكري.",
+      "definition_en": "A hormone secreted by beta cells in response to elevated blood glucose. Lowers blood glucose by stimulating glucose uptake in muscle and fat cells. Promotes glycogen synthesis in liver and muscles. Deficiency causes diabetes mellitus.",
+      "englishSentence": "Insulin acts as a key that unlocks cells allowing glucose to enter and be used for energy.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "beta cells",
+        "blood glucose lowering",
+        "glycogen",
+        "أنسولين",
+        "سكر دم"
+      ]
+    },
+    {
+      "id": 3724,
+      "term": "glucagon",
+      "arabic": "الغلوكاغون",
+      "latin": "glucagonum",
+      "pronunciation": "غلوكاغون",
+      "definition": "هرمون تُفرزه خلايا ألفا في جزر لانغرهانز استجابةً لانخفاض السكر في الدم. يرفع السكر عن طريق تحفيز تحلّل الغليكوجين في الكبد وتكوين الغلوكوز الجديد (استحداث السكر). مضاد للأنسولين.",
+      "definition_en": "A hormone secreted by alpha cells in response to low blood glucose. Raises blood glucose by stimulating liver glycogen breakdown (glycogenolysis) and new glucose formation (gluconeogenesis). Antagonist to insulin.",
+      "englishSentence": "Glucagon injection can save a diabetic patient from hypoglycemia when they are unconscious and cannot eat.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "alpha cells",
+        "blood glucose raising",
+        "glycogenolysis",
+        "gluconeogenesis",
+        "غلوكاغون",
+        "كبد"
+      ]
+    },
+    {
+      "id": 3725,
+      "term": "diabetes mellitus",
+      "arabic": "داء السكري",
+      "latin": "diabetes mellitus",
+      "pronunciation": "دايابيتيز ميليتوس",
+      "definition": "مجموعة من الأمراض الأيضية تتميز بارتفاع مزمن في سكر الدم (hyperglycemia) بسبب نقص الأنسولين أو مقاومة خلايا الجسم له. النوع الأول: تدمير مناعي ذاتي لخلايا بيتا. النوع الثاني: مقاومة للأنسولين.",
+      "definition_en": "A group of metabolic diseases characterized by chronic high blood glucose (hyperglycemia) from insulin deficiency or insulin resistance. Type 1: autoimmune destruction of beta cells. Type 2: insulin resistance.",
+      "englishSentence": "Diabetes mellitus is diagnosed when fasting blood glucose exceeds 126 mg/dL on two separate occasions.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "hyperglycemia",
+        "insulin deficiency",
+        "type 1",
+        "type 2",
+        "سكري",
+        "سكر دم"
+      ]
+    },
+    {
+      "id": 3726,
+      "term": "type 1 diabetes",
+      "arabic": "السكري من النوع الأول",
+      "latin": "diabetes mellitus typus primus",
+      "pronunciation": "تايب ون دايابيتيز",
+      "definition": "مرض مناعي ذاتي يُدمّر فيه جهاز المناعة خلايا بيتا المنتجة للأنسولين في جزر لانغرهانز. يبدأ في الطفولة والشباب. يتطلب حقن الأنسولين مدى الحياة. يُسبّب الحماض الكيتوني السكري (DKA) في حالة الطوارئ.",
+      "definition_en": "An autoimmune disease where the immune system destroys insulin-producing beta cells. Begins in childhood and youth. Requires lifelong insulin injections. Can cause diabetic ketoacidosis (DKA) in emergency.",
+      "englishSentence": "Type 1 diabetics must monitor blood glucose and inject insulin multiple times daily to survive.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "autoimmune",
+        "beta cell destruction",
+        "insulin dependent",
+        "سكري نوع أول",
+        "DKA"
+      ]
+    },
+    {
+      "id": 3727,
+      "term": "type 2 diabetes",
+      "arabic": "السكري من النوع الثاني",
+      "latin": "diabetes mellitus typus secundus",
+      "pronunciation": "تايب تو دايابيتيز",
+      "definition": "أكثر أنواع السكري شيوعاً (90%). تتطوّر فيه مقاومة الخلايا للأنسولين مع نقص تدريجي في إفرازه. مرتبط بالسمنة والخمول وعوامل وراثية. يبدأ في منتصف العمر. يُعالج بتغيير نمط الحياة والأدوية الفموية وربما الأنسولين.",
+      "definition_en": "The most common diabetes type (90%). Cells develop insulin resistance with progressive secretion decline. Associated with obesity sedentary lifestyle and genetics. Middle-age onset. Treated with lifestyle changes oral medications and possibly insulin.",
+      "englishSentence": "Type 2 diabetes is largely preventable through maintaining healthy weight regular exercise and balanced diet.",
+      "type": "disease",
+      "chapter": 26,
+      "keywords": [
+        "insulin resistance",
+        "obesity",
+        "lifestyle",
+        "سكري نوع ثاني",
+        "مقاومة أنسولين"
+      ]
+    },
+    {
+      "id": 3728,
+      "term": "polyuria",
+      "arabic": "كثرة التبول",
+      "latin": "polyuria",
+      "pronunciation": "بوليوريا",
+      "definition": "إحدى العلامات الكلاسيكية الثلاث للسكري (3P). زيادة حجم البول الناتجة عن الغلوكوز في البول الذي يسحب الماء معه بالتناضح. يُسبّب الجفاف إذا لم يُعوَّض.",
+      "definition_en": "One of the three classic diabetes signs (3P). Increased urine volume from glucose in urine drawing water osmotically. Causes dehydration if not compensated.",
+      "englishSentence": "Polyuria in diabetes mellitus occurs because excess glucose in the urine pulls water out by osmosis.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "excessive urination",
+        "glucosuria",
+        "osmosis",
+        "كثرة تبول",
+        "سكري"
+      ]
+    },
+    {
+      "id": 3729,
+      "term": "polydipsia",
+      "arabic": "كثرة العطش",
+      "latin": "polydipsia",
+      "pronunciation": "بوليديبسيا",
+      "definition": "إحدى العلامات الكلاسيكية الثلاث للسكري (3P). الشعور الشديد بالعطش الناتج عن الجفاف المصاحب لكثرة التبول ورفع أسمولية الدم.",
+      "definition_en": "One of the three classic diabetes signs (3P). Extreme thirst resulting from dehydration accompanying polyuria and elevated blood osmolarity.",
+      "englishSentence": "Polydipsia drives diabetics to drink large amounts of water to compensate for fluid lost through polyuria.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "excessive thirst",
+        "dehydration",
+        "diabetes",
+        "كثرة عطش",
+        "سكري"
+      ]
+    },
+    {
+      "id": 3730,
+      "term": "polyphagia",
+      "arabic": "كثرة الأكل",
+      "latin": "polyphagia",
+      "pronunciation": "بوليفيجيا",
+      "definition": "إحدى العلامات الكلاسيكية الثلاث للسكري (3P). الجوع الشديد المستمر رغم تناول الطعام لأن الخلايا لا تستطيع امتصاص الغلوكوز في غياب الأنسولين وتُرسل إشارات جوع للدماغ.",
+      "definition_en": "One of the three classic diabetes signs (3P). Excessive persistent hunger despite eating because cells cannot absorb glucose without insulin and send hunger signals to the brain.",
+      "englishSentence": "Polyphagia occurs in diabetes because starving cells cannot access blood glucose without insulin sending constant hunger signals.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "excessive hunger",
+        "cellular starvation",
+        "diabetes",
+        "كثرة أكل",
+        "جوع"
+      ]
+    },
+    {
+      "id": 3731,
+      "term": "pineal gland",
+      "arabic": "الغدة الصنوبرية",
+      "latin": "glandula pinealis",
+      "pronunciation": "باينيال غلاند",
+      "definition": "غدة صغيرة على شكل حبة الصنوبر في الدماغ البيني (المهاد). تُفرز الميلاتونين. يرتفع الميلاتونين في الظلام وينخفض في الضوء مما يُنظّم الدورة اليومية للنوم والصحو.",
+      "definition_en": "A small pinecone-shaped gland in the diencephalon (epithalamus). Secretes melatonin. Melatonin rises in darkness and falls in light regulating the circadian sleep-wake cycle.",
+      "englishSentence": "The pineal gland tracks day length by producing melatonin at night helping regulate seasonal biological rhythms.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "melatonin",
+        "sleep-wake",
+        "circadian rhythm",
+        "صنوبرية",
+        "نوم"
+      ]
+    },
+    {
+      "id": 3732,
+      "term": "melatonin",
+      "arabic": "الميلاتونين",
+      "latin": "melatoninum",
+      "pronunciation": "ميلاتونين",
+      "definition": "هرمون تُفرزه الغدة الصنوبرية في الظلام لتنظيم الدورة اليومية للنوم والصحو. يُثبّطه الضوء. يُستخدم كمكمل لعلاج الأرق واضطراب النوم الناتج عن تغيّر المناطق الزمنية. له خصائص مضادة للأكسدة.",
+      "definition_en": "A hormone secreted by the pineal gland in darkness to regulate the sleep-wake circadian cycle. Inhibited by light. Used as supplement to treat insomnia and jet lag. Has antioxidant properties.",
+      "englishSentence": "Screen light before bedtime suppresses melatonin production making it harder to fall asleep.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "sleep regulation",
+        "circadian",
+        "darkness",
+        "ميلاتونين",
+        "نوم ليلي"
+      ]
+    },
+    {
+      "id": 3733,
+      "term": "thymus",
+      "arabic": "الغدة الصعترية (التيموس)",
+      "latin": "thymus",
+      "pronunciation": "ثايموس",
+      "definition": "غدة ثنائية الفصوص خلف القص في المنصف الأمامي. أكثر نشاطاً في الطفولة وتضمر بعد البلوغ. تُفرز الثيموسين والثيموبويتين اللذين يُحفّزان نضج الخلايا T اللمفاوية الضرورية للمناعة. ضرورية للمناعة الخلوية.",
+      "definition_en": "A bilobar gland behind the sternum in the anterior mediastinum. Most active in childhood and atrophies after puberty. Secretes thymosin and thymopoietin stimulating T-lymphocyte maturation essential for immunity. Critical for cellular immunity.",
+      "englishSentence": "The thymus programs T lymphocytes during childhood to recognize and destroy infected or cancerous cells throughout life.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "T lymphocytes",
+        "thymosin",
+        "immunity",
+        "صعترية",
+        "مناعة"
+      ]
+    },
+    {
+      "id": 3734,
+      "term": "gonads",
+      "arabic": "الغدد التناسلية (الغونادات)",
+      "latin": "gonadae",
+      "pronunciation": "غونادز",
+      "definition": "الغدد الجنسية: الخصيتان عند الذكور والمبيضان عند الإناث. لها وظيفتان: تناسلية (إنتاج الأمشاج) وغدية (إفراز الهرمونات الجنسية). تنشط بفعل FSH وLH من النخامية.",
+      "definition_en": "The sex glands: testes in males and ovaries in females. Dual function: reproductive (gamete production) and endocrine (sex hormone secretion). Activated by FSH and LH from the pituitary.",
+      "englishSentence": "The gonads serve the dual role of producing sex cells and secreting hormones that drive sexual development.",
+      "type": "organ",
+      "chapter": 26,
+      "keywords": [
+        "testes",
+        "ovaries",
+        "sex hormones",
+        "gametes",
+        "غونادات",
+        "جنسية"
+      ]
+    },
+    {
+      "id": 3735,
+      "term": "testosterone",
+      "arabic": "التيستوستيرون",
+      "latin": "testosteronum",
+      "pronunciation": "تيستوستيرون",
+      "definition": "الهرمون الجنسي الذكري الرئيسي. يُفرزه خلايا لايديغ في الخصيتين. مسؤول عن الخصائص الجنسية الثانوية الذكرية (شعر الوجه والجسم وعمق الصوت وكتلة العضلات) وتنظيم إنتاج الحيوانات المنوية والدافع الجنسي.",
+      "definition_en": "The primary male sex hormone secreted by Leydig cells in the testes. Responsible for male secondary sexual characteristics (facial and body hair voice deepening muscle mass) and regulating sperm production and sex drive.",
+      "englishSentence": "Testosterone levels peak in early adulthood and gradually decline after age 30 which can affect muscle mass and libido.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "male hormone",
+        "secondary characteristics",
+        "sperm",
+        "تيستوستيرون",
+        "ذكري"
+      ]
+    },
+    {
+      "id": 3736,
+      "term": "estrogen",
+      "arabic": "الإستروجين",
+      "latin": "oestrogena",
+      "pronunciation": "إستروجين",
+      "definition": "مجموعة الهرمونات الجنسية الأنثوية الرئيسية تُفرزها المبايض. مسؤولة عن الخصائص الجنسية الثانوية الأنثوية وتنظيم الدورة الشهرية والحفاظ على كثافة العظام. تنخفض بعد انقطاع الطمث.",
+      "definition_en": "A group of primary female sex hormones secreted by the ovaries. Responsible for female secondary sexual characteristics regulation of the menstrual cycle and maintaining bone density. Decline after menopause.",
+      "englishSentence": "Estrogen decline after menopause accelerates bone loss increasing osteoporosis risk in older women.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "female hormone",
+        "menstrual cycle",
+        "bone density",
+        "إستروجين",
+        "أنثوي"
+      ]
+    },
+    {
+      "id": 3737,
+      "term": "progesterone",
+      "arabic": "البروجيستيرون",
+      "latin": "progesteronium",
+      "pronunciation": "بروجيستيرون",
+      "definition": "هرمون يُفرزه الجسم الأصفر في المبيض بعد الإباضة. يُعضّد بطانة الرحم للزرع ويُحافظ على الحمل. يثبط الإباضة في الحمل. يرتفع في النصف الثاني من الدورة الشهرية. يُستخدم في حبوب منع الحمل.",
+      "definition_en": "A hormone secreted by the corpus luteum after ovulation. Prepares and maintains the uterine lining for implantation and maintains pregnancy. Inhibits ovulation during pregnancy. Used in contraceptive pills.",
+      "englishSentence": "Progesterone prepares the uterine lining for a fertilized egg and maintains the pregnancy if fertilization occurs.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "corpus luteum",
+        "uterine lining",
+        "pregnancy",
+        "بروجيستيرون",
+        "رحم"
+      ]
+    },
+    {
+      "id": 3738,
+      "term": "erythropoietin",
+      "arabic": "الإريثروبويتين (EPO)",
+      "latin": "erythropoietinum",
+      "pronunciation": "إريثروبويتين",
+      "definition": "هرمون يُفرزه الكلى استجابةً لانخفاض الأكسجين في الدم. يُحفّز نخاع العظم على إنتاج كريات الدم الحمراء. يُستخدم في علاج فقر الدم الناتج عن الفشل الكلوي. يُساء استخدامه رياضياً لتعزيز الأداء.",
+      "definition_en": "A hormone secreted by the kidneys in response to low blood oxygen. Stimulates bone marrow to produce more red blood cells. Used to treat anemia from kidney failure. Abused in sports for performance enhancement.",
+      "englishSentence": "Living at high altitude stimulates erythropoietin production increasing red blood cells to compensate for lower oxygen.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "EPO",
+        "red blood cells",
+        "kidney",
+        "anemia",
+        "إريثروبويتين",
+        "كريات حمراء"
+      ]
+    },
+    {
+      "id": 3739,
+      "term": "ANP",
+      "arabic": "الببتيد الناتريوريتيكي الأذيني",
+      "latin": "peptidium atriale natriureticum",
+      "pronunciation": "إيه إن بي",
+      "definition": "هرمون يُفرزه أذين القلب عند ارتفاع ضغط الدم أو زيادة حجم الدم. يُخفّض ضغط الدم بتعزيز إطراح الصوديوم والماء من الكلى وتوسيع الأوعية الدموية وتثبيط الألدوستيرون.",
+      "definition_en": "A hormone secreted by the heart atrium when blood pressure or volume rises. Lowers blood pressure by promoting sodium and water excretion from kidneys vasodilation and inhibiting aldosterone.",
+      "englishSentence": "ANP acts as a natural blood pressure regulator secreted directly by the heart when it senses excess volume.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "atrial",
+        "blood pressure",
+        "sodium excretion",
+        "ANP",
+        "ببتيد أذيني"
+      ]
+    },
+    {
+      "id": 3740,
+      "term": "leptin",
+      "arabic": "اللبتين",
+      "latin": "leptinum",
+      "pronunciation": "ليبتين",
+      "definition": "هرمون يُفرزه النسيج الدهني. يُرسل إشارة للمهاد بأن مخازن الطاقة كافية مما يُثبّط الشهية ويُعزّز استهلاك الطاقة. نقصه أو مقاومته يُسهم في السمنة وصعوبة إنقاص الوزن.",
+      "definition_en": "A hormone secreted by adipose tissue. Signals the hypothalamus that energy stores are sufficient suppressing appetite and promoting energy expenditure. Deficiency or resistance contributes to obesity.",
+      "englishSentence": "Leptin resistance in obese individuals means the brain doesn't receive the satiety signal making weight loss harder.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "satiety",
+        "adipose tissue",
+        "appetite",
+        "obesity",
+        "لبتين",
+        "شبع"
+      ]
+    },
+    {
+      "id": 3741,
+      "term": "prostaglandins",
+      "arabic": "البروستاغلاندين",
+      "latin": "prostaglandina",
+      "pronunciation": "بروستاغلاندينز",
+      "definition": "هرمونات موضعية شبيهة بالدهون تُنتجها معظم أنسجة الجسم. تتأثر بها الخلايا القريبة (باراكرين) أو نفس الخلية (أوتوكرين). دورها: الالتهاب والألم وتجلط الدم وانقباض العضلات الملساء وتوسيع الأوعية. تُثبّطها مضادات الالتهاب كالأسبرين.",
+      "definition_en": "Lipid-like local hormones produced by most body tissues. Act on nearby cells (paracrine) or same cell (autocrine). Roles: inflammation pain blood clotting smooth muscle contraction and vasodilation. Inhibited by anti-inflammatories like aspirin.",
+      "englishSentence": "Aspirin relieves pain and reduces fever by inhibiting prostaglandin synthesis in inflamed tissues.",
+      "type": "hormone",
+      "chapter": 26,
+      "keywords": [
+        "local hormones",
+        "inflammation",
+        "aspirin",
+        "pain",
+        "بروستاغلاندين",
+        "التهاب"
+      ]
+    },
+    {
+      "id": 3742,
+      "term": "second messenger",
+      "arabic": "الرسول الثاني",
+      "latin": "nuntius secundarius",
+      "pronunciation": "سيكوند ميسينجر",
+      "definition": "جزيء داخل الخلية يُنشَّط عند ارتباط الهرمون بمستقبله على سطح الخلية. يُنقل الإشارة من مستقبل السطح إلى العضيات الداخلية ليُولّد الاستجابة. أشهر مثال: cAMP (الأدينوسين أحادي الفوسفات الحلقي).",
+      "definition_en": "An intracellular molecule activated when a hormone binds to its surface receptor. Relays the signal from the surface receptor to internal organelles to produce the response. Most famous example: cAMP (cyclic AMP).",
+      "englishSentence": "Adrenaline activates cAMP as a second messenger inside cells to trigger the breakdown of glycogen for energy.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "cAMP",
+        "intracellular signaling",
+        "surface receptor",
+        "رسول ثاني",
+        "إشارة خلوية"
+      ]
+    },
+    {
+      "id": 3743,
+      "term": "humoral stimuli",
+      "arabic": "المحفزات الخلطية",
+      "latin": "stimuli humorales",
+      "pronunciation": "هيوميرال ستيميولاي",
+      "definition": "تغيّرات في مستوى المواد الكيميائية في الدم تُحفّز الغدد على إفراز الهرمونات. أبسط وأشيع آليات تنظيم إفراز الهرمونات. مثال: انخفاض الكالسيوم يُحفّز إفراز PTH وارتفاع السكر يُحفّز إفراز الأنسولين.",
+      "definition_en": "Changes in blood chemical levels that stimulate glands to secrete hormones. The simplest and most common hormone regulation mechanism. Example: low calcium stimulates PTH secretion and high glucose stimulates insulin secretion.",
+      "englishSentence": "Humoral stimuli allow blood chemical levels to directly regulate hormone secretion without neural input.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "blood chemicals",
+        "direct regulation",
+        "calcium",
+        "glucose",
+        "محفزات خلطية",
+        "دم"
+      ]
+    },
+    {
+      "id": 3744,
+      "term": "infundibulum",
+      "arabic": "السويقة النخامية",
+      "latin": "infundibulum hypophysiale",
+      "pronunciation": "إنفانديبيولم",
+      "definition": "الجذع أو العنق الرقيق الذي يصل الغدة النخامية بمنطقة ما تحت المهاد. يحتوي على أوعية دموية بابية تنقل الهرمونات الطلاقة والكابحة من ما تحت المهاد إلى الفص الأمامي للنخامية.",
+      "definition_en": "The thin stalk or stem connecting the pituitary gland to the hypothalamus. Contains portal blood vessels carrying releasing and inhibiting hormones from the hypothalamus to the anterior pituitary.",
+      "englishSentence": "The infundibulum is the communication highway between the hypothalamus and pituitary gland.",
+      "type": "concept",
+      "chapter": 26,
+      "keywords": [
+        "pituitary stalk",
+        "portal vessels",
+        "hypothalamus",
+        "سويقة نخامية",
+        "وصلة"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2940 @@
+{
+  "chapter": 5,
+  "title": "The Cardiovascular System",
+  "arabicTitle": "الجهاز القلبي الوعائي",
+  "description": "شرح تركيب ووظائف القلب والأوعية الدموية والدم، بالإضافة إلى الأمراض والاضطرابات الشائعة والإجراءات التشخيصية والجراحية المرتبطة بها.",
+  "description_en": "Explanation of the structure and functions of the heart, blood vessels, and blood, as well as common diseases and disorders and associated diagnostic and surgical procedures.",
+  "terms": [
+    {
+      "id": 501,
+      "term": "cardiovascular system",
+      "arabic": "الجهاز القلبي الوعائي",
+      "latin": "systema cardiovasculare",
+      "pronunciation": "كار-دي-أو-فاس-كيو-لار سيس-تم",
+      "definition": "الجهاز الذي يتكون من القلب والأوعية الدموية والدم، وهو مسؤول عن نقل الأكسجين والمواد الغذائية إلى الأنسجة وإزالة الفضلات.",
+      "definition_en": "The system consisting of the heart, blood vessels, and blood, responsible for transporting oxygen and nutrients to tissues and removing waste.",
+      "englishSentence": "The cardiovascular system consists of the heart, blood vessels, and blood.",
+      "parts": {
+        "root1": { "value": "cardi/o", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "root2": { "value": "vascul", "meaning": "وعاء", "function": "يشير إلى الأوعية الدموية" },
+        "suffix": { "value": "ar", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "system",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الأكسجين والمواد المغذية إلى الأنسجة، إزالة الفضلات، نقل الهرمونات، تنظيم درجة حرارة الجسم",
+      "systemFunction_en": "Transport oxygen and nutrients to tissues, remove waste, carry hormones, regulate body temperature",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": ["الرئتين", "الكلى", "الكبد", "الدماغ"],
+      "nearbyOrgans_en": ["Lungs", "Kidneys", "Liver", "Brain"],
+      "diseases": [
+        {
+          "name": "مرض الشريان التاجي",
+          "name_en": "Coronary artery disease",
+          "symptoms": ["ألم صدر", "ضيق تنفس", "تعب", "نوبة قلبية"],
+          "symptoms_en": ["Chest pain", "Shortness of breath", "Fatigue", "Heart attack"],
+          "treatments": ["أدوية", "تغيير نمط الحياة", "قسطرة", "جراحة مجازة"],
+          "treatments_en": ["Medications", "Lifestyle changes", "Catheterization", "Bypass surgery"]
+        },
+        {
+          "name": "فشل القلب",
+          "name_en": "Heart failure",
+          "symptoms": ["ضيق تنفس", "تورم الساقين", "تعب", "سعال"],
+          "symptoms_en": ["Shortness of breath", "Leg swelling", "Fatigue", "Cough"],
+          "treatments": ["أدوية", "مدرات بول", "تقييد الملح", "جهاز مساعد"],
+          "treatments_en": ["Medications", "Diuretics", "Salt restriction", "Assist device"]
+        }
+      ],
+      "functions": [
+        "ينقل الأكسجين والمواد المغذية إلى الأنسجة",
+        "يعيد الفضلات إلى الكلى وثاني أكسيد الكربون إلى الرئتين",
+        "تلعب خلايا الدم دوراً مهماً في جهاز المناعة"
+      ],
+      "keywords": ["circulatory system", "heart and vessels"],
+      "chapter": 5
+    },
+    {
+      "id": 502,
+      "term": "heart",
+      "arabic": "القلب",
+      "latin": "cor",
+      "pronunciation": "هارت",
+      "definition": "عضو عضلي مجوف يقع بين الرئتين، ويعمل كمضخة فعالة للحفاظ على تدفق الدم في جميع أنحاء الجسم.",
+      "definition_en": "A hollow muscular organ located between the lungs, acting as an efficient pump to maintain blood flow throughout the body.",
+      "englishSentence": "The heart is a hollow, muscular organ that pumps blood throughout the body.",
+      "parts": {
+        "root": { "value": "cardi", "meaning": "قلب", "function": "يشير إلى القلب" }
+      },
+      "type": "organ",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضخ الدم إلى جميع أنحاء الجسم",
+      "systemFunction_en": "Pump blood throughout the body",
+      "location": "بين الرئتين في المنصف",
+      "location_en": "Between the lungs in the mediastinum",
+      "nearbyOrgans": ["الرئتين", "القص", "الحجاب الحاجز", "المريء", "الأبهر"],
+      "nearbyOrgans_en": ["Lungs", "Sternum", "Diaphragm", "Esophagus", "Aorta"],
+      "diseases": [
+        {
+          "name": "احتشاء عضلة القلب",
+          "name_en": "Myocardial infarction",
+          "symptoms": ["ألم صدر شديد", "ضيق تنفس", "غثيان", "تعرق"],
+          "symptoms_en": ["Severe chest pain", "Shortness of breath", "Nausea", "Sweating"],
+          "treatments": ["قسطرة", "أدوية مذيبة للجلطات", "جراحة مجازة"],
+          "treatments_en": ["Catheterization", "Clot-busting drugs", "Bypass surgery"]
+        },
+        {
+          "name": "فشل القلب الاحتقاني",
+          "name_en": "Congestive heart failure",
+          "symptoms": ["ضيق تنفس", "وذمة", "تعب", "سعال ليلي"],
+          "symptoms_en": ["Shortness of breath", "Edema", "Fatigue", "Night cough"],
+          "treatments": ["مدرات بول", "مثبطات ACE", "حاصرات بيتا"],
+          "treatments_en": ["Diuretics", "ACE inhibitors", "Beta blockers"]
+        }
+      ],
+      "keywords": ["cardiac", "myocardium"],
+      "chapter": 5
+    },
+    {
+      "id": 503,
+      "term": "apex",
+      "arabic": "قمة القلب",
+      "latin": "apex cordis",
+      "pronunciation": "آي-بيكس",
+      "definition": "الطرف السفلي المدبب للقلب",
+      "definition_en": "The pointed lower end of the heart",
+      "englishSentence": "The pointed lower end of the heart is known as the apex.",
+      "parts": {
+        "root": { "value": "apex", "meaning": "قمة", "function": "يشير إلى القمة أو الطرف" }
+      },
+      "type": "structure",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "توجيه تدفق الدم إلى البطين الأيسر",
+      "systemFunction_en": "Direct blood flow to left ventricle",
+      "location": "أسفل القلب، فوق الحجاب الحاجز",
+      "location_en": "Lower heart, above diaphragm",
+      "nearbyOrgans": ["البطين الأيسر", "الحجاب الحاجز", "التامور"],
+      "nearbyOrgans_en": ["Left ventricle", "Diaphragm", "Pericardium"],
+      "diseases": [
+        {
+          "name": "تضخم قمة القلب",
+          "name_en": "Apical hypertrophy",
+          "symptoms": ["ألم صدر", "ضيق تنفس", "خفقان"],
+          "symptoms_en": ["Chest pain", "Shortness of breath", "Palpitations"],
+          "treatments": ["أدوية", "مراقبة", "جراحة"],
+          "treatments_en": ["Medications", "Monitoring", "Surgery"]
+        }
+      ],
+      "keywords": ["tip of heart"],
+      "chapter": 5
+    },
+    {
+      "id": 504,
+      "term": "pericardium",
+      "arabic": "التامور (غشاء القلب)",
+      "latin": "pericardium",
+      "pronunciation": "بير-ي-كار-دي-أوم",
+      "definition": "الكيس الغشائي ثنائي الجدران الذي يحيط بالقلب ويحميه",
+      "definition_en": "The double-walled membranous sac that encloses and protects the heart",
+      "englishSentence": "The pericardium is the double-walled membranous sac that encloses the heart.",
+      "parts": {
+        "prefix": { "value": "peri", "meaning": "حول", "function": "يشير إلى المحيط" },
+        "root": { "value": "cardi", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "um", "meaning": "هيكل", "function": "يشير إلى تركيب تشريحي" }
+      },
+      "type": "structure",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "حماية القلب وتثبيته في مكانه وتقليل الاحتكاك",
+      "systemFunction_en": "Protect heart, hold it in place, reduce friction",
+      "location": "يحيط بالقلب بالكامل",
+      "location_en": "Completely surrounds the heart",
+      "nearbyOrgans": ["القلب", "القص", "الرئتين", "الحجاب الحاجز"],
+      "nearbyOrgans_en": ["Heart", "Sternum", "Lungs", "Diaphragm"],
+      "diseases": [
+        {
+          "name": "التهاب التامور",
+          "name_en": "Pericarditis",
+          "symptoms": ["ألم صدر حاد", "حمى", "ضيق تنفس"],
+          "symptoms_en": ["Sharp chest pain", "Fever", "Shortness of breath"],
+          "treatments": ["مضادات التهاب", "مسكنات", "كورتيزون"],
+          "treatments_en": ["Anti-inflammatories", "Pain relievers", "Corticosteroids"]
+        },
+        {
+          "name": "انصباب تاموري",
+          "name_en": "Pericardial effusion",
+          "symptoms": ["ألم صدر", "ضيق تنفس", "انخفاض ضغط الدم"],
+          "symptoms_en": ["Chest pain", "Shortness of breath", "Low blood pressure"],
+          "treatments": ["بزل التامور", "جراحة", "علاج السبب"],
+          "treatments_en": ["Pericardiocentesis", "Surgery", "Treat cause"]
+        }
+      ],
+      "keywords": ["pericardial sac", "heart covering"],
+      "chapter": 5
+    },
+    {
+      "id": 505,
+      "term": "pericardial sac",
+      "arabic": "الكيس التاموري",
+      "latin": "saccus pericardialis",
+      "pronunciation": "بير-ي-كار-دي-آل ساك",
+      "definition": "اسم آخر للتامور (pericardium)",
+      "definition_en": "Another name for the pericardium",
+      "englishSentence": "The pericardial sac is another name for the pericardium.",
+      "parts": {
+        "root": { "value": "pericardi", "meaning": "تامور", "function": "يشير إلى التامور" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "حماية القلب وتثبيته في مكانه",
+      "systemFunction_en": "Protect heart and hold it in place",
+      "location": "يحيط بالقلب",
+      "location_en": "Surrounds the heart",
+      "nearbyOrgans": ["القلب", "القص", "الرئتين"],
+      "nearbyOrgans_en": ["Heart", "Sternum", "Lungs"],
+      "diseases": [],
+      "keywords": ["pericardium"],
+      "chapter": 5
+    },
+    {
+      "id": 506,
+      "term": "myocardium",
+      "arabic": "عضلة القلب",
+      "latin": "myocardium",
+      "pronunciation": "ماي-أو-كار-دي-أوم",
+      "definition": "الطبقة العضلية للقلب المسؤولة عن الانقباض والضخ",
+      "definition_en": "The muscular layer of the heart responsible for contraction and pumping",
+      "englishSentence": "The myocardium is the muscular layer of the heart that contracts to pump blood.",
+      "parts": {
+        "root": { "value": "my/o", "meaning": "عضلة", "function": "يشير إلى العضلة" },
+        "root2": { "value": "cardi", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "um", "meaning": "هيكل", "function": "يشير إلى تركيب تشريحي" }
+      },
+      "type": "tissue",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "الانقباض لضخ الدم إلى جميع أنحاء الجسم",
+      "systemFunction_en": "Contract to pump blood throughout the body",
+      "location": "بين الشغاف والنخاب (الطبقة الوسطى من جدار القلب)",
+      "location_en": "Between endocardium and epicardium (middle layer of heart wall)",
+      "nearbyOrgans": ["الشغاف", "النخاب", "الشرايين التاجية"],
+      "nearbyOrgans_en": ["Endocardium", "Epicardium", "Coronary arteries"],
+      "diseases": [
+        {
+          "name": "احتشاء عضلة القلب",
+          "name_en": "Myocardial infarction",
+          "symptoms": ["ألم صدر", "ضيق تنفس", "غثيان", "تعرق"],
+          "symptoms_en": ["Chest pain", "Shortness of breath", "Nausea", "Sweating"],
+          "treatments": ["قسطرة", "أدوية مذيبة للجلطات", "جراحة مجازة"],
+          "treatments_en": ["Catheterization", "Clot-busting drugs", "Bypass surgery"]
+        },
+        {
+          "name": "التهاب عضلة القلب",
+          "name_en": "Myocarditis",
+          "symptoms": ["ألم صدر", "تعب", "ضيق تنفس", "اضطراب نظم"],
+          "symptoms_en": ["Chest pain", "Fatigue", "Shortness of breath", "Arrhythmia"],
+          "treatments": ["أدوية", "علاج السبب", "دعم القلب"],
+          "treatments_en": ["Medications", "Treat cause", "Heart support"]
+        }
+      ],
+      "keywords": ["heart muscle"],
+      "chapter": 5
+    },
+    {
+      "id": 507,
+      "term": "coronary arteries",
+      "arabic": "الشرايين التاجية",
+      "latin": "arteriae coronariae",
+      "pronunciation": "كور-أو-نير-ي آر-تير-يز",
+      "definition": "الشرايين التي تزود عضلة القلب (الميوكارديوم) بالدم الغني بالأكسجين وتزيل الفضلات منها",
+      "definition_en": "The arteries that supply the myocardium with oxygen-rich blood and remove waste",
+      "englishSentence": "The coronary arteries supply oxygen-rich blood to the myocardium.",
+      "parts": {
+        "root": { "value": "coron", "meaning": "تاج", "function": "يشير إلى التاج" },
+        "suffix": { "value": "ary", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "vessel",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تزويد عضلة القلب بالدم المؤكسج",
+      "systemFunction_en": "Supply oxygenated blood to heart muscle",
+      "location": "على سطح القلب، تتفرع من الأبهر",
+      "location_en": "On heart surface, branch from aorta",
+      "nearbyOrgans": ["عضلة القلب", "الأبهر", "الأذينين", "البطينين"],
+      "nearbyOrgans_en": ["Myocardium", "Aorta", "Atria", "Ventricles"],
+      "diseases": [
+        {
+          "name": "مرض الشريان التاجي",
+          "name_en": "Coronary artery disease",
+          "symptoms": ["ألم صدر", "ضيق تنفس", "نوبة قلبية"],
+          "symptoms_en": ["Chest pain", "Shortness of breath", "Heart attack"],
+          "treatments": ["أدوية", "قسطرة", "دعامة", "جراحة مجازة"],
+          "treatments_en": ["Medications", "Catheterization", "Stent", "Bypass surgery"]
+        }
+      ],
+      "keywords": ["heart arteries", "cardiac circulation"],
+      "chapter": 5
+    },
+    {
+      "id": 508,
+      "term": "atria",
+      "arabic": "أذينان (قلب)",
+      "latin": "atria",
+      "pronunciation": "آي-تري-آ",
+      "definition": "الحجرتان العلويتان للقلب، تعملان كغرف استقبال للدم القادم إلى القلب",
+      "definition_en": "The two upper chambers of the heart, serving as receiving chambers for blood coming into the heart",
+      "englishSentence": "The atria are the two upper chambers of the heart, serving as receiving chambers.",
+      "parts": {
+        "root": { "value": "atri", "meaning": "أذين", "function": "يشير إلى الأذين" }
+      },
+      "type": "chamber",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "استقبال الدم العائد إلى القلب",
+      "systemFunction_en": "Receive blood returning to heart",
+      "location": "الجزء العلوي من القلب",
+      "location_en": "Upper part of heart",
+      "nearbyOrgans": ["البطينين", "الأوردة", "الصمامات الأذينية البطينية"],
+      "nearbyOrgans_en": ["Ventricles", "Veins", "Atrioventricular valves"],
+      "singular": "atrium",
+      "diseases": [
+        {
+          "name": "الرجفان الأذيني",
+          "name_en": "Atrial fibrillation",
+          "symptoms": ["خفقان", "ضيق تنفس", "دوار", "تعب"],
+          "symptoms_en": ["Palpitations", "Shortness of breath", "Dizziness", "Fatigue"],
+          "treatments": ["أدوية", "تخثر الدم", "تعديل النظم", "استئصال"],
+          "treatments_en": ["Medications", "Blood thinners", "Rhythm control", "Ablation"]
+        }
+      ],
+      "keywords": ["receiving chambers", "upper chambers"],
+      "chapter": 5
+    },
+    {
+      "id": 509,
+      "term": "atrium",
+      "arabic": "أذين (قلب)",
+      "latin": "atrium",
+      "pronunciation": "آي-تري-أوم",
+      "definition": "واحدة من الحجرتين العلويتين للقلب (مفرد أذينان)",
+      "definition_en": "One of the two upper chambers of the heart (singular of atria)",
+      "englishSentence": "An atrium is one of the two upper chambers of the heart.",
+      "parts": {
+        "root": { "value": "atri", "meaning": "أذين", "function": "يشير إلى الأذين" }
+      },
+      "type": "chamber",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "استقبال الدم العائد إلى القلب",
+      "systemFunction_en": "Receive blood returning to heart",
+      "location": "الجزء العلوي من القلب",
+      "location_en": "Upper part of heart",
+      "nearbyOrgans": ["البطين", "الأوردة", "الصمام الأذيني البطيني"],
+      "nearbyOrgans_en": ["Ventricle", "Veins", "Atrioventricular valve"],
+      "plural": "atria",
+      "diseases": [],
+      "keywords": ["receiving chamber"],
+      "chapter": 5
+    },
+    {
+      "id": 510,
+      "term": "interatrial septum",
+      "arabic": "الحاجز بين الأذينين",
+      "latin": "septum interatriale",
+      "pronunciation": "إن-تير-آي-تري-آل سيب-توم",
+      "definition": "الجدار الذي يفصل بين الأذين الأيمن والأذين الأيسر",
+      "definition_en": "The wall that separates the right atrium from the left atrium",
+      "englishSentence": "The atria are separated by the interatrial septum.",
+      "parts": {
+        "prefix": { "value": "inter", "meaning": "بين", "function": "يشير إلى ما بين" },
+        "root": { "value": "atri", "meaning": "أذين", "function": "يشير إلى الأذين" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "فصل الأذين الأيمن عن الأذين الأيسر لمنع اختلاط الدم",
+      "systemFunction_en": "Separate right atrium from left atrium to prevent blood mixing",
+      "location": "بين الأذين الأيمن والأذين الأيسر",
+      "location_en": "Between right and left atria",
+      "nearbyOrgans": ["الأذين الأيمن", "الأذين الأيسر", "الصمامات"],
+      "nearbyOrgans_en": ["Right atrium", "Left atrium", "Valves"],
+      "diseases": [
+        {
+          "name": "عيب الحاجز الأذيني",
+          "name_en": "Atrial septal defect",
+          "symptoms": ["ضيق تنفس", "تعب", "خفقان", "التهابات رئوية متكررة"],
+          "symptoms_en": ["Shortness of breath", "Fatigue", "Palpitations", "Frequent lung infections"],
+          "treatments": ["إغلاق بالقسطرة", "جراحة قلب"],
+          "treatments_en": ["Catheter closure", "Heart surgery"]
+        }
+      ],
+      "keywords": ["atrial septum"],
+      "chapter": 5
+    },
+    {
+      "id": 511,
+      "term": "ventricles",
+      "arabic": "بطينان (قلب)",
+      "latin": "ventriculi",
+      "pronunciation": "فين-تري-كولز",
+      "definition": "الحجرتان السفليتان للقلب، تعملان كمضختين لدفع الدم إلى خارج القلب",
+      "definition_en": "The two lower chambers of the heart, serving as pumping chambers to push blood out of the heart",
+      "englishSentence": "The ventricles are the two lower chambers of the heart, serving as pumping chambers.",
+      "parts": {
+        "root": { "value": "ventricul", "meaning": "بطين", "function": "يشير إلى البطين" }
+      },
+      "type": "chamber",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضخ الدم إلى خارج القلب إلى الرئتين وبقية الجسم",
+      "systemFunction_en": "Pump blood out of heart to lungs and body",
+      "location": "الجزء السفلي من القلب",
+      "location_en": "Lower part of heart",
+      "nearbyOrgans": ["الأذينين", "الشرايين", "الصمامات"],
+      "nearbyOrgans_en": ["Atria", "Arteries", "Valves"],
+      "singular": "ventricle",
+      "diseases": [
+        {
+          "name": "تضخم البطين الأيسر",
+          "name_en": "Left ventricular hypertrophy",
+          "symptoms": ["ضيق تنفس", "ألم صدر", "خفقان", "دوار"],
+          "symptoms_en": ["Shortness of breath", "Chest pain", "Palpitations", "Dizziness"],
+          "treatments": ["أدوية", "علاج ارتفاع الضغط", "تغيير نمط الحياة"],
+          "treatments_en": ["Medications", "Treat hypertension", "Lifestyle changes"]
+        },
+        {
+          "name": "فشل البطين الأيمن",
+          "name_en": "Right ventricular failure",
+          "symptoms": ["تورم الساقين", "ضيق تنفس", "تعب", "احتقان كبدي"],
+          "symptoms_en": ["Leg swelling", "Shortness of breath", "Fatigue", "Liver congestion"],
+          "treatments": ["مدرات بول", "أدوية", "علاج السبب"],
+          "treatments_en": ["Diuretics", "Medications", "Treat cause"]
+        }
+      ],
+      "keywords": ["pumping chambers", "lower chambers"],
+      "chapter": 5
+    },
+    {
+      "id": 512,
+      "term": "interventricular septum",
+      "arabic": "الحاجز بين البطينين",
+      "latin": "septum interventriculare",
+      "pronunciation": "إن-تير-فين-تريك-يو-لار سيب-توم",
+      "definition": "الجدار الذي يفصل بين البطين الأيمن والبطين الأيسر",
+      "definition_en": "The wall that separates the right ventricle from the left ventricle",
+      "englishSentence": "The ventricles are separated by the interventricular septum.",
+      "parts": {
+        "prefix": { "value": "inter", "meaning": "بين", "function": "يشير إلى ما بين" },
+        "root": { "value": "ventricul", "meaning": "بطين", "function": "يشير إلى البطين" },
+        "suffix": { "value": "ar", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "فصل البطين الأيمن عن البطين الأيسر لمنع اختلاط الدم",
+      "systemFunction_en": "Separate right ventricle from left ventricle to prevent blood mixing",
+      "location": "بين البطين الأيمن والبطين الأيسر",
+      "location_en": "Between right and left ventricles",
+      "nearbyOrgans": ["البطين الأيمن", "البطين الأيسر", "جهاز التوصيل"],
+      "nearbyOrgans_en": ["Right ventricle", "Left ventricle", "Conduction system"],
+      "diseases": [
+        {
+          "name": "عيب الحاجز البطيني",
+          "name_en": "Ventricular septal defect",
+          "symptoms": ["ضيق تنفس", "تعب", "نفخة قلبية", "فشل نمو"],
+          "symptoms_en": ["Shortness of breath", "Fatigue", "Heart murmur", "Failure to thrive"],
+          "treatments": ["إغلاق جراحي", "إغلاق بالقسطرة"],
+          "treatments_en": ["Surgical closure", "Catheter closure"]
+        }
+      ],
+      "keywords": ["ventricular septum"],
+      "chapter": 5
+    },
+    {
+      "id": 513,
+      "term": "valves of the heart",
+      "arabic": "صمامات القلب",
+      "latin": "valvulae cordis",
+      "pronunciation": "فالفز أوف ذا هارت",
+      "definition": "أربعة صمامات (ثلاثي الشرفات، الرئوي، التاجي، الأبهري) تتحكم في تدفق الدم عبر القلب",
+      "definition_en": "Four valves (tricuspid, pulmonary, mitral, aortic) that control blood flow through the heart",
+      "englishSentence": "The flow of blood through the heart is controlled by four valves.",
+      "parts": {
+        "root": { "value": "valv", "meaning": "صمام", "function": "يشير إلى الصمام" }
+      },
+      "type": "structure",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "منع ارتجاع الدم وضمان تدفقه في اتجاه واحد",
+      "systemFunction_en": "Prevent backflow and ensure one-way blood flow",
+      "location": "بين حجرات القلب وفي مخارج الشرايين الكبيرة",
+      "location_en": "Between heart chambers and at exits of great arteries",
+      "nearbyOrgans": ["الأذينين", "البطينين", "الأبهر", "الشريان الرئوي"],
+      "nearbyOrgans_en": ["Atria", "Ventricles", "Aorta", "Pulmonary artery"],
+      "diseases": [
+        {
+          "name": "تضيق الصمام الأبهري",
+          "name_en": "Aortic stenosis",
+          "symptoms": ["ألم صدر", "إغماء", "ضيق تنفس", "تعب"],
+          "symptoms_en": ["Chest pain", "Fainting", "Shortness of breath", "Fatigue"],
+          "treatments": ["استبدال الصمام", "رأب الصمام بالبالون"],
+          "treatments_en": ["Valve replacement", "Balloon valvuloplasty"]
+        },
+        {
+          "name": "ارتجاع الصمام التاجي",
+          "name_en": "Mitral regurgitation",
+          "symptoms": ["ضيق تنفس", "تعب", "خفقان", "تورم الساقين"],
+          "symptoms_en": ["Shortness of breath", "Fatigue", "Palpitations", "Leg swelling"],
+          "treatments": ["أدوية", "إصلاح الصمام", "استبدال الصمام"],
+          "treatments_en": ["Medications", "Valve repair", "Valve replacement"]
+        }
+      ],
+      "keywords": ["tricuspid", "pulmonary", "mitral", "aortic"],
+      "chapter": 5
+    },
+    {
+      "id": 514,
+      "term": "tricuspid valve",
+      "arabic": "الصمام ثلاثي الشرفات",
+      "latin": "valva tricuspidalis",
+      "pronunciation": "تراي-كوس-بيد فالف",
+      "definition": "صمام يقع بين الأذين الأيمن والبطين الأيمن",
+      "definition_en": "A valve located between the right atrium and right ventricle",
+      "englishSentence": "The tricuspid valve controls blood flow between the right atrium and right ventricle.",
+      "parts": {
+        "prefix": { "value": "tri", "meaning": "ثلاثة", "function": "يشير إلى العدد ثلاثة" },
+        "root": { "value": "cuspid", "meaning": "شرفة", "function": "يشير إلى الشرفات" }
+      },
+      "type": "valve",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "منع ارتجاع الدم من البطين الأيمن إلى الأذين الأيمن أثناء الانقباض",
+      "systemFunction_en": "Prevent backflow from right ventricle to right atrium during contraction",
+      "location": "بين الأذين الأيمن والبطين الأيمن",
+      "location_en": "Between right atrium and right ventricle",
+      "nearbyOrgans": ["الأذين الأيمن", "البطين الأيمن", "الحاجز بين الأذينين"],
+      "nearbyOrgans_en": ["Right atrium", "Right ventricle", "Interatrial septum"],
+      "diseases": [
+        {
+          "name": "تضيق الصمام ثلاثي الشرفات",
+          "name_en": "Tricuspid stenosis",
+          "symptoms": ["تعب", "تورم البطن", "تورم الساقين", "انزعاج بطني"],
+          "symptoms_en": ["Fatigue", "Abdominal swelling", "Leg swelling", "Abdominal discomfort"],
+          "treatments": ["مدرات بول", "جراحة", "رأب الصمام"],
+          "treatments_en": ["Diuretics", "Surgery", "Valvuloplasty"]
+        }
+      ],
+      "keywords": ["right atrioventricular valve"],
+      "chapter": 5
+    },
+    {
+      "id": 515,
+      "term": "pulmonary semilunar valve",
+      "arabic": "الصمام الرئوي الهلالي",
+      "latin": "valva semilunaris pulmonalis",
+      "pronunciation": "بول-مو-نير-ي سيم-ي-لو-نار فالف",
+      "definition": "صمام يقع بين البطين الأيمن والشريان الرئوي",
+      "definition_en": "A valve located between the right ventricle and the pulmonary artery",
+      "englishSentence": "The pulmonary semilunar valve controls blood flow from the right ventricle into the pulmonary artery.",
+      "parts": {
+        "root": { "value": "pulmon", "meaning": "رئة", "function": "يشير إلى الرئة" },
+        "suffix": { "value": "ary", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "valve",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "منع ارتجاع الدم من الشريان الرئوي إلى البطين الأيمن",
+      "systemFunction_en": "Prevent backflow from pulmonary artery to right ventricle",
+      "location": "بين البطين الأيمن والشريان الرئوي",
+      "location_en": "Between right ventricle and pulmonary artery",
+      "nearbyOrgans": ["البطين الأيمن", "الشريان الرئوي", "جذع رئوي"],
+      "nearbyOrgans_en": ["Right ventricle", "Pulmonary artery", "Pulmonary trunk"],
+      "diseases": [
+        {
+          "name": "تضيق الصمام الرئوي",
+          "name_en": "Pulmonary stenosis",
+          "symptoms": ["ضيق تنفس", "تعب", "ألم صدر", "إغماء"],
+          "symptoms_en": ["Shortness of breath", "Fatigue", "Chest pain", "Fainting"],
+          "treatments": ["رأب الصمام بالبالون", "جراحة"],
+          "treatments_en": ["Balloon valvuloplasty", "Surgery"]
+        }
+      ],
+      "keywords": ["pulmonary valve"],
+      "chapter": 5
+    },
+    {
+      "id": 516,
+      "term": "mitral valve",
+      "arabic": "الصمام التاجي",
+      "latin": "valva mitralis",
+      "pronunciation": "ماي-ترال فالف",
+      "definition": "صمام يقع بين الأذين الأيسر والبطين الأيسر",
+      "definition_en": "A valve located between the left atrium and left ventricle",
+      "englishSentence": "The mitral valve controls blood flow between the left atrium and left ventricle.",
+      "parts": {
+        "root": { "value": "mitr", "meaning": "تاج", "function": "يشير إلى شكل التاج" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "valve",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "منع ارتجاع الدم من البطين الأيسر إلى الأذين الأيسر أثناء الانقباض",
+      "systemFunction_en": "Prevent backflow from left ventricle to left atrium during contraction",
+      "location": "بين الأذين الأيسر والبطين الأيسر",
+      "location_en": "Between left atrium and left ventricle",
+      "nearbyOrgans": ["الأذين الأيسر", "البطين الأيسر", "الأوردة الرئوية"],
+      "nearbyOrgans_en": ["Left atrium", "Left ventricle", "Pulmonary veins"],
+      "diseases": [
+        {
+          "name": "هبوط الصمام التاجي",
+          "name_en": "Mitral valve prolapse",
+          "symptoms": ["خفقان", "ألم صدر", "تعب", "قلق"],
+          "symptoms_en": ["Palpitations", "Chest pain", "Fatigue", "Anxiety"],
+          "treatments": ["مراقبة", "أدوية", "جراحة"],
+          "treatments_en": ["Observation", "Medications", "Surgery"]
+        },
+        {
+          "name": "تضيق الصمام التاجي",
+          "name_en": "Mitral stenosis",
+          "symptoms": ["ضيق تنفس", "تعب", "خفقان", "نفث الدم"],
+          "symptoms_en": ["Shortness of breath", "Fatigue", "Palpitations", "Hemoptysis"],
+          "treatments": ["مدرات بول", "رأب الصمام", "استبدال الصمام"],
+          "treatments_en": ["Diuretics", "Valvuloplasty", "Valve replacement"]
+        }
+      ],
+      "keywords": ["bicuspid valve", "left atrioventricular valve"],
+      "chapter": 5
+    },
+    {
+      "id": 517,
+      "term": "aortic semilunar valve",
+      "arabic": "الصمام الأبهري الهلالي",
+      "latin": "valva semilunaris aortae",
+      "pronunciation": "آي-أور-تيك سيم-ي-لو-نار فالف",
+      "definition": "صمام يقع بين البطين الأيسر والشريان الأبهر",
+      "definition_en": "A valve located between the left ventricle and the aorta",
+      "englishSentence": "The aortic semilunar valve controls blood flow from the left ventricle into the aorta.",
+      "parts": {
+        "root": { "value": "aort", "meaning": "أبهر", "function": "يشير إلى الشريان الأبهر" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "valve",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "منع ارتجاع الدم من الأبهر إلى البطين الأيسر",
+      "systemFunction_en": "Prevent backflow from aorta to left ventricle",
+      "location": "بين البطين الأيسر والشريان الأبهر",
+      "location_en": "Between left ventricle and aorta",
+      "nearbyOrgans": ["البطين الأيسر", "الأبهر", "الجيب الأبهري"],
+      "nearbyOrgans_en": ["Left ventricle", "Aorta", "Aortic sinus"],
+      "diseases": [
+        {
+          "name": "تضيق الصمام الأبهري",
+          "name_en": "Aortic stenosis",
+          "symptoms": ["ألم صدر", "إغماء", "ضيق تنفس", "تعب"],
+          "symptoms_en": ["Chest pain", "Fainting", "Shortness of breath", "Fatigue"],
+          "treatments": ["استبدال الصمام", "رأب الصمام بالبالون"],
+          "treatments_en": ["Valve replacement", "Balloon valvuloplasty"]
+        },
+        {
+          "name": "ارتجاع الصمام الأبهري",
+          "name_en": "Aortic regurgitation",
+          "symptoms": ["خفقان", "ضيق تنفس", "ألم صدر", "تعب"],
+          "symptoms_en": ["Palpitations", "Shortness of breath", "Chest pain", "Fatigue"],
+          "treatments": ["أدوية", "استبدال الصمام"],
+          "treatments_en": ["Medications", "Valve replacement"]
+        }
+      ],
+      "keywords": ["aortic valve"],
+      "chapter": 5
+    },
+    {
+      "id": 518,
+      "term": "conduction system",
+      "arabic": "جهاز التوصيل الكهربائي للقلب",
+      "latin": "systema conducens cordis",
+      "pronunciation": "كون-دوك-شن سيس-تم",
+      "definition": "النظام الذي يحدد معدل وانتظام ضربات القلب من خلال نبضات كهربائية تحفز عضلة القلب",
+      "definition_en": "The system that determines the rate and regularity of the heartbeat through electrical impulses that stimulate the myocardium",
+      "englishSentence": "The rate and regularity of the heartbeat is determined by electrical impulses from the conduction system.",
+      "parts": {
+        "root": { "value": "conduct", "meaning": "توصيل", "function": "يشير إلى التوصيل" },
+        "suffix": { "value": "ion", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "system",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "توليد وتوصيل النبضات الكهربائية لتنظيم انقباضات القلب",
+      "systemFunction_en": "Generate and conduct electrical impulses to regulate heart contractions",
+      "location": "عضلة القلب (العقدة الجيبية، العقدة الأذينية البطينية، حزمته، ألياف بوركنجي)",
+      "location_en": "Heart muscle (SA node, AV node, bundle of His, Purkinje fibers)",
+      "nearbyOrgans": ["الأذينين", "البطينين", "عضلة القلب"],
+      "nearbyOrgans_en": ["Atria", "Ventricles", "Myocardium"],
+      "diseases": [
+        {
+          "name": "اضطراب النظم القلبي",
+          "name_en": "Arrhythmia",
+          "symptoms": ["خفقان", "دوار", "إغماء", "ضيق تنفس"],
+          "symptoms_en": ["Palpitations", "Dizziness", "Fainting", "Shortness of breath"],
+          "treatments": ["أدوية", "جهاز تنظيم ضربات القلب", "مزيل الرجفان", "استئصال"],
+          "treatments_en": ["Medications", "Pacemaker", "Defibrillator", "Ablation"]
+        }
+      ],
+      "keywords": ["cardiac conduction", "electrical impulses"],
+      "chapter": 5
+    },
+    {
+      "id": 519,
+      "term": "arteries",
+      "arabic": "شرايين",
+      "latin": "arteriae",
+      "pronunciation": "آر-تير-يز",
+      "definition": "أوعية دموية كبيرة تحمل الدم بعيداً عن القلب إلى جميع مناطق الجسم، ويكون لون الدم فيها أحمر فاتحاً لغنى الدم بالأكسجين",
+      "definition_en": "Large blood vessels that carry blood away from the heart to all areas of the body; blood is bright red due to high oxygen content",
+      "englishSentence": "Arteries are large blood vessels that carry blood away from the heart.",
+      "parts": {
+        "root": { "value": "arteri", "meaning": "شريان", "function": "يشير إلى الشريان" }
+      },
+      "type": "vessel",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدم المؤكسج من القلب إلى الأنسجة",
+      "systemFunction_en": "Transport oxygenated blood from heart to tissues",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": ["القلب", "الأوردة", "الأعصاب", "العضلات"],
+      "nearbyOrgans_en": ["Heart", "Veins", "Nerves", "Muscles"],
+      "diseases": [
+        {
+          "name": "تصلب الشرايين",
+          "name_en": "Atherosclerosis",
+          "symptoms": ["ألم صدر", "ضيق تنفس", "ألم ساق", "نوبة قلبية", "سكتة دماغية"],
+          "symptoms_en": ["Chest pain", "Shortness of breath", "Leg pain", "Heart attack", "Stroke"],
+          "treatments": ["أدوية", "تغيير نمط الحياة", "قسطرة", "جراحة"],
+          "treatments_en": ["Medications", "Lifestyle changes", "Catheterization", "Surgery"]
+        }
+      ],
+      "keywords": ["arterial blood", "oxygen-rich blood"],
+      "chapter": 5
+    },
+    {
+      "id": 520,
+      "term": "endarterial",
+      "arabic": "داخل الشريان (متعلق ببطانة الشريان)",
+      "latin": "endarterialis",
+      "pronunciation": "إند-آر-تير-ي-آل",
+      "definition": "متعلق بالجزء الداخلي من الشريان أو داخل الشريان",
+      "definition_en": "Pertaining to the inner portion of an artery or within an artery",
+      "englishSentence": "Endarterial means pertaining to the inner portion of an artery or within an artery.",
+      "parts": {
+        "prefix": { "value": "end", "meaning": "داخل", "function": "يشير إلى الداخل" },
+        "root": { "value": "arteri", "meaning": "شريان", "function": "يشير إلى الشريان" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "بطانة الشرايين",
+      "systemFunction_en": "Lining of arteries",
+      "location": "الطبقة الداخلية للشرايين",
+      "location_en": "Inner layer of arteries",
+      "nearbyOrgans": ["البطانة الغشائية", "العضلات الملساء", "الصفيحة المرنة"],
+      "nearbyOrgans_en": ["Endothelium", "Smooth muscle", "Elastic lamina"],
+      "diseases": [
+        {
+          "name": "خلل وظيفة البطانة",
+          "name_en": "Endothelial dysfunction",
+          "symptoms": ["تصلب شرايين", "ارتفاع ضغط الدم"],
+          "symptoms_en": ["Atherosclerosis", "Hypertension"],
+          "treatments": ["أدوية", "تغيير نمط الحياة"],
+          "treatments_en": ["Medications", "Lifestyle changes"]
+        }
+      ],
+      "keywords": ["intra-arterial"],
+      "chapter": 5
+    },
+    {
+      "id": 521,
+      "term": "arterioles",
+      "arabic": "شريينات",
+      "latin": "arteriolae",
+      "pronunciation": "آر-تير-ي-أولز",
+      "definition": "فروع أصغر وأرق من الشرايين تحمل الدم إلى الشعيرات الدموية",
+      "definition_en": "Smaller, thinner branches of arteries that carry blood to the capillaries",
+      "englishSentence": "Arterioles are the smaller, thinner branches of arteries that carry blood to the capillaries.",
+      "parts": {
+        "root": { "value": "arteri", "meaning": "شريان", "function": "يشير إلى الشريان" },
+        "suffix": { "value": "ole", "meaning": "صغير", "function": "يشير إلى التصغير" }
+      },
+      "type": "vessel",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تنظيم تدفق الدم إلى الشعيرات الدموية والتحكم في المقاومة الوعائية",
+      "systemFunction_en": "Regulate blood flow to capillaries and control vascular resistance",
+      "location": "بين الشرايين والشعيرات الدموية",
+      "location_en": "Between arteries and capillaries",
+      "nearbyOrgans": ["الشرايين", "الشعيرات الدموية", "العضلات الملساء"],
+      "nearbyOrgans_en": ["Arteries", "Capillaries", "Smooth muscle"],
+      "diseases": [
+        {
+          "name": "تصلب الشرايين",
+          "name_en": "Arteriolosclerosis",
+          "symptoms": ["ارتفاع ضغط الدم", "تلف الأعضاء"],
+          "symptoms_en": ["Hypertension", "Organ damage"],
+          "treatments": ["أدوية", "تغيير نمط الحياة"],
+          "treatments_en": ["Medications", "Lifestyle changes"]
+        }
+      ],
+      "keywords": ["small arteries", "resistance vessels"],
+      "chapter": 5
+    },
+    {
+      "id": 522,
+      "term": "veins",
+      "arabic": "أوردة",
+      "latin": "venae",
+      "pronunciation": "فينز",
+      "definition": "أوعية دموية تشكل نظام تجميع منخفض الضغط لإعادة الدم الفقير بالأكسجين إلى القلب",
+      "definition_en": "Blood vessels that form a low-pressure collecting system to return oxygen-poor blood to the heart",
+      "englishSentence": "Veins form a low-pressure collecting system to return oxygen-poor blood to the heart.",
+      "parts": {
+        "root": { "value": "ven", "meaning": "وريد", "function": "يشير إلى الوريد" }
+      },
+      "type": "vessel",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "إعادة الدم غير المؤكسج من الأنسجة إلى القلب",
+      "systemFunction_en": "Return deoxygenated blood from tissues to heart",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": ["القلب", "الشرايين", "العضلات", "الجلد"],
+      "nearbyOrgans_en": ["Heart", "Arteries", "Muscles", "Skin"],
+      "diseases": [
+        {
+          "name": "الدوالي",
+          "name_en": "Varicose veins",
+          "symptoms": ["أوردة بارزة", "ألم ساق", "تورم", "ثقل"],
+          "symptoms_en": ["Prominent veins", "Leg pain", "Swelling", "Heaviness"],
+          "treatments": ["جوارب ضاغطة", "علاج بالليزر", "جراحة"],
+          "treatments_en": ["Compression stockings", "Laser therapy", "Surgery"]
+        }
+      ],
+      "keywords": ["venous blood", "oxygen-poor blood"],
+      "chapter": 5
+    },
+    {
+      "id": 523,
+      "term": "venules",
+      "arabic": "وريدات",
+      "latin": "venulae",
+      "pronunciation": "فين-يولز",
+      "definition": "أصغر الأوردة التي تتحد لتشكل الأوردة الأكبر",
+      "definition_en": "The smallest veins that join to form the larger veins",
+      "englishSentence": "Venules are the smallest veins that join to form the larger veins.",
+      "parts": {
+        "root": { "value": "ven", "meaning": "وريد", "function": "يشير إلى الوريد" },
+        "suffix": { "value": "ule", "meaning": "صغير", "function": "يشير إلى التصغير" }
+      },
+      "type": "vessel",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تجميع الدم من الشعيرات الدموية ونقله إلى الأوردة",
+      "systemFunction_en": "Collect blood from capillaries and transport to veins",
+      "location": "بين الشعيرات الدموية والأوردة",
+      "location_en": "Between capillaries and veins",
+      "nearbyOrgans": ["الشعيرات الدموية", "الأوردة", "الأنسجة"],
+      "nearbyOrgans_en": ["Capillaries", "Veins", "Tissues"],
+      "diseases": [
+        {
+          "name": "التهاب الأوردة",
+          "name_en": "Venulitis",
+          "symptoms": ["احمرار", "ألم", "تورم"],
+          "symptoms_en": ["Redness", "Pain", "Swelling"],
+          "treatments": ["مضادات التهاب", "علاج السبب"],
+          "treatments_en": ["Anti-inflammatories", "Treat cause"]
+        }
+      ],
+      "keywords": ["small veins"],
+      "chapter": 5
+    },
+    {
+      "id": 524,
+      "term": "superficial veins",
+      "arabic": "أوردة سطحية",
+      "latin": "venae superficiales",
+      "pronunciation": "سو-بير-في-شال فينز",
+      "definition": "أوردة تقع بالقرب من سطح الجسم",
+      "definition_en": "Veins located near the surface of the body",
+      "englishSentence": "Superficial veins are located near the body surface.",
+      "parts": {
+        "root": { "value": "superfici", "meaning": "سطح", "function": "يشير إلى السطح" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "vessel",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "إعادة الدم من الجلد والأنسجة السطحية",
+      "systemFunction_en": "Return blood from skin and superficial tissues",
+      "location": "تحت الجلد مباشرة",
+      "location_en": "Directly under skin",
+      "nearbyOrgans": ["الجلد", "الأنسجة تحت الجلد", "الأعصاب السطحية"],
+      "nearbyOrgans_en": ["Skin", "Subcutaneous tissue", "Superficial nerves"],
+      "diseases": [
+        {
+          "name": "الدوالي السطحية",
+          "name_en": "Superficial varicose veins",
+          "symptoms": ["أوردة بارزة", "ألم", "تورم"],
+          "symptoms_en": ["Prominent veins", "Pain", "Swelling"],
+          "treatments": ["جوارب ضاغطة", "علاج بالليزر"],
+          "treatments_en": ["Compression stockings", "Laser therapy"]
+        }
+      ],
+      "keywords": ["cutaneous veins"],
+      "chapter": 5
+    },
+    {
+      "id": 525,
+      "term": "deep veins",
+      "arabic": "أوردة عميقة",
+      "latin": "venae profundae",
+      "pronunciation": "ديب فينز",
+      "definition": "أوردة تقع داخل الأنسجة وبعيداً عن سطح الجسم",
+      "definition_en": "Veins located within the tissues and away from the body surface",
+      "englishSentence": "Deep veins are located within the tissues and away from the body surface.",
+      "parts": {
+        "root": { "value": "profund", "meaning": "عميق", "function": "يشير إلى العمق" }
+      },
+      "type": "vessel",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "إعادة معظم الدم من الأنسجة العميقة إلى القلب",
+      "systemFunction_en": "Return most blood from deep tissues to heart",
+      "location": "بين العضلات العميقة، بجانب الشرايين",
+      "location_en": "Between deep muscles, alongside arteries",
+      "nearbyOrgans": ["الشرايين", "العضلات", "الأعصاب"],
+      "nearbyOrgans_en": ["Arteries", "Muscles", "Nerves"],
+      "diseases": [
+        {
+          "name": "خثار وريدي عميق",
+          "name_en": "Deep vein thrombosis",
+          "symptoms": ["ألم ساق", "تورم", "احمرار", "دفء"],
+          "symptoms_en": ["Leg pain", "Swelling", "Redness", "Warmth"],
+          "treatments": ["مميعات دم", "جوارب ضاغطة", "مذيب جلطات"],
+          "treatments_en": ["Blood thinners", "Compression stockings", "Clot busters"]
+        }
+      ],
+      "keywords": ["internal veins"],
+      "chapter": 5
+    },
+    {
+      "id": 526,
+      "term": "pulse",
+      "arabic": "نبض",
+      "latin": "pulsus",
+      "pronunciation": "بولس",
+      "definition": "الضغط الإيقاعي ضد جدران الشريان الناتج عن انقباض القلب",
+      "definition_en": "The rhythmic pressure against the walls of an artery caused by the contraction of the heart",
+      "englishSentence": "The pulse is the rhythmic pressure against the walls of an artery caused by the contraction of the heart.",
+      "parts": {
+        "root": { "value": "puls", "meaning": "نبض", "function": "يشير إلى النبض" }
+      },
+      "type": "sign",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "مؤشر على معدل ضربات القلب وانتظامها",
+      "systemFunction_en": "Indicator of heart rate and regularity",
+      "location": "الشرايين القريبة من سطح الجسم (رسغ، رقبة، أعلى الفخذ)",
+      "location_en": "Arteries near body surface (wrist, neck, groin)",
+      "nearbyOrgans": ["الشرايين", "الجلد", "الأنسجة تحت الجلد"],
+      "nearbyOrgans_en": ["Arteries", "Skin", "Subcutaneous tissue"],
+      "diseases": [
+        {
+          "name": "عدم انتظام النبض",
+          "name_en": "Irregular pulse",
+          "symptoms": ["خفقان", "دوار", "إغماء"],
+          "symptoms_en": ["Palpitations", "Dizziness", "Fainting"],
+          "treatments": ["أدوية", "جهاز تنظيم ضربات القلب"],
+          "treatments_en": ["Medications", "Pacemaker"]
+        }
+      ],
+      "keywords": ["heart rate", "arterial pressure"],
+      "chapter": 5
+    },
+    {
+      "id": 527,
+      "term": "blood pressure",
+      "arabic": "ضغط الدم",
+      "latin": "tensio sanguinis",
+      "pronunciation": "بلاد بري-شر",
+      "definition": "قياس مقدار الضغط الانقباضي والانبساطي على جدران الشرايين",
+      "definition_en": "The measurement of systolic and diastolic pressure against artery walls",
+      "englishSentence": "Blood pressure is the measurement of systolic and diastolic pressure against artery walls.",
+      "parts": {
+        "root": { "value": "press", "meaning": "ضغط", "function": "يشير إلى الضغط" },
+        "suffix": { "value": "ure", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "measurement",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "مؤشر على قوة ضخ القلب ومقاومة الأوعية الدموية",
+      "systemFunction_en": "Indicator of heart pumping strength and vascular resistance",
+      "location": "يقاس عادة على الشريان العضدي في أعلى الذراع",
+      "location_en": "Usually measured on brachial artery in upper arm",
+      "nearbyOrgans": ["الشرايين", "القلب", "الكلى"],
+      "nearbyOrgans_en": ["Arteries", "Heart", "Kidneys"],
+      "diseases": [
+        {
+          "name": "ارتفاع ضغط الدم",
+          "name_en": "Hypertension",
+          "symptoms": ["غالباً بدون أعراض", "صداع", "دوار", "تعب"],
+          "symptoms_en": ["Often asymptomatic", "Headache", "Dizziness", "Fatigue"],
+          "treatments": ["أدوية", "تغيير نمط الحياة", "تخفيف الملح"],
+          "treatments_en": ["Medications", "Lifestyle changes", "Salt reduction"]
+        },
+        {
+          "name": "انخفاض ضغط الدم",
+          "name_en": "Hypotension",
+          "symptoms": ["دوار", "إغماء", "تعب", "تشوش رؤية"],
+          "symptoms_en": ["Dizziness", "Fainting", "Fatigue", "Blurred vision"],
+          "treatments": ["زيادة السوائل", "ملح", "أدوية"],
+          "treatments_en": ["Increase fluids", "Salt", "Medications"]
+        }
+      ],
+      "keywords": ["BP", "arterial pressure"],
+      "chapter": 5
+    },
+    {
+      "id": 528,
+      "term": "systolic pressure",
+      "arabic": "الضغط الانقباضي",
+      "latin": "pressio systolica",
+      "pronunciation": "سيس-تول-يك بري-شر",
+      "definition": "أعلى ضغط على جدران الشريان، ويحدث عندما ينقبض البطينان",
+      "definition_en": "The highest pressure against artery walls, occurring when the ventricles contract",
+      "englishSentence": "Systolic pressure occurs when the ventricles contract.",
+      "parts": {
+        "root": { "value": "systol", "meaning": "انقباض", "function": "يشير إلى الانقباض" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "measurement",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "قياس قوة انقباض البطينين",
+      "systemFunction_en": "Measure ventricular contraction strength",
+      "location": "الرقم الأعلى في قراءة ضغط الدم",
+      "location_en": "Top number in blood pressure reading",
+      "nearbyOrgans": ["البطينين", "الأبهر", "الشرايين الكبيرة"],
+      "nearbyOrgans_en": ["Ventricles", "Aorta", "Large arteries"],
+      "diseases": [],
+      "keywords": ["systole", "contraction phase"],
+      "chapter": 5
+    },
+    {
+      "id": 529,
+      "term": "systole",
+      "arabic": "انقباض القلب",
+      "latin": "systole",
+      "pronunciation": "سيس-تو-لي",
+      "definition": "مرحلة انقباض عضلة القلب، وخاصة البطينين",
+      "definition_en": "The phase of heart muscle contraction, especially the ventricles",
+      "englishSentence": "Systole means contraction of the heart.",
+      "parts": {
+        "root": { "value": "systol", "meaning": "انقباض", "function": "يشير إلى الانقباض" }
+      },
+      "type": "phase",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "مرحلة ضخ الدم من البطينين إلى الشرايين",
+      "systemFunction_en": "Phase when ventricles pump blood to arteries",
+      "location": "البطينين بشكل رئيسي",
+      "location_en": "Mainly ventricles",
+      "nearbyOrgans": ["البطينين", "الصمامات الأذينية البطينية", "الصمامات الهلالية"],
+      "nearbyOrgans_en": ["Ventricles", "AV valves", "Semilunar valves"],
+      "diseases": [
+        {
+          "name": "فشل الانقباضي",
+          "name_en": "Systolic heart failure",
+          "symptoms": ["ضيق تنفس", "تعب", "وذمة"],
+          "symptoms_en": ["Shortness of breath", "Fatigue", "Edema"],
+          "treatments": ["أدوية", "مدرات بول"],
+          "treatments_en": ["Medications", "Diuretics"]
+        }
+      ],
+      "keywords": ["contraction"],
+      "chapter": 5
+    },
+    {
+      "id": 530,
+      "term": "diastolic pressure",
+      "arabic": "الضغط الانبساطي",
+      "latin": "pressio diastolica",
+      "pronunciation": "داي-آ-ستول-يك بري-شر",
+      "definition": "أقل ضغط على جدران الشريان، ويحدث عندما يرتخي البطينان",
+      "definition_en": "The lowest pressure against artery walls, occurring when the ventricles relax",
+      "englishSentence": "Diastolic pressure occurs when the ventricles are relaxed.",
+      "parts": {
+        "root": { "value": "diastol", "meaning": "انبساط", "function": "يشير إلى الانبساط" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "measurement",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "قياس مقاومة الأوعية الدموية أثناء ارتخاء القلب",
+      "systemFunction_en": "Measure vascular resistance during heart relaxation",
+      "location": "الرقم السفلي في قراءة ضغط الدم",
+      "location_en": "Bottom number in blood pressure reading",
+      "nearbyOrgans": ["البطينين", "الشرايين", "الشرايين الصغيرة"],
+      "nearbyOrgans_en": ["Ventricles", "Arteries", "Arterioles"],
+      "diseases": [],
+      "keywords": ["diastole", "relaxation phase"],
+      "chapter": 5
+    },
+    {
+      "id": 531,
+      "term": "diastole",
+      "arabic": "انبساط القلب",
+      "latin": "diastole",
+      "pronunciation": "داي-آس-تو-لي",
+      "definition": "مرحلة ارتخاء عضلة القلب وامتلائها بالدم",
+      "definition_en": "The phase of heart muscle relaxation and filling with blood",
+      "englishSentence": "Diastole means relaxation of the heart.",
+      "parts": {
+        "root": { "value": "diastol", "meaning": "انبساط", "function": "يشير إلى الانبساط" }
+      },
+      "type": "phase",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "مرحلة امتلاء البطينين بالدم",
+      "systemFunction_en": "Phase when ventricles fill with blood",
+      "location": "البطينين والأذينين",
+      "location_en": "Ventricles and atria",
+      "nearbyOrgans": ["الأذينين", "البطينين", "الصمامات الأذينية البطينية"],
+      "nearbyOrgans_en": ["Atria", "Ventricles", "AV valves"],
+      "diseases": [
+        {
+          "name": "فشل الانبساطي",
+          "name_en": "Diastolic heart failure",
+          "symptoms": ["ضيق تنفس", "تعب", "وذمة"],
+          "symptoms_en": ["Shortness of breath", "Fatigue", "Edema"],
+          "treatments": ["أدوية", "مدرات بول"],
+          "treatments_en": ["Medications", "Diuretics"]
+        }
+      ],
+      "keywords": ["relaxation", "filling phase"],
+      "chapter": 5
+    },
+    {
+      "id": 532,
+      "term": "formed elements of the blood",
+      "arabic": "العناصر المكونة للدم",
+      "latin": "elementa figuralia sanguinis",
+      "pronunciation": "فورمد إل-إي-منتس أوف ذا بلاد",
+      "definition": "المكونات الخلوية للدم وتشمل الكريات الحمراء والبيضاء والصفيحات الدموية",
+      "definition_en": "The cellular components of the blood, including erythrocytes, leukocytes, and thrombocytes",
+      "englishSentence": "The formed elements of the blood include erythrocytes, leukocytes, and thrombocytes.",
+      "parts": {
+        "root": { "value": "form", "meaning": "شكل", "function": "يشير إلى الشكل" },
+        "suffix": { "value": "ed", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "concept",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الأكسجين، الدفاع عن الجسم، تخثر الدم",
+      "systemFunction_en": "Oxygen transport, body defense, blood clotting",
+      "location": "الدم المنتشر في الأوعية الدموية",
+      "location_en": "Blood circulating in vessels",
+      "nearbyOrgans": ["القلب", "الأوعية الدموية", "الطحال", "نخاع العظم"],
+      "nearbyOrgans_en": ["Heart", "Blood vessels", "Spleen", "Bone marrow"],
+      "diseases": [
+        {
+          "name": "فقر الدم",
+          "name_en": "Anemia",
+          "symptoms": ["تعب", "شحوب", "ضيق تنفس"],
+          "symptoms_en": ["Fatigue", "Pallor", "Shortness of breath"],
+          "treatments": ["مكملات حديد", "فيتامين ب12", "نقل دم"],
+          "treatments_en": ["Iron supplements", "Vitamin B12", "Blood transfusion"]
+        }
+      ],
+      "keywords": ["blood cells", "cellular components"],
+      "chapter": 5
+    },
+    {
+      "id": 533,
+      "term": "erythrocytes",
+      "arabic": "كريات دم حمراء",
+      "latin": "erythrocyti",
+      "pronunciation": "إي-ريث-رو-سايتس",
+      "definition": "خلايا الدم الحمراء التي تنتجها نخاع العظم الأحمر ودورها الرئيسي نقل الأكسجين إلى الأنسجة عبر الهيموجلوبين",
+      "definition_en": "Red blood cells produced by red bone marrow, whose main role is to transport oxygen to tissues via hemoglobin",
+      "englishSentence": "Erythrocytes are red blood cells that transport oxygen to the tissues.",
+      "parts": {
+        "root": { "value": "erythr/o", "meaning": "أحمر", "function": "يشير إلى اللون الأحمر" },
+        "suffix": { "value": "cytes", "meaning": "خلايا", "function": "يشير إلى الخلايا" }
+      },
+      "type": "cell",
+      "abbreviation": "RBC",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الأكسجين من الرئتين إلى الأنسجة وإزالة ثاني أكسيد الكربون",
+      "systemFunction_en": "Transport oxygen from lungs to tissues and remove carbon dioxide",
+      "location": "الدم المنتشر",
+      "location_en": "Circulating blood",
+      "nearbyOrgans": ["الطحال", "نخاع العظم", "الكبد", "الرئتين"],
+      "nearbyOrgans_en": ["Spleen", "Bone marrow", "Liver", "Lungs"],
+      "diseases": [
+        {
+          "name": "فقر الدم",
+          "name_en": "Anemia",
+          "symptoms": ["تعب", "شحوب", "ضيق تنفس", "دوار"],
+          "symptoms_en": ["Fatigue", "Pallor", "Shortness of breath", "Dizziness"],
+          "treatments": ["مكملات حديد", "فيتامين ب12", "نقل دم"],
+          "treatments_en": ["Iron supplements", "Vitamin B12", "Blood transfusion"]
+        },
+        {
+          "name": "كثرة الكريات الحمراء",
+          "name_en": "Polycythemia",
+          "symptoms": ["صداع", "دوار", "احمرار الجلد", "حكة"],
+          "symptoms_en": ["Headache", "Dizziness", "Red skin", "Itching"],
+          "treatments": ["فصد الدم", "أدوية"],
+          "treatments_en": ["Phlebotomy", "Medications"]
+        }
+      ],
+      "keywords": ["red blood cells", "RBCs"],
+      "chapter": 5
+    },
+    {
+      "id": 534,
+      "term": "hemoglobin",
+      "arabic": "هيموجلوبين",
+      "latin": "haemoglobinum",
+      "pronunciation": "هي-مو-غلو-بن",
+      "definition": "الصبغة المحتوية على الحديد في كريات الدم الحمراء والتي تنقل الأكسجين",
+      "definition_en": "The iron-containing pigment in erythrocytes that transports oxygen",
+      "englishSentence": "Hemoglobin is the iron-containing pigment of erythrocytes that transports oxygen.",
+      "parts": {
+        "root": { "value": "hem/o", "meaning": "دم", "function": "يشير إلى الدم" },
+        "root2": { "value": "globin", "meaning": "بروتين", "function": "يشير إلى البروتين" }
+      },
+      "type": "protein",
+      "abbreviation": "Hgb, Hb",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ربط ونقل الأكسجين من الرئتين إلى الأنسجة",
+      "systemFunction_en": "Bind and transport oxygen from lungs to tissues",
+      "location": "داخل كريات الدم الحمراء",
+      "location_en": "Inside red blood cells",
+      "nearbyOrgans": ["كريات الدم الحمراء", "الرئتين", "الأنسجة"],
+      "nearbyOrgans_en": ["Red blood cells", "Lungs", "Tissues"],
+      "diseases": [
+        {
+          "name": "فقر الدم المنجلي",
+          "name_en": "Sickle cell anemia",
+          "symptoms": ["ألم", "تعب", "عدوى متكررة", "تأخر نمو"],
+          "symptoms_en": ["Pain", "Fatigue", "Frequent infections", "Delayed growth"],
+          "treatments": ["مسكنات", "نقل دم", "هيدروكسي يوريا"],
+          "treatments_en": ["Pain relievers", "Blood transfusion", "Hydroxyurea"]
+        },
+        {
+          "name": "الثلاسيميا",
+          "name_en": "Thalassemia",
+          "symptoms": ["تعب", "شحوب", "تشوهات عظمية", "تضخم طحال"],
+          "symptoms_en": ["Fatigue", "Pallor", "Bone deformities", "Splenomegaly"],
+          "treatments": ["نقل دم", "مكملات حمض فوليك", "استئصال طحال"],
+          "treatments_en": ["Blood transfusion", "Folic acid supplements", "Splenectomy"]
+        }
+      ],
+      "keywords": ["oxygen-carrying protein", "Hgb"],
+      "chapter": 5
+    },
+    {
+      "id": 535,
+      "term": "leukocytes",
+      "arabic": "كريات دم بيضاء",
+      "latin": "leukocyti",
+      "pronunciation": "لو-كو-سايتس",
+      "definition": "خلايا الدم البيضاء المشاركة في الدفاع عن الجسم ضد الكائنات المعدية والمواد الغريبة",
+      "definition_en": "White blood cells involved in defending the body against infective organisms and foreign substances",
+      "englishSentence": "Leukocytes are white blood cells involved in defending the body against infective organisms.",
+      "parts": {
+        "root": { "value": "leuk/o", "meaning": "أبيض", "function": "يشير إلى اللون الأبيض" },
+        "suffix": { "value": "cytes", "meaning": "خلايا", "function": "يشير إلى الخلايا" }
+      },
+      "type": "cell",
+      "abbreviation": "WBC",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "الدفاع عن الجسم ضد العدوى والمواد الغريبة",
+      "systemFunction_en": "Defend body against infection and foreign substances",
+      "location": "الدم والأنسجة الليمفاوية",
+      "location_en": "Blood and lymphoid tissues",
+      "nearbyOrgans": ["الطحال", "العقد الليمفاوية", "نخاع العظم", "الغدة الزعترية"],
+      "nearbyOrgans_en": ["Spleen", "Lymph nodes", "Bone marrow", "Thymus"],
+      "diseases": [
+        {
+          "name": "ابيضاض الدم",
+          "name_en": "Leukemia",
+          "symptoms": ["تعب", "عدوى متكررة", "نزيف", "كدمات", "حمى"],
+          "symptoms_en": ["Fatigue", "Frequent infections", "Bleeding", "Bruising", "Fever"],
+          "treatments": ["علاج كيميائي", "علاج إشعاعي", "زراعة نخاع العظم"],
+          "treatments_en": ["Chemotherapy", "Radiation therapy", "Bone marrow transplant"]
+        }
+      ],
+      "keywords": ["white blood cells", "WBCs", "immune cells"],
+      "chapter": 5
+    },
+    {
+      "id": 536,
+      "term": "thrombocytes",
+      "arabic": "صفيحات دموية",
+      "latin": "thrombocyti",
+      "pronunciation": "ثروم-بو-سايتس",
+      "definition": "أصغر العناصر المكونة للدم، وتلعب دوراً هاماً في تخثر الدم عن طريق التكتل لتشكيل الجلطة",
+      "definition_en": "The smallest formed elements of the blood, playing an important role in blood clotting by aggregating to form a clot",
+      "englishSentence": "Thrombocytes are the smallest formed elements of the blood and play an important role in blood clotting.",
+      "parts": {
+        "root": { "value": "thromb/o", "meaning": "جلطة", "function": "يشير إلى التجلط" },
+        "suffix": { "value": "cytes", "meaning": "خلايا", "function": "يشير إلى الخلايا" }
+      },
+      "type": "cell",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تكوين الجلطات لوقف النزيف",
+      "systemFunction_en": "Form clots to stop bleeding",
+      "location": "الدم المنتشر",
+      "location_en": "Circulating blood",
+      "nearbyOrgans": ["نخاع العظم", "الطحال", "جدار الأوعية الدموية"],
+      "nearbyOrgans_en": ["Bone marrow", "Spleen", "Blood vessel walls"],
+      "diseases": [
+        {
+          "name": "نقص الصفيحات",
+          "name_en": "Thrombocytopenia",
+          "symptoms": ["نزيف", "كدمات", "نزف تحت الجلد"],
+          "symptoms_en": ["Bleeding", "Bruising", "Petechiae"],
+          "treatments": ["نقل صفيحات", "أدوية", "استئصال طحال"],
+          "treatments_en": ["Platelet transfusion", "Medications", "Splenectomy"]
+        }
+      ],
+      "keywords": ["platelets", "clotting cells"],
+      "chapter": 5
+    },
+    {
+      "id": 537,
+      "term": "platelets",
+      "arabic": "صفيحات دموية",
+      "latin": "thrombocyti",
+      "pronunciation": "بليت-ليتس",
+      "definition": "اسم آخر للـ thrombocytes",
+      "definition_en": "Another name for thrombocytes",
+      "englishSentence": "Platelets is another name for thrombocytes.",
+      "parts": {
+        "root": { "value": "plate", "meaning": "صفيحة", "function": "يشير إلى الصفيحة" },
+        "suffix": { "value": "let", "meaning": "صغير", "function": "يشير إلى التصغير" }
+      },
+      "type": "cell",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تكوين الجلطات لوقف النزيف",
+      "systemFunction_en": "Form clots to stop bleeding",
+      "location": "الدم المنتشر",
+      "location_en": "Circulating blood",
+      "nearbyOrgans": ["نخاع العظم", "الطحال", "جدار الأوعية الدموية"],
+      "nearbyOrgans_en": ["Bone marrow", "Spleen", "Blood vessel walls"],
+      "diseases": [],
+      "keywords": ["thrombocytes"],
+      "chapter": 5
+    },
+    {
+      "id": 538,
+      "term": "cardiologist",
+      "arabic": "طبيب قلب",
+      "latin": "cardiologus",
+      "pronunciation": "كار-دي-أو-لو-جيست",
+      "definition": "طبيب متخصص في تشخيص وعلاج أمراض واضطرابات القلب",
+      "definition_en": "A physician specializing in diagnosing and treating heart diseases and disorders",
+      "englishSentence": "A cardiologist specializes in diagnosing and treating heart disorders.",
+      "parts": {
+        "root": { "value": "cardi", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "ologist", "meaning": "أخصائي", "function": "يشير إلى المختص" }
+      },
+      "type": "specialist",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تشخيص وعلاج أمراض القلب",
+      "systemFunction_en": "Diagnose and treat heart diseases",
+      "location": "عيادات ومستشفيات",
+      "location_en": "Clinics and hospitals",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["heart specialist"],
+      "chapter": 5
+    },
+    {
+      "id": 539,
+      "term": "hematologist",
+      "arabic": "طبيب أمراض دم",
+      "latin": "haematologus",
+      "pronunciation": "هي-ما-تو-لو-جيست",
+      "definition": "طبيب متخصص في تشخيص وعلاج أمراض الدم والأنسجة المكونة للدم",
+      "definition_en": "A physician specializing in diagnosing and treating disorders of the blood and blood-forming tissues",
+      "englishSentence": "A hematologist specializes in disorders of the blood and blood-forming tissues.",
+      "parts": {
+        "root": { "value": "hemat", "meaning": "دم", "function": "يشير إلى الدم" },
+        "suffix": { "value": "ologist", "meaning": "أخصائي", "function": "يشير إلى المختص" }
+      },
+      "type": "specialist",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تشخيص وعلاج أمراض الدم",
+      "systemFunction_en": "Diagnose and treat blood diseases",
+      "location": "عيادات ومستشفيات",
+      "location_en": "Clinics and hospitals",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["blood specialist"],
+      "chapter": 5
+    },
+    {
+      "id": 540,
+      "term": "vascular surgeon",
+      "arabic": "جراح أوعية دموية",
+      "latin": "chirurgus vascularis",
+      "pronunciation": "فاس-كيو-لار سير-جن",
+      "definition": "طبيب متخصص في تشخيص وإدارة وعلاج جراحة اضطرابات الأوعية الدموية",
+      "definition_en": "A physician specializing in the diagnosis, management, and surgical treatment of blood vessel disorders",
+      "englishSentence": "A vascular surgeon specializes in surgical treatment of blood vessel disorders.",
+      "parts": {
+        "root": { "value": "vascul", "meaning": "وعاء", "function": "يشير إلى الأوعية الدموية" },
+        "suffix": { "value": "ar", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "specialist",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "علاج جراحي لأمراض الأوعية الدموية",
+      "systemFunction_en": "Surgical treatment of blood vessel diseases",
+      "location": "غرف العمليات والعيادات",
+      "location_en": "Operating rooms and clinics",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["blood vessel surgeon"],
+      "chapter": 5
+    },
+    {
+      "id": 541,
+      "term": "congenital heart defects",
+      "arabic": "عيوب خلقية في القلب",
+      "latin": "defectus cordis congeniti",
+      "pronunciation": "كون-جين-إي-تال هارت دي-فيكتس",
+      "definition": "تشوهات هيكلية ناتجة عن فشل القلب في النمو بشكل طبيعي قبل الولادة",
+      "definition_en": "Structural abnormalities resulting from failure of the heart to develop normally before birth",
+      "englishSentence": "Congenital heart defects are structural abnormalities present at birth due to abnormal heart development.",
+      "parts": {
+        "prefix": { "value": "con", "meaning": "معاً", "function": "يشير إلى المصاحبة" },
+        "root": { "value": "genit", "meaning": "ولادة", "function": "يشير إلى الولادة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "وظيفة القلب الطبيعية",
+      "systemFunction_en": "Normal heart function",
+      "location": "القلب والأوعية الكبيرة",
+      "location_en": "Heart and great vessels",
+      "nearbyOrgans": ["القلب", "الأوعية الدموية الكبيرة", "الرئتين"],
+      "nearbyOrgans_en": ["Heart", "Great vessels", "Lungs"],
+      "diseases": [
+        {
+          "name": "رباعية فالو",
+          "name_en": "Tetralogy of Fallot",
+          "symptoms": ["زرقة", "ضيق تنفس", "نفخة قلبية", "تعب"],
+          "symptoms_en": ["Cyanosis", "Shortness of breath", "Heart murmur", "Fatigue"],
+          "treatments": ["جراحة تصحيحية"],
+          "treatments_en": ["Corrective surgery"]
+        },
+        {
+          "name": "عيب الحاجز البطيني",
+          "name_en": "Ventricular septal defect",
+          "symptoms": ["نفخة قلبية", "تعب", "ضيق تنفس"],
+          "symptoms_en": ["Heart murmur", "Fatigue", "Shortness of breath"],
+          "treatments": ["إغلاق جراحي", "إغلاق بالقسطرة"],
+          "treatments_en": ["Surgical closure", "Catheter closure"]
+        }
+      ],
+      "keywords": ["heart malformation", "CHD"],
+      "chapter": 5
+    },
+    {
+      "id": 542,
+      "term": "coronary artery disease",
+      "arabic": "مرض الشريان التاجي",
+      "latin": "morbus arteriae coronariae",
+      "pronunciation": "كور-أو-نير-ي آر-تير-ي دي-زيز",
+      "definition": "تصلب الشرايين التاجية مما يقلل من إمدادات الدم إلى عضلة القلب",
+      "definition_en": "Atherosclerosis of the coronary arteries that reduces blood supply to the heart muscle",
+      "englishSentence": "Coronary artery disease is atherosclerosis of the coronary arteries reducing blood supply to the heart.",
+      "parts": {
+        "root": { "value": "coron", "meaning": "تاج", "function": "يشير إلى التاج" },
+        "suffix": { "value": "ary", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "abbreviation": "CAD",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تزويد عضلة القلب بالدم",
+      "systemFunction_en": "Supply blood to heart muscle",
+      "location": "الشرايين التاجية",
+      "location_en": "Coronary arteries",
+      "nearbyOrgans": ["عضلة القلب", "الأبهر", "الشرايين التاجية"],
+      "nearbyOrgans_en": ["Myocardium", "Aorta", "Coronary arteries"],
+      "diseases": [
+        {
+          "name": "مرض الشريان التاجي",
+          "name_en": "Coronary artery disease",
+          "symptoms": ["ألم صدر", "ضيق تنفس", "نوبة قلبية"],
+          "symptoms_en": ["Chest pain", "Shortness of breath", "Heart attack"],
+          "treatments": ["أدوية", "قسطرة", "دعامة", "جراحة مجازة"],
+          "treatments_en": ["Medications", "Catheterization", "Stent", "Bypass surgery"]
+        }
+      ],
+      "keywords": ["ischemic heart disease", "CAD"],
+      "chapter": 5
+    },
+    {
+      "id": 543,
+      "term": "atherosclerosis",
+      "arabic": "تصلب عصيدي (تصلب الشرايين)",
+      "latin": "atherosclerosis",
+      "pronunciation": "آ-ثر-أو-سكلي-رو-سيس",
+      "definition": "تصلب وتضيق الشرايين بسبب تراكم اللويحات (البلاك) الكولسترولية على الجدران الداخلية للشرايين",
+      "definition_en": "Hardening and narrowing of arteries due to buildup of cholesterol plaques on the inner walls of arteries",
+      "englishSentence": "Atherosclerosis is hardening and narrowing of arteries due to cholesterol plaque buildup.",
+      "parts": {
+        "root": { "value": "ather/o", "meaning": "عصيدة", "function": "يشير إلى المادة الدهنية" },
+        "suffix": { "value": "sclerosis", "meaning": "تصلب", "function": "يشير إلى التصلب" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدم بسلاسة",
+      "systemFunction_en": "Smooth blood transport",
+      "location": "الشرايين (التاجية، السباتية، الطرفية)",
+      "location_en": "Arteries (coronary, carotid, peripheral)",
+      "nearbyOrgans": ["الشرايين", "عضلة القلب", "الدماغ", "الساقين"],
+      "nearbyOrgans_en": ["Arteries", "Heart muscle", "Brain", "Legs"],
+      "diseases": [
+        {
+          "name": "مرض الشريان التاجي",
+          "name_en": "Coronary artery disease",
+          "symptoms": ["ألم صدر", "نوبة قلبية"],
+          "symptoms_en": ["Chest pain", "Heart attack"],
+          "treatments": ["أدوية خفض كوليسترول", "تغيير نمط الحياة", "قسطرة"],
+          "treatments_en": ["Cholesterol-lowering drugs", "Lifestyle changes", "Catheterization"]
+        }
+      ],
+      "keywords": ["plaque buildup", "arterial hardening"],
+      "chapter": 5
+    },
+    {
+      "id": 544,
+      "term": "atheroma",
+      "arabic": "عصيدة (لويحة تصلب)",
+      "latin": "atheroma",
+      "pronunciation": "آ-ثر-أو-ما",
+      "definition": "ترسبات من البلاك على أو داخل جدار الشريان، وهي سمة من سمات تصلب الشرايين",
+      "definition_en": "Deposits of plaque on or within the arterial wall, a characteristic of atherosclerosis",
+      "englishSentence": "An atheroma is a deposit of plaque on or within the arterial wall.",
+      "parts": {
+        "root": { "value": "ather", "meaning": "عصيدة", "function": "يشير إلى المادة الدهنية" },
+        "suffix": { "value": "oma", "meaning": "كتلة", "function": "يشير إلى كتلة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدم",
+      "systemFunction_en": "Blood transport",
+      "location": "البطانة الداخلية للشرايين",
+      "location_en": "Inner lining of arteries",
+      "nearbyOrgans": ["الشرايين", "البطانة الغشائية"],
+      "nearbyOrgans_en": ["Arteries", "Endothelium"],
+      "diseases": [],
+      "keywords": ["plaque", "fatty deposit"],
+      "chapter": 5
+    },
+    {
+      "id": 545,
+      "term": "ischemia",
+      "arabic": "نقص تروية (إقفار)",
+      "latin": "ischaemia",
+      "pronunciation": "إس-كيم-ي-آ",
+      "definition": "حالة نقص إمدادات الأكسجين بسبب تدفق الدم المقيد إلى جزء من الجسم",
+      "definition_en": "A condition of insufficient oxygen supply due to restricted blood flow to a part of the body",
+      "englishSentence": "Ischemia is insufficient oxygen supply due to restricted blood flow to a body part.",
+      "parts": {
+        "root": { "value": "isch", "meaning": "منع", "function": "يشير إلى المنع أو الحجز" },
+        "suffix": { "value": "emia", "meaning": "دم", "function": "يشير إلى حالة في الدم" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "توصيل الأكسجين للأنسجة",
+      "systemFunction_en": "Deliver oxygen to tissues",
+      "location": "الأنسجة المصابة (القلب، الدماغ، الأطراف)",
+      "location_en": "Affected tissues (heart, brain, limbs)",
+      "nearbyOrgans": ["الشرايين", "الشعيرات الدموية", "الأنسجة"],
+      "nearbyOrgans_en": ["Arteries", "Capillaries", "Tissues"],
+      "diseases": [
+        {
+          "name": "نقص تروية القلب",
+          "name_en": "Myocardial ischemia",
+          "symptoms": ["ألم صدر", "ضيق تنفس"],
+          "symptoms_en": ["Chest pain", "Shortness of breath"],
+          "treatments": ["أدوية", "قسطرة", "جراحة مجازة"],
+          "treatments_en": ["Medications", "Catheterization", "Bypass surgery"]
+        }
+      ],
+      "keywords": ["oxygen deficiency", "restricted blood flow"],
+      "chapter": 5
+    },
+    {
+      "id": 546,
+      "term": "angina",
+      "arabic": "ذبحة صدرية",
+      "latin": "angina pectoris",
+      "pronunciation": "آن-جاي-نا",
+      "definition": "نوبات من ألم الصدر الشديد بسبب عدم كفاية تدفق الدم إلى عضلة القلب (نقص تروية القلب)",
+      "definition_en": "Episodes of severe chest pain due to inadequate blood flow to the heart muscle (myocardial ischemia)",
+      "englishSentence": "Angina is severe chest pain due to inadequate blood flow to the myocardium.",
+      "parts": {
+        "root": { "value": "angin", "meaning": "ذبحة", "function": "يشير إلى الذبحة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تزويد عضلة القلب بالدم",
+      "systemFunction_en": "Supply blood to heart muscle",
+      "location": "عضلة القلب",
+      "location_en": "Heart muscle",
+      "nearbyOrgans": ["الشرايين التاجية", "عضلة القلب"],
+      "nearbyOrgans_en": ["Coronary arteries", "Myocardium"],
+      "diseases": [
+        {
+          "name": "الذبحة الصدرية المستقرة",
+          "name_en": "Stable angina",
+          "symptoms": ["ألم صدر مع الجهد", "يزول بالراحة"],
+          "symptoms_en": ["Chest pain with exertion", "Relieved by rest"],
+          "treatments": ["نتروجليسرين", "أدوية", "تغيير نمط الحياة"],
+          "treatments_en": ["Nitroglycerin", "Medications", "Lifestyle changes"]
+        },
+        {
+          "name": "الذبحة الصدرية غير المستقرة",
+          "name_en": "Unstable angina",
+          "symptoms": ["ألم صدر مفاجئ", "يحدث أثناء الراحة"],
+          "symptoms_en": ["Sudden chest pain", "Occurs at rest"],
+          "treatments": ["دخول المستشفى", "أدوية", "قسطرة عاجلة"],
+          "treatments_en": ["Hospital admission", "Medications", "Emergency catheterization"]
+        }
+      ],
+      "keywords": ["angina pectoris", "chest pain"],
+      "chapter": 5
+    },
+    {
+      "id": 547,
+      "term": "myocardial infarction",
+      "arabic": "احتشاء عضلة القلب (نوبة قلبية)",
+      "latin": "infarctus myocardii",
+      "pronunciation": "ماي-أو-كار-دي-آل إن-فارك-شن",
+      "definition": "انسداد واحد أو أكثر من الشرايين التاجية بسبب تراكم البلاك، مما يؤدي إلى موت جزء من عضلة القلب",
+      "definition_en": "Occlusion of one or more coronary arteries due to plaque buildup, resulting in death of a portion of the heart muscle",
+      "englishSentence": "A myocardial infarction is the occlusion of coronary arteries caused by plaque buildup.",
+      "parts": {
+        "root": { "value": "myocardi", "meaning": "عضلة القلب", "function": "يشير إلى عضلة القلب" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "abbreviation": "MI",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تزويد عضلة القلب بالدم",
+      "systemFunction_en": "Supply blood to heart muscle",
+      "location": "عضلة القلب",
+      "location_en": "Heart muscle",
+      "nearbyOrgans": ["الشرايين التاجية", "عضلة القلب", "البطينين"],
+      "nearbyOrgans_en": ["Coronary arteries", "Myocardium", "Ventricles"],
+      "diseases": [
+        {
+          "name": "احتشاء عضلة القلب",
+          "name_en": "Myocardial infarction",
+          "symptoms": ["ألم صدر شديد", "ضيق تنفس", "غثيان", "تعرق", "قلق"],
+          "symptoms_en": ["Severe chest pain", "Shortness of breath", "Nausea", "Sweating", "Anxiety"],
+          "treatments": ["قسطرة عاجلة", "أدوية مذيبة للجلطات", "أسبرين", "أكسجين"],
+          "treatments_en": ["Emergency catheterization", "Clot-busting drugs", "Aspirin", "Oxygen"]
+        }
+      ],
+      "keywords": ["heart attack", "MI", "cardiac infarction"],
+      "chapter": 5
+    },
+    {
+      "id": 548,
+      "term": "infarction",
+      "arabic": "احتشاء (نقص تروية حاد)",
+      "latin": "infarctus",
+      "pronunciation": "إن-فارك-شن",
+      "definition": "نقص مفاجئ في الدم يؤدي إلى موت الأنسجة",
+      "definition_en": "A sudden insufficiency of blood leading to tissue death",
+      "englishSentence": "Infarction means a sudden insufficiency of blood leading to tissue death.",
+      "parts": {
+        "prefix": { "value": "in", "meaning": "في", "function": "يشير إلى الداخل" },
+        "root": { "value": "farct", "meaning": "محشو", "function": "يشير إلى الامتلاء" },
+        "suffix": { "value": "ion", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "توصيل الأكسجين للأنسجة",
+      "systemFunction_en": "Deliver oxygen to tissues",
+      "location": "الأنسجة المصابة (القلب، الدماغ، الرئتين، الأمعاء)",
+      "location_en": "Affected tissues (heart, brain, lungs, intestines)",
+      "nearbyOrgans": ["الشرايين", "الأنسجة"],
+      "nearbyOrgans_en": ["Arteries", "Tissues"],
+      "diseases": [],
+      "keywords": ["tissue death", "necrosis due to ischemia"],
+      "chapter": 5
+    },
+    {
+      "id": 549,
+      "term": "infarct",
+      "arabic": "منطقة احتشاء (نسيج ميت)",
+      "latin": "infarctus",
+      "pronunciation": "إن-فاركت",
+      "definition": "منطقة موضعية من الأنسجة الميتة بسبب نقص الدم",
+      "definition_en": "A localized area of dead tissue caused by a lack of blood",
+      "englishSentence": "An infarct is a localized area of dead tissue caused by a lack of blood.",
+      "parts": {
+        "prefix": { "value": "in", "meaning": "في", "function": "يشير إلى الداخل" },
+        "root": { "value": "farct", "meaning": "محشو", "function": "يشير إلى الامتلاء" }
+      },
+      "type": "lesion",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "توصيل الأكسجين للأنسجة",
+      "systemFunction_en": "Deliver oxygen to tissues",
+      "location": "الأنسجة المصابة",
+      "location_en": "Affected tissues",
+      "nearbyOrgans": ["الأنسجة المحيطة", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Surrounding tissues", "Blood vessels"],
+      "diseases": [],
+      "keywords": ["dead tissue area"],
+      "chapter": 5
+    },
+    {
+      "id": 550,
+      "term": "heart failure",
+      "arabic": "فشل القلب",
+      "latin": "insufficientia cordis",
+      "pronunciation": "هارت فيل-يور",
+      "definition": "حالة مزمنة لا يستطيع فيها القلب ضخ كل الدم الذي يستقبله، مما يسبب احتقاناً (تراكم السوائل)",
+      "definition_en": "A chronic condition in which the heart cannot pump out all the blood it receives, causing congestion (fluid accumulation)",
+      "englishSentence": "Heart failure is the inability of the heart to pump out all the blood it receives.",
+      "parts": {
+        "root": { "value": "fail", "meaning": "فشل", "function": "يشير إلى الفشل" },
+        "suffix": { "value": "ure", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضخ الدم بكفاءة",
+      "systemFunction_en": "Efficient blood pumping",
+      "location": "القلب والرئتين والأطراف السفلية",
+      "location_en": "Heart, lungs, lower extremities",
+      "nearbyOrgans": ["الرئتين", "الكبد", "الكلى", "الساقين"],
+      "nearbyOrgans_en": ["Lungs", "Liver", "Kidneys", "Legs"],
+      "diseases": [
+        {
+          "name": "فشل القلب الأيسر",
+          "name_en": "Left-sided heart failure",
+          "symptoms": ["ضيق تنفس", "سعال", "وذمة رئوية"],
+          "symptoms_en": ["Shortness of breath", "Cough", "Pulmonary edema"],
+          "treatments": ["مدرات بول", "مثبطات ACE", "حاصرات بيتا"],
+          "treatments_en": ["Diuretics", "ACE inhibitors", "Beta blockers"]
+        },
+        {
+          "name": "فشل القلب الأيمن",
+          "name_en": "Right-sided heart failure",
+          "symptoms": ["تورم الساقين", "تورم البطن", "احتقان كبدي"],
+          "symptoms_en": ["Leg swelling", "Abdominal swelling", "Liver congestion"],
+          "treatments": ["مدرات بول", "تقييد الملح", "علاج السبب"],
+          "treatments_en": ["Diuretics", "Salt restriction", "Treat cause"]
+        }
+      ],
+      "keywords": ["congestive heart failure", "CHF"],
+      "chapter": 5
+    },
+    {
+      "id": 551,
+      "term": "congestive heart failure",
+      "arabic": "فشل القلب الاحتقاني",
+      "latin": "insufficientia cordis congestiva",
+      "pronunciation": "كون-جيس-تيف هارت فيل-يور",
+      "definition": "اسم آخر لفشل القلب، مع التركيز على الاحتقان الناتج",
+      "definition_en": "Another name for heart failure, emphasizing the resulting congestion",
+      "englishSentence": "Congestive heart failure (CHF) is a chronic condition with fluid buildup due to poor pumping.",
+      "parts": {
+        "root": { "value": "congest", "meaning": "احتقان", "function": "يشير إلى الاحتقان" },
+        "suffix": { "value": "ive", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "abbreviation": "CHF",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضخ الدم بكفاءة",
+      "systemFunction_en": "Efficient blood pumping",
+      "location": "القلب والرئتين والأطراف السفلية",
+      "location_en": "Heart, lungs, lower extremities",
+      "nearbyOrgans": ["الرئتين", "الكبد", "الكلى", "الساقين"],
+      "nearbyOrgans_en": ["Lungs", "Liver", "Kidneys", "Legs"],
+      "diseases": [],
+      "keywords": ["CHF", "cardiac failure with congestion"],
+      "chapter": 5
+    },
+    {
+      "id": 552,
+      "term": "cardiomegaly",
+      "arabic": "تضخم القلب",
+      "latin": "cardiomegalia",
+      "pronunciation": "كار-دي-أو-ميغ-آ-لي",
+      "definition": "تضخم غير طبيعي للقلب، وغالباً ما يرتبط بفشل القلب كتعويض لفقدان قدرة الضخ",
+      "definition_en": "Abnormal enlargement of the heart, often associated with heart failure as compensation for loss of pumping capacity",
+      "englishSentence": "Cardiomegaly is abnormal enlargement of the heart, often associated with heart failure.",
+      "parts": {
+        "root": { "value": "cardi/o", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "megaly", "meaning": "تضخم", "function": "يشير إلى التضخم" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضخ الدم",
+      "systemFunction_en": "Blood pumping",
+      "location": "القلب",
+      "location_en": "Heart",
+      "nearbyOrgans": ["القلب", "الرئتين", "التامور"],
+      "nearbyOrgans_en": ["Heart", "Lungs", "Pericardium"],
+      "diseases": [
+        {
+          "name": "تضخم القلب",
+          "name_en": "Cardiomegaly",
+          "symptoms": ["ضيق تنفس", "تعب", "وذمة", "خفقان"],
+          "symptoms_en": ["Shortness of breath", "Fatigue", "Edema", "Palpitations"],
+          "treatments": ["علاج السبب", "أدوية", "مدرات بول"],
+          "treatments_en": ["Treat cause", "Medications", "Diuretics"]
+        }
+      ],
+      "keywords": ["enlarged heart"],
+      "chapter": 5
+    },
+    {
+      "id": 553,
+      "term": "carditis",
+      "arabic": "التهاب القلب",
+      "latin": "carditis",
+      "pronunciation": "كار-داي-تس",
+      "definition": "التهاب في القلب",
+      "definition_en": "Inflammation of the heart",
+      "englishSentence": "Carditis is inflammation of the heart.",
+      "parts": {
+        "root": { "value": "card", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "وظائف القلب",
+      "systemFunction_en": "Heart functions",
+      "location": "طبقات القلب المختلفة",
+      "location_en": "Different heart layers",
+      "nearbyOrgans": ["الشغاف", "عضلة القلب", "التامور"],
+      "nearbyOrgans_en": ["Endocardium", "Myocardium", "Pericardium"],
+      "diseases": [
+        {
+          "name": "التهاب القلب الروماتيزمي",
+          "name_en": "Rheumatic carditis",
+          "symptoms": ["ألم صدر", "حمى", "نفخة قلبية", "تعب"],
+          "symptoms_en": ["Chest pain", "Fever", "Heart murmur", "Fatigue"],
+          "treatments": ["مضادات التهاب", "كورتيزون", "علاج السبب"],
+          "treatments_en": ["Anti-inflammatories", "Corticosteroids", "Treat cause"]
+        }
+      ],
+      "keywords": ["heart inflammation"],
+      "chapter": 5
+    },
+    {
+      "id": 554,
+      "term": "endocarditis",
+      "arabic": "التهاب الشغاف (البطانة الداخلية للقلب)",
+      "latin": "endocarditis",
+      "pronunciation": "إن-دو-كار-داي-تس",
+      "definition": "التهاب البطانة الداخلية للقلب",
+      "definition_en": "Inflammation of the inner lining of the heart",
+      "englishSentence": "Endocarditis is inflammation of the inner lining of the heart.",
+      "parts": {
+        "prefix": { "value": "endo", "meaning": "داخل", "function": "يشير إلى الداخل" },
+        "root": { "value": "card", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تبطين تجاويف القلب",
+      "systemFunction_en": "Line heart chambers",
+      "location": "البطانة الداخلية للقلب والصمامات",
+      "location_en": "Inner lining of heart and valves",
+      "nearbyOrgans": ["صمامات القلب", "البطينين", "الأذينين"],
+      "nearbyOrgans_en": ["Heart valves", "Ventricles", "Atria"],
+      "diseases": [
+        {
+          "name": "التهاب الشغاف الجرثومي",
+          "name_en": "Bacterial endocarditis",
+          "symptoms": ["حمى", "تعب", "نفخة قلبية", "تعرق ليلي", "فقدان وزن"],
+          "symptoms_en": ["Fever", "Fatigue", "Heart murmur", "Night sweats", "Weight loss"],
+          "treatments": ["مضادات حيوية", "جراحة", "استبدال صمام"],
+          "treatments_en": ["Antibiotics", "Surgery", "Valve replacement"]
+        }
+      ],
+      "keywords": ["heart lining inflammation"],
+      "chapter": 5
+    },
+    {
+      "id": 555,
+      "term": "bacterial endocarditis",
+      "arabic": "التهاب الشغاف الجرثومي",
+      "latin": "endocarditis bacterialis",
+      "pronunciation": "باك-تير-ي-آل إن-دو-كار-داي-تس",
+      "definition": "التهاب بطانة أو صمامات القلب بسبب وجود البكتيريا في مجرى الدم",
+      "definition_en": "Inflammation of the heart lining or valves due to bacteria in the bloodstream",
+      "englishSentence": "Bacterial endocarditis is inflammation of the heart lining or valves caused by bacteria.",
+      "parts": {
+        "root": { "value": "bacteri", "meaning": "بكتيريا", "function": "يشير إلى البكتيريا" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تبطين تجاويف القلب",
+      "systemFunction_en": "Line heart chambers",
+      "location": "صمامات القلب والشغاف",
+      "location_en": "Heart valves and endocardium",
+      "nearbyOrgans": ["صمامات القلب", "الشغاف", "الدم"],
+      "nearbyOrgans_en": ["Heart valves", "Endocardium", "Blood"],
+      "diseases": [],
+      "keywords": ["infective endocarditis"],
+      "chapter": 5
+    },
+    {
+      "id": 556,
+      "term": "myocarditis",
+      "arabic": "التهاب عضلة القلب",
+      "latin": "myocarditis",
+      "pronunciation": "ماي-أو-كار-داي-تس",
+      "definition": "التهاب عضلة القلب (الميوكارديوم)، ويمكن أن يتطور كمضاعفات لعدوى فيروسية",
+      "definition_en": "Inflammation of the myocardium, which can develop as a complication of viral infection",
+      "englishSentence": "Myocarditis is inflammation of the myocardium.",
+      "parts": {
+        "root": { "value": "myocard", "meaning": "عضلة القلب", "function": "يشير إلى عضلة القلب" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "انقباض القلب",
+      "systemFunction_en": "Heart contraction",
+      "location": "عضلة القلب",
+      "location_en": "Heart muscle",
+      "nearbyOrgans": ["عضلة القلب", "الشغاف", "التامور"],
+      "nearbyOrgans_en": ["Myocardium", "Endocardium", "Pericardium"],
+      "diseases": [
+        {
+          "name": "التهاب عضلة القلب الفيروسي",
+          "name_en": "Viral myocarditis",
+          "symptoms": ["ألم صدر", "تعب", "ضيق تنفس", "خفقان"],
+          "symptoms_en": ["Chest pain", "Fatigue", "Shortness of breath", "Palpitations"],
+          "treatments": ["علاج داعم", "أدوية", "دعم القلب"],
+          "treatments_en": ["Supportive care", "Medications", "Heart support"]
+        }
+      ],
+      "keywords": ["heart muscle inflammation"],
+      "chapter": 5
+    },
+    {
+      "id": 557,
+      "term": "pericarditis",
+      "arabic": "التهاب التامور",
+      "latin": "pericarditis",
+      "pronunciation": "بير-ي-كار-داي-تس",
+      "definition": "التهاب التامور (الكيس المحيط بالقلب) مما يسبب تراكم السوائل داخل الكيس التاموري ويحد من قدرة القلب على الضخ",
+      "definition_en": "Inflammation of the pericardium (the sac surrounding the heart) causing fluid accumulation within the pericardial sac and restricting the heart's ability to pump",
+      "englishSentence": "Pericarditis is inflammation of the pericardium causing fluid accumulation that restricts heart beating.",
+      "parts": {
+        "prefix": { "value": "peri", "meaning": "حول", "function": "يشير إلى المحيط" },
+        "root": { "value": "card", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "حماية القلب",
+      "systemFunction_en": "Protect heart",
+      "location": "التامور (الكيس المحيط بالقلب)",
+      "location_en": "Pericardium (sac surrounding heart)",
+      "nearbyOrgans": ["القلب", "القص", "الرئتين", "الحجاب الحاجز"],
+      "nearbyOrgans_en": ["Heart", "Sternum", "Lungs", "Diaphragm"],
+      "diseases": [
+        {
+          "name": "التهاب التامور الحاد",
+          "name_en": "Acute pericarditis",
+          "symptoms": ["ألم صدر حاد", "حمى", "ضيق تنفس"],
+          "symptoms_en": ["Sharp chest pain", "Fever", "Shortness of breath"],
+          "treatments": ["مضادات التهاب", "مسكنات", "كورتيزون"],
+          "treatments_en": ["Anti-inflammatories", "Pain relievers", "Corticosteroids"]
+        }
+      ],
+      "keywords": ["pericardial sac inflammation"],
+      "chapter": 5
+    },
+    {
+      "id": 558,
+      "term": "cardiac arrest",
+      "arabic": "توقف القلب",
+      "latin": "arrestatio cordis",
+      "pronunciation": "كار-دي-آك آر-ريست",
+      "definition": "حدث يتوقف فيه القلب فجأة عن النبض أو يصاب بنظم غير طبيعي يمنعه من ضخ الدم",
+      "definition_en": "An event in which the heart abruptly stops beating or develops a very abnormal rhythm that prevents it from pumping blood",
+      "englishSentence": "Cardiac arrest is when the heart abruptly stops or develops a very abnormal rhythm.",
+      "parts": {
+        "root": { "value": "arrest", "meaning": "توقف", "function": "يشير إلى التوقف" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضخ الدم",
+      "systemFunction_en": "Pump blood",
+      "location": "القلب",
+      "location_en": "Heart",
+      "nearbyOrgans": ["القلب", "الدماغ", "جميع الأعضاء"],
+      "nearbyOrgans_en": ["Heart", "Brain", "All organs"],
+      "diseases": [
+        {
+          "name": "توقف القلب المفاجئ",
+          "name_en": "Sudden cardiac arrest",
+          "symptoms": ["فقدان وعي", "توقف التنفس", "لا نبض"],
+          "symptoms_en": ["Loss of consciousness", "Breathing stops", "No pulse"],
+          "treatments": ["إنعاش قلبي رئوي", "صدمة كهربائية", "أدوية"],
+          "treatments_en": ["CPR", "Defibrillation", "Medications"]
+        }
+      ],
+      "keywords": ["sudden cardiac death", "heart stoppage"],
+      "chapter": 5
+    },
+    {
+      "id": 559,
+      "term": "arrhythmia",
+      "arabic": "اضطراب النظم القلبي",
+      "latin": "arrhythmia",
+      "pronunciation": "آ-ريث-مي-آ",
+      "definition": "خلل أو فقدان الإيقاع الطبيعي لضربات القلب",
+      "definition_en": "An abnormality or loss of the normal rhythm of the heartbeat",
+      "englishSentence": "Arrhythmia describes an abnormality in the normal rhythm of the heartbeat.",
+      "parts": {
+        "prefix": { "value": "a", "meaning": "بدون", "function": "يشير إلى النفي" },
+        "root": { "value": "rhythm", "meaning": "نظم", "function": "يشير إلى النظم" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "توليد وتوصيل النبضات الكهربائية",
+      "systemFunction_en": "Generate and conduct electrical impulses",
+      "location": "جهاز التوصيل الكهربائي للقلب",
+      "location_en": "Cardiac conduction system",
+      "nearbyOrgans": ["العقدة الجيبية", "العقدة الأذينية البطينية", "البطينين"],
+      "nearbyOrgans_en": ["SA node", "AV node", "Ventricles"],
+      "diseases": [
+        {
+          "name": "الرجفان الأذيني",
+          "name_en": "Atrial fibrillation",
+          "symptoms": ["خفقان", "ضيق تنفس", "دوار", "تعب"],
+          "symptoms_en": ["Palpitations", "Shortness of breath", "Dizziness", "Fatigue"],
+          "treatments": ["أدوية", "مميعات دم", "تعديل النظم", "استئصال"],
+          "treatments_en": ["Medications", "Blood thinners", "Rhythm control", "Ablation"]
+        },
+        {
+          "name": "تسارع القلب البطيني",
+          "name_en": "Ventricular tachycardia",
+          "symptoms": ["خفقان", "دوار", "إغماء", "توقف قلب"],
+          "symptoms_en": ["Palpitations", "Dizziness", "Fainting", "Cardiac arrest"],
+          "treatments": ["أدوية", "مزيل رجفان", "استئصال"],
+          "treatments_en": ["Medications", "Defibrillator", "Ablation"]
+        }
+      ],
+      "keywords": ["dysrhythmia", "irregular heartbeat"],
+      "chapter": 5
+    },
+    {
+      "id": 560,
+      "term": "tachycardia",
+      "arabic": "تسارع القلب",
+      "latin": "tachycardia",
+      "pronunciation": "تاك-ي-كار-دي-آ",
+      "definition": "معدل ضربات قلب سريع بشكل غير طبيعي أثناء الراحة (أكثر من 100 نبضة في الدقيقة)",
+      "definition_en": "An abnormally rapid resting heart rate, usually over 100 beats per minute",
+      "englishSentence": "Tachycardia is an abnormally rapid resting heart rate, usually over 100 beats per minute.",
+      "parts": {
+        "prefix": { "value": "tachy", "meaning": "سريع", "function": "يشير إلى السرعة" },
+        "root": { "value": "card", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضبط معدل ضربات القلب",
+      "systemFunction_en": "Regulate heart rate",
+      "location": "جهاز التوصيل الكهربائي للقلب",
+      "location_en": "Cardiac conduction system",
+      "nearbyOrgans": ["العقدة الجيبية", "الأذينين", "البطينين"],
+      "nearbyOrgans_en": ["SA node", "Atria", "Ventricles"],
+      "diseases": [
+        {
+          "name": "تسارع القلب فوق البطيني",
+          "name_en": "Supraventricular tachycardia",
+          "symptoms": ["خفقان", "دوار", "ضيق تنفس"],
+          "symptoms_en": ["Palpitations", "Dizziness", "Shortness of breath"],
+          "treatments": ["مناورات", "أدوية", "استئصال"],
+          "treatments_en": ["Maneuvers", "Medications", "Ablation"]
+        }
+      ],
+      "keywords": ["fast heart rate", "rapid heartbeat"],
+      "chapter": 5
+    },
+    {
+      "id": 561,
+      "term": "palpitation",
+      "arabic": "خفقان القلب",
+      "latin": "palpitatio",
+      "pronunciation": "بال-بي-تاي-شن",
+      "definition": "شعور بخفقان أو تسارع في القلب مع أو بدون عدم انتظام في الإيقاع",
+      "definition_en": "A sensation of pounding or racing in the heart, with or without irregularity in rhythm",
+      "englishSentence": "Palpitation is a pounding or racing heart sensation, with or without irregularity.",
+      "parts": {
+        "root": { "value": "palpit", "meaning": "خفقان", "function": "يشير إلى الخفقان" },
+        "suffix": { "value": "ation", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "symptom",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نظم القلب",
+      "systemFunction_en": "Heart rhythm",
+      "location": "الصدر",
+      "location_en": "Chest",
+      "nearbyOrgans": ["القلب", "الصدر"],
+      "nearbyOrgans_en": ["Heart", "Chest"],
+      "diseases": [],
+      "keywords": ["heart racing", "pounding heart"],
+      "chapter": 5
+    },
+    {
+      "id": 562,
+      "term": "aneurysm",
+      "arabic": "تمدد الأوعية الدموية (أنيوريزما)",
+      "latin": "aneurysma",
+      "pronunciation": "آن-يو-ريزم",
+      "definition": "بقعة ضعيفة موضعية أو توسع يشبه البالون في جدار الشريان",
+      "definition_en": "A localized weak spot or balloon-like enlargement in the wall of an artery",
+      "englishSentence": "An aneurysm is a localized weak spot or balloon-like enlargement of an artery wall.",
+      "parts": {
+        "prefix": { "value": "ana", "meaning": "خلال", "function": "يشير إلى التوسع" },
+        "root": { "value": "eurys", "meaning": "متسع", "function": "يشير إلى الاتساع" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدم",
+      "systemFunction_en": "Blood transport",
+      "location": "الشريان الأبهر (الأكثر شيوعاً)، الشرايين الدماغية، الطرفية",
+      "location_en": "Aorta (most common), cerebral arteries, peripheral arteries",
+      "nearbyOrgans": ["جدار الشريان", "الأنسجة المحيطة"],
+      "nearbyOrgans_en": ["Artery wall", "Surrounding tissues"],
+      "diseases": [
+        {
+          "name": "تمدد الأبهر البطني",
+          "name_en": "Abdominal aortic aneurysm",
+          "symptoms": ["غالباً بدون أعراض", "نبض في البطن", "ألم بطني", "ألم ظهر"],
+          "symptoms_en": ["Often asymptomatic", "Pulsating abdomen", "Abdominal pain", "Back pain"],
+          "treatments": ["مراقبة", "جراحة", "دعامة"],
+          "treatments_en": ["Monitoring", "Surgery", "Stent graft"]
+        }
+      ],
+      "keywords": ["arterial dilation", "vessel bulge"],
+      "chapter": 5
+    },
+    {
+      "id": 563,
+      "term": "phlebitis",
+      "arabic": "التهاب الوريد",
+      "latin": "phlebitis",
+      "pronunciation": "فلي-باي-تس",
+      "definition": "التهاب في الوريد، وعادة ما يحدث في الوريد السطحي",
+      "definition_en": "Inflammation of a vein, usually occurring in a superficial vein",
+      "englishSentence": "Phlebitis is inflammation of a vein, usually occurring in a superficial vein.",
+      "parts": {
+        "root": { "value": "phleb", "meaning": "وريد", "function": "يشير إلى الوريد" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدم",
+      "systemFunction_en": "Blood transport",
+      "location": "الأوردة (غالباً السطحية في الساقين)",
+      "location_en": "Veins (often superficial leg veins)",
+      "nearbyOrgans": ["الوريد", "الجلد", "الأنسجة تحت الجلد"],
+      "nearbyOrgans_en": ["Vein", "Skin", "Subcutaneous tissue"],
+      "diseases": [
+        {
+          "name": "التهاب الوريد السطحي",
+          "name_en": "Superficial phlebitis",
+          "symptoms": ["احمرار", "ألم", "تورم", "سخونة"],
+          "symptoms_en": ["Redness", "Pain", "Swelling", "Warmth"],
+          "treatments": ["مضادات التهاب", "كمادات دافئة", "رفع الطرف"],
+          "treatments_en": ["Anti-inflammatories", "Warm compresses", "Elevation"]
+        }
+      ],
+      "keywords": ["vein inflammation"],
+      "chapter": 5
+    },
+    {
+      "id": 564,
+      "term": "chronic venous insufficiency",
+      "arabic": "قصور وريدي مزمن",
+      "latin": "insufficientia venosa chronica",
+      "pronunciation": "كرون-يك في-نوس إن-سو-في-شن-سي",
+      "definition": "حالة تكون فيها الدورة الدموية الوريدية غير كافية بسبب انسداد جزئي في الوريد أو تسرب في الصمامات الوريدية",
+      "definition_en": "A condition in which venous circulation is inadequate due to partial vein blockage or leakage in venous valves",
+      "englishSentence": "Chronic venous insufficiency is inadequate venous circulation due to blockage or valve leakage.",
+      "parts": {
+        "root": { "value": "ven", "meaning": "وريد", "function": "يشير إلى الوريد" },
+        "suffix": { "value": "ous", "meaning": "صفة", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "إعادة الدم إلى القلب",
+      "systemFunction_en": "Return blood to heart",
+      "location": "أوردة الساقين",
+      "location_en": "Leg veins",
+      "nearbyOrgans": ["الأوردة", "الجلد", "العضلات", "الصمامات الوريدية"],
+      "nearbyOrgans_en": ["Veins", "Skin", "Muscles", "Venous valves"],
+      "diseases": [
+        {
+          "name": "القصور الوريدي المزمن",
+          "name_en": "Chronic venous insufficiency",
+          "symptoms": ["تورم الساقين", "ألم", "ثقل", "تغير لون الجلد", "تقرحات"],
+          "symptoms_en": ["Leg swelling", "Pain", "Heaviness", "Skin color changes", "Ulcers"],
+          "treatments": ["جوارب ضاغطة", "رفع الساقين", "جراحة"],
+          "treatments_en": ["Compression stockings", "Leg elevation", "Surgery"]
+        }
+      ],
+      "keywords": ["venous stasis", "CVI"],
+      "chapter": 5
+    },
+    {
+      "id": 565,
+      "term": "thrombosis",
+      "arabic": "خثار (تجلط)",
+      "latin": "thrombosis",
+      "pronunciation": "ثروم-بو-سيس",
+      "definition": "الحالة غير الطبيعية لوجود خثرة (جلطة دموية)",
+      "definition_en": "The abnormal condition of having a thrombus (blood clot)",
+      "englishSentence": "Thrombosis is the abnormal condition of having a thrombus.",
+      "parts": {
+        "root": { "value": "thromb", "meaning": "جلطة", "function": "يشير إلى الجلطة" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تخثر الدم",
+      "systemFunction_en": "Blood clotting",
+      "location": "الأوردة (غالباً) أو الشرايين",
+      "location_en": "Veins (often) or arteries",
+      "nearbyOrgans": ["الأوعية الدموية", "الصمامات الوريدية"],
+      "nearbyOrgans_en": ["Blood vessels", "Venous valves"],
+      "diseases": [
+        {
+          "name": "خثار وريدي عميق",
+          "name_en": "Deep vein thrombosis",
+          "symptoms": ["ألم ساق", "تورم", "احمرار"],
+          "symptoms_en": ["Leg pain", "Swelling", "Redness"],
+          "treatments": ["مميعات دم", "جوارب ضاغطة"],
+          "treatments_en": ["Blood thinners", "Compression stockings"]
+        }
+      ],
+      "keywords": ["clot formation", "thrombus formation"],
+      "chapter": 5
+    },
+    {
+      "id": 566,
+      "term": "thrombus",
+      "arabic": "خثرة (جلطة دموية)",
+      "latin": "thrombus",
+      "pronunciation": "ثروم-بس",
+      "definition": "جلطة دموية ملتصقة بالجدار الداخلي للشريان أو الوريد",
+      "definition_en": "A blood clot attached to the interior wall of an artery or vein",
+      "englishSentence": "A thrombus is a blood clot attached to the interior wall of an artery or vein.",
+      "parts": {
+        "root": { "value": "thromb", "meaning": "جلطة", "function": "يشير إلى الجلطة" },
+        "suffix": { "value": "us", "meaning": "مفرد", "function": "يشير إلى المفرد" }
+      },
+      "type": "lesion",
+      "plural": "thrombi",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تخثر الدم",
+      "systemFunction_en": "Blood clotting",
+      "location": "داخل الأوعية الدموية",
+      "location_en": "Inside blood vessels",
+      "nearbyOrgans": ["جدار الوعاء الدموي", "الصمامات"],
+      "nearbyOrgans_en": ["Vessel wall", "Valves"],
+      "diseases": [],
+      "keywords": ["blood clot", "attached clot"],
+      "chapter": 5
+    },
+    {
+      "id": 567,
+      "term": "deep vein thrombosis",
+      "arabic": "خثار وريدي عميق",
+      "latin": "thrombosis venae profundae",
+      "pronunciation": "ديب فين ثروم-بو-سيس",
+      "definition": "حالة وجود خثرة ملتصقة بجدار وريد عميق",
+      "definition_en": "The condition of having a thrombus attached to the wall of a deep vein",
+      "englishSentence": "Deep vein thrombosis (DVT) is a thrombus attached to the wall of a deep vein.",
+      "parts": {
+        "root": { "value": "thromb", "meaning": "جلطة", "function": "يشير إلى الجلطة" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "abbreviation": "DVT",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "إعادة الدم إلى القلب",
+      "systemFunction_en": "Return blood to heart",
+      "location": "الأوردة العميقة في الساقين (غالباً)",
+      "location_en": "Deep veins of legs (often)",
+      "nearbyOrgans": ["الأوردة", "العضلات", "الصمامات الوريدية"],
+      "nearbyOrgans_en": ["Veins", "Muscles", "Venous valves"],
+      "diseases": [
+        {
+          "name": "خثار وريدي عميق",
+          "name_en": "Deep vein thrombosis",
+          "symptoms": ["ألم ساق", "تورم", "احمرار", "دفء"],
+          "symptoms_en": ["Leg pain", "Swelling", "Redness", "Warmth"],
+          "treatments": ["مميعات دم", "جوارب ضاغطة", "مذيب جلطات"],
+          "treatments_en": ["Blood thinners", "Compression stockings", "Clot busters"]
+        }
+      ],
+      "keywords": ["DVT", "venous thromboembolism"],
+      "chapter": 5
+    },
+    {
+      "id": 568,
+      "term": "embolism",
+      "arabic": "انصمام",
+      "latin": "embolismus",
+      "pronunciation": "إم-بو-ليزم",
+      "definition": "انسداد مفاجئ في وعاء دموي بواسطة صمة",
+      "definition_en": "The sudden blockage of a blood vessel by an embolus",
+      "englishSentence": "An embolism is the sudden blockage of a blood vessel by an embolus.",
+      "parts": {
+        "root": { "value": "embol", "meaning": "صمة", "function": "يشير إلى الصمة" },
+        "suffix": { "value": "ism", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدم",
+      "systemFunction_en": "Blood transport",
+      "location": "الأوعية الدموية (الرئتين، الدماغ، الأطراف)",
+      "location_en": "Blood vessels (lungs, brain, limbs)",
+      "nearbyOrgans": ["الرئتين", "الدماغ", "القلب", "الأطراف"],
+      "nearbyOrgans_en": ["Lungs", "Brain", "Heart", "Limbs"],
+      "diseases": [
+        {
+          "name": "انصمام رئوي",
+          "name_en": "Pulmonary embolism",
+          "symptoms": ["ضيق تنفس مفاجئ", "ألم صدر", "سعال دموي", "تسرع تنفس"],
+          "symptoms_en": ["Sudden shortness of breath", "Chest pain", "Coughing blood", "Tachypnea"],
+          "treatments": ["مميعات دم", "مذيب جلطات", "جراحة"],
+          "treatments_en": ["Blood thinners", "Clot busters", "Surgery"]
+        }
+      ],
+      "keywords": ["vessel blockage", "embolic event"],
+      "chapter": 5
+    },
+    {
+      "id": 569,
+      "term": "embolus",
+      "arabic": "صمة",
+      "latin": "embolus",
+      "pronunciation": "إم-بو-لس",
+      "definition": "جسم غريب ينتقل في الدم، مثل جلطة دموية أو فقاعة هواء أو جزء من ورم، ويمكن أن يسبب انسداداً",
+      "definition_en": "A foreign object circulating in the blood, such as a blood clot, air bubble, or tumor fragment, that can cause blockage",
+      "englishSentence": "An embolus is a foreign object circulating in the blood that can cause blockage.",
+      "parts": {
+        "root": { "value": "embol", "meaning": "صمة", "function": "يشير إلى الصمة" },
+        "suffix": { "value": "us", "meaning": "مفرد", "function": "يشير إلى المفرد" }
+      },
+      "type": "lesion",
+      "plural": "emboli",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدم",
+      "systemFunction_en": "Blood transport",
+      "location": "ينتقل في مجرى الدم",
+      "location_en": "Travels in bloodstream",
+      "nearbyOrgans": ["الأوعية الدموية", "الأعضاء المستهدفة"],
+      "nearbyOrgans_en": ["Blood vessels", "Target organs"],
+      "diseases": [],
+      "keywords": ["traveling clot", "obstructive particle"],
+      "chapter": 5
+    },
+    {
+      "id": 570,
+      "term": "leukopenia",
+      "arabic": "نقص الكريات البيض",
+      "latin": "leukopenia",
+      "pronunciation": "لو-كو-بي-ني-آ",
+      "definition": "أي حالة يكون فيها العدد الإجمالي للكريات البيض في الدم أقل من الطبيعي",
+      "definition_en": "Any condition in which the total number of leukocytes in the blood is lower than normal",
+      "englishSentence": "Leukopenia is a lower than normal number of leukocytes in the blood.",
+      "parts": {
+        "root": { "value": "leuk/o", "meaning": "أبيض", "function": "يشير إلى الأبيض" },
+        "suffix": { "value": "penia", "meaning": "نقص", "function": "يشير إلى النقص" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "الدفاع عن الجسم",
+      "systemFunction_en": "Body defense",
+      "location": "الدم",
+      "location_en": "Blood",
+      "nearbyOrgans": ["نخاع العظم", "الطحال", "الدم"],
+      "nearbyOrgans_en": ["Bone marrow", "Spleen", "Blood"],
+      "diseases": [
+        {
+          "name": "نقص الكريات البيض",
+          "name_en": "Leukopenia",
+          "symptoms": ["التهابات متكررة", "حمى", "تعب"],
+          "symptoms_en": ["Frequent infections", "Fever", "Fatigue"],
+          "treatments": ["علاج السبب", "عوامل نمو"],
+          "treatments_en": ["Treat cause", "Growth factors"]
+        }
+      ],
+      "keywords": ["low WBC count"],
+      "chapter": 5
+    },
+    {
+      "id": 571,
+      "term": "thrombocytopenia",
+      "arabic": "نقص الصفيحات الدموية",
+      "latin": "thrombocytopenia",
+      "pronunciation": "ثروم-بو-ساي-تو-بي-ني-آ",
+      "definition": "حالة وجود عدد قليل بشكل غير طبيعي من الصفيحات الدموية في الدم، مما قد يسبب نزيفاً غير طبيعي",
+      "definition_en": "A condition of abnormally small number of platelets in the blood, which may cause abnormal bleeding",
+      "englishSentence": "Thrombocytopenia is an abnormally small number of platelets, sometimes causing abnormal bleeding.",
+      "parts": {
+        "root1": { "value": "thromb/o", "meaning": "جلطة", "function": "يشير إلى التجلط" },
+        "root2": { "value": "cyt/o", "meaning": "خلية", "function": "يشير إلى الخلية" },
+        "suffix": { "value": "penia", "meaning": "نقص", "function": "يشير إلى النقص" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تخثر الدم",
+      "systemFunction_en": "Blood clotting",
+      "location": "الدم",
+      "location_en": "Blood",
+      "nearbyOrgans": ["نخاع العظم", "الطحال", "الدم"],
+      "nearbyOrgans_en": ["Bone marrow", "Spleen", "Blood"],
+      "diseases": [
+        {
+          "name": "نقص الصفيحات",
+          "name_en": "Thrombocytopenia",
+          "symptoms": ["نزيف", "كدمات", "نزف تحت الجلد"],
+          "symptoms_en": ["Bleeding", "Bruising", "Petechiae"],
+          "treatments": ["نقل صفيحات", "أدوية", "استئصال طحال"],
+          "treatments_en": ["Platelet transfusion", "Medications", "Splenectomy"]
+        }
+      ],
+      "keywords": ["low platelet count"],
+      "chapter": 5
+    },
+    {
+      "id": 572,
+      "term": "thrombocytosis",
+      "arabic": "كثرة الصفيحات الدموية",
+      "latin": "thrombocytosis",
+      "pronunciation": "ثروم-بو-ساي-تو-سيس",
+      "definition": "زيادة غير طبيعية في عدد الصفيحات الدموية في الدم",
+      "definition_en": "An abnormal increase in the number of platelets in the blood",
+      "englishSentence": "Thrombocytosis is an abnormal increase in the number of platelets in the blood.",
+      "parts": {
+        "root1": { "value": "thromb/o", "meaning": "جلطة", "function": "يشير إلى التجلط" },
+        "root2": { "value": "cyt", "meaning": "خلية", "function": "يشير إلى الخلية" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تخثر الدم",
+      "systemFunction_en": "Blood clotting",
+      "location": "الدم",
+      "location_en": "Blood",
+      "nearbyOrgans": ["نخاع العظم", "الدم"],
+      "nearbyOrgans_en": ["Bone marrow", "Blood"],
+      "diseases": [
+        {
+          "name": "كثرة الصفيحات",
+          "name_en": "Thrombocytosis",
+          "symptoms": ["قد تكون بدون أعراض", "صداع", "تخثر", "نزيف"],
+          "symptoms_en": ["May be asymptomatic", "Headache", "Clotting", "Bleeding"],
+          "treatments": ["أسبرين", "أدوية"],
+          "treatments_en": ["Aspirin", "Medications"]
+        }
+      ],
+      "keywords": ["high platelet count"],
+      "chapter": 5
+    },
+    {
+      "id": 573,
+      "term": "polycythemia",
+      "arabic": "كثرة الكريات الحمراء",
+      "latin": "polycythaemia",
+      "pronunciation": "بول-إي-ساي-ثي-مي-آ",
+      "definition": "زيادة غير طبيعية في عدد خلايا الدم الحمراء بسبب الإنتاج الزائد من نخاع العظم",
+      "definition_en": "An abnormal increase in red blood cells due to excess production by bone marrow",
+      "englishSentence": "Polycythemia is an abnormal increase in red blood cells due to excess bone marrow production.",
+      "parts": {
+        "prefix": { "value": "poly", "meaning": "كثير", "function": "يشير إلى الكثرة" },
+        "root": { "value": "cyt", "meaning": "خلية", "function": "يشير إلى الخلية" },
+        "suffix": { "value": "emia", "meaning": "دم", "function": "يشير إلى حالة في الدم" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الأكسجين",
+      "systemFunction_en": "Oxygen transport",
+      "location": "الدم",
+      "location_en": "Blood",
+      "nearbyOrgans": ["نخاع العظم", "الدم", "الطحال"],
+      "nearbyOrgans_en": ["Bone marrow", "Blood", "Spleen"],
+      "diseases": [
+        {
+          "name": "كثرة الحمر الحقيقية",
+          "name_en": "Polycythemia vera",
+          "symptoms": ["صداع", "دوار", "احمرار الوجه", "حكة", "تضخم طحال"],
+          "symptoms_en": ["Headache", "Dizziness", "Facial redness", "Itching", "Splenomegaly"],
+          "treatments": ["فصد الدم", "أدوية"],
+          "treatments_en": ["Phlebotomy", "Medications"]
+        }
+      ],
+      "keywords": ["high RBC count", "erythrocytosis"],
+      "chapter": 5
+    },
+    {
+      "id": 574,
+      "term": "septicemia",
+      "arabic": "تسمم الدم",
+      "latin": "septicaemia",
+      "pronunciation": "سيب-تي-سيم-ي-آ",
+      "definition": "حالة جهازية تسببها انتشار الكائنات الدقيقة وسمومها عبر الدم المنتشر",
+      "definition_en": "A systemic condition caused by the spread of microorganisms and their toxins through the circulating blood",
+      "englishSentence": "Septicemia is a systemic condition caused by microorganisms and their toxins in the blood.",
+      "parts": {
+        "root": { "value": "septic", "meaning": "تعفني", "function": "يشير إلى التلوث الجرثومي" },
+        "suffix": { "value": "emia", "meaning": "دم", "function": "يشير إلى حالة في الدم" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "الدفاع عن الجسم",
+      "systemFunction_en": "Body defense",
+      "location": "الدم وجميع أنحاء الجسم",
+      "location_en": "Blood and throughout body",
+      "nearbyOrgans": ["الدم", "القلب", "الرئتين", "الكلى", "الكبد"],
+      "nearbyOrgans_en": ["Blood", "Heart", "Lungs", "Kidneys", "Liver"],
+      "diseases": [
+        {
+          "name": "الإنتان",
+          "name_en": "Sepsis",
+          "symptoms": ["حمى", "تسرع قلب", "تسرع تنفس", "هبوط ضغط", "تشوش ذهني"],
+          "symptoms_en": ["Fever", "Tachycardia", "Tachypnea", "Hypotension", "Confusion"],
+          "treatments": ["مضادات حيوية", "سوائل وريدية", "دعم وظائف الأعضاء"],
+          "treatments_en": ["Antibiotics", "IV fluids", "Organ support"]
+        }
+      ],
+      "keywords": ["blood poisoning", "sepsis"],
+      "chapter": 5
+    },
+    {
+      "id": 575,
+      "term": "hyperlipidemia",
+      "arabic": "فرط شحميات الدم",
+      "latin": "hyperlipidaemia",
+      "pronunciation": "هاي-بر-لي-بي-دي-مي-آ",
+      "definition": "المصطلح العام لوصف ارتفاع مستويات الكوليسترول والمواد الدهنية الأخرى في الدم",
+      "definition_en": "The general term for describing elevated levels of cholesterol and other fatty substances in the blood",
+      "englishSentence": "Hyperlipidemia describes elevated levels of cholesterol and other fatty substances in the blood.",
+      "parts": {
+        "prefix": { "value": "hyper", "meaning": "فرط", "function": "يشير إلى الزيادة" },
+        "root": { "value": "lipid", "meaning": "دهن", "function": "يشير إلى الدهون" },
+        "suffix": { "value": "emia", "meaning": "دم", "function": "يشير إلى حالة في الدم" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدهون",
+      "systemFunction_en": "Transport fats",
+      "location": "الدم",
+      "location_en": "Blood",
+      "nearbyOrgans": ["الكبد", "الشرايين", "الدم"],
+      "nearbyOrgans_en": ["Liver", "Arteries", "Blood"],
+      "diseases": [
+        {
+          "name": "فرط شحميات الدم",
+          "name_en": "Hyperlipidemia",
+          "symptoms": ["غالباً بدون أعراض", "تصلب شرايين", "أمراض قلب"],
+          "symptoms_en": ["Often asymptomatic", "Atherosclerosis", "Heart disease"],
+          "treatments": ["أدوية خفض الكوليسترول", "تغيير نمط الحياة", "حمية"],
+          "treatments_en": ["Cholesterol-lowering drugs", "Lifestyle changes", "Diet"]
+        }
+      ],
+      "keywords": ["high cholesterol", "lipid disorder"],
+      "chapter": 5
+    },
+    {
+      "id": 576,
+      "term": "hyperlipemia",
+      "arabic": "فرط شحميات الدم",
+      "latin": "hyperlipaemia",
+      "pronunciation": "هاي-بر-لي-بي-مي-آ",
+      "definition": "اسم آخر لفرط شحميات الدم",
+      "definition_en": "Another name for hyperlipidemia",
+      "englishSentence": "Hyperlipemia is another term for hyperlipidemia.",
+      "parts": {
+        "prefix": { "value": "hyper", "meaning": "فرط", "function": "يشير إلى الزيادة" },
+        "root": { "value": "lip", "meaning": "دهن", "function": "يشير إلى الدهون" },
+        "suffix": { "value": "emia", "meaning": "دم", "function": "يشير إلى حالة في الدم" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الدهون",
+      "systemFunction_en": "Transport fats",
+      "location": "الدم",
+      "location_en": "Blood",
+      "nearbyOrgans": ["الكبد", "الشرايين"],
+      "nearbyOrgans_en": ["Liver", "Arteries"],
+      "diseases": [],
+      "keywords": ["hyperlipidemia"],
+      "chapter": 5
+    },
+    {
+      "id": 577,
+      "term": "leukemia",
+      "arabic": "لوكيميا (ابيضاض الدم)",
+      "latin": "leukaemia",
+      "pronunciation": "لو-كيم-ي-آ",
+      "definition": "نوع من السرطان يتميز بزيادة تدريجية في عدد الكريات البيض غير الطبيعية في الدم",
+      "definition_en": "A type of cancer characterized by a progressive increase in the number of abnormal leukocytes in the blood",
+      "englishSentence": "Leukemia is a cancer with progressive increase in abnormal leukocytes in the blood.",
+      "parts": {
+        "root": { "value": "leuk", "meaning": "أبيض", "function": "يشير إلى الأبيض" },
+        "suffix": { "value": "emia", "meaning": "دم", "function": "يشير إلى حالة في الدم" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "إنتاج خلايا الدم",
+      "systemFunction_en": "Blood cell production",
+      "location": "نخاع العظم والدم",
+      "location_en": "Bone marrow and blood",
+      "nearbyOrgans": ["نخاع العظم", "الدم", "الطحال", "العقد الليمفاوية"],
+      "nearbyOrgans_en": ["Bone marrow", "Blood", "Spleen", "Lymph nodes"],
+      "diseases": [
+        {
+          "name": "ابيضاض الدم الليمفاوي الحاد",
+          "name_en": "Acute lymphoblastic leukemia",
+          "symptoms": ["تعب", "حمى", "نزيف", "كدمات", "ألم عظمي"],
+          "symptoms_en": ["Fatigue", "Fever", "Bleeding", "Bruising", "Bone pain"],
+          "treatments": ["علاج كيميائي", "علاج إشعاعي", "زراعة نخاع العظم"],
+          "treatments_en": ["Chemotherapy", "Radiation therapy", "Bone marrow transplant"]
+        }
+      ],
+      "keywords": ["blood cancer", "WBC cancer"],
+      "chapter": 5
+    },
+    {
+      "id": 578,
+      "term": "anemia",
+      "arabic": "فقر الدم",
+      "latin": "anaemia",
+      "pronunciation": "آ-نيم-ي-آ",
+      "definition": "انخفاض عدد كريات الدم الحمراء عن المعدل الطبيعي، وتقاس شدته عادة بانخفاض كمية الهيموجلوبين في الدم",
+      "definition_en": "A lower than normal number of erythrocytes, usually measured by decreased amount of hemoglobin in the blood",
+      "englishSentence": "Anemia is a lower than normal number of erythrocytes, measured by decreased hemoglobin.",
+      "parts": {
+        "prefix": { "value": "an", "meaning": "بدون", "function": "يشير إلى النفي" },
+        "suffix": { "value": "emia", "meaning": "دم", "function": "يشير إلى حالة في الدم" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "نقل الأكسجين",
+      "systemFunction_en": "Oxygen transport",
+      "location": "الدم",
+      "location_en": "Blood",
+      "nearbyOrgans": ["نخاع العظم", "الدم", "الطحال"],
+      "nearbyOrgans_en": ["Bone marrow", "Blood", "Spleen"],
+      "diseases": [
+        {
+          "name": "فقر الدم بعوز الحديد",
+          "name_en": "Iron deficiency anemia",
+          "symptoms": ["تعب", "شحوب", "ضيق تنفس", "دوار", "ضعف"],
+          "symptoms_en": ["Fatigue", "Pallor", "Shortness of breath", "Dizziness", "Weakness"],
+          "treatments": ["مكملات حديد", "تغذية"],
+          "treatments_en": ["Iron supplements", "Nutrition"]
+        },
+        {
+          "name": "فقر الدم الخبيث",
+          "name_en": "Pernicious anemia",
+          "symptoms": ["تعب", "شحوب", "خدر", "صعوبة مشي", "تسارع قلب"],
+          "symptoms_en": ["Fatigue", "Pallor", "Numbness", "Difficulty walking", "Tachycardia"],
+          "treatments": ["حقن فيتامين ب12"],
+          "treatments_en": ["Vitamin B12 injections"]
+        }
+      ],
+      "keywords": ["low RBC count", "low hemoglobin"],
+      "chapter": 5
+    },
+    {
+      "id": 579,
+      "term": "hypertension",
+      "arabic": "ارتفاع ضغط الدم",
+      "latin": "hypertensio",
+      "pronunciation": "هاي-بر-تن-شن",
+      "definition": "ارتفاع ضغط الدم الشرياني إلى مستوى قد يسبب ضرراً للجهاز القلبي الوعائي",
+      "definition_en": "Elevated arterial blood pressure to a level that may cause damage to the cardiovascular system",
+      "englishSentence": "Hypertension is elevated arterial blood pressure likely to cause cardiovascular damage.",
+      "parts": {
+        "prefix": { "value": "hyper", "meaning": "فرط", "function": "يشير إلى الزيادة" },
+        "root": { "value": "tens", "meaning": "ضغط", "function": "يشير إلى الضغط" },
+        "suffix": { "value": "ion", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "abbreviation": "HTN",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضبط ضغط الدم",
+      "systemFunction_en": "Regulate blood pressure",
+      "location": "الشرايين في جميع أنحاء الجسم",
+      "location_en": "Arteries throughout body",
+      "nearbyOrgans": ["القلب", "الشرايين", "الكلى", "الدماغ", "العينين"],
+      "nearbyOrgans_en": ["Heart", "Arteries", "Kidneys", "Brain", "Eyes"],
+      "diseases": [
+        {
+          "name": "ارتفاع ضغط الدم الأساسي",
+          "name_en": "Essential hypertension",
+          "symptoms": ["غالباً بدون أعراض", "صداع", "دوار", "تعب"],
+          "symptoms_en": ["Often asymptomatic", "Headache", "Dizziness", "Fatigue"],
+          "treatments": ["أدوية", "تغيير نمط الحياة", "تخفيف الملح", "تمارين"],
+          "treatments_en": ["Medications", "Lifestyle changes", "Salt reduction", "Exercise"]
+        }
+      ],
+      "keywords": ["high blood pressure", "HTN"],
+      "chapter": 5
+    },
+    {
+      "id": 580,
+      "term": "hypotension",
+      "arabic": "انخفاض ضغط الدم",
+      "latin": "hypotensio",
+      "pronunciation": "هاي-بو-تن-شن",
+      "definition": "انخفاض ضغط الدم الشرياني عن المعدل الطبيعي، وقد تشمل أعراضه الدوخة والدوار والإغماء",
+      "definition_en": "Lower than normal arterial blood pressure, with symptoms possibly including dizziness, lightheadedness, and fainting",
+      "englishSentence": "Hypotension is lower than normal arterial blood pressure, with symptoms like dizziness.",
+      "parts": {
+        "prefix": { "value": "hypo", "meaning": "نقص", "function": "يشير إلى النقص" },
+        "root": { "value": "tens", "meaning": "ضغط", "function": "يشير إلى الضغط" },
+        "suffix": { "value": "ion", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "ضبط ضغط الدم",
+      "systemFunction_en": "Regulate blood pressure",
+      "location": "الشرايين في جميع أنحاء الجسم",
+      "location_en": "Arteries throughout body",
+      "nearbyOrgans": ["القلب", "الشرايين", "الدماغ"],
+      "nearbyOrgans_en": ["Heart", "Arteries", "Brain"],
+      "diseases": [
+        {
+          "name": "انخفاض ضغط الدم الانتصابي",
+          "name_en": "Orthostatic hypotension",
+          "symptoms": ["دوار عند الوقوف", "إغماء", "تشوش رؤية"],
+          "symptoms_en": ["Dizziness upon standing", "Fainting", "Blurred vision"],
+          "treatments": ["زيادة السوائل", "ملح", "أدوية", "جوارب ضاغطة"],
+          "treatments_en": ["Increase fluids", "Salt", "Medications", "Compression stockings"]
+        }
+      ],
+      "keywords": ["low blood pressure"],
+      "chapter": 5
+    },
+    {
+      "id": 581,
+      "term": "angiography",
+      "arabic": "تصوير الأوعية الدموية",
+      "latin": "angiographia",
+      "pronunciation": "آن-جي-أو-جرا-في",
+      "definition": "دراسة تصويرية (أشعة سينية) للأوعية الدموية بعد حقن مادة تباين",
+      "definition_en": "A radiographic study of blood vessels after injection of a contrast medium",
+      "englishSentence": "Angiography is a radiographic study of blood vessels after contrast medium injection.",
+      "parts": {
+        "root": { "value": "angi/o", "meaning": "وعاء", "function": "يشير إلى الأوعية الدموية" },
+        "suffix": { "value": "graphy", "meaning": "تصوير", "function": "يشير إلى عملية التصوير" }
+      },
+      "type": "procedure",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تشخيص أمراض الأوعية الدموية",
+      "systemFunction_en": "Diagnose blood vessel diseases",
+      "location": "الشرايين والأوردة",
+      "location_en": "Arteries and veins",
+      "nearbyOrgans": ["الشرايين", "الأوردة", "القلب", "الدماغ"],
+      "nearbyOrgans_en": ["Arteries", "Veins", "Heart", "Brain"],
+      "diseases": [],
+      "keywords": ["vessel imaging", "arteriogram"],
+      "chapter": 5
+    },
+    {
+      "id": 582,
+      "term": "cardiac catheterization",
+      "arabic": "قسطرة القلب",
+      "latin": "catheterizatio cordis",
+      "pronunciation": "كار-دي-آك كاث-إي-تير-آي-زاي-شن",
+      "definition": "إجراء تشخيصي يتم فيه إدخال قسطرة في وريد أو شريان وتوجيهها إلى القلب، ثم إدخال مادة تباين لإنتاج صورة وعائية لتقييم وظائف القلب",
+      "definition_en": "A diagnostic procedure in which a catheter is inserted into a vein or artery and guided to the heart, then contrast medium is injected to produce angiograms to assess heart function",
+      "englishSentence": "Cardiac catheterization passes a catheter into the heart to inject contrast for angiograms.",
+      "parts": {
+        "root": { "value": "catheter", "meaning": "قسطرة", "function": "يشير إلى القسطرة" },
+        "suffix": { "value": "ization", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "procedure",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تشخيص وعلاج أمراض القلب",
+      "systemFunction_en": "Diagnose and treat heart diseases",
+      "location": "القلب والشرايين التاجية",
+      "location_en": "Heart and coronary arteries",
+      "nearbyOrgans": ["القلب", "الشرايين التاجية", "الأبهر"],
+      "nearbyOrgans_en": ["Heart", "Coronary arteries", "Aorta"],
+      "diseases": [],
+      "keywords": ["heart cath", "coronary angiography"],
+      "chapter": 5
+    },
+    {
+      "id": 583,
+      "term": "electrocardiography",
+      "arabic": "تخطيط كهربية القلب",
+      "latin": "electrocardiographia",
+      "pronunciation": "إي-ليك-ترو-كار-دي-أو-جرا-في",
+      "definition": "عملية غير اجتياحية لتسجيل النشاط الكهربائي لعضلة القلب",
+      "definition_en": "A noninvasive process for recording the electrical activity of the myocardium",
+      "englishSentence": "Electrocardiography is the noninvasive recording of the electrical activity of the myocardium.",
+      "parts": {
+        "root1": { "value": "electr/o", "meaning": "كهرباء", "function": "يشير إلى الكهرباء" },
+        "root2": { "value": "cardi/o", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "graphy", "meaning": "تسجيل", "function": "يشير إلى عملية التسجيل" }
+      },
+      "type": "procedure",
+      "abbreviation": "ECG, EKG",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تسجيل النشاط الكهربائي للقلب",
+      "systemFunction_en": "Record heart's electrical activity",
+      "location": "الصدر والأطراف",
+      "location_en": "Chest and limbs",
+      "nearbyOrgans": ["القلب", "الصدر"],
+      "nearbyOrgans_en": ["Heart", "Chest"],
+      "diseases": [],
+      "keywords": ["ECG", "EKG", "heart electrical recording"],
+      "chapter": 5
+    },
+    {
+      "id": 584,
+      "term": "electrocardiogram",
+      "arabic": "مخطط كهربية القلب",
+      "latin": "electrocardiogramma",
+      "pronunciation": "إي-ليك-ترو-كار-دي-أو-جرام",
+      "definition": "تسجيل النشاط الكهربائي لعضلة القلب",
+      "definition_en": "A record of the electrical activity of the myocardium",
+      "englishSentence": "An electrocardiogram is a record of the electrical activity of the myocardium.",
+      "parts": {
+        "root1": { "value": "electr/o", "meaning": "كهرباء", "function": "يشير إلى الكهرباء" },
+        "root2": { "value": "cardi/o", "meaning": "قلب", "function": "يشير إلى القلب" },
+        "suffix": { "value": "gram", "meaning": "تسجيل", "function": "يشير إلى التسجيل" }
+      },
+      "type": "record",
+      "abbreviation": "ECG, EKG",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تسجيل النشاط الكهربائي للقلب",
+      "systemFunction_en": "Record heart's electrical activity",
+      "location": "الصدر والأطراف",
+      "location_en": "Chest and limbs",
+      "nearbyOrgans": ["القلب", "الصدر"],
+      "nearbyOrgans_en": ["Heart", "Chest"],
+      "diseases": [],
+      "keywords": ["ECG tracing", "heart rhythm strip"],
+      "chapter": 5
+    },
+    {
+      "id": 585,
+      "term": "stress test",
+      "arabic": "اختبار الجهد (تحمل القلب)",
+      "latin": "probatio patientis exercitationis",
+      "pronunciation": "ستريس تيست",
+      "definition": "اختبار لتقييم صحة ووظائف القلب أثناء وبعد الإجهاد، ويتضمن مراقبة مخطط كهربية القلب أثناء تمرين المريض على جهاز المشي",
+      "definition_en": "A test to evaluate heart health and function during and after stress, involving ECG monitoring while the patient exercises on a treadmill",
+      "englishSentence": "A stress test assesses cardiovascular health during and after exercise on a treadmill.",
+      "parts": {
+        "root": { "value": "stress", "meaning": "جهد", "function": "يشير إلى الإجهاد" }
+      },
+      "type": "procedure",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "systemFunction": "تقييم استجابة القلب للجهد",
+      "systemFunction_en": "Assess heart response to exertion",
+      "location": "جهاز المشي ومخطط كهربية القلب",
+      "location_en": "Treadmill and ECG",
+      "nearbyOrgans": ["القلب", "الشرايين التاجية"],
+      "nearbyOrgans_en": ["Heart", "Coronary arteries"],
+      "diseases": [],
+      "keywords": ["exercise tolerance test", "treadmill test"],
+      "chapter": 5
+    }
+  ]
+}

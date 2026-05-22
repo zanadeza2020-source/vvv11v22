@@ -1,0 +1,869 @@
+{
+  "chapter": 13,
+  "title": "The Reproductive System",
+  "title_ar": "الجهاز التناسلي",
+  "title_en": "The Reproductive System",
+  "description": "المصطلحات الطبية المتعلقة بالجهاز التناسلي الذكري والأنثوي وأمراضهما وإجراءاتهما التشخيصية والعلاجية",
+  "description_en": "Medical terminology related to the male and female reproductive systems, their diseases, and diagnostic and therapeutic procedures",
+  "terms": [
+    {
+      "id": 1301,
+      "term": "reproductive system",
+      "arabic": "الجهاز التناسلي",
+      "latin": "systema reproductivum",
+      "pronunciation": "ري-برو-دَك-تيف سيس-تم",
+      "definition": "الجهاز المسؤول عن التكاثر والإنجاب، ويشمل الأعضاء التناسلية الذكرية والأنثوية",
+      "definition_en": "The system responsible for reproduction, including both male and female reproductive organs",
+      "englishSentence": "The reproductive system enables human reproduction through the production of sex cells and hormones.",
+      "type": "system",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "إنتاج الخلايا الجنسية والهرمونات والإنجاب",
+      "systemFunction_en": "Production of sex cells, hormones, and reproduction",
+      "location": "منطقة الحوض",
+      "location_en": "Pelvic region",
+      "nearbyOrgans": ["المثانة", "المستقيم", "الكلى", "الغدد الكظرية"],
+      "nearbyOrgans_en": ["Bladder", "Rectum", "Kidneys", "Adrenal glands"],
+      "diseases": [
+        {
+          "name": "العقم",
+          "name_en": "Infertility",
+          "symptoms": ["عدم الحمل بعد سنة من المحاولة"],
+          "symptoms_en": ["Inability to conceive after one year of trying"],
+          "treatments": ["تحفيز التبويض", "IVF", "جراحة تصحيحية"],
+          "treatments_en": ["Ovulation induction", "IVF", "Corrective surgery"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["reproduction", "fertility", "sex organs", "تناسل"]
+    },
+    {
+      "id": 1302,
+      "term": "uterus",
+      "arabic": "الرحم",
+      "latin": "uterus",
+      "pronunciation": "يو-تير-س",
+      "definition": "عضو عضلي أجوف في الجهاز التناسلي الأنثوي، يعلو المهبل، وهو المكان الذي ينمو فيه الجنين خلال الحمل",
+      "definition_en": "A hollow muscular organ in the female reproductive system, above the vagina, where the fetus develops during pregnancy",
+      "englishSentence": "The uterus is the muscular organ where a fertilized egg implants and a fetus develops.",
+      "parts": {
+        "root": { "value": "uter/o", "meaning": "رحم", "function": "يشير إلى الرحم" }
+      },
+      "type": "anatomy",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "استضافة الجنين وتطوره خلال الحمل",
+      "systemFunction_en": "Housing and development of the fetus during pregnancy",
+      "location": "الحوض بين المثانة والمستقيم",
+      "location_en": "Pelvis between the bladder and rectum",
+      "nearbyOrgans": ["المبيضان", "قناتا فالوب", "المهبل", "المثانة", "المستقيم"],
+      "nearbyOrgans_en": ["Ovaries", "Fallopian tubes", "Vagina", "Bladder", "Rectum"],
+      "diseases": [
+        {
+          "name": "أورام ليفية رحمية",
+          "name_en": "Uterine Fibroids (Leiomyoma)",
+          "symptoms": ["نزيف حيضي غزير", "ألم الحوض", "ضغط على المثانة", "تضخم البطن"],
+          "symptoms_en": ["Heavy menstrual bleeding", "Pelvic pain", "Bladder pressure", "Abdominal enlargement"],
+          "treatments": ["مراقبة", "أدوية هرمونية", "استئصال الرحم", "انصمام الشريان"],
+          "treatments_en": ["Watchful waiting", "Hormonal medications", "Hysterectomy", "Uterine artery embolization"]
+        },
+        {
+          "name": "سرطان الرحم",
+          "name_en": "Endometrial Cancer",
+          "symptoms": ["نزيف بعد انقطاع الطمث", "نزيف غير طبيعي", "ألم حوضي"],
+          "symptoms_en": ["Post-menopausal bleeding", "Abnormal bleeding", "Pelvic pain"],
+          "treatments": ["استئصال الرحم", "إشعاع", "كيماوي", "هرمونات"],
+          "treatments_en": ["Hysterectomy", "Radiation", "Chemotherapy", "Hormones"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["uterine", "womb", "endometrium", "رحم", "endometrial"]
+    },
+    {
+      "id": 1303,
+      "term": "ovary",
+      "arabic": "المبيض",
+      "latin": "ovarium",
+      "pronunciation": "أو-فا-ري",
+      "definition": "غدة تناسلية أنثوية تنتج البويضات والهرمونات الجنسية (الإستروجين والبروجستيرون)",
+      "definition_en": "A female reproductive gland that produces eggs (ova) and sex hormones (estrogen and progesterone)",
+      "englishSentence": "The ovaries produce eggs and female sex hormones including estrogen and progesterone.",
+      "parts": {
+        "root": { "value": "ovari/o", "meaning": "مبيض", "function": "يشير إلى المبيض" }
+      },
+      "type": "anatomy",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "إنتاج البويضات والهرمونات الجنسية",
+      "systemFunction_en": "Production of eggs and sex hormones",
+      "location": "جانبي الرحم في الحوض",
+      "location_en": "Both sides of the uterus in the pelvis",
+      "nearbyOrgans": ["الرحم", "قناة فالوب", "الأوعية الحوضية"],
+      "nearbyOrgans_en": ["Uterus", "Fallopian tube", "Pelvic vessels"],
+      "diseases": [
+        {
+          "name": "سرطان المبيض",
+          "name_en": "Ovarian Cancer",
+          "symptoms": ["انتفاخ البطن", "ألم الحوض", "الشبع المبكر", "أعراض بولية"],
+          "symptoms_en": ["Abdominal bloating", "Pelvic pain", "Early satiety", "Urinary symptoms"],
+          "treatments": ["استئصال جراحي", "كيماوي (كاربوبلاتين + باكليتاكسيل)", "علاج موجه"],
+          "treatments_en": ["Surgical resection", "Chemotherapy (carboplatin + paclitaxel)", "Targeted therapy"]
+        },
+        {
+          "name": "تكيسات المبيض",
+          "name_en": "Ovarian Cysts",
+          "symptoms": ["ألم حوضي خفيف", "انتفاخ", "اضطراب الدورة الشهرية"],
+          "symptoms_en": ["Mild pelvic pain", "Bloating", "Menstrual irregularity"],
+          "treatments": ["مراقبة", "موانع الحمل الفموية", "الجراحة عند الضرورة"],
+          "treatments_en": ["Watchful waiting", "Oral contraceptives", "Surgery if needed"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["ovarian", "estrogen", "progesterone", "مبيض", "بويضة"]
+    },
+    {
+      "id": 1304,
+      "term": "fallopian tube",
+      "arabic": "قناة فالوب",
+      "latin": "tuba uterina (Fallopii)",
+      "pronunciation": "فا-لو-بيان تيوب",
+      "definition": "أنابيب عضلية رفيعة تربط المبيضين بالرحم وتنقل البويضة من المبيض إلى الرحم",
+      "definition_en": "Slender muscular tubes connecting the ovaries to the uterus, transporting eggs from the ovary to the uterus",
+      "englishSentence": "The fallopian tubes carry eggs from the ovaries to the uterus and are the usual site of fertilization.",
+      "parts": {
+        "root": { "value": "salping/o", "meaning": "قناة / بوق", "function": "يشير إلى قناة فالوب" }
+      },
+      "type": "anatomy",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "نقل البويضة من المبيض إلى الرحم وهي موقع الإخصاب الطبيعي",
+      "systemFunction_en": "Transport egg from ovary to uterus; natural fertilization site",
+      "location": "من المبيضين إلى الرحم في الحوض",
+      "location_en": "From ovaries to uterus in the pelvis",
+      "nearbyOrgans": ["المبيض", "الرحم", "أعضاء الحوض"],
+      "nearbyOrgans_en": ["Ovary", "Uterus", "Pelvic organs"],
+      "diseases": [
+        {
+          "name": "الحمل خارج الرحم",
+          "name_en": "Ectopic Pregnancy",
+          "symptoms": ["ألم حوضي حاد", "نزيف مهبلي", "انخفاض الضغط"],
+          "symptoms_en": ["Sharp pelvic pain", "Vaginal bleeding", "Low blood pressure"],
+          "treatments": ["ميثوتريكسات", "جراحة طارئة", "استئصال القناة"],
+          "treatments_en": ["Methotrexate", "Emergency surgery", "Salpingectomy"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["salpingo", "ectopic", "fertilization", "قناة فالوب"]
+    },
+    {
+      "id": 1305,
+      "term": "menstruation",
+      "arabic": "الحيض / الدورة الشهرية",
+      "latin": "menstruatio",
+      "pronunciation": "منس-تشو-إي-شن",
+      "definition": "التقشير الدوري لبطانة الرحم مصحوباً بنزيف يحدث تقريباً كل 28 يوماً عند المرأة في سن الإنجاب",
+      "definition_en": "The periodic shedding of the uterine lining accompanied by bleeding, occurring approximately every 28 days in women of reproductive age",
+      "englishSentence": "Menstruation is the monthly shedding of the uterine lining when fertilization does not occur.",
+      "parts": {
+        "root": { "value": "men/o", "meaning": "شهر / حيض", "function": "يشير إلى الدورة الشهرية" },
+        "suffix": { "value": "-struation", "meaning": "عملية التدفق", "function": "يصف العملية الفسيولوجية" }
+      },
+      "type": "concept",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "إزالة بطانة الرحم غير المُخصَّبة",
+      "systemFunction_en": "Removal of unfertilized uterine lining",
+      "location": "الرحم",
+      "location_en": "Uterus",
+      "nearbyOrgans": ["الرحم", "المبيض", "المهبل"],
+      "nearbyOrgans_en": ["Uterus", "Ovary", "Vagina"],
+      "diseases": [
+        {
+          "name": "عسر الطمث",
+          "name_en": "Dysmenorrhea",
+          "symptoms": ["تقلصات حيضية مؤلمة", "ألم أسفل البطن والظهر", "غثيان"],
+          "symptoms_en": ["Painful menstrual cramps", "Lower abdominal and back pain", "Nausea"],
+          "treatments": ["مضادات الالتهاب (إيبوبروفين)", "موانع الحمل الهرمونية", "علاج المسبب"],
+          "treatments_en": ["NSAIDs (Ibuprofen)", "Hormonal contraceptives", "Treat underlying cause"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["menstrual cycle", "period", "menarche", "حيض", "دورة شهرية"]
+    },
+    {
+      "id": 1306,
+      "term": "endometriosis",
+      "arabic": "الانتباذ البطاني الرحمي / بطانة الرحم المهاجرة",
+      "latin": "endometriosis",
+      "pronunciation": "إن-دو-مي-تري-أو-سيس",
+      "definition": "حالة مزمنة تنمو فيها أنسجة شبيهة ببطانة الرحم خارج الرحم، مسببةً ألماً وعقماً في أحيان كثيرة",
+      "definition_en": "A chronic condition where tissue similar to the uterine lining grows outside the uterus, often causing pain and infertility",
+      "englishSentence": "Endometriosis occurs when endometrial-like tissue grows outside the uterus, causing pelvic pain and infertility.",
+      "parts": {
+        "root": { "value": "endometr/o", "meaning": "بطانة الرحم", "function": "يشير إلى الطبقة الداخلية للرحم" },
+        "suffix": { "value": "-iosis", "meaning": "حالة مرضية", "function": "يشير إلى الحالة غير الطبيعية" }
+      },
+      "type": "disease",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "بطانة الرحم الطبيعية",
+      "systemFunction_en": "Normal uterine lining",
+      "location": "خارج الرحم: المبيضان، الصفاق، القناتان، المثانة",
+      "location_en": "Outside uterus: ovaries, peritoneum, tubes, bladder",
+      "nearbyOrgans": ["المبيضان", "قناتا فالوب", "الصفاق", "المثانة", "المستقيم"],
+      "nearbyOrgans_en": ["Ovaries", "Fallopian tubes", "Peritoneum", "Bladder", "Rectum"],
+      "diseases": [
+        {
+          "name": "ألم حوضي مزمن",
+          "name_en": "Chronic Pelvic Pain",
+          "symptoms": ["ألم حيضي شديد", "ألم عند الجماع", "ألم أثناء التبول أو التبرز", "عقم"],
+          "symptoms_en": ["Severe menstrual pain", "Pain during intercourse", "Pain during urination or defecation", "Infertility"],
+          "treatments": ["مضادات الالتهاب", "أدوية هرمونية", "جراحة بالمنظار", "استئصال الرحم"],
+          "treatments_en": ["NSAIDs", "Hormonal medications", "Laparoscopic surgery", "Hysterectomy"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["endometrial", "pelvic pain", "infertility", "انتباذ رحمي"]
+    },
+    {
+      "id": 1307,
+      "term": "cervix",
+      "arabic": "عنق الرحم",
+      "latin": "cervix uteri",
+      "pronunciation": "سير-فيكس",
+      "definition": "الجزء السفلي الضيق من الرحم الذي يتصل بالمهبل، يفتح أثناء الولادة ويُشكّل قناةً لخروج الدم الحيضي",
+      "definition_en": "The lower narrow part of the uterus connecting to the vagina, which dilates during childbirth and forms a canal for menstrual blood",
+      "englishSentence": "The cervix is the lower part of the uterus that connects to the vagina and dilates during labor.",
+      "parts": {
+        "root": { "value": "cervic/o", "meaning": "عنق", "function": "يشير إلى عنق الرحم" }
+      },
+      "type": "anatomy",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "الربط بين الرحم والمهبل، والحماية من الالتهابات",
+      "systemFunction_en": "Connection between uterus and vagina, protection against infections",
+      "location": "الجزء السفلي من الرحم",
+      "location_en": "Lower part of the uterus",
+      "nearbyOrgans": ["الرحم", "المهبل", "المثانة"],
+      "nearbyOrgans_en": ["Uterus", "Vagina", "Bladder"],
+      "diseases": [
+        {
+          "name": "سرطان عنق الرحم",
+          "name_en": "Cervical Cancer",
+          "symptoms": ["نزيف غير طبيعي", "إفرازات مهبلية غير عادية", "ألم أثناء الجماع"],
+          "symptoms_en": ["Abnormal bleeding", "Unusual vaginal discharge", "Pain during intercourse"],
+          "treatments": ["جراحة", "إشعاع", "كيماوي", "لقاح HPV للوقاية"],
+          "treatments_en": ["Surgery", "Radiation", "Chemotherapy", "HPV vaccine for prevention"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["cervical", "Pap smear", "HPV", "عنق الرحم", "سرطان عنق الرحم"]
+    },
+    {
+      "id": 1308,
+      "term": "pregnancy",
+      "arabic": "الحمل",
+      "latin": "graviditas / gestatio",
+      "pronunciation": "بريغ-نان-سي",
+      "definition": "الحالة الفسيولوجية التي تتطور فيها بويضة مخصبة في رحم الأنثى لمدة تقارب 40 أسبوعاً",
+      "definition_en": "The physiological state in which a fertilized egg develops in the female uterus for approximately 40 weeks",
+      "englishSentence": "Pregnancy is the period during which a fertilized egg develops into a fetus in the uterus.",
+      "parts": {
+        "root": { "value": "gravid/o", "meaning": "حامل / حمل", "function": "يشير إلى حالة الحمل" }
+      },
+      "type": "concept",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "تطور الجنين حتى الولادة",
+      "systemFunction_en": "Fetal development until birth",
+      "location": "الرحم",
+      "location_en": "Uterus",
+      "nearbyOrgans": ["الرحم", "المشيمة", "الحبل السري", "السائل الأمنيوسي"],
+      "nearbyOrgans_en": ["Uterus", "Placenta", "Umbilical cord", "Amniotic fluid"],
+      "diseases": [
+        {
+          "name": "تسمم الحمل",
+          "name_en": "Preeclampsia",
+          "symptoms": ["ارتفاع ضغط الدم", "بروتين في البول", "تورم", "صداع"],
+          "symptoms_en": ["High blood pressure", "Proteinuria", "Edema", "Headache"],
+          "treatments": ["مراقبة مكثفة", "ماغنيسيوم سلفات", "توليد مبكر عند الضرورة"],
+          "treatments_en": ["Intensive monitoring", "Magnesium sulfate", "Early delivery if needed"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["gestation", "prenatal", "gravida", "حمل", "جنين"]
+    },
+    {
+      "id": 1309,
+      "term": "placenta",
+      "arabic": "المشيمة",
+      "latin": "placenta",
+      "pronunciation": "بلا-سين-تا",
+      "definition": "عضو مؤقت يتطور خلال الحمل يربط الجنين بجدار الرحم لنقل الأكسجين والمواد الغذائية وإزالة الفضلات",
+      "definition_en": "A temporary organ developing during pregnancy that connects the fetus to the uterine wall, transferring oxygen, nutrients, and removing waste",
+      "englishSentence": "The placenta nourishes the fetus by exchanging nutrients and oxygen between mother and baby.",
+      "type": "anatomy",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "تبادل الغازات والمغذيات بين الأم والجنين",
+      "systemFunction_en": "Exchange of gases and nutrients between mother and fetus",
+      "location": "جدار الرحم",
+      "location_en": "Uterine wall",
+      "nearbyOrgans": ["الرحم", "الحبل السري", "الجنين", "السائل الأمنيوسي"],
+      "nearbyOrgans_en": ["Uterus", "Umbilical cord", "Fetus", "Amniotic fluid"],
+      "diseases": [
+        {
+          "name": "انفصال المشيمة",
+          "name_en": "Placental Abruption",
+          "symptoms": ["نزيف مهبلي مفاجئ", "ألم بطني حاد", "تيبس الرحم"],
+          "symptoms_en": ["Sudden vaginal bleeding", "Acute abdominal pain", "Uterine rigidity"],
+          "treatments": ["توليد طارئ", "نقل الدم", "مراقبة الجنين"],
+          "treatments_en": ["Emergency delivery", "Blood transfusion", "Fetal monitoring"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["placental", "prenatal nutrition", "umbilical cord", "مشيمة"]
+    },
+    {
+      "id": 1310,
+      "term": "testis (testes)",
+      "arabic": "الخصية (الخصيتان)",
+      "latin": "testis (testes)",
+      "pronunciation": "تيس-تيس",
+      "definition": "الغدد التناسلية الذكرية الرئيسية المسؤولة عن إنتاج الحيوانات المنوية وهرمون التستوستيرون",
+      "definition_en": "The primary male reproductive glands responsible for producing sperm and testosterone",
+      "englishSentence": "The testes produce sperm and testosterone, the primary male sex hormone.",
+      "parts": {
+        "root": { "value": "orchid/o أو test/o", "meaning": "خصية", "function": "يشير إلى الخصية" }
+      },
+      "type": "anatomy",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "إنتاج الحيوانات المنوية وهرمون التستوستيرون",
+      "systemFunction_en": "Production of sperm and testosterone",
+      "location": "كيس الصفن خارج تجويف الجسم",
+      "location_en": "Scrotum outside the body cavity",
+      "nearbyOrgans": ["البربخ", "كيس الصفن", "الأسهر", "الغدة البروستاتية"],
+      "nearbyOrgans_en": ["Epididymis", "Scrotum", "Vas deferens", "Prostate gland"],
+      "diseases": [
+        {
+          "name": "سرطان الخصية",
+          "name_en": "Testicular Cancer",
+          "symptoms": ["كتلة غير مؤلمة في الخصية", "ثقل في الصفن", "ألم خفيف"],
+          "symptoms_en": ["Painless lump in testis", "Heaviness in scrotum", "Mild ache"],
+          "treatments": ["استئصال الخصية", "كيماوي", "إشعاع حسب النوع"],
+          "treatments_en": ["Orchiectomy", "Chemotherapy", "Radiation depending on type"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["orchid", "testosterone", "spermatogenesis", "خصية"]
+    },
+    {
+      "id": 1311,
+      "term": "prostate gland",
+      "arabic": "الغدة البروستاتية",
+      "latin": "glandula prostatica",
+      "pronunciation": "بروس-تيت غلاند",
+      "definition": "غدة ذكرية بحجم حبة الجوز تحيط بمجرى البول أسفل المثانة، تنتج سائلاً يحمي الحيوانات المنوية",
+      "definition_en": "A walnut-sized male gland surrounding the urethra below the bladder, producing fluid that protects and nourishes sperm",
+      "englishSentence": "The prostate gland produces seminal fluid that nourishes and transports sperm.",
+      "parts": {
+        "root": { "value": "prostat/o", "meaning": "بروستاتا", "function": "يشير إلى الغدة البروستاتية" }
+      },
+      "type": "anatomy",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "إنتاج السائل المنوي الذي يغذي الحيوانات المنوية",
+      "systemFunction_en": "Production of seminal fluid that nourishes sperm",
+      "location": "أسفل المثانة يحيط بمجرى البول",
+      "location_en": "Below bladder, surrounding the urethra",
+      "nearbyOrgans": ["المثانة", "مجرى البول", "المستقيم", "الأسهر"],
+      "nearbyOrgans_en": ["Bladder", "Urethra", "Rectum", "Vas deferens"],
+      "diseases": [
+        {
+          "name": "سرطان البروستاتا",
+          "name_en": "Prostate Cancer",
+          "symptoms": ["صعوبة التبول", "تدفق بول ضعيف", "ألم في الحوض", "دم في البول"],
+          "symptoms_en": ["Urination difficulty", "Weak urine stream", "Pelvic pain", "Blood in urine"],
+          "treatments": ["مراقبة فعالة", "جراحة", "إشعاع", "هرمونات", "كيماوي"],
+          "treatments_en": ["Active surveillance", "Surgery", "Radiation", "Hormones", "Chemotherapy"]
+        },
+        {
+          "name": "تضخم البروستاتا الحميد",
+          "name_en": "Benign Prostatic Hyperplasia (BPH)",
+          "symptoms": ["تكرار التبول", "ضعف التدفق", "التبول الليلي"],
+          "symptoms_en": ["Frequent urination", "Weak stream", "Nocturia"],
+          "treatments": ["ألفا بلوكرز", "مثبطات 5-ألفا ريدكتاز", "جراحة (TURP)"],
+          "treatments_en": ["Alpha blockers", "5-alpha reductase inhibitors", "Surgery (TURP)"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["PSA", "BPH", "prostatitis", "بروستاتا", "سرطان البروستاتا"]
+    },
+    {
+      "id": 1312,
+      "term": "sperm / spermatozoa",
+      "arabic": "الحيوان المنوي",
+      "latin": "spermatozoon (spermatozoa)",
+      "pronunciation": "سبيرم / سبير-ما-تو-زو-أ",
+      "definition": "خلية التكاثر الذكرية المتخصصة التي تحتوي على نصف عدد الكروموسومات وتُخصّب البويضة",
+      "definition_en": "The specialized male reproductive cell containing half the number of chromosomes that fertilizes the egg",
+      "englishSentence": "Spermatozoa are male reproductive cells produced in the testes that fertilize female eggs.",
+      "parts": {
+        "root": { "value": "sperm/o أو spermat/o", "meaning": "بذرة / حيوان منوي", "function": "يشير إلى الحيوان المنوي" }
+      },
+      "type": "cell",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "إخصاب البويضة",
+      "systemFunction_en": "Fertilization of the egg",
+      "location": "تُنتج في الخصيتين وتُخزّن في البربخ",
+      "location_en": "Produced in testes, stored in epididymis",
+      "nearbyOrgans": ["الخصيتان", "البربخ", "الأسهر"],
+      "nearbyOrgans_en": ["Testes", "Epididymis", "Vas deferens"],
+      "diseases": [
+        {
+          "name": "قلة الحيوانات المنوية",
+          "name_en": "Oligospermia",
+          "symptoms": ["انخفاض عدد الحيوانات المنوية", "قد يسبب عقم ذكوري"],
+          "symptoms_en": ["Reduced sperm count", "May cause male infertility"],
+          "treatments": ["علاج هرموني", "تصحيح دوالي الخصية", "IVF/ICSI"],
+          "treatments_en": ["Hormonal therapy", "Varicocele correction", "IVF/ICSI"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["spermatogenesis", "fertility", "azoospermia", "حيوان منوي"]
+    },
+    {
+      "id": 1313,
+      "term": "cesarean section (C-section)",
+      "arabic": "الولادة القيصرية",
+      "latin": "sectio caesarea",
+      "pronunciation": "سي-زير-يان سيك-شن",
+      "definition": "إجراء جراحي لإخراج الجنين عبر شق جراحي في البطن والرحم عندما تكون الولادة الطبيعية غير ممكنة أو خطيرة",
+      "definition_en": "Surgical procedure to deliver a baby through incisions in the abdomen and uterus when vaginal delivery is impossible or dangerous",
+      "englishSentence": "A cesarean section is a surgical procedure used to deliver a baby through incisions in the abdomen and uterus.",
+      "type": "procedure",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "توليد الجنين جراحياً",
+      "systemFunction_en": "Surgical delivery of the fetus",
+      "location": "البطن والرحم",
+      "location_en": "Abdomen and uterus",
+      "nearbyOrgans": ["الرحم", "المثانة", "الصفاق"],
+      "nearbyOrgans_en": ["Uterus", "Bladder", "Peritoneum"],
+      "diseases": [
+        {
+          "name": "مضاعفات ما بعد العملية القيصرية",
+          "name_en": "Post-C-Section Complications",
+          "symptoms": ["عدوى الجرح", "جلطة وريدية", "التصاقات بطنية"],
+          "symptoms_en": ["Wound infection", "Deep vein thrombosis", "Abdominal adhesions"],
+          "treatments": ["مضادات حيوية", "مضادات التخثر", "علاج جراحي للالتصاقات"],
+          "treatments_en": ["Antibiotics", "Anticoagulants", "Surgical treatment of adhesions"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["C-section", "obstetrics", "delivery", "ولادة قيصرية"]
+    },
+    {
+      "id": 1314,
+      "term": "Pap smear (Papanicolaou test)",
+      "arabic": "مسحة عنق الرحم",
+      "latin": "cytologia cervicis",
+      "pronunciation": "باب سمير",
+      "definition": "اختبار تشخيصي فحصي يُجمع فيه عينة من خلايا عنق الرحم للكشف المبكر عن الخلايا غير الطبيعية أو السرطانية",
+      "definition_en": "A screening diagnostic test collecting cells from the cervix for early detection of abnormal or cancerous cells",
+      "englishSentence": "A Pap smear is a cervical screening test to detect precancerous or cancerous cells.",
+      "type": "procedure",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "الكشف المبكر عن سرطان عنق الرحم",
+      "systemFunction_en": "Early detection of cervical cancer",
+      "location": "عنق الرحم",
+      "location_en": "Cervix",
+      "nearbyOrgans": ["عنق الرحم", "الرحم", "المهبل"],
+      "nearbyOrgans_en": ["Cervix", "Uterus", "Vagina"],
+      "diseases": [
+        {
+          "name": "سرطان عنق الرحم",
+          "name_en": "Cervical Cancer",
+          "symptoms": ["يُكتشف في المراحل المبكرة بهذا الفحص"],
+          "symptoms_en": ["Detected early by this screening"],
+          "treatments": ["علاج مبكر يُقلل الوفيات بشكل كبير"],
+          "treatments_en": ["Early treatment significantly reduces mortality"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["cervical screening", "Papanicolaou", "HPV test", "مسحة عنق الرحم"]
+    },
+    {
+      "id": 1315,
+      "term": "menopause",
+      "arabic": "انقطاع الطمث / سن اليأس",
+      "latin": "menopausa / climacterium",
+      "pronunciation": "مين-أو-بوز",
+      "definition": "التوقف الطبيعي الدائم للدورة الشهرية عند المرأة، يحدث عادةً بين سن 45-55 عاماً نتيجة انخفاض هرموني الإستروجين والبروجستيرون",
+      "definition_en": "The natural permanent cessation of menstruation in women, usually occurring between ages 45-55 due to decreased estrogen and progesterone",
+      "englishSentence": "Menopause marks the end of menstrual cycles, typically occurring in a woman's late 40s to early 50s.",
+      "parts": {
+        "root": { "value": "men/o", "meaning": "شهر / حيض", "function": "يشير إلى الدورة الشهرية" },
+        "suffix": { "value": "-pause", "meaning": "توقف", "function": "يشير إلى انتهاء العملية" }
+      },
+      "type": "concept",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "توقف الإنجاب الطبيعي",
+      "systemFunction_en": "Natural cessation of reproduction",
+      "location": "المبيضان - الرحم",
+      "location_en": "Ovaries - Uterus",
+      "nearbyOrgans": ["المبيضان", "الرحم", "الغدة النخامية"],
+      "nearbyOrgans_en": ["Ovaries", "Uterus", "Pituitary gland"],
+      "diseases": [
+        {
+          "name": "أعراض انقطاع الطمث",
+          "name_en": "Menopausal Symptoms",
+          "symptoms": ["هبّات ساخنة", "جفاف مهبلي", "اضطراب النوم", "تقلبات مزاجية", "هشاشة العظام"],
+          "symptoms_en": ["Hot flashes", "Vaginal dryness", "Sleep disturbance", "Mood swings", "Osteoporosis"],
+          "treatments": ["العلاج الهرموني التعويضي", "إيسوفلافونات الصويا", "أدوية لهشاشة العظام"],
+          "treatments_en": ["Hormone replacement therapy", "Soy isoflavones", "Osteoporosis medications"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["HRT", "hot flashes", "perimenopause", "انقطاع الطمث", "سن اليأس"]
+    },
+    {
+      "id": 1316,
+      "term": "polycystic ovary syndrome (PCOS)",
+      "arabic": "متلازمة المبيض متعدد التكيسات",
+      "latin": "syndroma ovarii polycystici",
+      "pronunciation": "بوليـ-سيستيك أو-فا-ري سين-دروم",
+      "definition": "اضطراب هرموني شائع يؤثر على النساء في سن الإنجاب، يتميز بارتفاع هرمونات الأندروجين وتكيسات المبيض واضطراب التبويض",
+      "definition_en": "A common hormonal disorder affecting women of reproductive age, characterized by elevated androgens, ovarian cysts, and irregular ovulation",
+      "englishSentence": "PCOS is a hormonal disorder causing irregular periods, excess androgen, and polycystic ovaries.",
+      "type": "disease",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "التوازن الهرموني والتبويض",
+      "systemFunction_en": "Hormonal balance and ovulation",
+      "location": "المبيضان والغدد الصماء",
+      "location_en": "Ovaries and endocrine glands",
+      "nearbyOrgans": ["المبيضان", "الغدة النخامية", "الغدة الكظرية"],
+      "nearbyOrgans_en": ["Ovaries", "Pituitary gland", "Adrenal glands"],
+      "diseases": [
+        {
+          "name": "اضطراب التبويض والعقم",
+          "name_en": "Ovulation Disorder and Infertility",
+          "symptoms": ["دورة غير منتظمة أو غائبة", "زيادة الشعر", "حب الشباب", "سمنة", "عقم"],
+          "symptoms_en": ["Irregular or absent periods", "Excess hair growth", "Acne", "Obesity", "Infertility"],
+          "treatments": ["تغيير نمط الحياة", "ميتفورمين", "كلوميفين", "برامج IVF"],
+          "treatments_en": ["Lifestyle modification", "Metformin", "Clomiphene", "IVF programs"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["PCOS", "androgen", "irregular periods", "تكيس مبايض"]
+    },
+    {
+      "id": 1317,
+      "term": "hysterectomy",
+      "arabic": "استئصال الرحم",
+      "latin": "hysterectomia",
+      "pronunciation": "هيس-تير-إك-تو-مي",
+      "definition": "إجراء جراحي لاستئصال الرحم، وقد يشمل عنق الرحم والمبيضين وقناتي فالوب",
+      "definition_en": "Surgical procedure to remove the uterus, which may include the cervix, ovaries, and fallopian tubes",
+      "englishSentence": "A hysterectomy is the surgical removal of the uterus, performed for conditions like fibroids or cancer.",
+      "parts": {
+        "root": { "value": "hyster/o", "meaning": "رحم", "function": "يشير إلى الرحم" },
+        "suffix": { "value": "-ectomy", "meaning": "استئصال", "function": "يشير إلى الإزالة الجراحية" }
+      },
+      "type": "procedure",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "علاج حالات الرحم المرضية",
+      "systemFunction_en": "Treatment of uterine pathological conditions",
+      "location": "الرحم وأحياناً المبيضان وعنق الرحم",
+      "location_en": "Uterus and sometimes ovaries and cervix",
+      "nearbyOrgans": ["المثانة", "المستقيم", "الأوعية الحوضية"],
+      "nearbyOrgans_en": ["Bladder", "Rectum", "Pelvic vessels"],
+      "diseases": [
+        {
+          "name": "أورام ليفية رحمية / سرطان",
+          "name_en": "Uterine Fibroids / Cancer",
+          "symptoms": ["يُجرى لعلاج هذه الحالات"],
+          "symptoms_en": ["Performed to treat these conditions"],
+          "treatments": ["قد يُجرى بالبطن أو المنظار أو المهبل"],
+          "treatments_en": ["Can be abdominal, laparoscopic, or vaginal approach"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["uterus removal", "surgery", "fibroids", "استئصال رحم"]
+    },
+    {
+      "id": 1318,
+      "term": "in vitro fertilization (IVF)",
+      "arabic": "أطفال الأنابيب / التلقيح الصناعي خارج الجسم",
+      "latin": "fecundatio in vitro",
+      "pronunciation": "إن فيترو فير-تي-لي-زي-شن",
+      "definition": "تقنية مساعدة على الإنجاب تُخصَّب فيها البويضة بالحيوان المنوي خارج الجسم في المختبر، ثم يُزرع الجنين في الرحم",
+      "definition_en": "An assisted reproductive technique where an egg is fertilized by sperm outside the body in a laboratory, then the embryo is implanted in the uterus",
+      "englishSentence": "IVF is an assisted reproductive technology where eggs are fertilized outside the body and then implanted in the uterus.",
+      "type": "procedure",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "علاج العقم",
+      "systemFunction_en": "Treatment of infertility",
+      "location": "المختبر والرحم",
+      "location_en": "Laboratory and uterus",
+      "nearbyOrgans": ["المبيضان", "الرحم", "الجنين المزروع"],
+      "nearbyOrgans_en": ["Ovaries", "Uterus", "Implanted embryo"],
+      "diseases": [
+        {
+          "name": "العقم",
+          "name_en": "Infertility",
+          "symptoms": ["عدم حدوث حمل بعد سنة"],
+          "symptoms_en": ["No pregnancy after one year"],
+          "treatments": ["IVF هو أحد خيارات العلاج الرئيسية للعقم"],
+          "treatments_en": ["IVF is one of the main treatment options for infertility"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["IVF", "assisted reproduction", "embryo", "أطفال أنابيب", "عقم"]
+    },
+    {
+      "id": 1319,
+      "term": "sexually transmitted infection (STI)",
+      "arabic": "العدوى المنقولة جنسياً",
+      "latin": "infectio sexualiter transmissa",
+      "pronunciation": "سيك-شو-الي ترانس-ميتد إن-فيك-شن",
+      "definition": "مجموعة من الأمراض المعدية التي تنتقل أساساً عن طريق الاتصال الجنسي وتشمل الكلاميديا والسيلان والسفلس وفيروس نقص المناعة",
+      "definition_en": "A group of infectious diseases transmitted primarily through sexual contact, including chlamydia, gonorrhea, syphilis, and HIV",
+      "englishSentence": "Sexually transmitted infections are passed from person to person through sexual contact.",
+      "type": "disease",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "صحة الجهاز التناسلي",
+      "systemFunction_en": "Reproductive system health",
+      "location": "الجهاز التناسلي والجهاز البولي والمخاطية",
+      "location_en": "Reproductive system, urinary tract, and mucous membranes",
+      "nearbyOrgans": ["الأعضاء التناسلية", "المسالك البولية", "الدم"],
+      "nearbyOrgans_en": ["Genitalia", "Urinary tract", "Blood"],
+      "diseases": [
+        {
+          "name": "الكلاميديا",
+          "name_en": "Chlamydia",
+          "symptoms": ["إفرازات غير طبيعية", "حرقة التبول", "ألم حوضي", "قد تكون بدون أعراض"],
+          "symptoms_en": ["Abnormal discharge", "Burning urination", "Pelvic pain", "May be asymptomatic"],
+          "treatments": ["آزيثروميسين أو دوكسيسيكلين", "علاج الشريك"],
+          "treatments_en": ["Azithromycin or doxycycline", "Partner treatment"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["STI", "STD", "chlamydia", "gonorrhea", "syphilis", "HIV", "عدوى جنسية"]
+    },
+    {
+      "id": 1320,
+      "term": "mammography",
+      "arabic": "تصوير الثدي بالأشعة",
+      "latin": "mammographia",
+      "pronunciation": "ما-موغ-را-في",
+      "definition": "تصوير الثدي بالأشعة السينية للكشف المبكر عن سرطان الثدي أو أي تغييرات غير طبيعية",
+      "definition_en": "X-ray imaging of the breast for early detection of breast cancer or any abnormal changes",
+      "englishSentence": "Mammography is an X-ray examination of the breast used to screen for and diagnose breast cancer.",
+      "parts": {
+        "root": { "value": "mamm/o", "meaning": "ثدي", "function": "يشير إلى الثدي" },
+        "suffix": { "value": "-graphy", "meaning": "تصوير / تسجيل", "function": "يشير إلى الفحص التصويري" }
+      },
+      "type": "procedure",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "الكشف المبكر عن سرطان الثدي",
+      "systemFunction_en": "Early detection of breast cancer",
+      "location": "الثدي",
+      "location_en": "Breast",
+      "nearbyOrgans": ["الثدي", "الغدد الليمفاوية الإبطية", "جدار الصدر"],
+      "nearbyOrgans_en": ["Breast", "Axillary lymph nodes", "Chest wall"],
+      "diseases": [
+        {
+          "name": "سرطان الثدي",
+          "name_en": "Breast Cancer",
+          "symptoms": ["كتلة في الثدي", "تغير شكل الثدي", "إفراز حلمة غير طبيعي"],
+          "symptoms_en": ["Breast lump", "Breast shape change", "Abnormal nipple discharge"],
+          "treatments": ["جراحة", "إشعاع", "كيماوي", "هرمونات", "علاج بيولوجي (هيرسبتين)"],
+          "treatments_en": ["Surgery", "Radiation", "Chemotherapy", "Hormones", "Biological therapy (Herceptin)"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["breast cancer", "screening", "radiology", "تصوير ثدي", "سرطان الثدي"]
+    },
+    {
+      "id": 1321,
+      "term": "ovulation",
+      "arabic": "الإباضة / التبويض",
+      "latin": "ovulatio",
+      "pronunciation": "أو-فيو-لي-شن",
+      "definition": "عملية إطلاق البويضة الناضجة من المبيض إلى قناة فالوب استعداداً للإخصاب",
+      "definition_en": "The process of releasing a mature egg from the ovary into the fallopian tube in preparation for fertilization",
+      "englishSentence": "Ovulation is the release of a mature egg from the ovary, typically occurring mid-cycle.",
+      "parts": {
+        "root": { "value": "ovul/o", "meaning": "بويضة صغيرة", "function": "يشير إلى البويضة" },
+        "suffix": { "value": "-ation", "meaning": "عملية", "function": "يصف العملية الفسيولوجية" }
+      },
+      "type": "concept",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "إطلاق البويضة للإخصاب",
+      "systemFunction_en": "Release of egg for fertilization",
+      "location": "المبيض - قناة فالوب",
+      "location_en": "Ovary - Fallopian tube",
+      "nearbyOrgans": ["المبيض", "قناة فالوب", "الغدة النخامية"],
+      "nearbyOrgans_en": ["Ovary", "Fallopian tube", "Pituitary gland"],
+      "diseases": [
+        {
+          "name": "فشل التبويض",
+          "name_en": "Anovulation",
+          "symptoms": ["دورة غير منتظمة أو غائبة", "عقم"],
+          "symptoms_en": ["Irregular or absent periods", "Infertility"],
+          "treatments": ["كلوميفين", "جونادوتروبين", "IVF"],
+          "treatments_en": ["Clomiphene", "Gonadotropins", "IVF"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["ovum", "egg release", "LH surge", "تبويض", "إباضة"]
+    },
+    {
+      "id": 1322,
+      "term": "episiotomy",
+      "arabic": "شق العجان",
+      "latin": "episiotomia",
+      "pronunciation": "إي-بيز-يو-أو-تو-مي",
+      "definition": "شق جراحي يُجرى في منطقة العجان (بين المهبل والشرج) أثناء الولادة لتسهيل خروج الرأس وتفادي التمزق",
+      "definition_en": "A surgical incision in the perineum (between vagina and anus) during childbirth to facilitate head delivery and prevent tearing",
+      "englishSentence": "An episiotomy is a surgical cut in the perineum made during childbirth to assist in delivery.",
+      "parts": {
+        "root": { "value": "episi/o", "meaning": "العجان / الفرج", "function": "يشير إلى منطقة العجان" },
+        "suffix": { "value": "-tomy", "meaning": "شق / قطع", "function": "يشير إلى الشق الجراحي" }
+      },
+      "type": "procedure",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "تسهيل الولادة الطبيعية",
+      "systemFunction_en": "Facilitating vaginal delivery",
+      "location": "منطقة العجان",
+      "location_en": "Perineal region",
+      "nearbyOrgans": ["المهبل", "العجان", "الشرج"],
+      "nearbyOrgans_en": ["Vagina", "Perineum", "Anus"],
+      "diseases": [
+        {
+          "name": "تمزق العجان",
+          "name_en": "Perineal Tear",
+          "symptoms": ["ألم ما بعد الولادة", "صعوبة الجلوس", "التهاب الجرح"],
+          "symptoms_en": ["Postpartum pain", "Sitting difficulty", "Wound infection"],
+          "treatments": ["خياطة جراحية", "مسكنات الألم", "عناية بالجرح"],
+          "treatments_en": ["Surgical suturing", "Analgesics", "Wound care"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["perineum", "childbirth", "delivery", "شق العجان", "ولادة"]
+    },
+    {
+      "id": 1323,
+      "term": "breast (mammary gland)",
+      "arabic": "الثدي (الغدة الثديية)",
+      "latin": "mamma / glandula mammaria",
+      "pronunciation": "بريست (ما-مَري غلاند)",
+      "definition": "غدة متطورة من الجلد في جدار الصدر تنتج الحليب عند الإناث، تلعب دوراً رئيسياً في الرضاعة الطبيعية",
+      "definition_en": "A specialized skin gland on the chest wall in females that produces milk, playing a key role in breastfeeding",
+      "englishSentence": "The mammary glands produce milk for breastfeeding following childbirth.",
+      "parts": {
+        "root": { "value": "mamm/o أو mast/o", "meaning": "ثدي", "function": "يشير إلى الثدي" }
+      },
+      "type": "anatomy",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "إنتاج الحليب للرضاعة الطبيعية",
+      "systemFunction_en": "Milk production for breastfeeding",
+      "location": "جدار الصدر الأمامي",
+      "location_en": "Anterior chest wall",
+      "nearbyOrgans": ["العضلة الصدرية الكبرى", "الغدد الليمفاوية الإبطية", "الأضلاع"],
+      "nearbyOrgans_en": ["Pectoralis major", "Axillary lymph nodes", "Ribs"],
+      "diseases": [
+        {
+          "name": "التهاب الثدي",
+          "name_en": "Mastitis",
+          "symptoms": ["احمرار وتورم الثدي", "ألم شديد", "حمى", "صعوبة الرضاعة"],
+          "symptoms_en": ["Breast redness and swelling", "Severe pain", "Fever", "Breastfeeding difficulty"],
+          "treatments": ["مضادات حيوية", "ضغادات دافئة", "الاستمرار بالإرضاع أو الشفط"],
+          "treatments_en": ["Antibiotics", "Warm compresses", "Continue breastfeeding or pumping"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["mastectomy", "lactation", "breast cancer", "ثدي", "حليب"]
+    },
+    {
+      "id": 1324,
+      "term": "contraception",
+      "arabic": "منع الحمل",
+      "latin": "contraceptio",
+      "pronunciation": "كون-تر-ا-سيب-شن",
+      "definition": "استخدام وسائل أو أساليب مختلفة للوقاية من الحمل غير المرغوب فيه",
+      "definition_en": "The use of various methods or devices to prevent unwanted pregnancy",
+      "englishSentence": "Contraception refers to methods used to prevent pregnancy.",
+      "type": "concept",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "تنظيم الإنجاب",
+      "systemFunction_en": "Family planning and reproduction control",
+      "location": "الجهاز التناسلي",
+      "location_en": "Reproductive system",
+      "nearbyOrgans": ["الرحم", "المبيضان", "الأعضاء التناسلية"],
+      "nearbyOrgans_en": ["Uterus", "Ovaries", "Genitalia"],
+      "diseases": [
+        {
+          "name": "الحمل غير المرغوب",
+          "name_en": "Unintended Pregnancy",
+          "symptoms": ["غياب الدورة الشهرية", "اختبار حمل إيجابي"],
+          "symptoms_en": ["Missed period", "Positive pregnancy test"],
+          "treatments": ["أنواع: حبوب منع الحمل، اللولب، الواقي الذكري، التعقيم، الحقن الهرمونية"],
+          "treatments_en": ["Types: oral pills, IUD, condom, sterilization, hormonal injections"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["birth control", "IUD", "oral contraceptive", "منع الحمل", "تنظيم نسل"]
+    },
+    {
+      "id": 1325,
+      "term": "neonatal",
+      "arabic": "حديث الولادة / الفترة الوليدية",
+      "latin": "neonatalis",
+      "pronunciation": "نيو-أو-ني-تال",
+      "definition": "يصف الفترة من الولادة حتى 28 يوماً من عمر المولود، وهي فترة حرجة تحتاج إلى رعاية طبية متخصصة",
+      "definition_en": "Describes the period from birth to 28 days of age, a critical period requiring specialized medical care",
+      "englishSentence": "Neonatal care focuses on the health of newborns during the first 28 days of life.",
+      "parts": {
+        "prefix": { "value": "neo-", "meaning": "جديد", "function": "يشير إلى المولود الجديد" },
+        "root": { "value": "nat/o", "meaning": "ولادة", "function": "يشير إلى الميلاد" },
+        "suffix": { "value": "-al", "meaning": "متعلق بـ", "function": "صفة" }
+      },
+      "type": "concept",
+      "system": "الجهاز التناسلي",
+      "system_en": "Reproductive System",
+      "systemFunction": "رعاية المولود في مراحله الأولى",
+      "systemFunction_en": "Care of newborn in early stages",
+      "location": "حاضنة وحدة الرعاية المركزة للمواليد",
+      "location_en": "Incubator and neonatal intensive care unit (NICU)",
+      "nearbyOrgans": ["الرئتان", "القلب", "الجهاز العصبي", "الجهاز الهضمي"],
+      "nearbyOrgans_en": ["Lungs", "Heart", "Nervous system", "Digestive system"],
+      "diseases": [
+        {
+          "name": "اليرقان الوليدي",
+          "name_en": "Neonatal Jaundice",
+          "symptoms": ["اصفرار الجلد والعيون", "نعاس زائد", "ضعف الرضاعة"],
+          "symptoms_en": ["Yellow skin and eyes", "Excessive sleepiness", "Poor feeding"],
+          "treatments": ["علاج بالضوء (فوتوثيرابي)", "رضاعة متكررة", "نقل دم في الحالات الشديدة"],
+          "treatments_en": ["Phototherapy", "Frequent feeding", "Blood transfusion in severe cases"]
+        }
+      ],
+      "chapter": 13,
+      "keywords": ["newborn", "NICU", "pediatrics", "حديث الولادة", "وليد"]
+    }
+  ]
+}

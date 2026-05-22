@@ -1,0 +1,1783 @@
+{
+  "chapter": 7,
+  "title": "The Respiratory System",
+  "arabicTitle": "الجهاز التنفسي",
+  "description": "شرح تركيب ووظائف الجهاز التنفسي، بما في ذلك المسالك الهوائية العلوية والسفلية، أمراض الجهاز التنفسي المختلفة (المزمنة والحادة)، والإجراءات التشخيصية المرتبطة بها.",
+  "description_en": "Explanation of the structure and functions of the respiratory system, including the upper and lower airways, various respiratory diseases (chronic and acute), and associated diagnostic procedures.",
+  "terms": [
+    {
+      "id": 701,
+      "term": "respiratory system",
+      "arabic": "الجهاز التنفسي",
+      "latin": "systema respiratorium",
+      "pronunciation": "ريس-بير-آ-توري سيس-تم",
+      "definition": "الجهاز المسؤول عن جلب الأكسجين من الهواء المستنشق إلى الدم لتوصيله إلى خلايا الجسم، وطرد الفضلات (ثاني أكسيد الكربون وبعض الماء) التي يعيدها الدم إلى الرئتين، وإنتاج تدفق الهواء عبر الحنجرة الذي يجعل الكلام ممكناً.",
+      "definition_en": "The system responsible for bringing oxygen from inhaled air into the blood for delivery to body cells, expelling waste (carbon dioxide and some water) that blood returns to the lungs, and producing airflow through the larynx that makes speech possible.",
+      "englishSentence": "The respiratory system brings oxygen into the blood and expels carbon dioxide and water waste.",
+      "parts": {
+        "root": { "value": "respir", "meaning": "تنفس", "function": "يشير إلى التنفس" },
+        "suffix": { "value": "atory", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "system",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "جلب الأكسجين إلى الدم، طرد ثاني أكسيد الكربون، تمكين الكلام",
+      "systemFunction_en": "Bring oxygen into blood, expel carbon dioxide, enable speech",
+      "location": "الرأس والرقبة والتجويف الصدري",
+      "location_en": "Head, neck, and thoracic cavity",
+      "nearbyOrgans": ["القلب", "المريء", "الحجاب الحاجز", "الأوعية الدموية الكبرى"],
+      "nearbyOrgans_en": ["Heart", "Esophagus", "Diaphragm", "Great blood vessels"],
+      "diseases": [
+        {
+          "name": "مرض الانسداد الرئوي المزمن",
+          "name_en": "COPD",
+          "symptoms": ["ضيق تنفس", "سعال مزمن", "بلغم"],
+          "symptoms_en": ["Shortness of breath", "Chronic cough", "Sputum"],
+          "treatments": ["موسعات شعب", "كورتيزون", "أكسجين"],
+          "treatments_en": ["Bronchodilators", "Corticosteroids", "Oxygen"]
+        },
+        {
+          "name": "الربو",
+          "name_en": "Asthma",
+          "symptoms": ["أزيز", "ضيق صدر", "سعال", "ضيق تنفس"],
+          "symptoms_en": ["Wheezing", "Chest tightness", "Cough", "Shortness of breath"],
+          "treatments": ["موسعات شعب", "كورتيزون", "تجنب المثيرات"],
+          "treatments_en": ["Bronchodilators", "Corticosteroids", "Avoid triggers"]
+        }
+      ],
+      "functions": [
+        "جلب الأكسجين إلى الدم لتوصيله للخلايا",
+        "طرد ثاني أكسيد الكربون وبخار الماء",
+        "إنتاج تدفق الهواء عبر الحنجرة للكلام"
+      ],
+      "keywords": ["breathing system", "lungs", "airways"],
+      "chapter": 7
+    },
+    {
+      "id": 702,
+      "term": "upper respiratory tract",
+      "arabic": "الجهاز التنفسي العلوي",
+      "latin": "tractus respiratorius superior",
+      "pronunciation": "أبر ريس-بير-آ-توري تراكت",
+      "definition": "يتكون من الأنف والفم والبلعوم ولسان المزمار والحنجرة والقصبة الهوائية",
+      "definition_en": "Consists of the nose, mouth, pharynx, epiglottis, larynx, and trachea",
+      "englishSentence": "The upper respiratory tract consists of the nose, mouth, pharynx, epiglottis, larynx, and trachea.",
+      "parts": {
+        "root": { "value": "respir", "meaning": "تنفس", "function": "يشير إلى التنفس" },
+        "suffix": { "value": "atory", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تدفئة وترطيب وتنقية الهواء المستنشق",
+      "systemFunction_en": "Warm, humidify, and filter inhaled air",
+      "location": "الرأس والرقبة",
+      "location_en": "Head and neck",
+      "nearbyOrgans": ["الأنف", "الفم", "البلعوم", "الحنجرة", "الغدد اللعابية"],
+      "nearbyOrgans_en": ["Nose", "Mouth", "Pharynx", "Larynx", "Salivary glands"],
+      "diseases": [
+        {
+          "name": "التهاب الجهاز التنفسي العلوي",
+          "name_en": "Upper respiratory infection",
+          "symptoms": ["سعال", "عطس", "احتقان", "حمى"],
+          "symptoms_en": ["Cough", "Sneezing", "Congestion", "Fever"],
+          "treatments": ["راحة", "سوائل", "مسكنات"],
+          "treatments_en": ["Rest", "Fluids", "Pain relievers"]
+        }
+      ],
+      "keywords": ["nose", "throat", "larynx", "trachea"],
+      "chapter": 7
+    },
+    {
+      "id": 703,
+      "term": "lower respiratory tract",
+      "arabic": "الجهاز التنفسي السفلي",
+      "latin": "tractus respiratorius inferior",
+      "pronunciation": "لوير ريس-بير-آ-توري تراكت",
+      "definition": "يتكون من الشعب الهوائية والرئتين، وتقع داخل التجويف الصدري وتحميه.",
+      "definition_en": "Consists of the bronchial tree and lungs, located within the thoracic cavity and protected by it.",
+      "englishSentence": "The lower respiratory tract consists of the bronchial tree and lungs, located within the thoracic cavity.",
+      "parts": {
+        "root": { "value": "respir", "meaning": "تنفس", "function": "يشير إلى التنفس" },
+        "suffix": { "value": "atory", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "structure",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات (الأكسجين وثاني أكسيد الكربون)",
+      "systemFunction_en": "Gas exchange (oxygen and carbon dioxide)",
+      "location": "التجويف الصدري",
+      "location_en": "Thoracic cavity",
+      "nearbyOrgans": ["القلب", "الأضلاع", "الحجاب الحاجز", "المريء"],
+      "nearbyOrgans_en": ["Heart", "Ribs", "Diaphragm", "Esophagus"],
+      "diseases": [
+        {
+          "name": "الالتهاب الرئوي",
+          "name_en": "Pneumonia",
+          "symptoms": ["حمى", "سعال", "ضيق تنفس", "ألم صدر"],
+          "symptoms_en": ["Fever", "Cough", "Shortness of breath", "Chest pain"],
+          "treatments": ["مضادات حيوية", "أكسجين", "راحة"],
+          "treatments_en": ["Antibiotics", "Oxygen", "Rest"]
+        }
+      ],
+      "keywords": ["bronchial tree", "lungs"],
+      "chapter": 7
+    },
+    {
+      "id": 704,
+      "term": "thoracic cavity",
+      "arabic": "التجويف الصدري",
+      "latin": "cavitas thoracis",
+      "pronunciation": "ثو-راس-يك كاف-إي-تي",
+      "definition": "يُعرف أيضاً بالقفص الصدري، وهو التجويف الذي يحتوي على الرئتين والقلب وغيرهما من الأعضاء ويحميها.",
+      "definition_en": "Also known as the rib cage, the cavity that contains and protects the lungs, heart, and other organs.",
+      "englishSentence": "The thoracic cavity, also known as the rib cage, protects the lungs and heart.",
+      "parts": {
+        "root": { "value": "thorac", "meaning": "صدر", "function": "يشير إلى الصدر" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "cavity",
+      "system": "الجهاز التنفسي والدوري",
+      "system_en": "Respiratory and Circulatory System",
+      "systemFunction": "حماية أعضاء الصدر والمساعدة في التنفس",
+      "systemFunction_en": "Protect chest organs and assist in breathing",
+      "location": "بين الرقبة والبطن، يحمي بواسطة الأضلاع والقص",
+      "location_en": "Between neck and abdomen, protected by ribs and sternum",
+      "nearbyOrgans": ["الرئتين", "القلب", "المريء", "القصبة الهوائية", "الأوعية الدموية الكبرى"],
+      "nearbyOrgans_en": ["Lungs", "Heart", "Esophagus", "Trachea", "Great blood vessels"],
+      "diseases": [
+        {
+          "name": "انصباب جنبي",
+          "name_en": "Pleural effusion",
+          "symptoms": ["ضيق تنفس", "ألم صدر"],
+          "symptoms_en": ["Shortness of breath", "Chest pain"],
+          "treatments": ["بزل الصدر", "علاج السبب"],
+          "treatments_en": ["Thoracentesis", "Treat cause"]
+        }
+      ],
+      "keywords": ["rib cage", "chest cavity"],
+      "chapter": 7
+    },
+    {
+      "id": 705,
+      "term": "mediastinum",
+      "arabic": "المنصف",
+      "latin": "mediastinum",
+      "pronunciation": "مي-دي-آس-تاي-نوم",
+      "definition": "التجويف الموجود بين الرئتين، ويحتوي على نسيج ضام وأعضاء بما في ذلك القلب وأوردة وشرايين القلب، المريء، القصبة الهوائية، الشعب الهوائية، الغدة الزعترية، والعقد اللمفاوية.",
+      "definition_en": "The cavity between the lungs, containing connective tissue and organs including the heart, heart veins and arteries, esophagus, trachea, bronchi, thymus gland, and lymph nodes.",
+      "englishSentence": "The mediastinum is the cavity between the lungs containing the heart, esophagus, trachea, and other structures.",
+      "parts": {
+        "prefix": { "value": "medi", "meaning": "وسط", "function": "يشير إلى الوسط" },
+        "suffix": { "value": "um", "meaning": "هيكل", "function": "يشير إلى تركيب تشريحي" }
+      },
+      "type": "cavity",
+      "system": "الجهاز التنفسي والدوري",
+      "system_en": "Respiratory and Circulatory System",
+      "systemFunction": "احتواء وحماية الأعضاء الحيوية بين الرئتين",
+      "systemFunction_en": "Contain and protect vital organs between lungs",
+      "location": "بين الرئتين في التجويف الصدري",
+      "location_en": "Between lungs in thoracic cavity",
+      "nearbyOrgans": ["القلب", "المريء", "القصبة الهوائية", "الشعب الهوائية", "الغدة الزعترية"],
+      "nearbyOrgans_en": ["Heart", "Esophagus", "Trachea", "Bronchi", "Thymus"],
+      "diseases": [
+        {
+          "name": "أورام المنصف",
+          "name_en": "Mediastinal tumors",
+          "symptoms": ["ألم صدر", "سعال", "ضيق تنفس"],
+          "symptoms_en": ["Chest pain", "Cough", "Shortness of breath"],
+          "treatments": ["جراحة", "علاج كيميائي", "علاج إشعاعي"],
+          "treatments_en": ["Surgery", "Chemotherapy", "Radiation therapy"]
+        }
+      ],
+      "keywords": ["interpleural space", "middle cavity"],
+      "chapter": 7
+    },
+    {
+      "id": 706,
+      "term": "pleura",
+      "arabic": "غشاء الجنب",
+      "latin": "pleura",
+      "pronunciation": "بلو-را",
+      "definition": "غشاء رقيق ورطب وزلق يغطي السطح الخارجي للرئتين ويبطن السطح الداخلي للقفص الصدري.",
+      "definition_en": "A thin, moist, slippery membrane that covers the outer surface of the lungs and lines the inner surface of the rib cage.",
+      "englishSentence": "The pleura is a thin, moist membrane covering the lungs and lining the rib cage.",
+      "parts": {
+        "root": { "value": "pleur", "meaning": "جنب", "function": "يشير إلى الغشاء الجنبي" }
+      },
+      "type": "membrane",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "حماية الرئتين وتقليل الاحتكاك أثناء التنفس",
+      "systemFunction_en": "Protect lungs and reduce friction during breathing",
+      "location": "يحيط بالرئتين ويبطن جدار الصدر",
+      "location_en": "Surrounds lungs and lines chest wall",
+      "nearbyOrgans": ["الرئتين", "الأضلاع", "الحجاب الحاجز"],
+      "nearbyOrgans_en": ["Lungs", "Ribs", "Diaphragm"],
+      "diseases": [
+        {
+          "name": "التهاب الجنبة",
+          "name_en": "Pleurisy",
+          "symptoms": ["ألم حاد مع التنفس", "سعال", "حمى"],
+          "symptoms_en": ["Sharp pain with breathing", "Cough", "Fever"],
+          "treatments": ["مضادات التهاب", "مسكنات", "علاج السبب"],
+          "treatments_en": ["Anti-inflammatories", "Pain relievers", "Treat cause"]
+        }
+      ],
+      "keywords": ["pleural membrane", "lung covering"],
+      "chapter": 7
+    },
+    {
+      "id": 707,
+      "term": "pleural cavity",
+      "arabic": "التجويف الجنبي",
+      "latin": "cavitas pleuralis",
+      "pronunciation": "بلو-رال كاف-إي-تي",
+      "definition": "المساحة محكمة الإغلاق بين طبقتي الغشاء الجنبي، وتحتوي على طبقة رقيقة من السائل تسمح للأغشية بالانزلاق بسهولة أثناء التنفس.",
+      "definition_en": "The airtight space between the two pleural layers, containing a thin layer of fluid that allows the membranes to slide easily during breathing.",
+      "englishSentence": "The pleural cavity contains a thin layer of fluid that allows membranes to slide easily during breathing.",
+      "parts": {
+        "root": { "value": "pleur", "meaning": "جنب", "function": "يشير إلى الغشاء الجنبي" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "cavity",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تسهيل حركة الرئتين داخل الصدر",
+      "systemFunction_en": "Facilitate lung movement within chest",
+      "location": "بين طبقتي الغشاء الجنبي (الحشوية والجدارية)",
+      "location_en": "Between visceral and parietal pleura",
+      "nearbyOrgans": ["الرئتين", "غشاء الجنب", "جدار الصدر"],
+      "nearbyOrgans_en": ["Lungs", "Pleura", "Chest wall"],
+      "diseases": [
+        {
+          "name": "انصباب جنبي",
+          "name_en": "Pleural effusion",
+          "symptoms": ["ضيق تنفس", "ألم صدر"],
+          "symptoms_en": ["Shortness of breath", "Chest pain"],
+          "treatments": ["بزل الصدر", "علاج السبب"],
+          "treatments_en": ["Thoracentesis", "Treat cause"]
+        },
+        {
+          "name": "استرواح الصدر",
+          "name_en": "Pneumothorax",
+          "symptoms": ["ألم صدر مفاجئ", "ضيق تنفس"],
+          "symptoms_en": ["Sudden chest pain", "Shortness of breath"],
+          "treatments": ["أنبوب صدري", "جراحة"],
+          "treatments_en": ["Chest tube", "Surgery"]
+        }
+      ],
+      "keywords": ["pleural space"],
+      "chapter": 7
+    },
+    {
+      "id": 708,
+      "term": "diaphragm",
+      "arabic": "الحجاب الحاجز",
+      "latin": "diaphragma",
+      "pronunciation": "داي-آ-فرام",
+      "definition": "العضلة التي تفصل التجويف الصدري عن البطن. انقباضها واسترخاؤها يجعل التنفس ممكناً.",
+      "definition_en": "The muscle that separates the thoracic cavity from the abdomen. Its contraction and relaxation make breathing possible.",
+      "englishSentence": "The diaphragm is the muscle that separates the thoracic cavity from the abdomen and makes breathing possible.",
+      "parts": {
+        "prefix": { "value": "dia", "meaning": "عبر", "function": "يشير إلى العبور" },
+        "root": { "value": "phragm", "meaning": "حاجز", "function": "يشير إلى الحاجز" }
+      },
+      "type": "muscle",
+      "system": "الجهاز التنفسي والعضلي",
+      "system_en": "Respiratory and Muscular System",
+      "systemFunction": "الانقباض والاسترخاء لتغيير حجم التجويف الصدري مما يسمح بالتنفس",
+      "systemFunction_en": "Contract and relax to change thoracic cavity volume, allowing breathing",
+      "location": "أسفل الرئتين، يفصل التجويف الصدري عن البطن",
+      "location_en": "Below lungs, separating thoracic cavity from abdomen",
+      "nearbyOrgans": ["الرئتين", "القلب", "الكبد", "المعدة", "الطحال"],
+      "nearbyOrgans_en": ["Lungs", "Heart", "Liver", "Stomach", "Spleen"],
+      "diseases": [
+        {
+          "name": "شلل الحجاب الحاجز",
+          "name_en": "Diaphragmatic paralysis",
+          "symptoms": ["ضيق تنفس", "صعوبة في التنفس عند الاستلقاء"],
+          "symptoms_en": ["Shortness of breath", "Difficulty breathing when lying down"],
+          "treatments": ["تهوية ميكانيكية", "علاج السبب"],
+          "treatments_en": ["Mechanical ventilation", "Treat cause"]
+        },
+        {
+          "name": "فتق حجابي",
+          "name_en": "Hiatal hernia",
+          "symptoms": ["حرقة", "ألم صدر", "قلس حمضي"],
+          "symptoms_en": ["Heartburn", "Chest pain", "Acid reflux"],
+          "treatments": ["أدوية", "جراحة"],
+          "treatments_en": ["Medications", "Surgery"]
+        }
+      ],
+      "keywords": ["breathing muscle", "thoracoabdominal diaphragm"],
+      "chapter": 7
+    },
+    {
+      "id": 709,
+      "term": "phrenic nerves",
+      "arabic": "أعصاب حجابية",
+      "latin": "nervi phrenici",
+      "pronunciation": "فرين-يك نيرفز",
+      "definition": "الأعصاب التي تحفز الحجاب الحاجز وتسبب انقباضه.",
+      "definition_en": "The nerves that stimulate the diaphragm and cause it to contract.",
+      "englishSentence": "The phrenic nerves stimulate the diaphragm and cause it to contract.",
+      "parts": {
+        "root": { "value": "phren", "meaning": "حجاب حاجز", "function": "يشير إلى الحجاب الحاجز" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "nerve",
+      "system": "الجهاز العصبي والتنفسي",
+      "system_en": "Nervous and Respiratory System",
+      "systemFunction": "نقل الإشارات العصبية للحجاب الحاجز للتحكم في التنفس",
+      "systemFunction_en": "Transmit nerve signals to diaphragm to control breathing",
+      "location": "تنشأ من الأعصاب العنقية (C3-C5) وتمتد إلى الحجاب الحاجز",
+      "location_en": "Originate from cervical nerves (C3-C5) and extend to diaphragm",
+      "nearbyOrgans": ["الحجاب الحاجز", "الرقبة", "التامور"],
+      "nearbyOrgans_en": ["Diaphragm", "Neck", "Pericardium"],
+      "diseases": [
+        {
+          "name": "إصابة العصب الحجابي",
+          "name_en": "Phrenic nerve injury",
+          "symptoms": ["ضعف الحجاب الحاجز", "ضيق تنفس"],
+          "symptoms_en": ["Diaphragm weakness", "Shortness of breath"],
+          "treatments": ["علاج طبيعي", "تهوية ميكانيكية"],
+          "treatments_en": ["Physical therapy", "Mechanical ventilation"]
+        }
+      ],
+      "keywords": ["diaphragm nerves"],
+      "chapter": 7
+    },
+    {
+      "id": 710,
+      "term": "respiration",
+      "arabic": "التنفس",
+      "latin": "respiratio",
+      "pronunciation": "ريس-بير-آي-شن",
+      "definition": "تبادل الأكسجين وثاني أكسيد الكربون الضروري للحياة، ويتكون من شهيق وزفير واحد.",
+      "definition_en": "The exchange of oxygen and carbon dioxide essential to life, consisting of one inhalation and one exhalation.",
+      "englishSentence": "Respiration is the exchange of oxygen and carbon dioxide essential to life.",
+      "parts": {
+        "prefix": { "value": "re", "meaning": "مرة أخرى", "function": "يشير إلى التكرار" },
+        "root": { "value": "spir", "meaning": "تنفس", "function": "يشير إلى التنفس" },
+        "suffix": { "value": "ation", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "process",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات بين الجسم والبيئة",
+      "systemFunction_en": "Gas exchange between body and environment",
+      "location": "الرئتين والممرات الهوائية",
+      "location_en": "Lungs and airways",
+      "nearbyOrgans": ["الرئتين", "الحجاب الحاجز", "عضلات التنفس"],
+      "nearbyOrgans_en": ["Lungs", "Diaphragm", "Respiratory muscles"],
+      "diseases": [
+        {
+          "name": "فشل تنفسي",
+          "name_en": "Respiratory failure",
+          "symptoms": ["ضيق تنفس", "زرقة", "تشوش ذهني"],
+          "symptoms_en": ["Shortness of breath", "Cyanosis", "Confusion"],
+          "treatments": ["أكسجين", "تهوية ميكانيكية", "علاج السبب"],
+          "treatments_en": ["Oxygen", "Mechanical ventilation", "Treat cause"]
+        }
+      ],
+      "keywords": ["breathing", "ventilation"],
+      "chapter": 7
+    },
+    {
+      "id": 711,
+      "term": "inhalation",
+      "arabic": "شهيق",
+      "latin": "inspiratio",
+      "pronunciation": "إن-ها-لاي-شن",
+      "definition": "عملية أخذ الهواء عندما يرتخي الحجاب الحاجز ويسحب للأسفل، مما يتسبب في توسع التجويف الصدري وسحب الهواء إلى الرئتين.",
+      "definition_en": "The act of taking air in when the diaphragm contracts and pulls downward, causing the thoracic cavity to expand and draw air into the lungs.",
+      "englishSentence": "Inhalation is the act of taking air into the lungs as the diaphragm contracts downward.",
+      "parts": {
+        "prefix": { "value": "in", "meaning": "داخل", "function": "يشير إلى الداخل" },
+        "root": { "value": "hal", "meaning": "نفس", "function": "يشير إلى النفس" },
+        "suffix": { "value": "ation", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "process",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "إدخال الهواء إلى الرئتين",
+      "systemFunction_en": "Bring air into lungs",
+      "location": "الرئتين والممرات الهوائية",
+      "location_en": "Lungs and airways",
+      "nearbyOrgans": ["الحجاب الحاجز", "عضلات بين الضلوع"],
+      "nearbyOrgans_en": ["Diaphragm", "Intercostal muscles"],
+      "diseases": [],
+      "keywords": ["inspiration", "breathing in"],
+      "chapter": 7
+    },
+    {
+      "id": 712,
+      "term": "exhalation",
+      "arabic": "زفير",
+      "latin": "exspiratio",
+      "pronunciation": "إكس-ها-لاي-شن",
+      "definition": "عملية طرد الهواء. عندما ينقبض الحجاب الحاجز، يتحرك لأعلى، مما يتسبب في تضييق التجويف الصدري ويدفع الهواء خارج الرئتين.",
+      "definition_en": "The act of breathing out. When the diaphragm relaxes, it moves upward, causing the thoracic cavity to narrow and push air out of the lungs.",
+      "englishSentence": "Exhalation is the act of breathing out as the diaphragm relaxes upward.",
+      "parts": {
+        "prefix": { "value": "ex", "meaning": "خارج", "function": "يشير إلى الخارج" },
+        "root": { "value": "hal", "meaning": "نفس", "function": "يشير إلى النفس" },
+        "suffix": { "value": "ation", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "process",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "طرد الهواء من الرئتين",
+      "systemFunction_en": "Expel air from lungs",
+      "location": "الرئتين والممرات الهوائية",
+      "location_en": "Lungs and airways",
+      "nearbyOrgans": ["الحجاب الحاجز", "عضلات بين الضلوع"],
+      "nearbyOrgans_en": ["Diaphragm", "Intercostal muscles"],
+      "diseases": [],
+      "keywords": ["expiration", "breathing out"],
+      "chapter": 7
+    },
+    {
+      "id": 713,
+      "term": "otolaryngologist",
+      "arabic": "طبيب أنف وأذن وحنجرة",
+      "latin": "otolaryngologus",
+      "pronunciation": "أو-تو-لار-إن-جول-أو-جيست",
+      "definition": "طبيب متخصص في تشخيص وعلاج أمراض واضطرابات الأذن والأنف والحنجرة والهياكل المرتبطة بها في الرأس والرقبة.",
+      "definition_en": "A physician specializing in diagnosing and treating diseases and disorders of the ears, nose, throat, and related structures of the head and neck.",
+      "englishSentence": "An otolaryngologist specializes in diseases of the ears, nose, throat, and related head and neck structures.",
+      "parts": {
+        "root1": { "value": "ot/o", "meaning": "أذن", "function": "يشير إلى الأذن" },
+        "root2": { "value": "laryng/o", "meaning": "حنجرة", "function": "يشير إلى الحنجرة" },
+        "suffix": { "value": "ologist", "meaning": "أخصائي", "function": "يشير إلى المختص" }
+      },
+      "type": "specialist",
+      "abbreviation": "ENT",
+      "system": "الجهاز التنفسي والسمعي",
+      "system_en": "Respiratory and Auditory System",
+      "systemFunction": "تشخيص وعلاج أمراض الأنف والأذن والحنجرة",
+      "systemFunction_en": "Diagnose and treat ear, nose, and throat diseases",
+      "location": "عيادات ومستشفيات",
+      "location_en": "Clinics and hospitals",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["ENT specialist", "ear nose throat doctor"],
+      "chapter": 7
+    },
+    {
+      "id": 714,
+      "term": "pulmonologist",
+      "arabic": "طبيب رئة",
+      "latin": "pulmonologus",
+      "pronunciation": "بول-مو-نول-أو-جيست",
+      "definition": "طبيب متخصص في تشخيص وعلاج أمراض واضطرابات الرئتين والأنسجة المرتبطة بها.",
+      "definition_en": "A physician specializing in diagnosing and treating diseases and disorders of the lungs and associated tissues.",
+      "englishSentence": "A pulmonologist specializes in diseases of the lungs and associated tissues.",
+      "parts": {
+        "root": { "value": "pulmon", "meaning": "رئة", "function": "يشير إلى الرئة" },
+        "suffix": { "value": "ologist", "meaning": "أخصائي", "function": "يشير إلى المختص" }
+      },
+      "type": "specialist",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تشخيص وعلاج أمراض الرئة",
+      "systemFunction_en": "Diagnose and treat lung diseases",
+      "location": "عيادات ومستشفيات",
+      "location_en": "Clinics and hospitals",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["lung specialist", "respiratory physician"],
+      "chapter": 7
+    },
+    {
+      "id": 715,
+      "term": "chronic obstructive pulmonary disease",
+      "arabic": "مرض الانسداد الرئوي المزمن",
+      "latin": "morbus pulmonarius obstructivus chronicus",
+      "pronunciation": "كرون-يك أوب-ستروك-تيف بول-مو-نير-ي دي-زيز",
+      "definition": "مرض رئوي يصعب فيه التنفس بسبب تلف الشعب الهوائية مما يسبب انسداداً جزئياً. معظم المصابين به، وهم عادة مدخنون أو مدخنون سابقون، يعانون أيضاً من التهاب الشعب الهوائية المزمن وانتفاخ الرئة.",
+      "definition_en": "A lung disease where breathing is difficult due to damaged airways causing partial obstruction. Most sufferers, usually smokers or ex-smokers, also have chronic bronchitis and emphysema.",
+      "englishSentence": "COPD is a lung disease with obstructed airways, making it hard to breathe.",
+      "parts": {
+        "root1": { "value": "obstruct", "meaning": "انسداد", "function": "يشير إلى الانسداد" },
+        "root2": { "value": "pulmon", "meaning": "رئة", "function": "يشير إلى الرئة" },
+        "suffix": { "value": "ary", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "abbreviation": "COPD",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الرئتين والشعب الهوائية",
+      "location_en": "Lungs and bronchi",
+      "nearbyOrgans": ["الرئتين", "القلب", "الأوعية الدموية الرئوية"],
+      "nearbyOrgans_en": ["Lungs", "Heart", "Pulmonary vessels"],
+      "diseases": [
+        {
+          "name": "مرض الانسداد الرئوي المزمن",
+          "name_en": "COPD",
+          "symptoms": ["ضيق تنفس", "سعال مزمن", "بلغم", "أزيز"],
+          "symptoms_en": ["Shortness of breath", "Chronic cough", "Sputum", "Wheezing"],
+          "treatments": ["موسعات شعب", "كورتيزون", "أكسجين", "إعادة تأهيل رئوي"],
+          "treatments_en": ["Bronchodilators", "Corticosteroids", "Oxygen", "Pulmonary rehabilitation"]
+        }
+      ],
+      "keywords": ["COPD", "chronic bronchitis", "emphysema"],
+      "chapter": 7
+    },
+    {
+      "id": 716,
+      "term": "chronic bronchitis",
+      "arabic": "التهاب الشعب الهوائية المزمن",
+      "latin": "bronchitis chronica",
+      "pronunciation": "كرون-يك برون-كاي-تس",
+      "definition": "حالة تلتهب فيها المسالك الهوائية وتتسماك، مع زيادة في عدد وحجم الخلايا المنتجة للمخاط.",
+      "definition_en": "A condition where the airways are inflamed and thickened, with an increase in the number and size of mucus-producing cells.",
+      "englishSentence": "In chronic bronchitis, the airways are inflamed and thickened with increased mucus production.",
+      "parts": {
+        "root": { "value": "bronch", "meaning": "شعبة هوائية", "function": "يشير إلى الشعب الهوائية" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "توصيل الهواء إلى الرئتين",
+      "systemFunction_en": "Conduct air to lungs",
+      "location": "الشعب الهوائية",
+      "location_en": "Bronchi",
+      "nearbyOrgans": ["الرئتين", "القصبة الهوائية", "الحويصلات الهوائية"],
+      "nearbyOrgans_en": ["Lungs", "Trachea", "Alveoli"],
+      "diseases": [],
+      "keywords": ["airway inflammation", "mucus hypersecretion"],
+      "chapter": 7
+    },
+    {
+      "id": 717,
+      "term": "emphysema",
+      "arabic": "انتفاخ الرئة (نفاخ رئوي)",
+      "latin": "emphysema pulmonum",
+      "pronunciation": "إم-في-سي-ما",
+      "definition": "فقدان تدريجي لوظائف الرئة يتميز بانخفاض العدد الإجمالي للحويصلات الهوائية، وتضخم الحويصلات المتبقية، والتدمير التدريجي لجدرانها. يصبح التنفس سريعاً وضحلاً وصعباً، وتتوسع الرئتان أحياناً لتعويض فقدان السعة.",
+      "definition_en": "Progressive loss of lung function characterized by a decrease in the total number of alveoli, enlargement of remaining alveoli, and progressive destruction of their walls. Breathing becomes rapid, shallow, and difficult, and the lungs sometimes expand to compensate for lost capacity.",
+      "englishSentence": "Emphysema is the progressive loss of lung function due to destruction of alveoli walls.",
+      "parts": {
+        "prefix": { "value": "em", "meaning": "داخل", "function": "يشير إلى الداخل" },
+        "root": { "value": "phys", "meaning": "نفخ", "function": "يشير إلى النفخ" },
+        "suffix": { "value": "ema", "meaning": "نتوء", "function": "يشير إلى التضخم" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الحويصلات الهوائية في الرئتين",
+      "location_en": "Alveoli in lungs",
+      "nearbyOrgans": ["الرئتين", "الشعب الهوائية", "الأوعية الدموية الرئوية"],
+      "nearbyOrgans_en": ["Lungs", "Bronchi", "Pulmonary vessels"],
+      "diseases": [],
+      "keywords": ["alveolar destruction", "air trapping"],
+      "chapter": 7
+    },
+    {
+      "id": 718,
+      "term": "asthma",
+      "arabic": "ربو",
+      "latin": "asthma",
+      "pronunciation": "آز-ما",
+      "definition": "اضطراب تحسسي مزمن يتميز بنوبات من صعوبة التنفس الشديدة والسعال والصفير. تؤثر مجموعة متنوعة من العوامل بما في ذلك المواد المسببة للحساسية والعوامل البيئية والتمارين الرياضية أو العدوى على تواتر وشدة النوبات.",
+      "definition_en": "A chronic allergic disorder characterized by episodes of severe breathing difficulty, cough, and wheezing. Various factors including allergens, environmental factors, exercise, or infection affect the frequency and severity of attacks.",
+      "englishSentence": "Asthma is a chronic allergic disorder with episodes of severe breathing difficulty and wheezing.",
+      "parts": {
+        "root": { "value": "asthm", "meaning": "ربو", "function": "يشير إلى الربو" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الشعب الهوائية",
+      "location_en": "Bronchi",
+      "nearbyOrgans": ["الرئتين", "القصبة الهوائية"],
+      "nearbyOrgans_en": ["Lungs", "Trachea"],
+      "diseases": [
+        {
+          "name": "الربو",
+          "name_en": "Asthma",
+          "symptoms": ["أزيز", "سعال", "ضيق صدر", "ضيق تنفس"],
+          "symptoms_en": ["Wheezing", "Cough", "Chest tightness", "Shortness of breath"],
+          "treatments": ["موسعات شعب", "كورتيزون", "تجنب المثيرات"],
+          "treatments_en": ["Bronchodilators", "Corticosteroids", "Avoid triggers"]
+        }
+      ],
+      "keywords": ["bronchial asthma", "wheezing"],
+      "chapter": 7
+    },
+    {
+      "id": 719,
+      "term": "asthmatic attack",
+      "arabic": "نوبة ربو",
+      "latin": "accessus asthmaticus",
+      "pronunciation": "آز-ما-تيك آ-تاك",
+      "definition": "نوبة من صعوبة التنفس الشديدة والسعال والصفير المرتبطة بالربو.",
+      "definition_en": "An episode of severe breathing difficulty, cough, and wheezing associated with asthma.",
+      "englishSentence": "An asthmatic attack is an episode of severe breathing difficulty in asthma.",
+      "parts": {
+        "root": { "value": "asthm", "meaning": "ربو", "function": "يشير إلى الربو" },
+        "suffix": { "value": "atic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "event",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الشعب الهوائية",
+      "location_en": "Bronchi",
+      "nearbyOrgans": ["الرئتين"],
+      "nearbyOrgans_en": ["Lungs"],
+      "diseases": [],
+      "keywords": ["asthma exacerbation", "bronchospasm"],
+      "chapter": 7
+    },
+    {
+      "id": 720,
+      "term": "wheezing",
+      "arabic": "أزيز (صفير)",
+      "latin": "sibilus",
+      "pronunciation": "وي-زينغ",
+      "definition": "صوت تنفس ناتج عن انسداد جزئي في المسالك الهوائية.",
+      "definition_en": "A breathing sound caused by a partially obstructed airway.",
+      "englishSentence": "Wheezing is a breathing sound caused by a partially obstructed airway.",
+      "parts": {
+        "root": { "value": "wheeze", "meaning": "أزيز", "function": "يشير إلى صوت الأزيز" }
+      },
+      "type": "sign",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "توصيل الهواء",
+      "systemFunction_en": "Air conduction",
+      "location": "الشعب الهوائية",
+      "location_en": "Bronchi",
+      "nearbyOrgans": ["الرئتين", "القصبة الهوائية"],
+      "nearbyOrgans_en": ["Lungs", "Trachea"],
+      "diseases": [],
+      "keywords": ["whistling sound", "bronchial narrowing"],
+      "chapter": 7
+    },
+    {
+      "id": 721,
+      "term": "upper respiratory infection",
+      "arabic": "عدوى الجهاز التنفسي العلوي",
+      "latin": "infectio tractus respiratorii superioris",
+      "pronunciation": "أبر ريس-بير-آ-توري إن-فيك-شن",
+      "definition": "يُستخدم لوصف نزلات البرد الشائعة، ويمكن أن يسببه أي من 200 فيروس مختلف.",
+      "definition_en": "Used to describe the common cold, which can be caused by any of 200 different viruses.",
+      "englishSentence": "An upper respiratory infection, or common cold, can be caused by many different viruses.",
+      "parts": {
+        "root": { "value": "infect", "meaning": "عدوى", "function": "يشير إلى العدوى" },
+        "suffix": { "value": "ion", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "infection",
+      "abbreviation": "URI",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات والدفاع",
+      "systemFunction_en": "Gas exchange and defense",
+      "location": "الأنف، البلعوم، الحنجرة",
+      "location_en": "Nose, pharynx, larynx",
+      "nearbyOrgans": ["الأنف", "البلعوم", "الحنجرة", "اللوزتين"],
+      "nearbyOrgans_en": ["Nose", "Pharynx", "Larynx", "Tonsils"],
+      "diseases": [
+        {
+          "name": "نزلة برد",
+          "name_en": "Common cold",
+          "symptoms": ["سعال", "عطس", "احتقان", "سيلان أنف", "حمى خفيفة"],
+          "symptoms_en": ["Cough", "Sneezing", "Congestion", "Runny nose", "Mild fever"],
+          "treatments": ["راحة", "سوائل", "مسكنات", "مضادات احتقان"],
+          "treatments_en": ["Rest", "Fluids", "Pain relievers", "Decongestants"]
+        }
+      ],
+      "keywords": ["common cold", "nasopharyngitis"],
+      "chapter": 7
+    },
+    {
+      "id": 722,
+      "term": "acute nasopharyngitis",
+      "arabic": "التهاب البلعوم الأنفي الحاد",
+      "latin": "nasopharyngitis acuta",
+      "pronunciation": "ناي-زو-فار-إن-جاي-تس",
+      "definition": "مصطلح آخر لوصف نزلات البرد الشائعة (الزكام).",
+      "definition_en": "Another term for the common cold.",
+      "englishSentence": "Acute nasopharyngitis is another term for the common cold.",
+      "parts": {
+        "root1": { "value": "nas/o", "meaning": "أنف", "function": "يشير إلى الأنف" },
+        "root2": { "value": "pharyng", "meaning": "بلعوم", "function": "يشير إلى البلعوم" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "infection",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات والدفاع",
+      "systemFunction_en": "Gas exchange and defense",
+      "location": "الأنف والبلعوم",
+      "location_en": "Nose and pharynx",
+      "nearbyOrgans": ["الأنف", "البلعوم", "اللوزتين"],
+      "nearbyOrgans_en": ["Nose", "Pharynx", "Tonsils"],
+      "diseases": [],
+      "keywords": ["common cold"],
+      "chapter": 7
+    },
+    {
+      "id": 723,
+      "term": "allergic rhinitis",
+      "arabic": "التهاب الأنف التحسسي",
+      "latin": "rhinitis allergica",
+      "pronunciation": "آ-لير-جيك راي-ناي-تس",
+      "definition": "تفاعل تحسسي للمواد المسببة للحساسية المحمولة جواً يسبب زيادة في تدفق المخاط، ويشار إليه عادة باسم الحساسية.",
+      "definition_en": "An allergic reaction to airborne allergens causing increased mucus flow, commonly referred to as hay fever.",
+      "englishSentence": "Allergic rhinitis is an allergic reaction to airborne allergens causing increased mucus flow.",
+      "parts": {
+        "root": { "value": "rhin", "meaning": "أنف", "function": "يشير إلى الأنف" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "ترطيب وتدفئة الهواء",
+      "systemFunction_en": "Humidify and warm air",
+      "location": "الأنف والجيوب الأنفية",
+      "location_en": "Nose and sinuses",
+      "nearbyOrgans": ["الأنف", "العينين", "البلعوم"],
+      "nearbyOrgans_en": ["Nose", "Eyes", "Pharynx"],
+      "diseases": [
+        {
+          "name": "حمى القش",
+          "name_en": "Hay fever",
+          "symptoms": ["عطس", "سيلان أنف", "حكة", "احتقان"],
+          "symptoms_en": ["Sneezing", "Runny nose", "Itching", "Congestion"],
+          "treatments": ["مضادات هيستامين", "كورتيزون أنفي", "تجنب المثيرات"],
+          "treatments_en": ["Antihistamines", "Nasal corticosteroids", "Avoid triggers"]
+        }
+      ],
+      "keywords": ["hay fever", "nasal allergy"],
+      "chapter": 7
+    },
+    {
+      "id": 724,
+      "term": "croup",
+      "arabic": "خانوق",
+      "latin": "laryngitis stridulosa",
+      "pronunciation": "كروب",
+      "definition": "متلازمة تنفسية حادة تصيب الأطفال والرضع وتتميز بانسداد الحنجرة وبحة في الصوت وسعال نباحي.",
+      "definition_en": "An acute respiratory syndrome affecting children and infants, characterized by laryngeal obstruction, hoarseness, and barking cough.",
+      "englishSentence": "Croup is an acute respiratory syndrome in children with laryngeal obstruction and barking cough.",
+      "parts": {
+        "root": { "value": "croup", "meaning": "خانوق", "function": "يشير إلى الخانوق" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "توصيل الهواء",
+      "systemFunction_en": "Air conduction",
+      "location": "الحنجرة والقصبة الهوائية",
+      "location_en": "Larynx and trachea",
+      "nearbyOrgans": ["الحنجرة", "القصبة الهوائية", "الشعب الهوائية"],
+      "nearbyOrgans_en": ["Larynx", "Trachea", "Bronchi"],
+      "diseases": [
+        {
+          "name": "خانوق",
+          "name_en": "Croup",
+          "symptoms": ["سعال نباحي", "بحة", "صعوبة تنفس", "حمى"],
+          "symptoms_en": ["Barking cough", "Hoarseness", "Difficulty breathing", "Fever"],
+          "treatments": ["كورتيزون", "إبينفرين", "ترطيب الهواء"],
+          "treatments_en": ["Corticosteroids", "Epinephrine", "Humidified air"]
+        }
+      ],
+      "keywords": ["laryngotracheobronchitis", "barking cough"],
+      "chapter": 7
+    },
+    {
+      "id": 725,
+      "term": "diphtheria",
+      "arabic": "خناق (دفتيريا)",
+      "latin": "diphtheria",
+      "pronunciation": "ديف-ثير-ي-آ",
+      "definition": "عدوى بكتيرية حادة في الحلق والجهاز التنفسي العلوي، تُمنع الآن إلى حد كبير من خلال التحصين. تنتج بكتيريا الدفتيريا سمومًا يمكن أن تلحق الضرر بعضلة القلب والأعصاب الطرفية.",
+      "definition_en": "An acute bacterial infection of the throat and upper respiratory tract, now largely prevented through immunization. Diphtheria bacteria produce toxins that can damage the heart muscle and peripheral nerves.",
+      "englishSentence": "Diphtheria is an acute bacterial infection of the throat and upper respiratory tract.",
+      "parts": {
+        "root": { "value": "diphther", "meaning": "دفتيريا", "function": "يشير إلى الدفتيريا" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "infection",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "توصيل الهواء",
+      "systemFunction_en": "Air conduction",
+      "location": "الحلق والجهاز التنفسي العلوي",
+      "location_en": "Throat and upper respiratory tract",
+      "nearbyOrgans": ["البلعوم", "الحنجرة", "اللوزتين"],
+      "nearbyOrgans_en": ["Pharynx", "Larynx", "Tonsils"],
+      "diseases": [
+        {
+          "name": "الدفتيريا",
+          "name_en": "Diphtheria",
+          "symptoms": ["غشاء كاذب في الحلق", "ألم حلق", "حمى", "صعوبة تنفس"],
+          "symptoms_en": ["Pseudomembrane in throat", "Sore throat", "Fever", "Difficulty breathing"],
+          "treatments": ["مضاد سم", "مضادات حيوية", "عزل"],
+          "treatments_en": ["Antitoxin", "Antibiotics", "Isolation"]
+        }
+      ],
+      "keywords": ["Corynebacterium diphtheriae", "vaccine-preventable"],
+      "chapter": 7
+    },
+    {
+      "id": 726,
+      "term": "epistaxis",
+      "arabic": "رعاف (نزيف أنفي)",
+      "latin": "epistaxis",
+      "pronunciation": "إب-إي-ستاك-سيس",
+      "definition": "نزيف من الأنف عادة ما يسببه إصابة أو الاستخدام المفرط لمميعات الدم أو اضطرابات النزيف.",
+      "definition_en": "Bleeding from the nose usually caused by injury, excessive use of blood thinners, or bleeding disorders.",
+      "englishSentence": "Epistaxis, also known as a nosebleed, is bleeding from the nose.",
+      "parts": {
+        "prefix": { "value": "epi", "meaning": "فوق", "function": "يشير إلى فوق" },
+        "root": { "value": "stax", "meaning": "نزف", "function": "يشير إلى النزف" },
+        "suffix": { "value": "is", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "ترطيب وتدفئة الهواء",
+      "systemFunction_en": "Humidify and warm air",
+      "location": "الأنف",
+      "location_en": "Nose",
+      "nearbyOrgans": ["الأنف", "البلعوم", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Nose", "Pharynx", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "رعاف",
+          "name_en": "Epistaxis",
+          "symptoms": ["نزيف من الأنف"],
+          "symptoms_en": ["Bleeding from nose"],
+          "treatments": ["ضغط", "كي", "سدادة أنفية"],
+          "treatments_en": ["Pressure", "Cauterization", "Nasal packing"]
+        }
+      ],
+      "keywords": ["nosebleed"],
+      "chapter": 7
+    },
+    {
+      "id": 727,
+      "term": "influenza",
+      "arabic": "إنفلونزا",
+      "latin": "influenza",
+      "pronunciation": "إن-فلو-إن-زا",
+      "definition": "عدوى فيروسية تنفسية حادة شديدة العدوى تنتشر عن طريق القطيرات التنفسية وتحدث بشكل شائع في الأوبئة خلال الأشهر الباردة. هناك سلالات عديدة من فيروس الإنفلونزا.",
+      "definition_en": "An acute, highly contagious viral respiratory infection spread by respiratory droplets and commonly occurring in epidemics during cold months. There are many strains of influenza virus.",
+      "englishSentence": "Influenza is an acute, highly contagious viral respiratory infection occurring in epidemics.",
+      "parts": {
+        "root": { "value": "influenz", "meaning": "إنفلونزا", "function": "يشير إلى الإنفلونزا" }
+      },
+      "type": "infection",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الجهاز التنفسي العلوي والسفلي",
+      "location_en": "Upper and lower respiratory tract",
+      "nearbyOrgans": ["الأنف", "الحلق", "الرئتين"],
+      "nearbyOrgans_en": ["Nose", "Throat", "Lungs"],
+      "diseases": [
+        {
+          "name": "الإنفلونزا",
+          "name_en": "Influenza",
+          "symptoms": ["حمى", "سعال", "ألم عضلي", "صداع", "تعب"],
+          "symptoms_en": ["Fever", "Cough", "Muscle pain", "Headache", "Fatigue"],
+          "treatments": ["راحة", "سوائل", "مسكنات", "مضادات فيروسات"],
+          "treatments_en": ["Rest", "Fluids", "Pain relievers", "Antivirals"]
+        }
+      ],
+      "keywords": ["flu"],
+      "chapter": 7
+    },
+    {
+      "id": 728,
+      "term": "pertussis",
+      "arabic": "سعال ديكي (شاهوق)",
+      "latin": "pertussis",
+      "pronunciation": "بير-توس-إس",
+      "definition": "عدوى بكتيرية معدية تصيب الجهاز التنفسي العلوي وتتميز بنوبات متكررة من السعال الانتيابي، يتبعها ضيق في التنفس وشهيق صاخب.",
+      "definition_en": "A contagious bacterial infection of the upper respiratory tract characterized by repeated episodes of paroxysmal cough, followed by shortness of breath and a noisy intake of breath.",
+      "englishSentence": "Pertussis, or whooping cough, is a contagious bacterial infection with paroxysmal cough.",
+      "parts": {
+        "prefix": { "value": "per", "meaning": "شديد", "function": "يشير إلى الشدة" },
+        "root": { "value": "tuss", "meaning": "سعال", "function": "يشير إلى السعال" },
+        "suffix": { "value": "is", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "infection",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الجهاز التنفسي العلوي",
+      "location_en": "Upper respiratory tract",
+      "nearbyOrgans": ["الحنجرة", "القصبة الهوائية", "الشعب الهوائية"],
+      "nearbyOrgans_en": ["Larynx", "Trachea", "Bronchi"],
+      "diseases": [
+        {
+          "name": "السعال الديكي",
+          "name_en": "Whooping cough",
+          "symptoms": ["سعال انتيابي", "شهيق صاخب", "قيء بعد السعال"],
+          "symptoms_en": ["Paroxysmal cough", "Whooping sound", "Vomiting after cough"],
+          "treatments": ["مضادات حيوية", "تطعيم"],
+          "treatments_en": ["Antibiotics", "Vaccination"]
+        }
+      ],
+      "keywords": ["whooping cough", "Bordetella pertussis"],
+      "chapter": 7
+    },
+    {
+      "id": 729,
+      "term": "paroxysmal",
+      "arabic": "انتيابي (مفاجئ)",
+      "latin": "paroxysmalis",
+      "pronunciation": "بار-أوك-سيز-مال",
+      "definition": "يعني مفاجئ أو يشبه التشنج",
+      "definition_en": "Means sudden or spasm-like.",
+      "englishSentence": "Paroxysmal means sudden or spasm-like.",
+      "parts": {
+        "root": { "value": "paroxysm", "meaning": "انتياب", "function": "يشير إلى النوبة" },
+        "suffix": { "value": "al", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "adjective",
+      "system": "عام",
+      "system_en": "General",
+      "systemFunction": "وصف الأعراض",
+      "systemFunction_en": "Describe symptoms",
+      "location": "متعدد",
+      "location_en": "Multiple",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["sudden onset", "spasmodic"],
+      "chapter": 7
+    },
+    {
+      "id": 730,
+      "term": "rhinorrhea",
+      "arabic": "سيلان الأنف",
+      "latin": "rhinorrhoea",
+      "pronunciation": "راي-نو-ري-آ",
+      "definition": "تدفق مائي للمخاط من الأنف.",
+      "definition_en": "Watery flow of mucus from the nose.",
+      "englishSentence": "Rhinorrhea is the watery flow of mucus from the nose.",
+      "parts": {
+        "root": { "value": "rhin/o", "meaning": "أنف", "function": "يشير إلى الأنف" },
+        "suffix": { "value": "rrhea", "meaning": "تدفق", "function": "يشير إلى التدفق" }
+      },
+      "type": "symptom",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "إنتاج المخاط",
+      "systemFunction_en": "Mucus production",
+      "location": "الأنف",
+      "location_en": "Nose",
+      "nearbyOrgans": ["الأنف", "الجيوب الأنفية"],
+      "nearbyOrgans_en": ["Nose", "Sinuses"],
+      "diseases": [],
+      "keywords": ["runny nose"],
+      "chapter": 7
+    },
+    {
+      "id": 731,
+      "term": "sinusitis",
+      "arabic": "التهاب الجيوب الأنفية",
+      "latin": "sinusitis",
+      "pronunciation": "ساي-نو-ساي-تس",
+      "definition": "التهاب في الجيوب الأنفية.",
+      "definition_en": "Inflammation of the sinuses.",
+      "englishSentence": "Sinusitis is inflammation of the sinuses.",
+      "parts": {
+        "root": { "value": "sinus", "meaning": "جيب أنفي", "function": "يشير إلى الجيوب الأنفية" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "ترطيب وتدفئة الهواء",
+      "systemFunction_en": "Humidify and warm air",
+      "location": "الجيوب الأنفية",
+      "location_en": "Paranasal sinuses",
+      "nearbyOrgans": ["الأنف", "العينين", "الأسنان العلوية", "الدماغ"],
+      "nearbyOrgans_en": ["Nose", "Eyes", "Upper teeth", "Brain"],
+      "diseases": [
+        {
+          "name": "التهاب الجيوب الأنفية",
+          "name_en": "Sinusitis",
+          "symptoms": ["ألم وجهي", "صداع", "احتقان", "حمى"],
+          "symptoms_en": ["Facial pain", "Headache", "Congestion", "Fever"],
+          "treatments": ["مضادات حيوية", "مضادات احتقان", "غسل الأنف"],
+          "treatments_en": ["Antibiotics", "Decongestants", "Nasal irrigation"]
+        }
+      ],
+      "keywords": ["sinus infection"],
+      "chapter": 7
+    },
+    {
+      "id": 732,
+      "term": "pharyngitis",
+      "arabic": "التهاب البلعوم",
+      "latin": "pharyngitis",
+      "pronunciation": "فار-إن-جاي-تس",
+      "definition": "التهاب في البلعوم، ويُعرف أيضاً باسم التهاب الحلق.",
+      "definition_en": "Inflammation of the pharynx, also known as a sore throat.",
+      "englishSentence": "Pharyngitis is inflammation of the pharynx, also known as a sore throat.",
+      "parts": {
+        "root": { "value": "pharyng", "meaning": "بلعوم", "function": "يشير إلى البلعوم" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "ممر للهواء والطعام",
+      "systemFunction_en": "Passage for air and food",
+      "location": "البلعوم",
+      "location_en": "Pharynx",
+      "nearbyOrgans": ["اللوزتين", "الحنجرة", "الأنف", "المريء"],
+      "nearbyOrgans_en": ["Tonsils", "Larynx", "Nose", "Esophagus"],
+      "diseases": [
+        {
+          "name": "التهاب الحلق",
+          "name_en": "Sore throat",
+          "symptoms": ["ألم حلق", "صعوبة بلع", "حمى"],
+          "symptoms_en": ["Throat pain", "Difficulty swallowing", "Fever"],
+          "treatments": ["مسكنات", "مضادات حيوية", "غرغرة"],
+          "treatments_en": ["Pain relievers", "Antibiotics", "Gargling"]
+        }
+      ],
+      "keywords": ["sore throat"],
+      "chapter": 7
+    },
+    {
+      "id": 733,
+      "term": "laryngoplegia",
+      "arabic": "شلل الحنجرة",
+      "latin": "laryngoplegia",
+      "pronunciation": "لا-رين-غو-بلي-جيا",
+      "definition": "شلل في الحنجرة.",
+      "definition_en": "Paralysis of the larynx.",
+      "englishSentence": "Laryngoplegia is paralysis of the larynx.",
+      "parts": {
+        "root": { "value": "laryng/o", "meaning": "حنجرة", "function": "يشير إلى الحنجرة" },
+        "suffix": { "value": "plegia", "meaning": "شلل", "function": "يشير إلى الشلل" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي والعصبي",
+      "system_en": "Respiratory and Nervous System",
+      "systemFunction": "إنتاج الصوت وحماية المجرى التنفسي",
+      "systemFunction_en": "Voice production and airway protection",
+      "location": "الحنجرة",
+      "location_en": "Larynx",
+      "nearbyOrgans": ["الحنجرة", "الأحبال الصوتية", "القصبة الهوائية"],
+      "nearbyOrgans_en": ["Larynx", "Vocal cords", "Trachea"],
+      "diseases": [
+        {
+          "name": "شلل الأحبال الصوتية",
+          "name_en": "Vocal cord paralysis",
+          "symptoms": ["بحة", "ضعف صوت", "صعوبة بلع"],
+          "symptoms_en": ["Hoarseness", "Weak voice", "Difficulty swallowing"],
+          "treatments": ["علاج طبيعي", "جراحة"],
+          "treatments_en": ["Speech therapy", "Surgery"]
+        }
+      ],
+      "keywords": ["vocal cord paralysis"],
+      "chapter": 7
+    },
+    {
+      "id": 734,
+      "term": "laryngospasm",
+      "arabic": "تشنج الحنجرة",
+      "latin": "laryngospasmus",
+      "pronunciation": "لا-رين-غو-سبازم",
+      "definition": "إغلاق تشنجي مفاجئ للحنجرة.",
+      "definition_en": "Sudden spasmodic closure of the larynx.",
+      "englishSentence": "A laryngospasm is the sudden spasmodic closure of the larynx.",
+      "parts": {
+        "root": { "value": "laryng/o", "meaning": "حنجرة", "function": "يشير إلى الحنجرة" },
+        "suffix": { "value": "spasm", "meaning": "تشنج", "function": "يشير إلى التشنج" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "حماية المجرى التنفسي",
+      "systemFunction_en": "Protect airway",
+      "location": "الحنجرة",
+      "location_en": "Larynx",
+      "nearbyOrgans": ["الحنجرة", "الأحبال الصوتية"],
+      "nearbyOrgans_en": ["Larynx", "Vocal cords"],
+      "diseases": [
+        {
+          "name": "تشنج الحنجرة",
+          "name_en": "Laryngospasm",
+          "symptoms": ["صعوبة تنفس مفاجئة", "أزيز"],
+          "symptoms_en": ["Sudden difficulty breathing", "Stridor"],
+          "treatments": ["تهدئة المريض", "تنفس عميق", "أدوية"],
+          "treatments_en": ["Patient reassurance", "Deep breathing", "Medications"]
+        }
+      ],
+      "keywords": ["vocal cord spasm"],
+      "chapter": 7
+    },
+    {
+      "id": 735,
+      "term": "aphonia",
+      "arabic": "فقدان الصوت",
+      "latin": "aphonia",
+      "pronunciation": "آ-فو-ني-آ",
+      "definition": "فقدان قدرة الحنجرة على إنتاج أصوات الكلام الطبيعية.",
+      "definition_en": "Loss of the ability of the larynx to produce normal speech sounds.",
+      "englishSentence": "Aphonia is the loss of the ability to produce normal speech sounds.",
+      "parts": {
+        "prefix": { "value": "a", "meaning": "بدون", "function": "يشير إلى النفي" },
+        "root": { "value": "phon", "meaning": "صوت", "function": "يشير إلى الصوت" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "إنتاج الصوت",
+      "systemFunction_en": "Voice production",
+      "location": "الحنجرة والأحبال الصوتية",
+      "location_en": "Larynx and vocal cords",
+      "nearbyOrgans": ["الحنجرة", "الأحبال الصوتية"],
+      "nearbyOrgans_en": ["Larynx", "Vocal cords"],
+      "diseases": [
+        {
+          "name": "فقدان الصوت",
+          "name_en": "Aphonia",
+          "symptoms": ["عدم القدرة على الكلام", "همس"],
+          "symptoms_en": ["Inability to speak", "Whispering"],
+          "treatments": ["راحة صوتية", "علاج نطق", "علاج السبب"],
+          "treatments_en": ["Vocal rest", "Speech therapy", "Treat cause"]
+        }
+      ],
+      "keywords": ["voice loss"],
+      "chapter": 7
+    },
+    {
+      "id": 736,
+      "term": "dysphonia",
+      "arabic": "عسر الصوت (بحة)",
+      "latin": "dysphonia",
+      "pronunciation": "ديس-فو-ني-آ",
+      "definition": "أي تغيير في جودة الصوت، بما في ذلك البحة أو الضعف أو تغير صوت الصبي خلال فترة البلوغ.",
+      "definition_en": "Any change in vocal quality, including hoarseness, weakness, or voice change in boys during puberty.",
+      "englishSentence": "Dysphonia is any change in vocal quality, including hoarseness or weakness.",
+      "parts": {
+        "prefix": { "value": "dys", "meaning": "خلل", "function": "يشير إلى الخلل" },
+        "root": { "value": "phon", "meaning": "صوت", "function": "يشير إلى الصوت" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "إنتاج الصوت",
+      "systemFunction_en": "Voice production",
+      "location": "الحنجرة والأحبال الصوتية",
+      "location_en": "Larynx and vocal cords",
+      "nearbyOrgans": ["الحنجرة", "الأحبال الصوتية"],
+      "nearbyOrgans_en": ["Larynx", "Vocal cords"],
+      "diseases": [
+        {
+          "name": "بحة الصوت",
+          "name_en": "Hoarseness",
+          "symptoms": ["صوت أجش", "ضعف صوت"],
+          "symptoms_en": ["Rough voice", "Weak voice"],
+          "treatments": ["راحة صوتية", "علاج السبب"],
+          "treatments_en": ["Vocal rest", "Treat cause"]
+        }
+      ],
+      "keywords": ["hoarseness", "voice disorder"],
+      "chapter": 7
+    },
+    {
+      "id": 737,
+      "term": "laryngitis",
+      "arabic": "التهاب الحنجرة",
+      "latin": "laryngitis",
+      "pronunciation": "لا-رين-جاي-تس",
+      "definition": "التهاب في الحنجرة.",
+      "definition_en": "Inflammation of the larynx.",
+      "englishSentence": "Laryngitis is inflammation of the larynx.",
+      "parts": {
+        "root": { "value": "laryng", "meaning": "حنجرة", "function": "يشير إلى الحنجرة" },
+        "suffix": { "value": "itis", "meaning": "التهاب", "function": "يشير إلى وجود التهاب" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "إنتاج الصوت وحماية المجرى التنفسي",
+      "systemFunction_en": "Voice production and airway protection",
+      "location": "الحنجرة",
+      "location_en": "Larynx",
+      "nearbyOrgans": ["الحنجرة", "الأحبال الصوتية", "البلعوم"],
+      "nearbyOrgans_en": ["Larynx", "Vocal cords", "Pharynx"],
+      "diseases": [
+        {
+          "name": "التهاب الحنجرة",
+          "name_en": "Laryngitis",
+          "symptoms": ["بحة", "فقدان صوت", "ألم حلق"],
+          "symptoms_en": ["Hoarseness", "Voice loss", "Sore throat"],
+          "treatments": ["راحة صوتية", "سوائل", "ترطيب"],
+          "treatments_en": ["Vocal rest", "Fluids", "Humidification"]
+        }
+      ],
+      "keywords": ["voice box inflammation"],
+      "chapter": 7
+    },
+    {
+      "id": 738,
+      "term": "tracheorrhagia",
+      "arabic": "نزيف رغامي (نزيف القصبة الهوائية)",
+      "latin": "tracheorrhagia",
+      "pronunciation": "تراي-كي-أو-راي-جيا",
+      "definition": "نزيف من الأغشية المخاطية للقصبة الهوائية.",
+      "definition_en": "Bleeding from the mucous membranes of the trachea.",
+      "englishSentence": "Tracheorrhagia is bleeding from the mucous membranes of the trachea.",
+      "parts": {
+        "root": { "value": "trache/o", "meaning": "قصبة هوائية", "function": "يشير إلى القصبة الهوائية" },
+        "suffix": { "value": "rrhagia", "meaning": "نزيف", "function": "يشير إلى النزيف" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "توصيل الهواء",
+      "systemFunction_en": "Air conduction",
+      "location": "القصبة الهوائية",
+      "location_en": "Trachea",
+      "nearbyOrgans": ["القصبة الهوائية", "الحنجرة", "الشعب الهوائية"],
+      "nearbyOrgans_en": ["Trachea", "Larynx", "Bronchi"],
+      "diseases": [
+        {
+          "name": "نفث الدم",
+          "name_en": "Hemoptysis",
+          "symptoms": ["سعال مصحوب بدم"],
+          "symptoms_en": ["Coughing up blood"],
+          "treatments": ["علاج السبب", "تنظير قصبات"],
+          "treatments_en": ["Treat cause", "Bronchoscopy"]
+        }
+      ],
+      "keywords": ["tracheal bleeding"],
+      "chapter": 7
+    },
+    {
+      "id": 739,
+      "term": "bronchorrhea",
+      "arabic": "إفراط إفراز المخاط الشعبي",
+      "latin": "bronchorrhoea",
+      "pronunciation": "برون-كو-ري-آ",
+      "definition": "إفراز مفرط للمخاط من الشعب الهوائية.",
+      "definition_en": "Excessive discharge of mucus from the bronchi.",
+      "englishSentence": "Bronchorrhea is an excessive discharge of mucus from the bronchi.",
+      "parts": {
+        "root": { "value": "bronch/o", "meaning": "شعبة هوائية", "function": "يشير إلى الشعب الهوائية" },
+        "suffix": { "value": "rrhea", "meaning": "إفراز", "function": "يشير إلى الإفراز" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "توصيل الهواء",
+      "systemFunction_en": "Air conduction",
+      "location": "الشعب الهوائية",
+      "location_en": "Bronchi",
+      "nearbyOrgans": ["الشعب الهوائية", "الرئتين"],
+      "nearbyOrgans_en": ["Bronchi", "Lungs"],
+      "diseases": [],
+      "keywords": ["mucus hypersecretion"],
+      "chapter": 7
+    },
+    {
+      "id": 740,
+      "term": "acute respiratory distress syndrome",
+      "arabic": "متلازمة الضائقة التنفسية الحادة",
+      "latin": "syndroma distressus respiratorii acuti",
+      "pronunciation": "آ-كيوت ريس-بير-آ-توري دي-ستريس سين-دروم",
+      "definition": "ليس مرضاً محدداً، بل هو شكل من أشكال الظهور المفاجئ لخلل وظيفي حاد في الرئة يؤثر على كلتا الرئتين، مما يجعل التنفس صعباً للغاية. تسببه الصدمة أو الإنتان أو الالتهاب الرئوي المنتشر أو الصدمة.",
+      "definition_en": "Not a specific disease, but a form of sudden onset of acute lung dysfunction affecting both lungs, making breathing extremely difficult. Caused by trauma, sepsis, widespread pneumonia, or shock.",
+      "englishSentence": "ARDS is a sudden severe lung dysfunction affecting both lungs, caused by trauma, sepsis, or pneumonia.",
+      "parts": {
+        "root1": { "value": "distress", "meaning": "ضائقة", "function": "يشير إلى الضائقة" },
+        "root2": { "value": "respir", "meaning": "تنفس", "function": "يشير إلى التنفس" },
+        "suffix": { "value": "atory", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "abbreviation": "ARDS",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الرئتين",
+      "location_en": "Lungs",
+      "nearbyOrgans": ["الرئتين", "القلب", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Lungs", "Heart", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "متلازمة الضائقة التنفسية الحادة",
+          "name_en": "ARDS",
+          "symptoms": ["ضيق تنفس شديد", "نقص أكسجين", "زرقة"],
+          "symptoms_en": ["Severe shortness of breath", "Hypoxia", "Cyanosis"],
+          "treatments": ["تهوية ميكانيكية", "أكسجين", "علاج السبب"],
+          "treatments_en": ["Mechanical ventilation", "Oxygen", "Treat cause"]
+        }
+      ],
+      "keywords": ["ARDS", "respiratory failure"],
+      "chapter": 7
+    },
+    {
+      "id": 741,
+      "term": "pleural effusion",
+      "arabic": "انصباب جنبي",
+      "latin": "effusio pleuralis",
+      "pronunciation": "إف-يو-جن بلي-و-رال",
+      "definition": "تراكم غير طبيعي للسوائل في الفضاء الجنبي، مما ينتج عنه شعور بضيق في التنفس لأنه يمنع الرئة من التوسع الكامل.",
+      "definition_en": "Abnormal accumulation of fluid in the pleural space, resulting in a feeling of shortness of breath because it prevents the lung from fully expanding.",
+      "englishSentence": "Pleural effusion is abnormal fluid accumulation in the pleural space, causing breathlessness.",
+      "parts": {
+        "root": { "value": "effus", "meaning": "انصباب", "function": "يشير إلى الانصباب" },
+        "suffix": { "value": "ion", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تسهيل حركة الرئتين",
+      "systemFunction_en": "Facilitate lung movement",
+      "location": "الفضاء الجنبي",
+      "location_en": "Pleural space",
+      "nearbyOrgans": ["الرئتين", "غشاء الجنب", "جدار الصدر"],
+      "nearbyOrgans_en": ["Lungs", "Pleura", "Chest wall"],
+      "diseases": [
+        {
+          "name": "انصباب جنبي",
+          "name_en": "Pleural effusion",
+          "symptoms": ["ضيق تنفس", "ألم صدر"],
+          "symptoms_en": ["Shortness of breath", "Chest pain"],
+          "treatments": ["بزل الصدر", "علاج السبب"],
+          "treatments_en": ["Thoracentesis", "Treat cause"]
+        }
+      ],
+      "keywords": ["fluid in chest", "pleural fluid"],
+      "chapter": 7
+    },
+    {
+      "id": 742,
+      "term": "effusion",
+      "arabic": "انصباب",
+      "latin": "effusio",
+      "pronunciation": "إف-يو-جن",
+      "definition": "هروب السوائل من الأوعية الدموية أو اللمفاوية إلى الأنسجة أو إلى تجويف الجسم.",
+      "definition_en": "The escape of fluid from blood or lymphatic vessels into tissues or a body cavity.",
+      "englishSentence": "Effusion is the escape of fluid from vessels into tissues or a body cavity.",
+      "parts": {
+        "prefix": { "value": "ef", "meaning": "خارج", "function": "يشير إلى الخارج" },
+        "root": { "value": "fus", "meaning": "صب", "function": "يشير إلى الصب" },
+        "suffix": { "value": "ion", "meaning": "عملية", "function": "يشير إلى عملية" }
+      },
+      "type": "process",
+      "system": "عام",
+      "system_en": "General",
+      "systemFunction": "حفظ السوائل",
+      "systemFunction_en": "Fluid retention",
+      "location": "متعدد",
+      "location_en": "Multiple",
+      "nearbyOrgans": [],
+      "nearbyOrgans_en": [],
+      "diseases": [],
+      "keywords": ["fluid escape"],
+      "chapter": 7
+    },
+    {
+      "id": 743,
+      "term": "pulmonary edema",
+      "arabic": "وذمة رئوية",
+      "latin": "oedema pulmonum",
+      "pronunciation": "بول-مو-نير-ي إي-دي-ما",
+      "definition": "تراكم السوائل في أنسجة الرئة.",
+      "definition_en": "Accumulation of fluid in lung tissues.",
+      "englishSentence": "Pulmonary edema is an accumulation of fluid in lung tissues.",
+      "parts": {
+        "root": { "value": "pulmon", "meaning": "رئة", "function": "يشير إلى الرئة" },
+        "suffix": { "value": "ary", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "أنسجة الرئة والحويصلات الهوائية",
+      "location_en": "Lung tissues and alveoli",
+      "nearbyOrgans": ["الرئتين", "القلب", "الأوعية الدموية الرئوية"],
+      "nearbyOrgans_en": ["Lungs", "Heart", "Pulmonary vessels"],
+      "diseases": [
+        {
+          "name": "وذمة رئوية",
+          "name_en": "Pulmonary edema",
+          "symptoms": ["ضيق تنفس شديد", "سعال", "أزيز", "قلق"],
+          "symptoms_en": ["Severe shortness of breath", "Cough", "Wheezing", "Anxiety"],
+          "treatments": ["أكسجين", "مدرات بول", "علاج السبب"],
+          "treatments_en": ["Oxygen", "Diuretics", "Treat cause"]
+        }
+      ],
+      "keywords": ["fluid in lungs", "lung congestion"],
+      "chapter": 7
+    },
+    {
+      "id": 744,
+      "term": "tuberculosis",
+      "arabic": "سل",
+      "latin": "tuberculosis",
+      "pronunciation": "تو-بير-كيو-لو-سيس",
+      "definition": "مرض معد تسببه المتفطرة السلية، وعادة ما يهاجم الرئتين؛ ومع ذلك، يمكن أن يؤثر أيضاً على أجزاء أخرى من الجسم.",
+      "definition_en": "An infectious disease caused by Mycobacterium tuberculosis, usually attacking the lungs; however, it can also affect other parts of the body.",
+      "englishSentence": "Tuberculosis is an infectious disease caused by Mycobacterium tuberculosis, usually attacking the lungs.",
+      "parts": {
+        "root": { "value": "tubercul", "meaning": "درنة", "function": "يشير إلى الدرنات" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "infection",
+      "abbreviation": "TB",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الرئتين (غالباً)، يمكن أن يصيب أعضاء أخرى",
+      "location_en": "Lungs (often), can affect other organs",
+      "nearbyOrgans": ["الرئتين", "غشاء الجنب", "العقد اللمفاوية"],
+      "nearbyOrgans_en": ["Lungs", "Pleura", "Lymph nodes"],
+      "diseases": [
+        {
+          "name": "السل الرئوي",
+          "name_en": "Pulmonary tuberculosis",
+          "symptoms": ["سعال مزمن", "نفث دم", "حمى", "تعرق ليلي", "فقدان وزن"],
+          "symptoms_en": ["Chronic cough", "Hemoptysis", "Fever", "Night sweats", "Weight loss"],
+          "treatments": ["مضادات سل", "علاج طويل الأمد"],
+          "treatments_en": ["Anti-TB drugs", "Long-term treatment"]
+        }
+      ],
+      "keywords": ["TB", "consumption", "mycobacterial infection"],
+      "chapter": 7
+    },
+    {
+      "id": 745,
+      "term": "pneumonia",
+      "arabic": "التهاب رئوي",
+      "latin": "pneumonia",
+      "pronunciation": "نيو-مو-ني-آ",
+      "definition": "عدوى أو التهاب خطير في الرئتين تمتلئ فيه أصغر القصيبات والحويصلات الهوائية بالقيح وسوائل أخرى.",
+      "definition_en": "A serious infection or inflammation of the lungs in which the smallest bronchioles and alveoli fill with pus and other fluids.",
+      "englishSentence": "Pneumonia is a serious lung infection with pus and fluid filling the alveoli.",
+      "parts": {
+        "root": { "value": "pneumon", "meaning": "رئة", "function": "يشير إلى الرئة" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "infection",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الرئتين والحويصلات الهوائية",
+      "location_en": "Lungs and alveoli",
+      "nearbyOrgans": ["الرئتين", "غشاء الجنب", "الشعب الهوائية"],
+      "nearbyOrgans_en": ["Lungs", "Pleura", "Bronchi"],
+      "diseases": [
+        {
+          "name": "الالتهاب الرئوي",
+          "name_en": "Pneumonia",
+          "symptoms": ["حمى", "سعال", "ضيق تنفس", "ألم صدر", "بلغم"],
+          "symptoms_en": ["Fever", "Cough", "Shortness of breath", "Chest pain", "Sputum"],
+          "treatments": ["مضادات حيوية", "أكسجين", "راحة", "سوائل"],
+          "treatments_en": ["Antibiotics", "Oxygen", "Rest", "Fluids"]
+        }
+      ],
+      "keywords": ["lung infection", "lung inflammation"],
+      "chapter": 7
+    },
+    {
+      "id": 746,
+      "term": "pulmonary fibrosis",
+      "arabic": "تليف رئوي",
+      "latin": "fibrosis pulmonum",
+      "pronunciation": "فاي-برو-سيس بول-مو-نير-ي",
+      "definition": "تكوين نسيج ندبي في الرئة، مما يؤدي إلى انخفاض سعة الرئة وزيادة صعوبة التنفس. يمكن أن يسببه اضطرابات المناعة الذاتية أو العدوى أو الغبار أو الغازات أو السموم أو بعض الأدوية.",
+      "definition_en": "Formation of scar tissue in the lung, leading to decreased lung capacity and increased difficulty breathing. It can be caused by autoimmune disorders, infection, dust, gases, toxins, or certain medications.",
+      "englishSentence": "Pulmonary fibrosis is scar tissue formation in the lung, decreasing lung capacity.",
+      "parts": {
+        "root": { "value": "fibr", "meaning": "ليف", "function": "يشير إلى الألياف" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الأنسجة الخلالية للرئة",
+      "location_en": "Lung interstitium",
+      "nearbyOrgans": ["الرئتين", "غشاء الجنب", "الأوعية الدموية"],
+      "nearbyOrgans_en": ["Lungs", "Pleura", "Blood vessels"],
+      "diseases": [
+        {
+          "name": "التليف الرئوي مجهول السبب",
+          "name_en": "Idiopathic pulmonary fibrosis",
+          "symptoms": ["ضيق تنفس", "سعال جاف", "تعب", "ألم صدر"],
+          "symptoms_en": ["Shortness of breath", "Dry cough", "Fatigue", "Chest pain"],
+          "treatments": ["أدوية مضادة للتليف", "أكسجين", "زراعة رئة"],
+          "treatments_en": ["Antifibrotic drugs", "Oxygen", "Lung transplant"]
+        }
+      ],
+      "keywords": ["lung scarring", "interstitial lung disease"],
+      "chapter": 7
+    },
+    {
+      "id": 747,
+      "term": "cystic fibrosis",
+      "arabic": "تليف كيسي",
+      "latin": "fibrosis cystica",
+      "pronunciation": "سيس-تيك فاي-برو-سيس",
+      "definition": "اضطراب وراثي تنسد فيه الرئتان والبنكرياس بكميات كبيرة من المخاط السميك بشكل غير طبيعي.",
+      "definition_en": "A genetic disorder in which the lungs and pancreas become clogged with large amounts of abnormally thick mucus.",
+      "englishSentence": "Cystic fibrosis is a genetic disorder with thick mucus clogging the lungs and pancreas.",
+      "parts": {
+        "root": { "value": "cyst", "meaning": "كيس", "function": "يشير إلى الكيس" },
+        "suffix": { "value": "ic", "meaning": "متعلق بـ", "function": "يحول الكلمة إلى صفة" }
+      },
+      "type": "condition",
+      "abbreviation": "CF",
+      "system": "الجهاز التنفسي والهضمي",
+      "system_en": "Respiratory and Digestive System",
+      "systemFunction": "إفراز المخاط",
+      "systemFunction_en": "Mucus secretion",
+      "location": "الرئتين والبنكرياس والأعضاء الأخرى",
+      "location_en": "Lungs, pancreas, and other organs",
+      "nearbyOrgans": ["الرئتين", "البنكرياس", "الكبد", "الأمعاء"],
+      "nearbyOrgans_en": ["Lungs", "Pancreas", "Liver", "Intestines"],
+      "diseases": [
+        {
+          "name": "التليف الكيسي",
+          "name_en": "Cystic fibrosis",
+          "symptoms": ["سعال مزمن", "التهابات رئوية متكررة", "ضعف نمو", "مشاكل هضمية"],
+          "symptoms_en": ["Chronic cough", "Frequent lung infections", "Poor growth", "Digestive problems"],
+          "treatments": ["علاج طبيعي للصدر", "أدوية", "إنزيمات بنكرياسية", "زراعة رئة"],
+          "treatments_en": ["Chest physiotherapy", "Medications", "Pancreatic enzymes", "Lung transplant"]
+        }
+      ],
+      "keywords": ["CF", "mucoviscidosis"],
+      "chapter": 7
+    },
+    {
+      "id": 748,
+      "term": "anoxia",
+      "arabic": "انعدام الأكسجين (نَقْس)",
+      "latin": "anoxia",
+      "pronunciation": "آ-نوك-سي-آ",
+      "definition": "غياب الأكسجين من غازات الجسم أو الدم أو الأنسجة. إذا استمر انعدام الأكسجين لأكثر من 4-6 دقائق، يمكن أن يحدث تلف دماغي لا رجعة فيه.",
+      "definition_en": "Absence of oxygen from body gases, blood, or tissues. If anoxia lasts more than 4-6 minutes, irreversible brain damage can occur.",
+      "englishSentence": "Anoxia is the absence of oxygen from body tissues; lasting over 4-6 minutes can cause brain damage.",
+      "parts": {
+        "prefix": { "value": "an", "meaning": "بدون", "function": "يشير إلى النفي" },
+        "root": { "value": "ox", "meaning": "أكسجين", "function": "يشير إلى الأكسجين" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي والدوري",
+      "system_en": "Respiratory and Circulatory System",
+      "systemFunction": "توصيل الأكسجين",
+      "systemFunction_en": "Oxygen delivery",
+      "location": "الأنسجة والأعضاء",
+      "location_en": "Tissues and organs",
+      "nearbyOrgans": ["الدماغ", "القلب", "الرئتين"],
+      "nearbyOrgans_en": ["Brain", "Heart", "Lungs"],
+      "diseases": [
+        {
+          "name": "نقص الأكسجين الدماغي",
+          "name_en": "Cerebral hypoxia",
+          "symptoms": ["تشوش ذهني", "فقدان وعي", "تلف دماغي"],
+          "symptoms_en": ["Confusion", "Loss of consciousness", "Brain damage"],
+          "treatments": ["أكسجين", "إنعاش", "علاج السبب"],
+          "treatments_en": ["Oxygen", "Resuscitation", "Treat cause"]
+        }
+      ],
+      "keywords": ["oxygen absence", "hypoxia severe"],
+      "chapter": 7
+    },
+    {
+      "id": 749,
+      "term": "asphyxia",
+      "arabic": "اختناق",
+      "latin": "asphyxia",
+      "pronunciation": "آس-فيك-سي-آ",
+      "definition": "الحالة التي تحدث عندما لا يستطيع الجسم الحصول على الهواء الذي يحتاجه للعمل. في هذه الحالة التي تهدد الحياة، تنخفض مستويات الأكسجين في الدم بسرعة، وترتفع مستويات ثاني أكسيد الكربون، ما لم يتم استعادة تنفس المريض في غضون بضع دقائق، يتبع ذلك الموت أو تلف دماغي خطير.",
+      "definition_en": "The condition that occurs when the body cannot get the air it needs to function. In this life-threatening condition, blood oxygen levels drop rapidly and carbon dioxide levels rise; unless the patient's breathing is restored within a few minutes, death or severe brain damage follows.",
+      "englishSentence": "Asphyxia is when the body cannot get enough air, with rapid oxygen drop and carbon dioxide rise.",
+      "parts": {
+        "prefix": { "value": "a", "meaning": "بدون", "function": "يشير إلى النفي" },
+        "root": { "value": "sphyx", "meaning": "نبض", "function": "يشير إلى النبض" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تبادل الغازات",
+      "systemFunction_en": "Gas exchange",
+      "location": "الجهاز التنفسي بأكمله",
+      "location_en": "Entire respiratory system",
+      "nearbyOrgans": ["الرئتين", "الدماغ", "القلب"],
+      "nearbyOrgans_en": ["Lungs", "Brain", "Heart"],
+      "diseases": [
+        {
+          "name": "اختناق",
+          "name_en": "Asphyxia",
+          "symptoms": ["زرقة", "فقدان وعي", "توقف تنفس"],
+          "symptoms_en": ["Cyanosis", "Loss of consciousness", "Respiratory arrest"],
+          "treatments": ["إنعاش", "أكسجين", "تنفس اصطناعي"],
+          "treatments_en": ["Resuscitation", "Oxygen", "Artificial respiration"]
+        }
+      ],
+      "keywords": ["suffocation", "oxygen deprivation"],
+      "chapter": 7
+    },
+    {
+      "id": 750,
+      "term": "cyanosis",
+      "arabic": "زرقة",
+      "latin": "cyanosis",
+      "pronunciation": "ساي-آ-نو-سيس",
+      "definition": "تلون الجلد بالأزرق الناجم عن نقص الأكسجين الكافي.",
+      "definition_en": "Bluish discoloration of the skin caused by lack of adequate oxygen.",
+      "englishSentence": "Cyanosis is a bluish discoloration of the skin caused by lack of adequate oxygen.",
+      "parts": {
+        "root": { "value": "cyan", "meaning": "أزرق", "function": "يشير إلى اللون الأزرق" },
+        "suffix": { "value": "osis", "meaning": "حالة مرضية", "function": "يشير إلى وجود حالة غير طبيعية" }
+      },
+      "type": "sign",
+      "system": "الجهاز التنفسي والدوري",
+      "system_en": "Respiratory and Circulatory System",
+      "systemFunction": "توصيل الأكسجين",
+      "systemFunction_en": "Oxygen delivery",
+      "location": "الجلد والأغشية المخاطية",
+      "location_en": "Skin and mucous membranes",
+      "nearbyOrgans": ["الجلد", "الشفتين", "الأظافر"],
+      "nearbyOrgans_en": ["Skin", "Lips", "Nails"],
+      "diseases": [],
+      "keywords": ["bluish skin", "oxygen desaturation"],
+      "chapter": 7
+    },
+    {
+      "id": 751,
+      "term": "hypoxia",
+      "arabic": "نقص الأكسجين (نَقْص التأكسج)",
+      "latin": "hypoxia",
+      "pronunciation": "هاي-بوك-سي-آ",
+      "definition": "حالة وجود مستويات أكسجين أقل من الطبيعي في أنسجة الجسم وخلاياه، لكنها أقل حدة من انعدام الأكسجين.",
+      "definition_en": "A condition of below-normal oxygen levels in body tissues and cells, but less severe than anoxia.",
+      "englishSentence": "Hypoxia is below-normal oxygen levels in body tissues, less severe than anoxia.",
+      "parts": {
+        "prefix": { "value": "hyp", "meaning": "نقص", "function": "يشير إلى النقص" },
+        "root": { "value": "ox", "meaning": "أكسجين", "function": "يشير إلى الأكسجين" },
+        "suffix": { "value": "ia", "meaning": "حالة", "function": "يشير إلى حالة" }
+      },
+      "type": "condition",
+      "system": "الجهاز التنفسي والدوري",
+      "system_en": "Respiratory and Circulatory System",
+      "systemFunction": "توصيل الأكسجين",
+      "systemFunction_en": "Oxygen delivery",
+      "location": "الأنسجة والأعضاء",
+      "location_en": "Tissues and organs",
+      "nearbyOrgans": ["الدماغ", "القلب", "الرئتين"],
+      "nearbyOrgans_en": ["Brain", "Heart", "Lungs"],
+      "diseases": [],
+      "keywords": ["low oxygen", "oxygen deficiency"],
+      "chapter": 7
+    },
+    {
+      "id": 752,
+      "term": "bronchoscopy",
+      "arabic": "تنظير القصبات",
+      "latin": "bronchoscopia",
+      "pronunciation": "برون-كوس-كو-بي",
+      "definition": "الفحص البصري للقصبات باستخدام منظار القصبات.",
+      "definition_en": "Visual examination of the bronchi using a bronchoscope.",
+      "englishSentence": "Bronchoscopy is the visual examination of the bronchus using a bronchoscope.",
+      "parts": {
+        "root": { "value": "bronch/o", "meaning": "شعبة هوائية", "function": "يشير إلى الشعب الهوائية" },
+        "suffix": { "value": "scopy", "meaning": "فحص بصري", "function": "يشير إلى الفحص بالمنظار" }
+      },
+      "type": "procedure",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تشخيص وعلاج أمراض الشعب الهوائية",
+      "systemFunction_en": "Diagnose and treat bronchial diseases",
+      "location": "القصبة الهوائية والشعب الهوائية",
+      "location_en": "Trachea and bronchi",
+      "nearbyOrgans": ["القصبة الهوائية", "الشعب الهوائية", "الرئتين"],
+      "nearbyOrgans_en": ["Trachea", "Bronchi", "Lungs"],
+      "diseases": [],
+      "keywords": ["airway endoscopy", "lung examination"],
+      "chapter": 7
+    },
+    {
+      "id": 753,
+      "term": "chest x-ray",
+      "arabic": "أشعة سينية على الصدر",
+      "latin": "radiographia thoracis",
+      "pronunciation": "تشيست إكس-راي",
+      "definition": "أداة قيمة لتشخيص الالتهاب الرئوي وأورام الرئة واسترواح الصدر والانصباب الجنبي والسل وانتفاخ الرئة.",
+      "definition_en": "A valuable tool for diagnosing pneumonia, lung tumors, pneumothorax, pleural effusion, tuberculosis, and emphysema.",
+      "englishSentence": "Chest x-ray is a valuable tool for diagnosing pneumonia, lung tumors, and other lung conditions.",
+      "parts": {
+        "root": { "value": "x-ray", "meaning": "أشعة سينية", "function": "يشير إلى الأشعة السينية" }
+      },
+      "type": "procedure",
+      "abbreviation": "ChXR, CXR",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تصوير الصدر تشخيصياً",
+      "systemFunction_en": "Diagnostic imaging of chest",
+      "location": "التجويف الصدري",
+      "location_en": "Thoracic cavity",
+      "nearbyOrgans": ["الرئتين", "القلب", "الأضلاع", "القصبة الهوائية"],
+      "nearbyOrgans_en": ["Lungs", "Heart", "Ribs", "Trachea"],
+      "diseases": [],
+      "keywords": ["CXR", "chest radiograph"],
+      "chapter": 7
+    },
+    {
+      "id": 754,
+      "term": "tuberculin skin testing",
+      "arabic": "اختبار الجلد للسل (اختبار التوبركولين)",
+      "latin": "reactio tuberculinica",
+      "pronunciation": "تو-بير-كيو-لين سكين تيست-ينغ",
+      "definition": "اختبار فحص للسل يتم فيه حقن جلد الذراع بمستضد غير ضار مستخرج من بكتيريا السل. تشير النتيجة الإيجابية إلى احتمال التعرض للمرض، وتستدعي هذه الاستجابة مزيداً من الاختبارات.",
+      "definition_en": "A screening test for tuberculosis in which the skin of the arm is injected with a harmless antigen extracted from TB bacteria. A positive result indicates possible exposure to the disease, and this response warrants further testing.",
+      "englishSentence": "Tuberculin skin testing screens for tuberculosis by injecting a harmless TB antigen into the skin.",
+      "parts": {
+        "root": { "value": "tubercul", "meaning": "درنة", "function": "يشير إلى الدرنات" },
+        "suffix": { "value": "in", "meaning": "مادة", "function": "يشير إلى المادة" }
+      },
+      "type": "procedure",
+      "system": "الجهاز التنفسي",
+      "system_en": "Respiratory System",
+      "systemFunction": "تشخيص التعرض لمرض السل",
+      "systemFunction_en": "Diagnose tuberculosis exposure",
+      "location": "جلد الساعد",
+      "location_en": "Forearm skin",
+      "nearbyOrgans": ["الجلد", "الأنسجة تحت الجلد"],
+      "nearbyOrgans_en": ["Skin", "Subcutaneous tissue"],
+      "diseases": [],
+      "keywords": ["PPD test", "Mantoux test"],
+      "chapter": 7
+    }
+  ]
+}

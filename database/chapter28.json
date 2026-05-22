@@ -1,0 +1,705 @@
+{
+  "chapter": 28,
+  "title": "chapter28",
+  "title_ar": "قسم الأدوية المتكامل",
+  "title_en": "Advanced Drug Reference",
+  "description": "قاعدة بيانات متكاملة للأدوية تشمل آلية العمل والتصنيف والاستعمالات والجرعات والآثار الجانبية وموانع الاستعمال والتداخلات الدوائية",
+  "description_en": "Comprehensive drug database including mechanism of action, classification, uses, dosage, side effects, contraindications and drug interactions",
+  "terms": [
+    {
+      "id": 30001,
+      "term": "Verapamil",
+      "arabic": "فيراباميل",
+      "latin": "Verapamil hydrochloride",
+      "pronunciation": "في-را-با-ميل",
+      "pronunciation_en": "veh-RAP-ah-mil",
+      "definition": "حاصر قنوات الكالسيوم من نوع Non-Dihydropyridine يبطئ عقدة AV ويقلل النبض ويخفض ضغط الدم ويعالج اضطرابات النظم",
+      "definition_en": "Non-Dihydropyridine Calcium Channel Blocker that slows AV node conduction, reduces heart rate, lowers blood pressure and treats arrhythmias",
+      "englishSentence": "Verapamil is a Class IV antiarrhythmic that blocks calcium channels in cardiac and vascular smooth muscle, slowing AV node conduction and reducing myocardial contractility.",
+      "type": "drug",
+      "chapter": 28,
+      "keywords": [
+        "verapamil",
+        "فيراباميل",
+        "calcium channel blocker",
+        "CCB",
+        "antiarrhythmic",
+        "Isoptin",
+        "Calan",
+        "Verelan",
+        "حاصر قنوات الكالسيوم",
+        "AV node",
+        "SVT"
+      ],
+      "scientific_name": "Verapamil Hydrochloride",
+      "trade_names": [
+        "Isoptin",
+        "Calan",
+        "Verelan",
+        "Isoptin SR",
+        "Calan SR"
+      ],
+      "drug_class": "حاصر قنوات الكالسيوم (Non-Dihydropyridine CCB)",
+      "drug_class_en": "Calcium Channel Blocker - Non-Dihydropyridine CCB",
+      "antiarrhythmic_class": "Class IV",
+      "category": "حاصر قنوات الكالسيوم - مضاد اضطراب نظم",
+      "category_en": "Calcium Channel Blocker - Class IV Antiarrhythmic",
+      "mechanism_of_action": "يمنع دخول الكالسيوم إلى خلايا القلب والأوعية الدموية → يبطئ توصيل عقدة AV الأذينية البطينية → يقلل معدل ضربات القلب → يوسع الأوعية الدموية → يخفض ضغط الدم → يقلل قوة انقباض عضلة القلب",
+      "mechanism_of_action_en": "Blocks L-type calcium channels in cardiac and vascular smooth muscle → Slows AV node conduction → Decreases heart rate → Causes vasodilation → Lowers blood pressure → Reduces myocardial contractility",
+      "uses": [
+        "اضطراب النظم فوق البطيني (SVT)",
+        "الرجفان الأذيني (للتحكم بمعدل النبض)",
+        "رفرفة الأذين",
+        "ارتفاع ضغط الدم",
+        "الذبحة الصدرية (Angina Pectoris)"
+      ],
+      "uses_en": [
+        "Supraventricular Tachycardia (SVT)",
+        "Atrial fibrillation (rate control)",
+        "Atrial flutter",
+        "Hypertension",
+        "Angina Pectoris"
+      ],
+      "dosage": "فموي: 40-120 مجم 3 مرات يومياً / تلقائي وريدي: 5-10 مجم ببطء شديد",
+      "dosage_en": "Oral: 40-120 mg TID / IV: 5-10 mg slow infusion over 2 minutes",
+      "route": [
+        "فموي",
+        "وريدي"
+      ],
+      "route_en": [
+        "Oral",
+        "Intravenous (IV)"
+      ],
+      "side_effects": [
+        "انخفاض ضغط الدم (Hypotension)",
+        "بطء ضربات القلب (Bradycardia)",
+        "إمساك (شائع جداً)",
+        "دوخة وإغماء",
+        "وذمة في الكاحلين والساقين",
+        "صداع",
+        "تعب وإرهاق",
+        "احمرار الوجه"
+      ],
+      "side_effects_en": [
+        "Hypotension",
+        "Bradycardia (very common)",
+        "Constipation (very common)",
+        "Dizziness / Syncope",
+        "Peripheral edema (ankles)",
+        "Headache",
+        "Fatigue",
+        "Flushing"
+      ],
+      "contraindications": [
+        "بطء القلب الشديد (HR < 40)",
+        "حصار AV من الدرجة الثانية أو الثالثة",
+        "فشل القلب الاحتقاني الشديد",
+        "الصدمة القلبية (Cardiogenic Shock)",
+        "متلازمة WPW مع رجفان أذيني",
+        "ضغط الدم المنخفض جداً (< 90 mmHg)"
+      ],
+      "contraindications_en": [
+        "Severe bradycardia (HR < 40 bpm)",
+        "2nd or 3rd degree AV block",
+        "Severe CHF / decompensated heart failure",
+        "Cardiogenic shock",
+        "WPW syndrome with AF (risk of VF)",
+        "Severe hypotension (SBP < 90 mmHg)"
+      ],
+      "drug_interactions": [
+        "Propranolol (حاصرات بيتا) → خطر بطء قلب شديد وتوقف القلب",
+        "Digoxin → يرفع مستواه في الدم بنسبة 50-75%",
+        "Amiodarone → بطء قلب خطير",
+        "Magnesium IV → هبوط ضغط حاد",
+        "Statins (Simvastatin, Lovastatin) → يزيد تركيزها",
+        "عصير الجريب فروت → يزيد تركيز الدواء في الدم"
+      ],
+      "drug_interactions_en": [
+        "Beta-blockers (Propranolol) → severe bradycardia/heart block risk",
+        "Digoxin → increases serum levels by 50-75%",
+        "Amiodarone → dangerous bradycardia",
+        "IV Magnesium → severe hypotension",
+        "Statins (Simvastatin, Lovastatin) → increased statin levels (myopathy risk)",
+        "Grapefruit juice → increases drug bioavailability"
+      ],
+      "quick_summary": "Verapamil = يبطئ AV node، يعالج SVT والرجفان الأذيني، ويخفض ضغط الدم",
+      "quick_summary_en": "Verapamil = slows AV node, treats SVT & AF, lowers BP. Caution with beta-blockers.",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "location": "خلايا عضلة القلب والأوعية الدموية",
+      "location_en": "Cardiac muscle cells and vascular smooth muscle",
+      "diseases": [
+        {
+          "name": "اضطراب النظم فوق البطيني",
+          "name_en": "Supraventricular Tachycardia (SVT)",
+          "symptoms": [
+            "نبض سريع",
+            "خفقان",
+            "دوخة"
+          ],
+          "symptoms_en": [
+            "rapid pulse",
+            "palpitations",
+            "dizziness"
+          ],
+          "treatments": [
+            "Verapamil IV",
+            "Adenosine"
+          ],
+          "treatments_en": [
+            "Verapamil IV",
+            "Adenosine"
+          ]
+        },
+        {
+          "name": "الرجفان الأذيني",
+          "name_en": "Atrial Fibrillation",
+          "symptoms": [
+            "نبض غير منتظم",
+            "ضيق تنفس",
+            "إغماء"
+          ],
+          "symptoms_en": [
+            "irregular pulse",
+            "dyspnea",
+            "syncope"
+          ],
+          "treatments": [
+            "Verapamil للتحكم بالنبض",
+            "مضادات التخثر"
+          ],
+          "treatments_en": [
+            "Verapamil for rate control",
+            "Anticoagulants"
+          ]
+        },
+        {
+          "name": "ارتفاع ضغط الدم",
+          "name_en": "Hypertension",
+          "symptoms": [
+            "صداع",
+            "ارتفاع الضغط"
+          ],
+          "symptoms_en": [
+            "headache",
+            "elevated BP"
+          ],
+          "treatments": [
+            "Verapamil SR"
+          ],
+          "treatments_en": [
+            "Verapamil SR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30002,
+      "term": "Amiodarone",
+      "arabic": "أميودارون",
+      "latin": "Amiodarone hydrochloride",
+      "pronunciation": "أ-ميو-دا-رون",
+      "pronunciation_en": "am-ee-OH-dah-rone",
+      "definition": "دواء مضاد لاضطرابات نظم القلب Class III يمتد عمله ليشمل خصائص Class I-IV معاً وهو الأقوى في علاج اضطرابات النظم",
+      "definition_en": "Class III antiarrhythmic with properties of Class I-IV, considered the most effective antiarrhythmic for most arrhythmias",
+      "englishSentence": "Amiodarone is a Class III antiarrhythmic that prolongs the action potential by blocking potassium channels, effective in both ventricular and supraventricular arrhythmias.",
+      "type": "drug",
+      "chapter": 28,
+      "keywords": [
+        "amiodarone",
+        "أميودارون",
+        "Cordarone",
+        "Pacerone",
+        "Class III",
+        "antiarrhythmic",
+        "VF",
+        "VT",
+        "atrial fibrillation",
+        "رجفان",
+        "اضطراب نظم"
+      ],
+      "scientific_name": "Amiodarone Hydrochloride",
+      "trade_names": [
+        "Cordarone",
+        "Pacerone",
+        "Nexterone"
+      ],
+      "drug_class": "مضاد اضطراب نظم Class III",
+      "drug_class_en": "Class III Antiarrhythmic",
+      "antiarrhythmic_class": "Class III (also I, II, IV properties)",
+      "category": "مضاد اضطراب نظم",
+      "category_en": "Antiarrhythmic",
+      "mechanism_of_action": "يحصر قنوات البوتاسيوم → يمدد فترة عمل الجهد الكهربائي → يبطئ التوصيل في الأنسجة القلبية → له تأثير على Na+، Ca2+، Beta-receptors أيضاً",
+      "mechanism_of_action_en": "Blocks potassium channels → Prolongs action potential duration → Slows conduction throughout cardiac tissue → Also blocks Na+, Ca2+ channels and beta-receptors",
+      "uses": [
+        "الرجفان الأذيني المقاوم",
+        "الرجفان البطيني (VF)",
+        "تسرع القلب البطيني (VT)",
+        "تسرع القلب فوق البطيني (SVT)",
+        "الوقاية من اضطرابات النظم بعد العمليات"
+      ],
+      "uses_en": [
+        "Refractory atrial fibrillation",
+        "Ventricular fibrillation (VF)",
+        "Ventricular tachycardia (VT)",
+        "SVT",
+        "Postoperative arrhythmia prevention"
+      ],
+      "dosage": "حمولة: 800-1600 مجم/يوم لأسبوعين، ثم صيانة: 200-400 مجم/يوم",
+      "dosage_en": "Loading: 800-1600 mg/day for 2 weeks, then maintenance: 200-400 mg/day",
+      "route": [
+        "فموي",
+        "وريدي"
+      ],
+      "route_en": [
+        "Oral",
+        "Intravenous (IV)"
+      ],
+      "side_effects": [
+        "تليف الرئة (خطير)",
+        "تسمم الغدة الدرقية (فرط أو قصور)",
+        "تلف الكبد",
+        "تلوين الجلد لون رمادي-أزرق",
+        "حساسية للضوء",
+        "رؤية ضبابية (ترسبات القرنية)",
+        "فترة QT طويلة"
+      ],
+      "side_effects_en": [
+        "Pulmonary fibrosis (serious)",
+        "Thyroid dysfunction (hypo/hyperthyroidism)",
+        "Hepatotoxicity",
+        "Blue-grey skin discoloration",
+        "Photosensitivity",
+        "Corneal microdeposits (blurred vision)",
+        "QT prolongation"
+      ],
+      "contraindications": [
+        "بطء قلب شديد",
+        "حصار AV",
+        "حساسية لليود",
+        "قصور الغدة الدرقية غير معالج"
+      ],
+      "contraindications_en": [
+        "Severe bradycardia",
+        "AV block",
+        "Iodine hypersensitivity",
+        "Untreated hypothyroidism"
+      ],
+      "drug_interactions": [
+        "Verapamil / Diltiazem → بطء قلب خطير",
+        "Warfarin → يضاعف التأثير المضاد للتخثر",
+        "Digoxin → يرفع مستواه بنسبة 70%",
+        "Statins → يزيد خطر اعتلال العضلات",
+        "QT-prolonging drugs → خطر Torsades de Pointes"
+      ],
+      "drug_interactions_en": [
+        "Verapamil/Diltiazem → dangerous bradycardia",
+        "Warfarin → doubles anticoagulant effect",
+        "Digoxin → increases level by ~70%",
+        "Statins → increased myopathy risk",
+        "QT-prolonging drugs → Torsades de Pointes risk"
+      ],
+      "quick_summary": "Amiodarone = الأقوى ضد اضطرابات النظم لكن له آثار جانبية خطيرة تستوجب المراقبة",
+      "quick_summary_en": "Amiodarone = most effective antiarrhythmic but requires monitoring for pulmonary, thyroid, and hepatic toxicity",
+      "system": "الجهاز القلبي الوعائي",
+      "system_en": "Cardiovascular System",
+      "diseases": [
+        {
+          "name": "الرجفان البطيني",
+          "name_en": "Ventricular Fibrillation (VF)",
+          "symptoms": [
+            "فقدان الوعي",
+            "توقف القلب"
+          ],
+          "symptoms_en": [
+            "loss of consciousness",
+            "cardiac arrest"
+          ],
+          "treatments": [
+            "صدمة كهربائية + Amiodarone"
+          ],
+          "treatments_en": [
+            "Defibrillation + Amiodarone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30003,
+      "term": "Metformin",
+      "arabic": "ميتفورمين",
+      "latin": "Metformin hydrochloride",
+      "pronunciation": "مي-ت-فور-مين",
+      "pronunciation_en": "met-FOR-min",
+      "definition": "دواء من مجموعة البيغوانيد يُخفض سكر الدم عن طريق تثبيط إنتاج الجلوكوز في الكبد وتحسين حساسية الأنسولين، هو الخيار الأول لعلاج السكري النوع 2",
+      "definition_en": "Biguanide antidiabetic drug that lowers blood glucose by inhibiting hepatic glucose production and improving insulin sensitivity; first-line treatment for Type 2 diabetes",
+      "englishSentence": "Metformin is the first-line medication for type 2 diabetes mellitus, reducing hepatic glucose output and enhancing peripheral glucose uptake without causing hypoglycemia.",
+      "type": "drug",
+      "chapter": 28,
+      "keywords": [
+        "metformin",
+        "ميتفورمين",
+        "Glucophage",
+        "Glucomin",
+        "بيغوانيد",
+        "biguanide",
+        "سكري",
+        "diabetes",
+        "Type 2",
+        "النوع الثاني"
+      ],
+      "scientific_name": "Metformin Hydrochloride",
+      "trade_names": [
+        "Glucophage",
+        "Glucomin",
+        "Fortamet",
+        "Glumetza",
+        "Riomet"
+      ],
+      "drug_class": "بيغوانيد (Biguanide)",
+      "drug_class_en": "Biguanide / Antidiabetic",
+      "category": "خافض سكر الدم",
+      "category_en": "Antidiabetic / Hypoglycemic",
+      "mechanism_of_action": "يثبط مركب 1 في سلسلة نقل الإلكترون بالميتوكوندريا → يقلل إنتاج الجلوكوز من الكبد (Gluconeogenesis) → يزيد حساسية الخلايا للأنسولين → يقلل امتصاص الجلوكوز من الأمعاء → لا يسبب نقص السكر لأنه لا يزيد إفراز الأنسولين",
+      "mechanism_of_action_en": "Inhibits mitochondrial complex I → Activates AMPK → Reduces hepatic gluconeogenesis → Increases peripheral insulin sensitivity → Reduces intestinal glucose absorption → Does NOT cause hypoglycemia",
+      "uses": [
+        "السكري من النوع الثاني (الخط الأول)",
+        "متلازمة تكيس المبايض (PCOS)",
+        "الوقاية من السكري في المرضى ما قبل السكري",
+        "إنقاص الوزن (تأثير ثانوي مفيد)"
+      ],
+      "uses_en": [
+        "Type 2 Diabetes Mellitus (first-line)",
+        "Polycystic Ovary Syndrome (PCOS)",
+        "Pre-diabetes prevention",
+        "Weight management (beneficial side effect)"
+      ],
+      "dosage": "ابدأ بـ 500 مجم مرتين يومياً مع الطعام، يمكن رفعها حتى 2000-2550 مجم/يوم",
+      "dosage_en": "Start 500 mg twice daily with meals; can increase to 2000-2550 mg/day",
+      "route": [
+        "فموي"
+      ],
+      "route_en": [
+        "Oral"
+      ],
+      "side_effects": [
+        "اضطرابات هضمية (غثيان، إسهال، انتفاخ) — تتحسن مع الوقت",
+        "طعم معدني في الفم",
+        "نقص فيتامين B12 مع الاستخدام الطويل",
+        "الحماض اللبني (نادر لكن خطير)"
+      ],
+      "side_effects_en": [
+        "GI disturbances (nausea, diarrhea, bloating) — improve over time",
+        "Metallic taste",
+        "Vitamin B12 deficiency with long-term use",
+        "Lactic acidosis (rare but serious)"
+      ],
+      "contraindications": [
+        "قصور الكلى الشديد (eGFR < 30)",
+        "قصور القلب أو الكبد الشديد",
+        "قبل التصوير بالصبغة بـ 48 ساعة",
+        "الحماض الكيتوني السكري"
+      ],
+      "contraindications_en": [
+        "Severe renal impairment (eGFR < 30)",
+        "Severe heart or liver failure",
+        "48h before iodinated contrast media",
+        "Diabetic ketoacidosis"
+      ],
+      "drug_interactions": [
+        "الكحول → يزيد خطر الحماض اللبني",
+        "أدوية التصوير باليود → توقف مؤقت",
+        "Cimetidine → يرفع مستوى Metformin",
+        "Corticosteroids → يقلل فاعلية الدواء"
+      ],
+      "drug_interactions_en": [
+        "Alcohol → increases lactic acidosis risk",
+        "Iodinated contrast → hold 48h before/after",
+        "Cimetidine → increases Metformin levels",
+        "Corticosteroids → reduce efficacy"
+      ],
+      "quick_summary": "Metformin = الخط الأول لسكري النوع 2، لا يسبب نقص السكر ولا يزيد الوزن، يقلل إنتاج الجلوكوز في الكبد",
+      "quick_summary_en": "Metformin = first-line T2DM drug, no hypoglycemia, weight neutral, reduces hepatic glucose",
+      "system": "الجهاز الغددي / الاستقلاب",
+      "system_en": "Endocrine / Metabolic System",
+      "diseases": [
+        {
+          "name": "داء السكري من النوع الثاني",
+          "name_en": "Type 2 Diabetes Mellitus",
+          "symptoms": [
+            "عطش",
+            "تبول متكرر",
+            "تعب",
+            "سكر مرتفع"
+          ],
+          "symptoms_en": [
+            "polydipsia",
+            "polyuria",
+            "fatigue",
+            "hyperglycemia"
+          ],
+          "treatments": [
+            "Metformin (الخط الأول)",
+            "تغيير نمط الحياة"
+          ],
+          "treatments_en": [
+            "Metformin (first-line)",
+            "Lifestyle modification"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30004,
+      "term": "Atorvastatin",
+      "arabic": "أتورفاستاتين",
+      "latin": "Atorvastatin calcium",
+      "pronunciation": "أ-تور-فا-ستا-تين",
+      "pronunciation_en": "a-TOR-va-sta-tin",
+      "definition": "دواء من مجموعة الستاتينات يثبط إنزيم HMG-CoA Reductase لتقليل تصنيع الكوليسترول في الكبد وهو الأكثر فاعلية في خفض LDL",
+      "definition_en": "HMG-CoA reductase inhibitor (statin) that reduces hepatic cholesterol synthesis; most potent statin for LDL reduction",
+      "englishSentence": "Atorvastatin inhibits HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis, significantly reducing LDL cholesterol and cardiovascular risk.",
+      "type": "drug",
+      "chapter": 28,
+      "keywords": [
+        "atorvastatin",
+        "أتورفاستاتين",
+        "Lipitor",
+        "statin",
+        "ستاتين",
+        "كوليسترول",
+        "cholesterol",
+        "LDL",
+        "HMG-CoA"
+      ],
+      "scientific_name": "Atorvastatin Calcium",
+      "trade_names": [
+        "Lipitor",
+        "Atoris",
+        "Torvast",
+        "Storvas"
+      ],
+      "drug_class": "ستاتين (مثبط HMG-CoA Reductase)",
+      "drug_class_en": "Statin / HMG-CoA Reductase Inhibitor",
+      "category": "خافض الدهون",
+      "category_en": "Lipid-Lowering / Antihyperlipidemic",
+      "mechanism_of_action": "يثبط إنزيم HMG-CoA Reductase → يوقف تصنيع الكوليسترول في الكبد → تعبر الخلايا الكبدية عن مستقبلات LDL أكثر → تمتص LDL من الدم → تنخفض نسبة LDL بنسبة 40-60%",
+      "mechanism_of_action_en": "Inhibits HMG-CoA reductase → Blocks hepatic cholesterol synthesis → Upregulates LDL receptors → Increases LDL clearance from blood → LDL reduction of 40-60%",
+      "uses": [
+        "ارتفاع الكوليسترول (Hyperlipidemia)",
+        "الوقاية من الأحداث القلبية الوعائية",
+        "بعد احتشاء القلب والسكتة الدماغية",
+        "داء السكري مع خطر قلبي"
+      ],
+      "uses_en": [
+        "Hyperlipidemia",
+        "Primary cardiovascular prevention",
+        "Post-MI and stroke prevention",
+        "Diabetes with cardiovascular risk"
+      ],
+      "dosage": "10-80 مجم مرة واحدة يومياً في أي وقت",
+      "dosage_en": "10-80 mg once daily at any time of day",
+      "route": [
+        "فموي"
+      ],
+      "route_en": [
+        "Oral"
+      ],
+      "side_effects": [
+        "آلام وضعف عضلي (Myalgia)",
+        "التهاب العضلات (Myositis)",
+        "انحلال العضلات (Rhabdomyolysis) — نادر",
+        "ارتفاع إنزيمات الكبد",
+        "صداع",
+        "اضطرابات هضمية"
+      ],
+      "side_effects_en": [
+        "Muscle pain (myalgia)",
+        "Myositis",
+        "Rhabdomyolysis (rare, serious)",
+        "Elevated liver enzymes",
+        "Headache",
+        "GI upset"
+      ],
+      "contraindications": [
+        "أمراض الكبد النشطة",
+        "ارتفاع إنزيمات الكبد غير مفسر",
+        "الحمل والرضاعة",
+        "حساسية للدواء"
+      ],
+      "contraindications_en": [
+        "Active liver disease",
+        "Unexplained elevated liver enzymes",
+        "Pregnancy and breastfeeding",
+        "Drug hypersensitivity"
+      ],
+      "drug_interactions": [
+        "Verapamil/Diltiazem → يزيد مستوى الستاتين (خطر انحلال العضلات)",
+        "Amiodarone → يزيد مستوى الستاتين",
+        "Fibrates → يزيد خطر اعتلال العضلات",
+        "عصير الجريب فروت → يزيد امتصاص الدواء",
+        "Ciclosporin → يزيد مستوى الستاتين"
+      ],
+      "drug_interactions_en": [
+        "Verapamil/Diltiazem → increases statin level (myopathy risk)",
+        "Amiodarone → increases statin levels",
+        "Fibrates → increased myopathy risk",
+        "Grapefruit juice → increases drug absorption",
+        "Ciclosporin → significantly raises statin levels"
+      ],
+      "quick_summary": "Atorvastatin = أقوى ستاتين لخفض LDL، الوقاية القلبية، يحتاج متابعة إنزيمات الكبد والعضلات",
+      "quick_summary_en": "Atorvastatin = most potent statin for LDL reduction, cardiovascular prevention, monitor LFTs and CPK",
+      "system": "الجهاز الهضمي / الاستقلاب",
+      "system_en": "Hepatic / Metabolic System",
+      "diseases": [
+        {
+          "name": "فرط الكوليسترول",
+          "name_en": "Hypercholesterolemia",
+          "symptoms": [
+            "لا أعراض عادةً",
+            "زانثوما",
+            "قوس قرنية"
+          ],
+          "symptoms_en": [
+            "often asymptomatic",
+            "xanthomas",
+            "corneal arcus"
+          ],
+          "treatments": [
+            "Atorvastatin",
+            "تغيير النمط الغذائي"
+          ],
+          "treatments_en": [
+            "Atorvastatin",
+            "Dietary modification"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30005,
+      "term": "Omeprazole",
+      "arabic": "أوميبرازول",
+      "latin": "Omeprazolum",
+      "pronunciation": "أو-مي-برا-زول",
+      "pronunciation_en": "oh-MEP-rah-zole",
+      "definition": "مثبط مضخة البروتون (PPI) يوقف إفراز حمض المعدة عن طريق حصر إنزيم H+/K+-ATPase في خلايا الجدار المعدي",
+      "definition_en": "Proton Pump Inhibitor (PPI) that irreversibly inhibits the H+/K+-ATPase enzyme in gastric parietal cells, profoundly reducing acid secretion",
+      "englishSentence": "Omeprazole is a proton pump inhibitor that irreversibly binds to and inactivates the hydrogen-potassium ATPase enzyme responsible for gastric acid production.",
+      "type": "drug",
+      "chapter": 28,
+      "keywords": [
+        "omeprazole",
+        "أوميبرازول",
+        "Losec",
+        "Prilosec",
+        "PPI",
+        "مثبط مضخة البروتون",
+        "حموضة",
+        "قرحة",
+        "GERD"
+      ],
+      "scientific_name": "Omeprazole",
+      "trade_names": [
+        "Losec",
+        "Prilosec",
+        "Omacid",
+        "Gastroloc"
+      ],
+      "drug_class": "مثبط مضخة البروتون (PPI)",
+      "drug_class_en": "Proton Pump Inhibitor (PPI)",
+      "category": "خافض حموضة المعدة",
+      "category_en": "Antacid / Gastroprotective",
+      "mechanism_of_action": "يتحول إلى شكل نشط في البيئة الحمضية → يرتبط بشكل لا رجعي بإنزيم H+/K+-ATPase في خلايا الجدار → يوقف الضخ النهائي لأيون H+ → يقلل حموضة المعدة بشكل عميق",
+      "mechanism_of_action_en": "Converted to active sulfenamide in acidic environment → Irreversibly binds H+/K+-ATPase (proton pump) in parietal cells → Blocks final step of acid secretion → Profound acid suppression",
+      "uses": [
+        "قرحة المعدة والاثني عشر",
+        "ارتجاع المريء (GERD)",
+        "متلازمة Zollinger-Ellison",
+        "الوقاية من قرحة NSAIDs",
+        "القضاء على H. pylori (مع المضادات الحيوية)"
+      ],
+      "uses_en": [
+        "Peptic ulcer disease",
+        "GERD / acid reflux",
+        "Zollinger-Ellison syndrome",
+        "NSAID-induced ulcer prophylaxis",
+        "H. pylori eradication (triple therapy)"
+      ],
+      "dosage": "20-40 مجم مرة أو مرتين يومياً قبل الوجبة بـ30 دقيقة",
+      "dosage_en": "20-40 mg once or twice daily, 30 minutes before meals",
+      "route": [
+        "فموي",
+        "وريدي"
+      ],
+      "route_en": [
+        "Oral",
+        "Intravenous (IV)"
+      ],
+      "side_effects": [
+        "صداع",
+        "إسهال أو إمساك",
+        "غثيان",
+        "نقص المغنيسيوم مع الاستخدام الطويل",
+        "نقص فيتامين B12",
+        "زيادة خطر عدوى C. difficile"
+      ],
+      "side_effects_en": [
+        "Headache",
+        "Diarrhea or constipation",
+        "Nausea",
+        "Hypomagnesemia (long-term use)",
+        "Vitamin B12 deficiency",
+        "Increased C. difficile infection risk"
+      ],
+      "contraindications": [
+        "حساسية للـ PPIs أو البنزيميدازول",
+        "الاستخدام مع Rilpivirine أو Atazanavir"
+      ],
+      "contraindications_en": [
+        "Hypersensitivity to PPIs or benzimidazoles",
+        "Use with Rilpivirine or Atazanavir (reduces absorption)"
+      ],
+      "drug_interactions": [
+        "Clopidogrel → يقلل تحويله للشكل النشط (يقلل فاعليته)",
+        "Methotrexate → يبطئ إطراحه",
+        "Ketoconazole / Itraconazole → يقلل امتصاصهم",
+        "Iron supplements → يقلل امتصاص الحديد"
+      ],
+      "drug_interactions_en": [
+        "Clopidogrel → reduces activation (reduces antiplatelet effect)",
+        "Methotrexate → delayed clearance (toxicity risk)",
+        "Ketoconazole/Itraconazole → reduced absorption",
+        "Iron supplements → reduced iron absorption"
+      ],
+      "quick_summary": "Omeprazole = أقوى خافض حموضة (PPI)، يوقف مضخة الحمض لا رجعياً، للقرحة وارتجاع المريء",
+      "quick_summary_en": "Omeprazole = potent PPI, irreversibly blocks acid pump, for peptic ulcers, GERD and H. pylori",
+      "system": "الجهاز الهضمي",
+      "system_en": "Gastrointestinal System",
+      "diseases": [
+        {
+          "name": "قرحة المعدة",
+          "name_en": "Peptic Ulcer Disease",
+          "symptoms": [
+            "ألم شرسوفي",
+            "حرقة",
+            "غثيان"
+          ],
+          "symptoms_en": [
+            "epigastric pain",
+            "heartburn",
+            "nausea"
+          ],
+          "treatments": [
+            "Omeprazole",
+            "استئصال H. pylori"
+          ],
+          "treatments_en": [
+            "Omeprazole",
+            "H. pylori eradication"
+          ]
+        }
+      ]
+    }
+  ]
+}

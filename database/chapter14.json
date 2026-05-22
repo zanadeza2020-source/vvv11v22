@@ -1,0 +1,1848 @@
+{
+  "chapter": 14,
+  "title": "Human Bones & Skeletal System",
+  "title_ar": "عظام جسم الإنسان والجهاز الهيكلي",
+  "title_en": "Human Bones & Skeletal System",
+  "description": "جميع عظام جسم الإنسان وأنواعها وأماكنها ووظائفها والأمراض المرتبطة بها",
+  "terms": [
+    {
+      "id": 1401,
+      "term": "skeleton",
+      "arabic": "الهيكل العظمي",
+      "latin": "skeleton",
+      "pronunciation": "سكيل-إي-تن",
+      "definition": "إطار العظام الذي يدعم جسم الإنسان ويحمي أعضاءه الداخلية ويتيح الحركة، يتكون من 206 عظمة عند البالغين",
+      "definition_en": "The bony framework supporting the human body, protecting internal organs and enabling movement; consists of 206 bones in adults",
+      "englishSentence": "The human skeleton consists of 206 bones that provide structure, support, and protection.",
+      "type": "system",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "الدعم والحماية وإنتاج كريات الدم وتخزين المعادن",
+      "systemFunction_en": "Support, protection, blood cell production, mineral storage",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": [
+        "العضلات",
+        "المفاصل",
+        "الغضاريف",
+        "الأوتار"
+      ],
+      "nearbyOrgans_en": [
+        "Muscles",
+        "Joints",
+        "Cartilage",
+        "Tendons"
+      ],
+      "diseases": [
+        {
+          "name": "هشاشة العظام",
+          "name_en": "Osteoporosis",
+          "symptoms": [
+            "كسور متكررة",
+            "ألم العظام",
+            "انخفاض الطول"
+          ],
+          "symptoms_en": [
+            "Frequent fractures",
+            "Bone pain",
+            "Height loss"
+          ],
+          "treatments": [
+            "كالسيوم وفيتامين D",
+            "بيسفوسفونات",
+            "هرمون الاستروجين"
+          ],
+          "treatments_en": [
+            "Calcium and vitamin D",
+            "Bisphosphonates",
+            "Estrogen"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "206 bones",
+        "skeletal",
+        "osseous",
+        "عظام",
+        "هيكل"
+      ]
+    },
+    {
+      "id": 1402,
+      "term": "skull",
+      "arabic": "الجمجمة",
+      "latin": "cranium",
+      "pronunciation": "سكَل",
+      "definition": "العظمة العظمية التي تحمي الدماغ وتشكل هيكل الوجه، تتكون من 22 عظمة منها 8 قحفية و14 وجهية",
+      "definition_en": "The bony structure protecting the brain and forming the face, consisting of 22 bones including 8 cranial and 14 facial",
+      "englishSentence": "The skull protects the brain and forms the facial skeleton.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية الدماغ وإعطاء شكل الوجه",
+      "systemFunction_en": "Brain protection and facial structure",
+      "location": "الرأس",
+      "location_en": "Head",
+      "nearbyOrgans": [
+        "الدماغ",
+        "السحايا",
+        "العيون",
+        "الأذنان"
+      ],
+      "nearbyOrgans_en": [
+        "Brain",
+        "Meninges",
+        "Eyes",
+        "Ears"
+      ],
+      "diseases": [
+        {
+          "name": "كسر قاعدة الجمجمة",
+          "name_en": "Basilar Skull Fracture",
+          "symptoms": [
+            "نزيف خلف الأذن",
+            "كدمات حول العينين",
+            "سيلان السائل الشوكي من الأنف"
+          ],
+          "symptoms_en": [
+            "Bleeding behind ear",
+            "Periorbital bruising",
+            "CSF rhinorrhea"
+          ],
+          "treatments": [
+            "مراقبة في العناية المركزة",
+            "جراحة إذا لزم"
+          ],
+          "treatments_en": [
+            "ICU monitoring",
+            "Surgery if needed"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "cranium",
+        "skull fracture",
+        "جمجمة",
+        "قحف"
+      ]
+    },
+    {
+      "id": 1403,
+      "term": "mandible",
+      "arabic": "الفك السفلي",
+      "latin": "mandibula",
+      "pronunciation": "مان-دي-بل",
+      "definition": "العظمة المتحركة الوحيدة في الجمجمة، تشكل الفك الأسفل وتحتوي على الأسنان السفلية",
+      "definition_en": "The only movable bone in the skull, forming the lower jaw and containing the lower teeth",
+      "englishSentence": "The mandible is the lower jaw and the only movable bone in the skull.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "المضغ والكلام",
+      "systemFunction_en": "Chewing and speech",
+      "location": "أسفل الوجه",
+      "location_en": "Lower face",
+      "nearbyOrgans": [
+        "الأسنان",
+        "العضلات الماضغة",
+        "المفصل الفكي الصدغي"
+      ],
+      "nearbyOrgans_en": [
+        "Teeth",
+        "Masticatory muscles",
+        "Temporomandibular joint"
+      ],
+      "diseases": [
+        {
+          "name": "كسر الفك",
+          "name_en": "Mandibular Fracture",
+          "symptoms": [
+            "ألم مضغ",
+            "سوء الإطباق",
+            "تورم الوجه"
+          ],
+          "symptoms_en": [
+            "Chewing pain",
+            "Malocclusion",
+            "Facial swelling"
+          ],
+          "treatments": [
+            "تثبيت الفك",
+            "جراحة"
+          ],
+          "treatments_en": [
+            "Jaw fixation",
+            "Surgery"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "jaw",
+        "mandibular",
+        "فك سفلي"
+      ]
+    },
+    {
+      "id": 1404,
+      "term": "vertebral column",
+      "arabic": "العمود الفقري",
+      "latin": "columna vertebralis",
+      "pronunciation": "فير-تي-برال كو-لم",
+      "definition": "سلسلة من 33 فقرة تمتد من الجمجمة إلى عظمة العجز، تحمي الحبل الشوكي وتدعم وزن الجسم",
+      "definition_en": "A series of 33 vertebrae extending from the skull to the sacrum, protecting the spinal cord and supporting body weight",
+      "englishSentence": "The vertebral column consists of 33 vertebrae and protects the spinal cord.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية الحبل الشوكي ودعم الجسم وإتاحة الحركة",
+      "systemFunction_en": "Protect spinal cord, support body, enable movement",
+      "location": "مركز الظهر من الرأس إلى الحوض",
+      "location_en": "Center of the back from head to pelvis",
+      "nearbyOrgans": [
+        "الحبل الشوكي",
+        "الأقراص الفقرية",
+        "الأعصاب الشوكية"
+      ],
+      "nearbyOrgans_en": [
+        "Spinal cord",
+        "Intervertebral discs",
+        "Spinal nerves"
+      ],
+      "diseases": [
+        {
+          "name": "الانزلاق الغضروفي",
+          "name_en": "Herniated Disc",
+          "symptoms": [
+            "ألم ظهر شديد",
+            "تنميل الساق",
+            "ضعف عضلي"
+          ],
+          "symptoms_en": [
+            "Severe back pain",
+            "Leg numbness",
+            "Muscle weakness"
+          ],
+          "treatments": [
+            "راحة",
+            "مسكنات",
+            "علاج طبيعي",
+            "جراحة"
+          ],
+          "treatments_en": [
+            "Rest",
+            "Analgesics",
+            "Physical therapy",
+            "Surgery"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "spine",
+        "vertebrae",
+        "cervical",
+        "thoracic",
+        "lumbar",
+        "عمود فقري",
+        "فقرات"
+      ]
+    },
+    {
+      "id": 1405,
+      "term": "cervical vertebrae",
+      "arabic": "الفقرات العنقية",
+      "latin": "vertebrae cervicales",
+      "pronunciation": "سير-فيكال فير-تي-بري",
+      "definition": "سبع فقرات تشكل العنق (C1-C7)، وتحمل الجمجمة وتتيح حركة الرأس",
+      "definition_en": "Seven vertebrae forming the neck (C1-C7), supporting the skull and enabling head movement",
+      "englishSentence": "The 7 cervical vertebrae (C1-C7) support the head and enable its movement.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الجمجمة وحركة الرأس",
+      "systemFunction_en": "Support skull and head movement",
+      "location": "العنق",
+      "location_en": "Neck",
+      "nearbyOrgans": [
+        "الجمجمة",
+        "الفقرات الصدرية",
+        "الحبل الشوكي العنقي"
+      ],
+      "nearbyOrgans_en": [
+        "Skull",
+        "Thoracic vertebrae",
+        "Cervical spinal cord"
+      ],
+      "diseases": [
+        {
+          "name": "آلام الرقبة",
+          "name_en": "Cervicalgia",
+          "symptoms": [
+            "ألم الرقبة",
+            "تيبس",
+            "صداع"
+          ],
+          "symptoms_en": [
+            "Neck pain",
+            "Stiffness",
+            "Headache"
+          ],
+          "treatments": [
+            "تمارين",
+            "علاج طبيعي",
+            "مسكنات"
+          ],
+          "treatments_en": [
+            "Exercises",
+            "Physical therapy",
+            "Analgesics"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "C1-C7",
+        "atlas",
+        "axis",
+        "neck",
+        "فقرات عنقية"
+      ]
+    },
+    {
+      "id": 1406,
+      "term": "sternum",
+      "arabic": "عظمة القص",
+      "latin": "sternum",
+      "pronunciation": "ستير-نم",
+      "definition": "عظمة مسطحة في وسط الصدر تتصل بها الأضلاع وعظام الترقوة، تحمي القلب والرئتين",
+      "definition_en": "A flat bone in the center of the chest to which ribs and clavicles attach, protecting the heart and lungs",
+      "englishSentence": "The sternum is the flat bone in the center of the chest that connects to the ribs.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية القلب والرئتين وربط الأضلاع",
+      "systemFunction_en": "Protect heart and lungs, connect ribs",
+      "location": "وسط الصدر",
+      "location_en": "Center of chest",
+      "nearbyOrgans": [
+        "القلب",
+        "الرئتان",
+        "الأضلاع",
+        "الترقوة"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Lungs",
+        "Ribs",
+        "Clavicle"
+      ],
+      "diseases": [
+        {
+          "name": "كسر القص",
+          "name_en": "Sternal Fracture",
+          "symptoms": [
+            "ألم الصدر",
+            "صعوبة التنفس",
+            "حساسية عند اللمس"
+          ],
+          "symptoms_en": [
+            "Chest pain",
+            "Breathing difficulty",
+            "Tenderness on touch"
+          ],
+          "treatments": [
+            "مسكنات الألم",
+            "راحة",
+            "جراحة نادراً"
+          ],
+          "treatments_en": [
+            "Analgesics",
+            "Rest",
+            "Rarely surgery"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "breastbone",
+        "sternotomy",
+        "قص",
+        "عظمة الصدر"
+      ]
+    },
+    {
+      "id": 1407,
+      "term": "ribs",
+      "arabic": "الأضلاع",
+      "latin": "costae",
+      "pronunciation": "ريبز",
+      "definition": "12 زوجاً من العظام المقوسة تشكل القفص الصدري لحماية أعضاء الصدر، منها 7 حقيقية و3 كاذبة و2 عائمة",
+      "definition_en": "12 pairs of curved bones forming the thoracic cage to protect chest organs; 7 true, 3 false, and 2 floating ribs",
+      "englishSentence": "The 12 pairs of ribs form the thoracic cage and protect the heart and lungs.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية الصدر والمساعدة في التنفس",
+      "systemFunction_en": "Chest protection and breathing assistance",
+      "location": "الصدر",
+      "location_en": "Thorax",
+      "nearbyOrgans": [
+        "الرئتان",
+        "القلب",
+        "الكبد",
+        "الطحال",
+        "الحجاب الحاجز"
+      ],
+      "nearbyOrgans_en": [
+        "Lungs",
+        "Heart",
+        "Liver",
+        "Spleen",
+        "Diaphragm"
+      ],
+      "diseases": [
+        {
+          "name": "كسر الضلع",
+          "name_en": "Rib Fracture",
+          "symptoms": [
+            "ألم حاد عند التنفس",
+            "حساسية موضعية",
+            "صعوبة في أخذ نفس عميق"
+          ],
+          "symptoms_en": [
+            "Sharp pain on breathing",
+            "Local tenderness",
+            "Difficulty taking deep breath"
+          ],
+          "treatments": [
+            "مسكنات",
+            "راحة",
+            "نادراً تثبيت"
+          ],
+          "treatments_en": [
+            "Analgesics",
+            "Rest",
+            "Rarely fixation"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "costae",
+        "thoracic cage",
+        "floating ribs",
+        "أضلاع",
+        "قفص صدري"
+      ]
+    },
+    {
+      "id": 1408,
+      "term": "clavicle",
+      "arabic": "عظمة الترقوة",
+      "latin": "clavicula",
+      "pronunciation": "كلاف-إي-كل",
+      "definition": "عظمة أنبوبية تمتد بين عظمة القص والكتف وتربط طرف الكتف بالهيكل العظمي المحوري",
+      "definition_en": "A tubular bone extending between the sternum and shoulder, connecting the shoulder to the axial skeleton",
+      "englishSentence": "The clavicle connects the shoulder to the sternum and is a commonly fractured bone.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "ربط الكتف بالهيكل المحوري وحماية الأوعية تحته",
+      "systemFunction_en": "Connect shoulder to axial skeleton, protect underlying vessels",
+      "location": "أعلى الصدر بين العنق والكتف",
+      "location_en": "Upper chest between neck and shoulder",
+      "nearbyOrgans": [
+        "الكتف",
+        "القص",
+        "لوح الكتف",
+        "الوريد تحت الترقوة"
+      ],
+      "nearbyOrgans_en": [
+        "Shoulder",
+        "Sternum",
+        "Scapula",
+        "Subclavian vein"
+      ],
+      "diseases": [
+        {
+          "name": "كسر الترقوة",
+          "name_en": "Clavicle Fracture",
+          "symptoms": [
+            "ألم فوري",
+            "تورم",
+            "تشوه مرئي"
+          ],
+          "symptoms_en": [
+            "Immediate pain",
+            "Swelling",
+            "Visible deformity"
+          ],
+          "treatments": [
+            "حمالة ذراع",
+            "جبيرة",
+            "جراحة للكسور المعقدة"
+          ],
+          "treatments_en": [
+            "Arm sling",
+            "Splint",
+            "Surgery for complex fractures"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "collarbone",
+        "clavicular",
+        "ترقوة"
+      ]
+    },
+    {
+      "id": 1409,
+      "term": "scapula",
+      "arabic": "لوح الكتف",
+      "latin": "scapula",
+      "pronunciation": "سكاب-يو-لا",
+      "definition": "عظمة مثلثة مسطحة في الجزء الخلفي العلوي من الصدر تربط عظمة العضد بالهيكل المحوري",
+      "definition_en": "A flat triangular bone in the upper back connecting the humerus to the axial skeleton",
+      "englishSentence": "The scapula is the shoulder blade that connects the arm to the trunk.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "ربط الذراع بالجذع والمساهمة في حركة الكتف",
+      "systemFunction_en": "Connect arm to trunk and contribute to shoulder movement",
+      "location": "الجزء الخلفي العلوي من الصدر",
+      "location_en": "Upper posterior thorax",
+      "nearbyOrgans": [
+        "الترقوة",
+        "عظمة العضد",
+        "عضلات الكتف"
+      ],
+      "nearbyOrgans_en": [
+        "Clavicle",
+        "Humerus",
+        "Shoulder muscles"
+      ],
+      "diseases": [
+        {
+          "name": "خلع لوح الكتف (كتف المجنحة)",
+          "name_en": "Winged Scapula",
+          "symptoms": [
+            "بروز لوح الكتف",
+            "ضعف في الكتف",
+            "ألم"
+          ],
+          "symptoms_en": [
+            "Scapular protrusion",
+            "Shoulder weakness",
+            "Pain"
+          ],
+          "treatments": [
+            "علاج طبيعي",
+            "جراحة في الحالات الشديدة"
+          ],
+          "treatments_en": [
+            "Physical therapy",
+            "Surgery in severe cases"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "shoulder blade",
+        "scapular",
+        "لوح الكتف"
+      ]
+    },
+    {
+      "id": 1410,
+      "term": "humerus",
+      "arabic": "عظمة العضد",
+      "latin": "humerus",
+      "pronunciation": "هيو-مير-س",
+      "definition": "العظمة الطويلة الوحيدة في الجزء العلوي من الذراع بين الكتف والكوع",
+      "definition_en": "The single long bone in the upper arm between the shoulder and elbow",
+      "englishSentence": "The humerus is the long bone of the upper arm connecting the shoulder to the elbow.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم الذراع العلوي وإتاحة حركات الكتف والكوع",
+      "systemFunction_en": "Support upper arm and enable shoulder and elbow movements",
+      "location": "الجزء العلوي من الذراع",
+      "location_en": "Upper arm",
+      "nearbyOrgans": [
+        "مفصل الكتف",
+        "مفصل الكوع",
+        "العصب الكعبري"
+      ],
+      "nearbyOrgans_en": [
+        "Shoulder joint",
+        "Elbow joint",
+        "Radial nerve"
+      ],
+      "diseases": [
+        {
+          "name": "كسر العضد",
+          "name_en": "Humeral Fracture",
+          "symptoms": [
+            "ألم شديد",
+            "تشوه",
+            "عدم القدرة على الحركة",
+            "قد يصاحبه شلل العصب الكعبري"
+          ],
+          "symptoms_en": [
+            "Severe pain",
+            "Deformity",
+            "Inability to move",
+            "May accompany radial nerve palsy"
+          ],
+          "treatments": [
+            "جبيرة",
+            "جراحة",
+            "إعادة تأهيل"
+          ],
+          "treatments_en": [
+            "Splint",
+            "Surgery",
+            "Rehabilitation"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "upper arm bone",
+        "humeral",
+        "عضد"
+      ]
+    },
+    {
+      "id": 1411,
+      "term": "radius & ulna",
+      "arabic": "عظمتا الساعد (الكعبرة والزند)",
+      "latin": "radius et ulna",
+      "pronunciation": "ري-دي-س اند أل-نا",
+      "definition": "عظمتان تشكلان الساعد؛ الكعبرة (radius) على جهة الإبهام والزند (ulna) على الجهة الأخرى",
+      "definition_en": "Two bones forming the forearm; the radius on the thumb side and the ulna on the other side",
+      "englishSentence": "The radius and ulna are the two bones of the forearm that enable rotation and bending movements.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تمكين حركات الدوران والثني في الساعد والمعصم",
+      "systemFunction_en": "Enable rotation and flexion of forearm and wrist",
+      "location": "الساعد",
+      "location_en": "Forearm",
+      "nearbyOrgans": [
+        "مفصل الكوع",
+        "مفصل المعصم",
+        "عضلات الساعد"
+      ],
+      "nearbyOrgans_en": [
+        "Elbow joint",
+        "Wrist joint",
+        "Forearm muscles"
+      ],
+      "diseases": [
+        {
+          "name": "كسر كوليز (Colles' Fracture)",
+          "name_en": "Colles' Fracture",
+          "symptoms": [
+            "ألم المعصم",
+            "تشوه على شكل شوكة"
+          ],
+          "symptoms_en": [
+            "Wrist pain",
+            "Fork-like deformity"
+          ],
+          "treatments": [
+            "جبيرة جبس",
+            "جراحة للكسور المعقدة"
+          ],
+          "treatments_en": [
+            "Plaster cast",
+            "Surgery for complex fractures"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "forearm bones",
+        "Colles fracture",
+        "كعبرة",
+        "زند",
+        "ساعد"
+      ]
+    },
+    {
+      "id": 1412,
+      "term": "pelvis",
+      "arabic": "الحوض",
+      "latin": "pelvis",
+      "pronunciation": "بيل-فيس",
+      "definition": "بنية عظمية حوضية تتكون من عظام الحرقفة والعانة والإسك وعظمة العجز، تحمل الأحشاء وتربط الجذع بالساقين",
+      "definition_en": "A bony pelvic structure consisting of the ilium, pubis, ischium, and sacrum, supporting viscera and connecting the trunk to the legs",
+      "englishSentence": "The pelvis supports the abdominal organs and connects the spine to the lower limbs.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حمل وزن الجسم ودعم أعضاء الحوض والمساهمة في الولادة",
+      "systemFunction_en": "Bear body weight, support pelvic organs, assist in childbirth",
+      "location": "بين الجذع والساقين",
+      "location_en": "Between trunk and legs",
+      "nearbyOrgans": [
+        "المثانة",
+        "الرحم",
+        "المستقيم",
+        "الأمعاء"
+      ],
+      "nearbyOrgans_en": [
+        "Bladder",
+        "Uterus",
+        "Rectum",
+        "Intestines"
+      ],
+      "diseases": [
+        {
+          "name": "كسر الحوض",
+          "name_en": "Pelvic Fracture",
+          "symptoms": [
+            "ألم شديد في منطقة الحوض",
+            "عدم الاستقرار",
+            "نزيف داخلي"
+          ],
+          "symptoms_en": [
+            "Severe pelvic pain",
+            "Instability",
+            "Internal bleeding"
+          ],
+          "treatments": [
+            "تثبيت خارجي أو داخلي",
+            "علاج النزيف"
+          ],
+          "treatments_en": [
+            "External or internal fixation",
+            "Hemorrhage control"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "ilium",
+        "ischium",
+        "pubis",
+        "sacrum",
+        "حوض"
+      ]
+    },
+    {
+      "id": 1413,
+      "term": "femur",
+      "arabic": "عظمة الفخذ",
+      "latin": "femur",
+      "pronunciation": "في-مر",
+      "definition": "أطول وأقوى عظمة في الجسم، تمتد من مفصل الورك إلى مفصل الركبة",
+      "definition_en": "The longest and strongest bone in the body, extending from the hip joint to the knee joint",
+      "englishSentence": "The femur is the longest bone in the human body, extending from the hip to the knee.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "دعم وزن الجسم وإتاحة حركات الورك والركبة",
+      "systemFunction_en": "Bear body weight and enable hip and knee movements",
+      "location": "الفخذ",
+      "location_en": "Thigh",
+      "nearbyOrgans": [
+        "مفصل الورك",
+        "مفصل الركبة",
+        "العضلات الفخذية",
+        "الشريان الفخذي"
+      ],
+      "nearbyOrgans_en": [
+        "Hip joint",
+        "Knee joint",
+        "Thigh muscles",
+        "Femoral artery"
+      ],
+      "diseases": [
+        {
+          "name": "كسر عنق الفخذ",
+          "name_en": "Femoral Neck Fracture",
+          "symptoms": [
+            "ألم حاد في الورك",
+            "عدم القدرة على المشي",
+            "تقصير الساق"
+          ],
+          "symptoms_en": [
+            "Sharp hip pain",
+            "Inability to walk",
+            "Leg shortening"
+          ],
+          "treatments": [
+            "جراحة (مسمار أو بديل مفصل)",
+            "إعادة تأهيل"
+          ],
+          "treatments_en": [
+            "Surgery (nail or joint replacement)",
+            "Rehabilitation"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "thigh bone",
+        "femoral",
+        "longest bone",
+        "فخذ",
+        "عظمة الفخذ"
+      ]
+    },
+    {
+      "id": 1414,
+      "term": "tibia & fibula",
+      "arabic": "عظمتا الساق (القصبة والشظية)",
+      "latin": "tibia et fibula",
+      "pronunciation": "تيب-يا اند فيب-يو-لا",
+      "definition": "عظمتان في الساق السفلى؛ القصبة (tibia) هي الكبرى وتحمل الوزن، والشظية (fibula) جانبية ورفيعة",
+      "definition_en": "Two bones in the lower leg; the tibia (larger, weight-bearing) and fibula (lateral, slender)",
+      "englishSentence": "The tibia and fibula are the two bones of the lower leg, with the tibia bearing most of the body weight.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حمل وزن الجسم وتشكيل مفصل الكاحل",
+      "systemFunction_en": "Bear body weight and form the ankle joint",
+      "location": "الساق السفلى",
+      "location_en": "Lower leg",
+      "nearbyOrgans": [
+        "مفصل الركبة",
+        "مفصل الكاحل",
+        "عضلات الساق"
+      ],
+      "nearbyOrgans_en": [
+        "Knee joint",
+        "Ankle joint",
+        "Leg muscles"
+      ],
+      "diseases": [
+        {
+          "name": "شظية الساق المكسورة",
+          "name_en": "Tibial/Fibular Fracture",
+          "symptoms": [
+            "ألم ساق حاد",
+            "تورم",
+            "عدم القدرة على تحمل الوزن"
+          ],
+          "symptoms_en": [
+            "Acute leg pain",
+            "Swelling",
+            "Inability to bear weight"
+          ],
+          "treatments": [
+            "جبيرة جبس",
+            "مسمار داخل النخاع",
+            "جراحة"
+          ],
+          "treatments_en": [
+            "Plaster cast",
+            "Intramedullary nail",
+            "Surgery"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "shin bone",
+        "lower leg",
+        "قصبة",
+        "شظية"
+      ]
+    },
+    {
+      "id": 1415,
+      "term": "patella",
+      "arabic": "الرضفة",
+      "latin": "patella",
+      "pronunciation": "با-تيل-ا",
+      "definition": "العظمة المثلثية الصغيرة الواقعة أمام مفصل الركبة، تحمي الركبة وتحسن ميكانيكية تمديد الركبة",
+      "definition_en": "The small triangular bone in front of the knee joint, protecting the knee and improving knee extension mechanics",
+      "englishSentence": "The patella (kneecap) protects the knee joint and improves the leverage of the quadriceps muscle.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "حماية الركبة وتحسين قوة العضلة الرباعية الرؤوس",
+      "systemFunction_en": "Protect knee and improve quadriceps leverage",
+      "location": "أمام مفصل الركبة",
+      "location_en": "Front of knee joint",
+      "nearbyOrgans": [
+        "مفصل الركبة",
+        "وتر العضلة الرباعية",
+        "الرباط الرضفي"
+      ],
+      "nearbyOrgans_en": [
+        "Knee joint",
+        "Quadriceps tendon",
+        "Patellar ligament"
+      ],
+      "diseases": [
+        {
+          "name": "خلع الرضفة",
+          "name_en": "Patellar Dislocation",
+          "symptoms": [
+            "ألم ركبة مفاجئ",
+            "تشوه مرئي",
+            "عدم القدرة على المشي"
+          ],
+          "symptoms_en": [
+            "Sudden knee pain",
+            "Visible deformity",
+            "Inability to walk"
+          ],
+          "treatments": [
+            "إعادة التموضع",
+            "علاج طبيعي",
+            "جراحة إن لزم"
+          ],
+          "treatments_en": [
+            "Relocation",
+            "Physical therapy",
+            "Surgery if needed"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "kneecap",
+        "patellar",
+        "رضفة",
+        "الركبة"
+      ]
+    },
+    {
+      "id": 1416,
+      "term": "calcaneus",
+      "arabic": "عظمة الكعب",
+      "latin": "calcaneus",
+      "pronunciation": "كال-كي-نيس",
+      "definition": "أكبر عظام القدم وتشكل الكعب، تتحمل وزن الجسم عند الوقوف والمشي",
+      "definition_en": "The largest bone of the foot forming the heel, bearing body weight during standing and walking",
+      "englishSentence": "The calcaneus is the heel bone that absorbs the impact of walking and running.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تحمل وزن الجسم وإتاحة المشي والجري",
+      "systemFunction_en": "Bear body weight and enable walking and running",
+      "location": "الكعب",
+      "location_en": "Heel",
+      "nearbyOrgans": [
+        "مفصل الكاحل",
+        "وتر أخيل",
+        "عضلات القدم"
+      ],
+      "nearbyOrgans_en": [
+        "Ankle joint",
+        "Achilles tendon",
+        "Foot muscles"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب لفافة الأخمص",
+          "name_en": "Plantar Fasciitis",
+          "symptoms": [
+            "ألم كعب عند أول خطوات الصباح",
+            "حرقة أسفل القدم"
+          ],
+          "symptoms_en": [
+            "Heel pain on first morning steps",
+            "Burning under foot"
+          ],
+          "treatments": [
+            "تمارين تمدد",
+            "دعامات القدم",
+            "حقن كورتيزون"
+          ],
+          "treatments_en": [
+            "Stretching exercises",
+            "Foot orthotics",
+            "Cortisone injection"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "heel bone",
+        "calcaneal",
+        "كعب",
+        "عظمة الكعب"
+      ]
+    },
+    {
+      "id": 1417,
+      "term": "carpals",
+      "arabic": "عظام الرسغ",
+      "latin": "ossa carpi",
+      "pronunciation": "كار-بالز",
+      "definition": "مجموعة من 8 عظام صغيرة تشكل الرسغ بين الساعد والكف، وتتيح الحركة الدقيقة للمعصم",
+      "definition_en": "A group of 8 small bones forming the wrist between the forearm and hand, enabling fine wrist movements",
+      "englishSentence": "The 8 carpal bones form the wrist and enable precise hand and wrist movements.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "إتاحة حركات الرسغ والمعصم الدقيقة",
+      "systemFunction_en": "Enable wrist and fine movement",
+      "location": "الرسغ",
+      "location_en": "Wrist",
+      "nearbyOrgans": [
+        "عظام الساعد",
+        "عظام المشط",
+        "الأوتار"
+      ],
+      "nearbyOrgans_en": [
+        "Forearm bones",
+        "Metacarpals",
+        "Tendons"
+      ],
+      "diseases": [
+        {
+          "name": "متلازمة النفق الرسغي",
+          "name_en": "Carpal Tunnel Syndrome",
+          "symptoms": [
+            "خدر وتنميل اليد",
+            "ألم ليلي",
+            "ضعف القبضة"
+          ],
+          "symptoms_en": [
+            "Hand numbness and tingling",
+            "Night pain",
+            "Grip weakness"
+          ],
+          "treatments": [
+            "جبيرة ليلية",
+            "حقن كورتيزون",
+            "جراحة تحرير النفق"
+          ],
+          "treatments_en": [
+            "Night splint",
+            "Cortisone injection",
+            "Tunnel release surgery"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "wrist bones",
+        "carpal tunnel",
+        "رسغ",
+        "معصم"
+      ]
+    },
+    {
+      "id": 1418,
+      "term": "phalanges",
+      "arabic": "عظام الأصابع (السلاميات)",
+      "latin": "phalanges",
+      "pronunciation": "فا-لان-جيز",
+      "definition": "عظام الأصابع في اليدين والقدمين؛ لكل إصبع 3 سلاميات (قريبة ووسطى وبعيدة) عدا الإبهام فله 2",
+      "definition_en": "The finger and toe bones; each finger has 3 phalanges (proximal, middle, distal) except the thumb which has 2",
+      "englishSentence": "Phalanges are the bones of the fingers and toes, enabling fine motor movements.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "إتاحة الإمساك والحركة الدقيقة",
+      "systemFunction_en": "Enable grasping and fine movement",
+      "location": "الأصابع في اليدين والقدمين",
+      "location_en": "Fingers and toes",
+      "nearbyOrgans": [
+        "عظام المشط",
+        "مفاصل الأصابع",
+        "الأوتار"
+      ],
+      "nearbyOrgans_en": [
+        "Metacarpals",
+        "Finger joints",
+        "Tendons"
+      ],
+      "diseases": [
+        {
+          "name": "كسر الإصبع",
+          "name_en": "Phalangeal Fracture",
+          "symptoms": [
+            "ألم",
+            "تورم",
+            "كدمة",
+            "تشوه"
+          ],
+          "symptoms_en": [
+            "Pain",
+            "Swelling",
+            "Bruising",
+            "Deformity"
+          ],
+          "treatments": [
+            "جبيرة",
+            "ربط الإصبع المصاب بجاره",
+            "جراحة"
+          ],
+          "treatments_en": [
+            "Splint",
+            "Buddy taping",
+            "Surgery"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "finger bones",
+        "toe bones",
+        "proximal",
+        "distal",
+        "سلاميات",
+        "أصابع"
+      ]
+    },
+    {
+      "id": 1419,
+      "term": "sacrum",
+      "arabic": "عظمة العجز",
+      "latin": "os sacrum",
+      "pronunciation": "سي-كرم",
+      "definition": "عظمة مثلثة في الجزء السفلي من العمود الفقري تتكون من 5 فقرات متصلة، تشكل الجزء الخلفي من الحوض",
+      "definition_en": "A triangular bone at the base of the spine formed by 5 fused vertebrae, forming the posterior part of the pelvis",
+      "englishSentence": "The sacrum connects the spine to the pelvis and is formed by 5 fused vertebrae.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "ربط العمود الفقري بالحوض وحماية أعصاب الحوض",
+      "systemFunction_en": "Connect spine to pelvis and protect pelvic nerves",
+      "location": "أسفل العمود الفقري فوق عظمة العصعص",
+      "location_en": "Base of spine above coccyx",
+      "nearbyOrgans": [
+        "الفقرات القطنية",
+        "عظمة العصعص",
+        "الحوض"
+      ],
+      "nearbyOrgans_en": [
+        "Lumbar vertebrae",
+        "Coccyx",
+        "Pelvis"
+      ],
+      "diseases": [
+        {
+          "name": "الداء العجزي الحرقفي",
+          "name_en": "Sacroiliac Joint Disease",
+          "symptoms": [
+            "ألم أسفل الظهر",
+            "ألم ينتشر للأرداف والساق"
+          ],
+          "symptoms_en": [
+            "Lower back pain",
+            "Pain radiating to buttocks and leg"
+          ],
+          "treatments": [
+            "مسكنات",
+            "حقن مفصلية",
+            "علاج طبيعي"
+          ],
+          "treatments_en": [
+            "Analgesics",
+            "Joint injection",
+            "Physical therapy"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "S1-S5",
+        "sacroiliac",
+        "عجز"
+      ]
+    },
+    {
+      "id": 1420,
+      "term": "coccyx",
+      "arabic": "عظمة العصعص",
+      "latin": "os coccygis",
+      "pronunciation": "كوك-سيكس",
+      "definition": "آخر جزء من العمود الفقري يتكون من 3-5 فقرات متصلة، يُعدّ بقايا الذيل التطورية لدى الإنسان",
+      "definition_en": "The last part of the spine consisting of 3-5 fused vertebrae, considered the evolutionary remnant of a tail",
+      "englishSentence": "The coccyx is the tailbone at the base of the spine, consisting of 3-5 fused vertebrae.",
+      "type": "bone",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "ارتكاز عضلات قاع الحوض",
+      "systemFunction_en": "Attachment of pelvic floor muscles",
+      "location": "أسفل العجز",
+      "location_en": "Below sacrum",
+      "nearbyOrgans": [
+        "العجز",
+        "المستقيم",
+        "الشرج",
+        "عضلات قاع الحوض"
+      ],
+      "nearbyOrgans_en": [
+        "Sacrum",
+        "Rectum",
+        "Anus",
+        "Pelvic floor muscles"
+      ],
+      "diseases": [
+        {
+          "name": "كوكسيدينيا (ألم العصعص)",
+          "name_en": "Coccydynia",
+          "symptoms": [
+            "ألم عند الجلوس",
+            "ألم يزيد عند الانتقال من الجلوس للوقوف"
+          ],
+          "symptoms_en": [
+            "Pain when sitting",
+            "Pain when transitioning from sitting to standing"
+          ],
+          "treatments": [
+            "وسادة دونات",
+            "مسكنات",
+            "حقن موضعية"
+          ],
+          "treatments_en": [
+            "Donut cushion",
+            "Analgesics",
+            "Local injection"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "tailbone",
+        "coccygeal",
+        "عصعص"
+      ]
+    },
+    {
+      "id": 1421,
+      "term": "bone types",
+      "arabic": "أنواع العظام",
+      "latin": "typus ossium",
+      "pronunciation": "بون تايبس",
+      "definition": "تُصنَّف عظام الجسم إلى: طويلة (كالفخذ) وقصيرة (كالرسغ) ومسطحة (كالجمجمة) وغير منتظمة (كالفقرات) وسمسمانية (كالرضفة)",
+      "definition_en": "Body bones classified as: long (femur), short (carpals), flat (skull), irregular (vertebrae), sesamoid (patella)",
+      "englishSentence": "Bones are classified as long, short, flat, irregular, or sesamoid based on their shape and function.",
+      "type": "concept",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تصنيف العظام حسب الشكل والوظيفة",
+      "systemFunction_en": "Classify bones by shape and function",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": [
+        "المفاصل",
+        "الغضاريف",
+        "الأوتار",
+        "العضلات"
+      ],
+      "nearbyOrgans_en": [
+        "Joints",
+        "Cartilage",
+        "Tendons",
+        "Muscles"
+      ],
+      "diseases": [
+        {
+          "name": "هشاشة العظام",
+          "name_en": "Osteoporosis",
+          "symptoms": [
+            "كسور متكررة",
+            "ألم عند الحركة",
+            "تقوس العمود الفقري"
+          ],
+          "symptoms_en": [
+            "Frequent fractures",
+            "Pain with movement",
+            "Spinal curvature"
+          ],
+          "treatments": [
+            "كالسيوم وفيتامين D",
+            "بيسفوسفونات",
+            "تمارين حمل الوزن"
+          ],
+          "treatments_en": [
+            "Calcium and Vitamin D",
+            "Bisphosphonates",
+            "Weight-bearing exercises"
+          ]
+        },
+        {
+          "name": "خباثة العظام",
+          "name_en": "Bone Cancer",
+          "symptoms": [
+            "ألم عظام مستمر",
+            "تورم",
+            "كسور مرضية"
+          ],
+          "symptoms_en": [
+            "Persistent bone pain",
+            "Swelling",
+            "Pathological fractures"
+          ],
+          "treatments": [
+            "جراحة",
+            "كيماوي",
+            "إشعاع"
+          ],
+          "treatments_en": [
+            "Surgery",
+            "Chemotherapy",
+            "Radiation"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "long bone",
+        "flat bone",
+        "sesamoid",
+        "irregular",
+        "أنواع العظام"
+      ]
+    },
+    {
+      "id": 1422,
+      "term": "periosteum",
+      "arabic": "السمحاق",
+      "latin": "periosteum",
+      "pronunciation": "بير-إي-أوس-تيم",
+      "definition": "غشاء ليفي كثيف يغطي سطح العظام (عدا المفاصل)، يحتوي على خلايا تشكّل العظام وأوعية دموية وأعصاب",
+      "definition_en": "A dense fibrous membrane covering bone surfaces (except joints), containing bone-forming cells, blood vessels, and nerves",
+      "englishSentence": "The periosteum covers bones, provides nutrition, and is essential for bone repair after fracture.",
+      "type": "tissue",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تغذية العظام ونموها وإصلاحها بعد الكسور",
+      "systemFunction_en": "Bone nutrition, growth, and repair after fractures",
+      "location": "يغطي سطح العظام",
+      "location_en": "Covers bone surfaces",
+      "nearbyOrgans": [
+        "العظم الإسفنجي",
+        "نخاع العظم",
+        "الأوعية الدموية"
+      ],
+      "nearbyOrgans_en": [
+        "Spongy bone",
+        "Bone marrow",
+        "Blood vessels"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب السمحاق",
+          "name_en": "Periostitis",
+          "symptoms": [
+            "ألم عميق في العظم",
+            "حمى",
+            "تورم"
+          ],
+          "symptoms_en": [
+            "Deep bone pain",
+            "Fever",
+            "Swelling"
+          ],
+          "treatments": [
+            "مضادات حيوية",
+            "مضادات الالتهاب",
+            "راحة"
+          ],
+          "treatments_en": [
+            "Antibiotics",
+            "Anti-inflammatories",
+            "Rest"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "bone membrane",
+        "periosteal",
+        "سمحاق"
+      ]
+    },
+    {
+      "id": 1423,
+      "term": "bone marrow",
+      "arabic": "نخاع العظم",
+      "latin": "medulla ossium",
+      "pronunciation": "بون ما-رو",
+      "definition": "النسيج الموجود داخل تجويف العظام؛ النوع الأحمر ينتج كريات الدم، والأصفر يتكون أساساً من الدهون",
+      "definition_en": "Tissue inside bone cavities; red marrow produces blood cells, yellow marrow consists mainly of fat",
+      "englishSentence": "Red bone marrow produces blood cells, while yellow bone marrow stores fat.",
+      "type": "tissue",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "إنتاج كريات الدم الحمراء والبيضاء والصفائح الدموية",
+      "systemFunction_en": "Production of red cells, white cells, and platelets",
+      "location": "داخل تجاويف العظام الطويلة والإسفنجية",
+      "location_en": "Inside cavities of long and spongy bones",
+      "nearbyOrgans": [
+        "العظم الإسفنجي",
+        "السمحاق",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Spongy bone",
+        "Periosteum",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "ابيضاض الدم (اللوكيميا)",
+          "name_en": "Leukemia",
+          "symptoms": [
+            "شحوب",
+            "إرهاق",
+            "نزيف سهل",
+            "عدوى متكررة"
+          ],
+          "symptoms_en": [
+            "Pallor",
+            "Fatigue",
+            "Easy bleeding",
+            "Recurrent infections"
+          ],
+          "treatments": [
+            "كيماوي",
+            "زرع نخاع العظم",
+            "علاج موجه"
+          ],
+          "treatments_en": [
+            "Chemotherapy",
+            "Bone marrow transplant",
+            "Targeted therapy"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "red marrow",
+        "yellow marrow",
+        "hematopoiesis",
+        "نخاع العظم",
+        "تكون الدم"
+      ]
+    },
+    {
+      "id": 1424,
+      "term": "osteoblast",
+      "arabic": "بانية العظم",
+      "latin": "osteoblastus",
+      "pronunciation": "أوس-تيو-بلاست",
+      "definition": "خلية متخصصة مسؤولة عن بناء نسيج العظام الجديد وتمعدنه",
+      "definition_en": "A specialized cell responsible for building new bone tissue and mineralizing it",
+      "englishSentence": "Osteoblasts are the bone-building cells that produce and mineralize bone matrix.",
+      "type": "cell",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "بناء وتمعدن العظم الجديد",
+      "systemFunction_en": "Build and mineralize new bone",
+      "location": "سطح العظام في مناطق النمو والإصلاح",
+      "location_en": "Bone surface in growth and repair areas",
+      "nearbyOrgans": [
+        "الخلية العظمية",
+        "ناقضة العظم",
+        "السمحاق"
+      ],
+      "nearbyOrgans_en": [
+        "Osteocyte",
+        "Osteoclast",
+        "Periosteum"
+      ],
+      "diseases": [
+        {
+          "name": "هشاشة العظام",
+          "name_en": "Osteoporosis",
+          "symptoms": [
+            "خلل في توازن بانيات وناقضات العظم"
+          ],
+          "symptoms_en": [
+            "Imbalance between osteoblast and osteoclast activity"
+          ],
+          "treatments": [
+            "بيسفوسفونات تثبط الناقضات",
+            "كالسيوم وفيتامين D"
+          ],
+          "treatments_en": [
+            "Bisphosphonates inhibit osteoclasts",
+            "Calcium and vitamin D"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "bone building",
+        "bone formation",
+        "بانية عظم"
+      ]
+    },
+    {
+      "id": 1425,
+      "term": "osteoclast",
+      "arabic": "ناقضة العظم",
+      "latin": "osteoclastus",
+      "pronunciation": "أوس-تيو-كلاست",
+      "definition": "خلية كبيرة متعددة النوى تعمل على تحليل وإعادة امتصاص العظام القديمة أو التالفة لإعادة تشكيلها",
+      "definition_en": "A large multinucleated cell that breaks down and reabsorbs old or damaged bone tissue for remodeling",
+      "englishSentence": "Osteoclasts break down bone tissue, enabling bone remodeling and calcium release into the blood.",
+      "type": "cell",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تحليل العظام القديمة وإعادة تشكيلها",
+      "systemFunction_en": "Break down old bone and enable remodeling",
+      "location": "سطح العظام في مناطق الإعادة التشكيل",
+      "location_en": "Bone surface in remodeling areas",
+      "nearbyOrgans": [
+        "بانية العظم",
+        "الخلية العظمية",
+        "العظم الإسفنجي"
+      ],
+      "nearbyOrgans_en": [
+        "Osteoblast",
+        "Osteocyte",
+        "Spongy bone"
+      ],
+      "diseases": [
+        {
+          "name": "الباجيت (داء باجيت العظمي)",
+          "name_en": "Paget's Disease of Bone",
+          "symptoms": [
+            "ألم عظام",
+            "تشوه",
+            "كسور مرضية"
+          ],
+          "symptoms_en": [
+            "Bone pain",
+            "Deformity",
+            "Pathological fractures"
+          ],
+          "treatments": [
+            "بيسفوسفونات",
+            "مسكنات"
+          ],
+          "treatments_en": [
+            "Bisphosphonates",
+            "Analgesics"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "bone resorption",
+        "bone remodeling",
+        "ناقضة عظم"
+      ]
+    },
+    {
+      "id": 1426,
+      "term": "fracture types",
+      "arabic": "أنواع الكسور",
+      "latin": "fractura",
+      "pronunciation": "فراك-تشر",
+      "definition": "تصنيف الكسور: بسيط (مغلق)، مركب (مفتوح)، على الأخضر، ضغطي، مفتت، مائل، حلزوني، إجهادي",
+      "definition_en": "Fracture classification: simple (closed), compound (open), greenstick, compression, comminuted, oblique, spiral, stress",
+      "englishSentence": "Fractures are classified by type: closed, open (compound), greenstick, stress, and comminuted fractures.",
+      "type": "concept",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تصنيف وتشخيص وعلاج الكسور",
+      "systemFunction_en": "Classification, diagnosis, and treatment of fractures",
+      "location": "أي عظمة في الجسم",
+      "location_en": "Any bone in the body",
+      "nearbyOrgans": [
+        "العضلات",
+        "الأوعية الدموية",
+        "الأعصاب",
+        "الجلد"
+      ],
+      "nearbyOrgans_en": [
+        "Muscles",
+        "Blood vessels",
+        "Nerves",
+        "Skin"
+      ],
+      "diseases": [
+        {
+          "name": "الكسر المفتوح",
+          "name_en": "Open (Compound) Fracture",
+          "symptoms": [
+            "العظمة تخترق الجلد",
+            "خطر عدوى عالٍ"
+          ],
+          "symptoms_en": [
+            "Bone piercing skin",
+            "High infection risk"
+          ],
+          "treatments": [
+            "تنظيف الجرح",
+            "مضادات حيوية",
+            "تثبيت جراحي"
+          ],
+          "treatments_en": [
+            "Wound debridement",
+            "Antibiotics",
+            "Surgical fixation"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "closed fracture",
+        "open fracture",
+        "stress fracture",
+        "comminuted",
+        "كسر",
+        "كسور"
+      ]
+    },
+    {
+      "id": 1427,
+      "term": "joint (articulation)",
+      "arabic": "المفصل",
+      "latin": "articulatio",
+      "pronunciation": "جوينت",
+      "definition": "الموضع الذي تلتقي فيه عظمتان أو أكثر، تصنف إلى: غير متحركة (كجمجمة) وشبه متحركة (كالفقرات) ومتحركة بحرية (كالركبة والكتف)",
+      "definition_en": "Where two or more bones meet; classified as immovable (skull sutures), slightly movable (vertebrae), or freely movable (knee, shoulder)",
+      "englishSentence": "Joints connect bones and enable movement; synovial joints like the knee allow the greatest range of motion.",
+      "type": "anatomy",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تمكين الحركة والمرونة الجسدية",
+      "systemFunction_en": "Enable movement and physical flexibility",
+      "location": "جميع أنحاء الجسم",
+      "location_en": "Throughout the body",
+      "nearbyOrgans": [
+        "الغضروف",
+        "السائل الزليلي",
+        "الأربطة",
+        "الأوتار"
+      ],
+      "nearbyOrgans_en": [
+        "Cartilage",
+        "Synovial fluid",
+        "Ligaments",
+        "Tendons"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب المفاصل الروماتويدي",
+          "name_en": "Rheumatoid Arthritis",
+          "symptoms": [
+            "تورم المفاصل الصغيرة",
+            "تيبس صباحي",
+            "ألم متناظر"
+          ],
+          "symptoms_en": [
+            "Small joint swelling",
+            "Morning stiffness",
+            "Symmetrical pain"
+          ],
+          "treatments": [
+            "ميثوتريكسات",
+            "مضادات TNF",
+            "كورتيكوستيرويدات"
+          ],
+          "treatments_en": [
+            "Methotrexate",
+            "Anti-TNF agents",
+            "Corticosteroids"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "synovial joint",
+        "articulation",
+        "مفصل",
+        "ترقيع"
+      ]
+    },
+    {
+      "id": 1428,
+      "term": "cartilage",
+      "arabic": "الغضروف",
+      "latin": "cartilago",
+      "pronunciation": "كار-تي-لج",
+      "definition": "نسيج ضام مرن لا يحتوي على أوعية دموية، يغطي نهايات العظام في المفاصل ويشكل بعض البنى كالأنف والأذن",
+      "definition_en": "Flexible connective tissue lacking blood vessels, covering bone ends in joints and forming structures like the nose and ears",
+      "englishSentence": "Cartilage covers joint surfaces, absorbs shock, and forms structures like the nose and ears.",
+      "type": "tissue",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "تقليل الاحتكاك في المفاصل وامتصاص الصدمات",
+      "systemFunction_en": "Reduce joint friction and absorb shock",
+      "location": "المفاصل والأذن والأنف والقصبة الهوائية",
+      "location_en": "Joints, ear, nose, trachea",
+      "nearbyOrgans": [
+        "العظام",
+        "السائل الزليلي",
+        "الأربطة"
+      ],
+      "nearbyOrgans_en": [
+        "Bones",
+        "Synovial fluid",
+        "Ligaments"
+      ],
+      "diseases": [
+        {
+          "name": "هشاشة الغضروف (الفصال العظمي)",
+          "name_en": "Osteoarthritis",
+          "symptoms": [
+            "ألم مفصلي يزيد بالنشاط",
+            "تيبس صباحي قصير",
+            "نقر عند الحركة"
+          ],
+          "symptoms_en": [
+            "Joint pain worsening with activity",
+            "Brief morning stiffness",
+            "Crepitus on movement"
+          ],
+          "treatments": [
+            "تمارين",
+            "مسكنات",
+            "حقن هيالورونيك",
+            "بديل المفصل"
+          ],
+          "treatments_en": [
+            "Exercise",
+            "Analgesics",
+            "Hyaluronic injection",
+            "Joint replacement"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "hyaline cartilage",
+        "fibrocartilage",
+        "elastic cartilage",
+        "غضروف",
+        "مفاصل"
+      ]
+    },
+    {
+      "id": 1429,
+      "term": "ligament",
+      "arabic": "الرباط",
+      "latin": "ligamentum",
+      "pronunciation": "ليغ-ا-منت",
+      "definition": "نسيج ضام ليفي قوي يربط عظمة بعظمة ويثبّت المفاصل ويمنع حركاتها الزائدة",
+      "definition_en": "Strong fibrous connective tissue connecting bone to bone, stabilizing joints and preventing excessive movement",
+      "englishSentence": "Ligaments connect bones to each other and provide stability to joints.",
+      "type": "tissue",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "ربط العظام وتثبيت المفاصل",
+      "systemFunction_en": "Connect bones and stabilize joints",
+      "location": "حول المفاصل في جميع أنحاء الجسم",
+      "location_en": "Around joints throughout the body",
+      "nearbyOrgans": [
+        "العظام",
+        "الغضروف",
+        "الأوتار",
+        "العضلات"
+      ],
+      "nearbyOrgans_en": [
+        "Bones",
+        "Cartilage",
+        "Tendons",
+        "Muscles"
+      ],
+      "diseases": [
+        {
+          "name": "تمزق الرباط الصليبي",
+          "name_en": "Cruciate Ligament Tear",
+          "symptoms": [
+            "صوت طقطقة لحظة الإصابة",
+            "تورم فوري",
+            "عدم الاستقرار"
+          ],
+          "symptoms_en": [
+            "Pop sound at injury",
+            "Immediate swelling",
+            "Instability"
+          ],
+          "treatments": [
+            "جراحة إعادة البناء",
+            "إعادة تأهيل 6-9 أشهر"
+          ],
+          "treatments_en": [
+            "Reconstruction surgery",
+            "6-9 months rehabilitation"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "ACL",
+        "MCL",
+        "ligament tear",
+        "رباط",
+        "أربطة"
+      ]
+    },
+    {
+      "id": 1430,
+      "term": "tendon",
+      "arabic": "الوتر",
+      "latin": "tendo",
+      "pronunciation": "تين-دن",
+      "definition": "نسيج ضام ليفي يربط العضلة بالعظمة وينقل القوة العضلية إلى العظام لإنتاج الحركة",
+      "definition_en": "Fibrous connective tissue connecting muscle to bone, transmitting muscular force to bones to produce movement",
+      "englishSentence": "Tendons connect muscles to bones and transmit the force of muscular contraction.",
+      "type": "tissue",
+      "system": "الجهاز الهيكلي",
+      "system_en": "Skeletal System",
+      "systemFunction": "نقل قوة العضلة إلى العظمة لإنتاج الحركة",
+      "systemFunction_en": "Transmit muscle force to bone to produce movement",
+      "location": "يربط العضلة بالعظمة في جميع أنحاء الجسم",
+      "location_en": "Connects muscle to bone throughout the body",
+      "nearbyOrgans": [
+        "العضلات",
+        "العظام",
+        "الأغماد الوترية"
+      ],
+      "nearbyOrgans_en": [
+        "Muscles",
+        "Bones",
+        "Tendon sheaths"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب الوتر",
+          "name_en": "Tendinitis",
+          "symptoms": [
+            "ألم موضعي",
+            "تورم خفيف",
+            "ألم يزيد بالحركة"
+          ],
+          "symptoms_en": [
+            "Local pain",
+            "Mild swelling",
+            "Pain worsening with movement"
+          ],
+          "treatments": [
+            "راحة",
+            "مضادات الالتهاب",
+            "علاج طبيعي",
+            "حقن كورتيزون"
+          ],
+          "treatments_en": [
+            "Rest",
+            "NSAIDs",
+            "Physical therapy",
+            "Cortisone injection"
+          ]
+        }
+      ],
+      "chapter": 14,
+      "keywords": [
+        "Achilles tendon",
+        "tendinitis",
+        "tendon tear",
+        "وتر",
+        "أوتار"
+      ]
+    }
+  ]
+}

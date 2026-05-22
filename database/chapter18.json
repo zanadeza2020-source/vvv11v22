@@ -1,0 +1,1522 @@
+{
+  "chapter": 18,
+  "title": "Nursing & Clinical Terms",
+  "title_ar": "مصطلحات التمريض والسريريات",
+  "title_en": "Nursing & Clinical Terms",
+  "description": "المصطلحات الأساسية في التمريض والسريريات والإجراءات والأدوية والرعاية",
+  "terms": [
+    {
+      "id": 1801,
+      "term": "vital signs",
+      "arabic": "العلامات الحيوية",
+      "latin": "signa vitalia",
+      "pronunciation": "فاي-تال سينز",
+      "definition": "القياسات الأساسية التي تعكس الحالة الصحية للمريض: درجة الحرارة، النبض، معدل التنفس، ضغط الدم، وتشبع الأكسجين",
+      "definition_en": "Basic measurements reflecting the patient's health status: temperature, pulse, respiratory rate, blood pressure, and oxygen saturation",
+      "englishSentence": "Vital signs include temperature, pulse, blood pressure, respiratory rate, and oxygen saturation.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "تقييم الحالة الصحية العامة للمريض",
+      "systemFunction_en": "Assess the patient's overall health status",
+      "location": "تُقاس في جميع أنحاء الجسم",
+      "location_en": "Measured throughout the body",
+      "nearbyOrgans": [
+        "القلب",
+        "الرئتان",
+        "الأوعية الدموية"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Lungs",
+        "Blood vessels"
+      ],
+      "diseases": [
+        {
+          "name": "الصدمة",
+          "name_en": "Shock",
+          "symptoms": [
+            "انخفاض ضغط الدم",
+            "ارتفاع النبض",
+            "انخفاض الأكسجين"
+          ],
+          "symptoms_en": [
+            "Low BP",
+            "High pulse",
+            "Low oxygen"
+          ],
+          "treatments": [
+            "إماهة وريدية",
+            "أوكسجين",
+            "علاج المسبب"
+          ],
+          "treatments_en": [
+            "IV fluids",
+            "Oxygen",
+            "Treat cause"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "BP",
+        "pulse",
+        "temperature",
+        "SpO2",
+        "علامات حيوية",
+        "نبض"
+      ]
+    },
+    {
+      "id": 1802,
+      "term": "blood pressure",
+      "arabic": "ضغط الدم",
+      "latin": "tensio arterialis",
+      "pronunciation": "بلد بريشر",
+      "definition": "قوة دفع الدم على جدران الشرايين، يُعبّر عنه بالانقباضي (systolic)/الانبساطي (diastolic) بالملليمتر زئبق",
+      "definition_en": "The force of blood pushing against artery walls, expressed as systolic/diastolic in mmHg",
+      "englishSentence": "Normal blood pressure is around 120/80 mmHg; hypertension is defined as >140/90 mmHg.",
+      "type": "concept",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "قياس قوة ضخ القلب ومقاومة الأوعية",
+      "systemFunction_en": "Measure heart pumping force and vascular resistance",
+      "location": "الشرايين في جميع أنحاء الجسم",
+      "location_en": "Arteries throughout the body",
+      "nearbyOrgans": [
+        "القلب",
+        "الشرايين",
+        "الكلى"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Arteries",
+        "Kidneys"
+      ],
+      "diseases": [
+        {
+          "name": "ارتفاع ضغط الدم",
+          "name_en": "Hypertension",
+          "symptoms": [
+            "صداع",
+            "دوخة",
+            "طنين",
+            "نزيف أنف"
+          ],
+          "symptoms_en": [
+            "Headache",
+            "Dizziness",
+            "Tinnitus",
+            "Nosebleed"
+          ],
+          "treatments": [
+            "ACEI، ARB، بيتا بلوكر، حاصر قنوات كالسيوم، مدر بول"
+          ],
+          "treatments_en": [
+            "ACEI, ARB, beta blocker, CCB, diuretic"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "systolic",
+        "diastolic",
+        "hypertension",
+        "hypotension",
+        "ضغط دم"
+      ]
+    },
+    {
+      "id": 1803,
+      "term": "intravenous (IV) therapy",
+      "arabic": "العلاج الوريدي",
+      "latin": "therapia intravenosa",
+      "pronunciation": "إن-ترا-فيل-نس",
+      "definition": "إعطاء السوائل والأدوية والمواد الغذائية مباشرة في الوريد عبر إبرة أو قسطرة وريدية",
+      "definition_en": "Administration of fluids, medications, and nutrients directly into a vein through a needle or catheter",
+      "englishSentence": "IV therapy delivers medications and fluids directly into the bloodstream for rapid effect.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "الإماهة وإعطاء الأدوية والمواد الغذائية بسرعة",
+      "systemFunction_en": "Hydration, rapid drug delivery, and nutrition",
+      "location": "الأوردة (عادةً ذراع أو يد)",
+      "location_en": "Veins (usually arm or hand)",
+      "nearbyOrgans": [
+        "الأوردة",
+        "الدم",
+        "الجهاز الدوري"
+      ],
+      "nearbyOrgans_en": [
+        "Veins",
+        "Blood",
+        "Circulatory system"
+      ],
+      "diseases": [
+        {
+          "name": "الجفاف",
+          "name_en": "Dehydration",
+          "symptoms": [
+            "عطش شديد",
+            "انخفاض إدرار البول",
+            "جفاف الفم",
+            "تعب"
+          ],
+          "symptoms_en": [
+            "Severe thirst",
+            "Low urine output",
+            "Dry mouth",
+            "Fatigue"
+          ],
+          "treatments": [
+            "محلول ملحي 0.9%",
+            "رينغر لاكتات",
+            "محلول جلوكوز"
+          ],
+          "treatments_en": [
+            "Normal saline 0.9%",
+            "Ringer's lactate",
+            "Glucose solution"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "IV",
+        "infusion",
+        "cannula",
+        "وريدي",
+        "تسريب"
+      ]
+    },
+    {
+      "id": 1804,
+      "term": "catheterization",
+      "arabic": "قسطرة المثانة",
+      "latin": "catheterisatio",
+      "pronunciation": "كاث-إي-تير-إي-زي-شن",
+      "definition": "إدخال أنبوب مرن (قسطرة) عبر مجرى البول إلى المثانة لتصريف البول أو قياس حجمه أو حقن الأدوية",
+      "definition_en": "Insertion of a flexible tube (catheter) through the urethra into the bladder to drain urine, measure volume, or instill medications",
+      "englishSentence": "Urinary catheterization is performed to drain urine from the bladder when a patient cannot void.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "تصريف البول في المرضى غير القادرين على التبول",
+      "systemFunction_en": "Drain urine in patients unable to void",
+      "location": "المثانة والإحليل",
+      "location_en": "Bladder and urethra",
+      "nearbyOrgans": [
+        "المثانة",
+        "الإحليل",
+        "الكلى"
+      ],
+      "nearbyOrgans_en": [
+        "Bladder",
+        "Urethra",
+        "Kidneys"
+      ],
+      "diseases": [
+        {
+          "name": "احتباس البول",
+          "name_en": "Urinary Retention",
+          "symptoms": [
+            "عدم القدرة على التبول",
+            "ألم أسفل البطن",
+            "امتلاء المثانة"
+          ],
+          "symptoms_en": [
+            "Inability to urinate",
+            "Lower abdominal pain",
+            "Bladder fullness"
+          ],
+          "treatments": [
+            "قسطرة فولي",
+            "أدوية تلين العضلة",
+            "علاج المسبب"
+          ],
+          "treatments_en": [
+            "Foley catheter",
+            "Muscle relaxants",
+            "Treat underlying cause"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "Foley catheter",
+        "CAUTI",
+        "urinary catheter",
+        "قسطرة",
+        "بول"
+      ]
+    },
+    {
+      "id": 1805,
+      "term": "nasogastric tube (NGT)",
+      "arabic": "أنبوب المعدة الأنفي",
+      "latin": "tubus nasogastricus",
+      "pronunciation": "نيزو-غاس-تريك تيوب",
+      "definition": "أنبوب مرن يُدخَل عبر الأنف إلى المعدة لإعطاء الأدوية أو التغذية أو سحب محتوى المعدة",
+      "definition_en": "A flexible tube inserted through the nose into the stomach to administer medications, nutrition, or aspirate stomach contents",
+      "englishSentence": "A nasogastric tube is used for feeding, medication delivery, or gastric decompression.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "التغذية وإعطاء الأدوية وتفريغ المعدة",
+      "systemFunction_en": "Feeding, medication delivery, and stomach decompression",
+      "location": "الأنف، الحلق، المريء، المعدة",
+      "location_en": "Nose, throat, esophagus, stomach",
+      "nearbyOrgans": [
+        "المعدة",
+        "المريء",
+        "الرئتان"
+      ],
+      "nearbyOrgans_en": [
+        "Stomach",
+        "Esophagus",
+        "Lungs"
+      ],
+      "diseases": [
+        {
+          "name": "فشل التغذية الفموية",
+          "name_en": "Oral Feeding Failure",
+          "symptoms": [
+            "عدم القدرة على البلع",
+            "ضعف وعي",
+            "سوء التغذية"
+          ],
+          "symptoms_en": [
+            "Inability to swallow",
+            "Impaired consciousness",
+            "Malnutrition"
+          ],
+          "treatments": [
+            "تغذية أنبوبية معدية"
+          ],
+          "treatments_en": [
+            "Enteral tube feeding"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "NGT",
+        "nasogastric",
+        "enteral feeding",
+        "أنبوب معدة",
+        "تغذية أنبوبية"
+      ]
+    },
+    {
+      "id": 1806,
+      "term": "oxygen therapy",
+      "arabic": "العلاج بالأكسجين",
+      "latin": "oxygenotherapia",
+      "pronunciation": "أوكسيجن ثيرابي",
+      "definition": "إعطاء أكسجين مكمل بتركيز أعلى من الهواء الطبيعي (21%) للمرضى الذين يعانون من نقص الأكسجين",
+      "definition_en": "Administration of supplemental oxygen at a concentration higher than normal air (21%) to patients with oxygen deficiency",
+      "englishSentence": "Oxygen therapy is administered to patients with hypoxia to maintain adequate tissue oxygenation.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "رفع مستوى الأكسجين في الدم وتجنب نقص الأكسجة",
+      "systemFunction_en": "Raise blood oxygen levels and prevent hypoxia",
+      "location": "الجهاز التنفسي",
+      "location_en": "Respiratory system",
+      "nearbyOrgans": [
+        "الرئتان",
+        "القلب",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Lungs",
+        "Heart",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "نقص الأكسجين (هايبوكسيا)",
+          "name_en": "Hypoxia",
+          "symptoms": [
+            "SpO2 < 94%",
+            "زرقة",
+            "ضيق تنفس",
+            "ارتباك"
+          ],
+          "symptoms_en": [
+            "SpO2 < 94%",
+            "Cyanosis",
+            "Dyspnea",
+            "Confusion"
+          ],
+          "treatments": [
+            "قناع أكسجين",
+            "قنية أنفية",
+            "تهوية غير جراحية",
+            "تهوية ميكانيكية"
+          ],
+          "treatments_en": [
+            "Oxygen mask",
+            "Nasal cannula",
+            "Non-invasive ventilation",
+            "Mechanical ventilation"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "O2",
+        "SpO2",
+        "pulse oximetry",
+        "hypoxia",
+        "أكسجين",
+        "تشبع"
+      ]
+    },
+    {
+      "id": 1807,
+      "term": "wound care",
+      "arabic": "العناية بالجروح",
+      "latin": "cura vulneris",
+      "pronunciation": "وند كير",
+      "definition": "مجموعة من الإجراءات التمريضية لتنظيف الجروح وتضميدها ومتابعة التئامها ومنع العدوى",
+      "definition_en": "A set of nursing procedures for cleaning wounds, dressing them, monitoring healing, and preventing infection",
+      "englishSentence": "Proper wound care involves cleaning, dressing, and monitoring for signs of infection.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "تعزيز التئام الجروح ومنع العدوى والمضاعفات",
+      "systemFunction_en": "Promote wound healing and prevent infection and complications",
+      "location": "موضع الجرح على الجلد",
+      "location_en": "Wound site on skin",
+      "nearbyOrgans": [
+        "الجلد",
+        "الأنسجة تحت الجلد",
+        "الأوعية الدموية"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Subcutaneous tissue",
+        "Blood vessels"
+      ],
+      "diseases": [
+        {
+          "name": "قرحة الضغط",
+          "name_en": "Pressure Ulcer (Bedsore)",
+          "symptoms": [
+            "احمرار",
+            "تقرح",
+            "ألم موضعي",
+            "عدوى جرح"
+          ],
+          "symptoms_en": [
+            "Redness",
+            "Ulceration",
+            "Local pain",
+            "Wound infection"
+          ],
+          "treatments": [
+            "تغيير الوضعية كل ساعتين",
+            "تضميد ترطيبي",
+            "علاج العدوى"
+          ],
+          "treatments_en": [
+            "Position change every 2 hours",
+            "Moist dressing",
+            "Treat infection"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "wound dressing",
+        "debridement",
+        "pressure ulcer",
+        "تضميد",
+        "قرحة ضغط"
+      ]
+    },
+    {
+      "id": 1808,
+      "term": "blood transfusion",
+      "arabic": "نقل الدم",
+      "latin": "transfusio sanguinis",
+      "pronunciation": "بلد ترانز-فيو-زن",
+      "definition": "إجراء طبي لإعطاء دم كامل أو مكونات دم (كريات حمراء، صفائح، بلازما) من متبرع لمريض عبر الوريد",
+      "definition_en": "A medical procedure giving whole blood or blood components (red cells, platelets, plasma) from a donor to a patient via a vein",
+      "englishSentence": "Blood transfusion is administered to treat severe anemia, hemorrhage, or blood disorders.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "تصحيح فقر الدم الشديد وإيقاف النزيف وعلاج اضطرابات الدم",
+      "systemFunction_en": "Correct severe anemia, control bleeding, treat blood disorders",
+      "location": "الأوردة",
+      "location_en": "Veins",
+      "nearbyOrgans": [
+        "الدم",
+        "القلب",
+        "الرئتان"
+      ],
+      "nearbyOrgans_en": [
+        "Blood",
+        "Heart",
+        "Lungs"
+      ],
+      "diseases": [
+        {
+          "name": "فقر الدم الشديد",
+          "name_en": "Severe Anemia",
+          "symptoms": [
+            "هيموغلوبين < 7 g/dL",
+            "ضيق تنفس",
+            "شحوب شديد"
+          ],
+          "symptoms_en": [
+            "Hgb < 7 g/dL",
+            "Dyspnea",
+            "Severe pallor"
+          ],
+          "treatments": [
+            "كريات دم حمراء معبأة (PRBC)",
+            "مراقبة أثناء النقل"
+          ],
+          "treatments_en": [
+            "Packed red blood cells (PRBC)",
+            "Monitor during transfusion"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "blood transfusion",
+        "PRBC",
+        "blood type",
+        "نقل دم",
+        "فصيلة"
+      ]
+    },
+    {
+      "id": 1809,
+      "term": "medication administration",
+      "arabic": "إعطاء الأدوية",
+      "latin": "administratio medicamenti",
+      "pronunciation": "ميد-إي-كي-شن",
+      "definition": "إجراء تمريضي لإعطاء الأدوية بالجرعة الصحيحة والطريق الصحيح والوقت الصحيح والمريض الصحيح والدواء الصحيح (5 صحيح)",
+      "definition_en": "A nursing procedure for administering medications using the right dose, route, time, patient, and drug (5 rights)",
+      "englishSentence": "The 5 rights of medication administration are: right patient, drug, dose, route, and time.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "ضمان سلامة الأدوية وفعاليتها",
+      "systemFunction_en": "Ensure medication safety and efficacy",
+      "location": "حسب الطريق: فموي، وريدي، عضلي، جلدي",
+      "location_en": "By route: oral, IV, IM, topical",
+      "nearbyOrgans": [
+        "الوريد",
+        "العضلة",
+        "الجلد",
+        "الجهاز الهضمي"
+      ],
+      "nearbyOrgans_en": [
+        "Vein",
+        "Muscle",
+        "Skin",
+        "Digestive system"
+      ],
+      "diseases": [
+        {
+          "name": "خطأ الدواء",
+          "name_en": "Medication Error",
+          "symptoms": [
+            "جرعة خاطئة",
+            "دواء خاطئ",
+            "تفاعل دوائي"
+          ],
+          "symptoms_en": [
+            "Wrong dose",
+            "Wrong drug",
+            "Drug interaction"
+          ],
+          "treatments": [
+            "الإبلاغ الفوري",
+            "علاج التسمم",
+            "مضادات المفعول"
+          ],
+          "treatments_en": [
+            "Immediate report",
+            "Toxicity treatment",
+            "Antidotes"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "5 rights",
+        "PO",
+        "IV",
+        "IM",
+        "SC",
+        "SL",
+        "إعطاء الدواء",
+        "5 صحيح"
+      ]
+    },
+    {
+      "id": 1810,
+      "term": "Glasgow Coma Scale (GCS)",
+      "arabic": "مقياس غلاسكو للغيبوبة",
+      "latin": "scala coma Glasgov",
+      "pronunciation": "غلاس-كو كو-ما سكيل",
+      "definition": "مقياس معياري لتقييم مستوى الوعي يعتمد على ثلاثة محاور: فتح العين (4) والاستجابة اللفظية (5) والاستجابة الحركية (6)، المجموع 3-15",
+      "definition_en": "A standard scale for assessing consciousness based on three components: eye opening (4), verbal response (5), motor response (6); total 3-15",
+      "englishSentence": "The GCS assesses consciousness by scoring eye opening, verbal, and motor responses (max score 15, min 3).",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "تقييم مستوى الوعي ومتابعة التغيرات",
+      "systemFunction_en": "Assess consciousness level and monitor changes",
+      "location": "تقييم وظيفة الدماغ",
+      "location_en": "Assessment of brain function",
+      "nearbyOrgans": [
+        "الدماغ",
+        "الجهاز العصبي"
+      ],
+      "nearbyOrgans_en": [
+        "Brain",
+        "Nervous system"
+      ],
+      "diseases": [
+        {
+          "name": "الغيبوبة",
+          "name_en": "Coma",
+          "symptoms": [
+            "GCS ≤ 8 = غيبوبة",
+            "GCS 13-15 = خفيف",
+            "GCS 9-12 = متوسط"
+          ],
+          "symptoms_en": [
+            "GCS ≤ 8 = coma",
+            "GCS 13-15 = mild",
+            "GCS 9-12 = moderate"
+          ],
+          "treatments": [
+            "دعم الطرق الهوائية عند GCS ≤ 8",
+            "علاج المسبب"
+          ],
+          "treatments_en": [
+            "Airway support at GCS ≤ 8",
+            "Treat cause"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "GCS",
+        "coma scale",
+        "consciousness",
+        "غلاسكو",
+        "وعي"
+      ]
+    },
+    {
+      "id": 1811,
+      "term": "cardiopulmonary resuscitation (CPR)",
+      "arabic": "الإنعاش القلبي الرئوي",
+      "latin": "reanimatio cardiopulmonalis",
+      "pronunciation": "سي-بي-آر",
+      "definition": "إجراء طارئ لاستعادة الدورة الدموية التنفسية عند المريض الذي توقف قلبه أو تنفسه، يشمل الضغط على الصدر والتنفس الاصطناعي",
+      "definition_en": "An emergency procedure to restore circulatory and respiratory function in a patient whose heart or breathing has stopped, including chest compressions and rescue breathing",
+      "englishSentence": "CPR involves chest compressions and rescue breathing to maintain circulation in cardiac arrest.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "إنعاش الدورة الدموية والتنفسية في السكتة القلبية",
+      "systemFunction_en": "Restore circulation and breathing in cardiac arrest",
+      "location": "الصدر (ضغط على القص)",
+      "location_en": "Chest (sternum compression)",
+      "nearbyOrgans": [
+        "القلب",
+        "الرئتان",
+        "الدماغ"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Lungs",
+        "Brain"
+      ],
+      "diseases": [
+        {
+          "name": "السكتة القلبية",
+          "name_en": "Cardiac Arrest",
+          "symptoms": [
+            "غياب النبض",
+            "غياب التنفس",
+            "فقدان الوعي"
+          ],
+          "symptoms_en": [
+            "Absent pulse",
+            "Absent breathing",
+            "Loss of consciousness"
+          ],
+          "treatments": [
+            "CPR (30:2)",
+            "صاعق كهربائي (AED)",
+            "أدرينالين وريدي"
+          ],
+          "treatments_en": [
+            "CPR (30:2)",
+            "Defibrillation (AED)",
+            "IV epinephrine"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "CPR",
+        "BLS",
+        "ACLS",
+        "cardiac arrest",
+        "إنعاش",
+        "سكتة قلبية"
+      ]
+    },
+    {
+      "id": 1812,
+      "term": "pain assessment",
+      "arabic": "تقييم الألم",
+      "latin": "aestimatio doloris",
+      "pronunciation": "بين أس-منت",
+      "definition": "تقييم شدة الألم باستخدام مقاييس موحدة كمقياس 0-10 أو الوجوه للأطفال أو VAS لتوجيه العلاج المسكن",
+      "definition_en": "Assessment of pain intensity using standardized scales like 0-10, Faces scale for children, or VAS to guide analgesic treatment",
+      "englishSentence": "Pain is assessed as the 5th vital sign using numerical scales to guide appropriate pain management.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "قياس الألم وتوجيه العلاج المسكن",
+      "systemFunction_en": "Measure pain and guide analgesic treatment",
+      "location": "شامل لجميع أجزاء الجسم",
+      "location_en": "Encompasses all body parts",
+      "nearbyOrgans": [
+        "الجهاز العصبي",
+        "العضلات",
+        "المفاصل",
+        "الأعضاء الداخلية"
+      ],
+      "nearbyOrgans_en": [
+        "Nervous system",
+        "Muscles",
+        "Joints",
+        "Internal organs"
+      ],
+      "diseases": [
+        {
+          "name": "الألم المزمن",
+          "name_en": "Chronic Pain",
+          "symptoms": [
+            "ألم 3 أشهر أو أكثر",
+            "تأثير على جودة الحياة"
+          ],
+          "symptoms_en": [
+            "Pain ≥ 3 months",
+            "Impact on quality of life"
+          ],
+          "treatments": [
+            "سلم مسكنات WHO: باراسيتامول → مسكنات خفيفة → مورفين"
+          ],
+          "treatments_en": [
+            "WHO pain ladder: paracetamol → weak opioids → morphine"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "VAS",
+        "pain scale",
+        "NRS",
+        "0-10",
+        "مقياس ألم",
+        "تقييم"
+      ]
+    },
+    {
+      "id": 1813,
+      "term": "infection control",
+      "arabic": "مكافحة العدوى",
+      "latin": "preventio infectionis",
+      "pronunciation": "إن-فيك-شن كون-ترول",
+      "definition": "مجموعة من الإجراءات والسياسات للوقاية من انتشار العدوى في البيئات الصحية، تشمل غسيل اليدين وارتداء المعدات الواقية والعزل",
+      "definition_en": "A set of procedures and policies to prevent the spread of infection in healthcare settings, including hand washing, PPE use, and isolation",
+      "englishSentence": "Infection control measures including hand hygiene, PPE, and isolation prevent the spread of hospital-acquired infections.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "منع انتقال العدوى بين المرضى والعاملين الصحيين",
+      "systemFunction_en": "Prevent transmission of infection between patients and healthcare workers",
+      "location": "جميع أقسام المستشفى",
+      "location_en": "All hospital departments",
+      "nearbyOrgans": [
+        "الجلد",
+        "الجهاز التنفسي",
+        "الجهاز البولي",
+        "الدم"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Respiratory tract",
+        "Urinary tract",
+        "Blood"
+      ],
+      "diseases": [
+        {
+          "name": "عدوى المستشفى",
+          "name_en": "Hospital-Acquired Infection (HAI)",
+          "symptoms": [
+            "حمى جديدة بعد 48 ساعة من الدخول"
+          ],
+          "symptoms_en": [
+            "New fever after 48 hours of admission"
+          ],
+          "treatments": [
+            "مضادات حيوية موجهة",
+            "إجراءات العزل"
+          ],
+          "treatments_en": [
+            "Targeted antibiotics",
+            "Isolation measures"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "hand hygiene",
+        "PPE",
+        "isolation",
+        "HAI",
+        "مكافحة عدوى",
+        "معدات وقاية"
+      ]
+    },
+    {
+      "id": 1814,
+      "term": "NPO (nil per os)",
+      "arabic": "صيام طبي (لا شيء عبر الفم)",
+      "latin": "nil per os",
+      "pronunciation": "إن-بي-أو",
+      "definition": "تعليمات طبية بمنع المريض من تناول أي شيء عبر الفم (طعام أو شراب أو دواء فموي) قبل العمليات أو الإجراءات",
+      "definition_en": "Medical orders prohibiting the patient from taking anything by mouth (food, drink, or oral medication) before procedures or surgery",
+      "englishSentence": "NPO status is required before surgery or procedures to prevent aspiration during anesthesia.",
+      "type": "concept",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "منع الاستنشاق أثناء التخدير والإجراءات",
+      "systemFunction_en": "Prevent aspiration during anesthesia and procedures",
+      "location": "قبل الإجراءات والعمليات الجراحية",
+      "location_en": "Before procedures and surgeries",
+      "nearbyOrgans": [
+        "المعدة",
+        "الرئتان",
+        "المريء"
+      ],
+      "nearbyOrgans_en": [
+        "Stomach",
+        "Lungs",
+        "Esophagus"
+      ],
+      "diseases": [
+        {
+          "name": "استنشاق محتوى المعدة",
+          "name_en": "Aspiration",
+          "symptoms": [
+            "دخول محتوى المعدة للرئتين",
+            "التهاب رئة استنشاق"
+          ],
+          "symptoms_en": [
+            "Stomach content entering lungs",
+            "Aspiration pneumonia"
+          ],
+          "treatments": [
+            "وضعية أمان",
+            "تهوية صناعية",
+            "مضادات حيوية"
+          ],
+          "treatments_en": [
+            "Recovery position",
+            "Mechanical ventilation",
+            "Antibiotics"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "NPO",
+        "fasting",
+        "surgery prep",
+        "nil by mouth",
+        "صيام",
+        "لا طعام"
+      ]
+    },
+    {
+      "id": 1815,
+      "term": "fluid balance",
+      "arabic": "ميزان السوائل",
+      "latin": "aequilibrium fluidorum",
+      "pronunciation": "فلويد بالنس",
+      "definition": "قياس ومتابعة دقيقة لكميات السوائل الداخلة (شرب، وريد، أنبوب) مقابل الخارجة (بول، تقيؤ، تصريف جروح)",
+      "definition_en": "Precise measurement and monitoring of fluid intake (oral, IV, tube) versus output (urine, vomiting, wound drainage)",
+      "englishSentence": "Fluid balance monitoring tracks all fluid input and output to assess hydration and kidney function.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "متابعة حالة الترطيب ووظائف الكلى والقلب",
+      "systemFunction_en": "Monitor hydration status, kidney, and heart function",
+      "location": "جميع مصادر السوائل والمخرجات",
+      "location_en": "All fluid sources and outputs",
+      "nearbyOrgans": [
+        "الكلى",
+        "القلب",
+        "الرئتان"
+      ],
+      "nearbyOrgans_en": [
+        "Kidneys",
+        "Heart",
+        "Lungs"
+      ],
+      "diseases": [
+        {
+          "name": "الحمل الزائد بالسوائل",
+          "name_en": "Fluid Overload",
+          "symptoms": [
+            "تورم القدمين",
+            "ضيق تنفس",
+            "ارتفاع ضغط",
+            "صوت في الرئتين"
+          ],
+          "symptoms_en": [
+            "Foot edema",
+            "Dyspnea",
+            "Hypertension",
+            "Lung crackles"
+          ],
+          "treatments": [
+            "مدرات البول",
+            "تقييد السوائل"
+          ],
+          "treatments_en": [
+            "Diuretics",
+            "Fluid restriction"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "I&O",
+        "input output",
+        "fluid balance",
+        "ميزان سوائل",
+        "إدرار بول"
+      ]
+    },
+    {
+      "id": 1816,
+      "term": "decubitus ulcer (bedsore)",
+      "arabic": "قرحة الضغط (قرحة الفراش)",
+      "latin": "ulcus decubitus",
+      "pronunciation": "دي-كيو-بيتس أولسر",
+      "definition": "تلف موضعي في الجلد والأنسجة الأعمق نتيجة الضغط المطول على نتوءات عظمية عند المرضى المقيمين في السرير",
+      "definition_en": "Localized damage to the skin and underlying tissue due to prolonged pressure over bony prominences in bedridden patients",
+      "englishSentence": "Pressure ulcers develop over bony prominences due to prolonged pressure and are staged I-IV by severity.",
+      "type": "condition",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "تحديد مناطق الخطر ووضع خطط وقائية",
+      "systemFunction_en": "Identify risk areas and develop prevention plans",
+      "location": "العجز والعقب والكتفين والمرفق",
+      "location_en": "Sacrum, heels, shoulders, and elbows",
+      "nearbyOrgans": [
+        "الجلد",
+        "العظام",
+        "الأنسجة"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Bones",
+        "Tissues"
+      ],
+      "diseases": [
+        {
+          "name": "قرحة ضغط درجة 4",
+          "name_en": "Stage 4 Pressure Ulcer",
+          "symptoms": [
+            "تلف كامل للجلد والأنسجة حتى العظم",
+            "عدوى",
+            "نزيف"
+          ],
+          "symptoms_en": [
+            "Full thickness skin loss to bone",
+            "Infection",
+            "Bleeding"
+          ],
+          "treatments": [
+            "تنظيف جراحي",
+            "تضميد متقدم",
+            "تغيير وضعية كل ساعتين",
+            "تغذية مناسبة"
+          ],
+          "treatments_en": [
+            "Surgical debridement",
+            "Advanced dressing",
+            "2-hourly repositioning",
+            "Adequate nutrition"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "pressure ulcer",
+        "bedsore",
+        "Braden scale",
+        "قرحة فراش",
+        "قرحة ضغط"
+      ]
+    },
+    {
+      "id": 1817,
+      "term": "nasopharyngeal airway (NPA) / oropharyngeal (OPA)",
+      "arabic": "ميجل الطريق الهوائي",
+      "latin": "via aerea nasopharyngea",
+      "pronunciation": "إير-وي اجوانت",
+      "definition": "أجهزة مساعدة لفتح مجرى الهواء عند المريض فاقد الوعي: NPA أنبوب مطاطي يمر عبر الأنف، OPA يدعم اللسان ويفتح الحلق",
+      "definition_en": "Adjuncts to open the airway in unconscious patients: NPA is a rubber tube through the nose, OPA supports the tongue and opens the throat",
+      "englishSentence": "Airway adjuncts like OPA and NPA are used to maintain a patent airway in unconscious patients.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "الحفاظ على مجرى هوائي مفتوح",
+      "systemFunction_en": "Maintain a patent airway",
+      "location": "الفم أو الأنف ثم الحلق",
+      "location_en": "Mouth or nose, then throat",
+      "nearbyOrgans": [
+        "الحلق",
+        "اللسان",
+        "الرئتان"
+      ],
+      "nearbyOrgans_en": [
+        "Throat",
+        "Tongue",
+        "Lungs"
+      ],
+      "diseases": [
+        {
+          "name": "انسداد مجرى الهواء",
+          "name_en": "Airway Obstruction",
+          "symptoms": [
+            "صوت خرخرة",
+            "صعوبة تنفس",
+            "زرقة"
+          ],
+          "symptoms_en": [
+            "Snoring sounds",
+            "Breathing difficulty",
+            "Cyanosis"
+          ],
+          "treatments": [
+            "وضعية المريض",
+            "ميجل الهواء",
+            "تنبيب الرغامى"
+          ],
+          "treatments_en": [
+            "Patient positioning",
+            "Airway adjunct",
+            "Endotracheal intubation"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "OPA",
+        "NPA",
+        "airway",
+        "طريق هوائي",
+        "ميجل"
+      ]
+    },
+    {
+      "id": 1818,
+      "term": "intubation (endotracheal)",
+      "arabic": "التنبيب الرغامي",
+      "latin": "intubatio endotrachealis",
+      "pronunciation": "إن-تيو-بي-شن",
+      "definition": "إجراء طارئ أو اختياري يُدخَل فيه أنبوب مرن عبر الفم أو الأنف إلى الرغامى لضمان فتح مجرى الهواء والتنفس الميكانيكي",
+      "definition_en": "An emergency or elective procedure inserting a flexible tube through the mouth or nose into the trachea to secure airway and mechanical ventilation",
+      "englishSentence": "Endotracheal intubation secures the airway and enables mechanical ventilation in critically ill patients.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "ضمان مجرى هوائي آمن والتهوية الميكانيكية",
+      "systemFunction_en": "Secure airway and enable mechanical ventilation",
+      "location": "الرغامى (أسفل الحنجرة)",
+      "location_en": "Trachea (below larynx)",
+      "nearbyOrgans": [
+        "الرغامى",
+        "الحنجرة",
+        "الرئتان",
+        "القصبتان"
+      ],
+      "nearbyOrgans_en": [
+        "Trachea",
+        "Larynx",
+        "Lungs",
+        "Bronchi"
+      ],
+      "diseases": [
+        {
+          "name": "فشل تنفسي حاد",
+          "name_en": "Acute Respiratory Failure",
+          "symptoms": [
+            "SpO2 < 90% رغم الأكسجين",
+            "استنزاف عضلات التنفس",
+            "غيبوبة"
+          ],
+          "symptoms_en": [
+            "SpO2 < 90% despite O2",
+            "Respiratory muscle exhaustion",
+            "Coma"
+          ],
+          "treatments": [
+            "تنبيب رغامي",
+            "تهوية ميكانيكية",
+            "علاج المسبب"
+          ],
+          "treatments_en": [
+            "ETT intubation",
+            "Mechanical ventilation",
+            "Treat cause"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "ETT",
+        "intubation",
+        "mechanical ventilation",
+        "تنبيب",
+        "تهوية ميكانيكية"
+      ]
+    },
+    {
+      "id": 1819,
+      "term": "nursing process (ADPIE)",
+      "arabic": "العملية التمريضية",
+      "latin": "processus nursingii",
+      "pronunciation": "نيرسنج بروسيس",
+      "definition": "إطار منهجي لتقديم الرعاية التمريضية يشمل: التقييم (Assessment)، التشخيص (Diagnosis)، التخطيط (Planning)، التنفيذ (Implementation)، التقييم (Evaluation)",
+      "definition_en": "A systematic framework for nursing care delivery: Assessment, Diagnosis, Planning, Implementation, and Evaluation (ADPIE)",
+      "englishSentence": "The nursing process (ADPIE) guides systematic, patient-centered care delivery.",
+      "type": "concept",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "تنظيم الرعاية التمريضية بشكل منهجي",
+      "systemFunction_en": "Organize nursing care systematically",
+      "location": "تُطبَّق في جميع بيئات الرعاية الصحية",
+      "location_en": "Applied in all healthcare settings",
+      "nearbyOrgans": [
+        "جميع أجهزة الجسم"
+      ],
+      "nearbyOrgans_en": [
+        "All body systems"
+      ],
+      "diseases": [
+        {
+          "name": "قصور الرعاية",
+          "name_en": "Care Deficiency",
+          "symptoms": [
+            "تدهور الحالة",
+            "مضاعفات غير متوقعة"
+          ],
+          "symptoms_en": [
+            "Condition deterioration",
+            "Unexpected complications"
+          ],
+          "treatments": [
+            "تطبيق خطة رعاية تمريضية شاملة",
+            "إعادة تقييم دوري"
+          ],
+          "treatments_en": [
+            "Comprehensive nursing care plan",
+            "Periodic reassessment"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "ADPIE",
+        "nursing diagnosis",
+        "care plan",
+        "عملية تمريضية",
+        "خطة رعاية"
+      ]
+    },
+    {
+      "id": 1820,
+      "term": "sepsis & SIRS",
+      "arabic": "الإنتان ومتلازمة الاستجابة الالتهابية",
+      "latin": "sepsis et SIRS",
+      "pronunciation": "سيبسس",
+      "definition": "الإنتان: استجابة جهازية خطرة للعدوى. معايير SIRS: حمى >38 أو <36، نبض >90، تنفس >20، كريات بيضاء >12000 أو <4000",
+      "definition_en": "Sepsis: a life-threatening systemic response to infection. SIRS criteria: temp >38 or <36, HR >90, RR >20, WBC >12000 or <4000",
+      "englishSentence": "Sepsis is a medical emergency requiring immediate antibiotics and fluid resuscitation to prevent organ failure.",
+      "type": "condition",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "الكشف المبكر والتدخل السريع لمنع الصدمة الإنتانية",
+      "systemFunction_en": "Early detection and rapid intervention to prevent septic shock",
+      "location": "جهازي (يؤثر على جميع الأعضاء)",
+      "location_en": "Systemic (affects all organs)",
+      "nearbyOrgans": [
+        "الدم",
+        "القلب",
+        "الكلى",
+        "الرئتان",
+        "الكبد"
+      ],
+      "nearbyOrgans_en": [
+        "Blood",
+        "Heart",
+        "Kidneys",
+        "Lungs",
+        "Liver"
+      ],
+      "diseases": [
+        {
+          "name": "الصدمة الإنتانية",
+          "name_en": "Septic Shock",
+          "symptoms": [
+            "انخفاض ضغط الدم < 90 رغم السوائل",
+            "فشل أعضاء",
+            "لاكتات > 2"
+          ],
+          "symptoms_en": [
+            "BP < 90 despite fluids",
+            "Organ failure",
+            "Lactate > 2"
+          ],
+          "treatments": [
+            "حزمة Sepsis 1 ساعة: كالتشرات + مضادات حيوية + فازوبريسور"
+          ],
+          "treatments_en": [
+            "Sepsis 1-hour bundle: cultures + antibiotics + vasopressor"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "sepsis",
+        "SIRS",
+        "septic shock",
+        "qSOFA",
+        "إنتان",
+        "صدمة"
+      ]
+    },
+    {
+      "id": 1821,
+      "term": "palliative care",
+      "arabic": "الرعاية التلطيفية",
+      "latin": "cura palliativa",
+      "pronunciation": "بالـ-يا-تيف كير",
+      "definition": "نهج رعاية متخصص يهدف إلى تحسين جودة حياة المرضى المصابين بأمراض خطيرة من خلال التخفيف من الألم والأعراض دون التركيز على الشفاء",
+      "definition_en": "A specialized care approach aiming to improve quality of life for patients with serious illness by relieving pain and symptoms without focusing on cure",
+      "englishSentence": "Palliative care focuses on relieving symptoms and improving quality of life for patients with serious illness.",
+      "type": "concept",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "تحسين جودة الحياة وإدارة الأعراض في الأمراض المزمنة والمنهية للحياة",
+      "systemFunction_en": "Improve quality of life and manage symptoms in chronic and terminal illness",
+      "location": "في أي مرحلة من المرض",
+      "location_en": "At any disease stage",
+      "nearbyOrgans": [
+        "القلب",
+        "الرئتان",
+        "الجهاز العصبي",
+        "الجهاز الهضمي"
+      ],
+      "nearbyOrgans_en": [
+        "Heart",
+        "Lungs",
+        "Nervous system",
+        "Digestive system"
+      ],
+      "diseases": [
+        {
+          "name": "الأمراض المنهية للحياة",
+          "name_en": "Terminal Illness",
+          "symptoms": [
+            "ألم مزمن",
+            "ضيق تنفس",
+            "قلق",
+            "ضعف شديد"
+          ],
+          "symptoms_en": [
+            "Chronic pain",
+            "Dyspnea",
+            "Anxiety",
+            "Severe weakness"
+          ],
+          "treatments": [
+            "مورفين للألم وضيق التنفس",
+            "مضادات القلق",
+            "دعم نفسي وروحاني"
+          ],
+          "treatments_en": [
+            "Morphine for pain and dyspnea",
+            "Anxiolytics",
+            "Psychological and spiritual support"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "palliative",
+        "hospice",
+        "end of life",
+        "pain management",
+        "رعاية تلطيفية",
+        "نهاية الحياة"
+      ]
+    },
+    {
+      "id": 1822,
+      "term": "documentation & charting",
+      "arabic": "التوثيق وسجل المريض",
+      "latin": "documentatio clinica",
+      "pronunciation": "دوك-يو-مين-تي-شن",
+      "definition": "تسجيل دقيق ومنهجي لجميع جوانب رعاية المريض بما يشمل العلامات الحيوية والأدوية والإجراءات والتغيرات السريرية",
+      "definition_en": "Accurate and systematic recording of all aspects of patient care including vital signs, medications, procedures, and clinical changes",
+      "englishSentence": "Accurate documentation is a legal and professional responsibility essential for patient safety and continuity of care.",
+      "type": "concept",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "ضمان استمرارية الرعاية والمسؤولية القانونية",
+      "systemFunction_en": "Ensure continuity of care and legal accountability",
+      "location": "سجل المريض الورقي أو الإلكتروني",
+      "location_en": "Patient paper or electronic record",
+      "nearbyOrgans": [
+        "جميع أجهزة الجسم"
+      ],
+      "nearbyOrgans_en": [
+        "All body systems"
+      ],
+      "diseases": [
+        {
+          "name": "أخطاء التوثيق",
+          "name_en": "Documentation Errors",
+          "symptoms": [
+            "بيانات ناقصة",
+            "تواريخ خاطئة",
+            "تعارض في المعلومات"
+          ],
+          "symptoms_en": [
+            "Incomplete data",
+            "Incorrect dates",
+            "Information conflicts"
+          ],
+          "treatments": [
+            "مراجعة دقيقة",
+            "توثيق فوري",
+            "تدريب الكادر"
+          ],
+          "treatments_en": [
+            "Careful review",
+            "Immediate documentation",
+            "Staff training"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "charting",
+        "EMR",
+        "EHR",
+        "SBAR",
+        "توثيق",
+        "سجل طبي"
+      ]
+    },
+    {
+      "id": 1823,
+      "term": "SBAR communication",
+      "arabic": "طريقة SBAR للتواصل",
+      "latin": "communicatio SBAR",
+      "pronunciation": "إس-بي-إي-آر",
+      "definition": "نظام تواصل منظم للعاملين الصحيين: الحالة (Situation)، الخلفية (Background)، التقييم (Assessment)، التوصية (Recommendation)",
+      "definition_en": "A structured communication system for healthcare workers: Situation, Background, Assessment, Recommendation",
+      "englishSentence": "SBAR provides a structured framework for communication between healthcare providers during handoff.",
+      "type": "concept",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "تحسين التواصل وتقليل أخطاء الرعاية الصحية",
+      "systemFunction_en": "Improve communication and reduce healthcare errors",
+      "location": "بين أعضاء الفريق الصحي",
+      "location_en": "Between healthcare team members",
+      "nearbyOrgans": [
+        "جميع أجهزة الجسم"
+      ],
+      "nearbyOrgans_en": [
+        "All body systems"
+      ],
+      "diseases": [
+        {
+          "name": "سوء التواصل الطبي",
+          "name_en": "Medical Communication Failure",
+          "symptoms": [
+            "تأخر العلاج",
+            "أخطاء دوائية",
+            "سوء فهم الحالة"
+          ],
+          "symptoms_en": [
+            "Treatment delay",
+            "Medication errors",
+            "Misunderstanding condition"
+          ],
+          "treatments": [
+            "تطبيق SBAR",
+            "توثيق واضح",
+            "تدريب الفريق"
+          ],
+          "treatments_en": [
+            "Apply SBAR",
+            "Clear documentation",
+            "Team training"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "SBAR",
+        "handoff",
+        "clinical communication",
+        "تواصل",
+        "تسليم المريض"
+      ]
+    },
+    {
+      "id": 1824,
+      "term": "aseptic technique",
+      "arabic": "تقنية العقامة",
+      "latin": "technica aseptica",
+      "pronunciation": "إي-سيبتيك تيك-نيك",
+      "definition": "مجموعة من الممارسات لمنع التلوث الجرثومي أثناء الإجراءات الطبية من خلال الحفاظ على بيئة معقمة",
+      "definition_en": "A set of practices to prevent microbial contamination during medical procedures by maintaining a sterile environment",
+      "englishSentence": "Aseptic technique prevents infection by maintaining sterility during procedures like catheterization and wound care.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "منع العدوى أثناء الإجراءات التمريضية والطبية",
+      "systemFunction_en": "Prevent infection during nursing and medical procedures",
+      "location": "جميع الإجراءات الغازية",
+      "location_en": "All invasive procedures",
+      "nearbyOrgans": [
+        "الجلد",
+        "الجروح",
+        "الأوردة",
+        "مواقع القسطرة"
+      ],
+      "nearbyOrgans_en": [
+        "Skin",
+        "Wounds",
+        "Veins",
+        "Catheter sites"
+      ],
+      "diseases": [
+        {
+          "name": "العدوى المرتبطة بالإجراءات",
+          "name_en": "Procedure-Related Infection",
+          "symptoms": [
+            "حمى",
+            "إفرازات غير طبيعية",
+            "احمرار حول موضع الإجراء"
+          ],
+          "symptoms_en": [
+            "Fever",
+            "Abnormal discharge",
+            "Redness around procedure site"
+          ],
+          "treatments": [
+            "مضادات حيوية",
+            "إزالة الجهاز إن لزم"
+          ],
+          "treatments_en": [
+            "Antibiotics",
+            "Remove device if needed"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "sterile technique",
+        "asepsis",
+        "infection prevention",
+        "عقامة",
+        "تعقيم"
+      ]
+    },
+    {
+      "id": 1825,
+      "term": "urinalysis",
+      "arabic": "تحليل البول",
+      "latin": "urinalysis",
+      "pronunciation": "يور-إن-آل-إي-سس",
+      "definition": "فحص مختبري شامل للبول يشمل: الكثافة، اللون، الحموضة، البروتين، السكر، الدم، الخلايا والبكتيريا تحت المجهر",
+      "definition_en": "A comprehensive laboratory examination of urine including: density, color, pH, protein, glucose, blood, cells, and bacteria under microscope",
+      "englishSentence": "Urinalysis is a routine test that provides information about kidney function, UTI, and diabetes.",
+      "type": "procedure",
+      "system": "التمريض",
+      "system_en": "Nursing",
+      "systemFunction": "الكشف عن اضطرابات الجهاز البولي والكلى وبعض الأمراض الجهازية",
+      "systemFunction_en": "Detect urinary tract disorders, kidney disease, and some systemic conditions",
+      "location": "عينة البول",
+      "location_en": "Urine sample",
+      "nearbyOrgans": [
+        "الكلى",
+        "المثانة",
+        "الإحليل"
+      ],
+      "nearbyOrgans_en": [
+        "Kidneys",
+        "Bladder",
+        "Urethra"
+      ],
+      "diseases": [
+        {
+          "name": "التهاب المسالك البولية",
+          "name_en": "UTI",
+          "symptoms": [
+            "بيلة دموية",
+            "بيلة قيحية",
+            "نتراتات موجبة"
+          ],
+          "symptoms_en": [
+            "Hematuria",
+            "Pyuria",
+            "Positive nitrites"
+          ],
+          "treatments": [
+            "مضادات حيوية بناءً على نتيجة الزرع"
+          ],
+          "treatments_en": [
+            "Antibiotics based on culture result"
+          ]
+        }
+      ],
+      "chapter": 18,
+      "keywords": [
+        "urinalysis",
+        "dipstick",
+        "UA",
+        "urine culture",
+        "تحليل بول"
+      ]
+    }
+  ]
+}

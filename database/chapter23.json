@@ -1,0 +1,2663 @@
+{
+  "chapter": 23,
+  "title": "الجهاز التغطائي والهيكلي",
+  "title_ar": "الجهاز التغطائي والهيكلي",
+  "title_en": "Integumentary and Skeletal Systems",
+  "description": "مصطلحات الجهاز التغطائي والهيكلي المستخرجة من كتاب تشريح ووظائف الأعضاء",
+  "description_en": "Terms for Integumentary and Skeletal Systems extracted from Anatomy and Physiology textbook",
+  "terms": [
+    {
+      "id": 3366,
+      "term": "integumentary system",
+      "arabic": "الجهاز التغطائي",
+      "latin": "systema integumentale",
+      "pronunciation": "إنتيغيومنتاري سيستم",
+      "definition": "الجهاز المكوّن من الجلد وملحقاته (الشعر، الأظافر، الغدد) والنسيج تحت الجلد. يُعدّ الجلد أكبر عضو في الجسم ويمثل خط الدفاع الأول ضد البيئة الخارجية.",
+      "definition_en": "The body system consisting of the skin, its accessory structures (hair, nails, glands), and the subcutaneous tissue below the skin. The skin is considered the largest organ of the body.",
+      "englishSentence": "The integumentary system forms a protective barrier between the internal organs and the outside environment.",
+      "type": "system",
+      "chapter": 23,
+      "keywords": [
+        "skin",
+        "hair",
+        "nails",
+        "glands",
+        "جلد",
+        "تغطائي"
+      ]
+    },
+    {
+      "id": 3367,
+      "term": "skin",
+      "arabic": "الجلد",
+      "latin": "cutis",
+      "pronunciation": "سكين",
+      "definition": "أكبر عضو في الجسم ويُعدّ عضواً حقيقياً. يتكون من طبقتين رئيسيتين: البشرة (الطبقة الخارجية) والأدمة (الطبقة الداخلية). يحمي الجسم ويُنظّم الحرارة ويُفرز الفضلات ويُصنّع فيتامين د.",
+      "definition_en": "The largest organ of the body, composed of two main layers: epidermis (outer) and dermis (inner). Protects the body, regulates temperature, excretes waste, and synthesizes vitamin D.",
+      "englishSentence": "Human skin covers about 2 square meters of surface area and weighs approximately 4 kilograms.",
+      "type": "organ",
+      "chapter": 23,
+      "keywords": [
+        "largest organ",
+        "epidermis",
+        "dermis",
+        "protection",
+        "جلد",
+        "بشرة"
+      ]
+    },
+    {
+      "id": 3368,
+      "term": "epidermis",
+      "arabic": "البشرة (الطبقة الخارجية للجلد)",
+      "latin": "epidermis",
+      "pronunciation": "إيبيدِرمس",
+      "definition": "الطبقة الخارجية للجلد المكوّنة من ظهارة حرشفية طبقية متقرنة. لا تحتوي على أوعية دموية وتتغذى بالانتشار من الأدمة. أسمك ما تكون في راحتي اليدين وأخمصي القدمين. الخلية الرئيسية فيها هي الكيراتينوسيت.",
+      "definition_en": "The outer layer of skin made of stratified squamous keratinizing epithelial tissue. Avascular, thickest on palms and soles. Most abundant cell is the keratinocyte.",
+      "englishSentence": "The epidermis acts as a waterproof barrier, preventing water loss and blocking the entry of pathogens.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "outer layer",
+        "keratinocytes",
+        "avascular",
+        "stratified",
+        "بشرة",
+        "طبقة خارجية"
+      ]
+    },
+    {
+      "id": 3369,
+      "term": "dermis",
+      "arabic": "الأدمة (الطبقة الداخلية للجلد)",
+      "latin": "dermis",
+      "pronunciation": "دِرمس",
+      "definition": "الطبقة الداخلية للجلد الموجودة أسفل البشرة. تتكون من نسيج ضام ليفي غير منتظم. تحتوي على الألياف الكولاجينية والمرنة والأوعية الدموية والأعصاب والغدد وبصيلات الشعر. تمنح الجلد قوةً ومرونةً.",
+      "definition_en": "The inner layer of skin below the epidermis. Made of irregular fibrous connective tissue. Contains collagen and elastin fibers, blood vessels, nerves, glands, and hair follicles. Provides strength and elasticity.",
+      "englishSentence": "The dermis contains the blood vessels that nourish the epidermis and the nerve endings that detect sensations.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "inner layer",
+        "connective tissue",
+        "collagen",
+        "elastin",
+        "أدمة",
+        "طبقة داخلية"
+      ]
+    },
+    {
+      "id": 3370,
+      "term": "stratum germinativum",
+      "arabic": "الطبقة التوليدية (القاعدية)",
+      "latin": "stratum germinativum",
+      "pronunciation": "ستراتوم جيرمينيتيفم",
+      "definition": "الطبقة الأعمق والأكثر أهمية في البشرة. تحدث فيها الانقسامات الخلوية المستمرة لإنتاج خلايا جديدة تدفع الخلايا القديمة نحو السطح. تحتوي على الخلايا الصباغية (الميلانوسيت). تُعرف أيضاً بالطبقة القاعدية (stratum basale).",
+      "definition_en": "The deepest and most important layer of the epidermis where mitosis occurs continuously. New cells push older cells toward the skin surface. Contains melanocytes. Also called stratum basale.",
+      "englishSentence": "The stratum germinativum is the source of all new epidermal cells; it regenerates the entire epidermis every 25-45 days.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "mitosis",
+        "stem cells",
+        "base layer",
+        "melanocytes",
+        "طبقة توليدية",
+        "قاعدية"
+      ]
+    },
+    {
+      "id": 3371,
+      "term": "stratum corneum",
+      "arabic": "الطبقة القرنية",
+      "latin": "stratum corneum",
+      "pronunciation": "ستراتوم كورنيم",
+      "definition": "الطبقة الخارجية الأكثر سطحية في البشرة. تتكون من طبقات عديدة من الخلايا الميتة المليئة بالكيراتين. تشكل حاجزاً مانعاً للتجفيف والإصابات البكتيرية والمواد الكيميائية. تتجدد البشرة كلياً كل 25-45 يوماً.",
+      "definition_en": "The outermost layer of the epidermis consisting of many layers of dead keratinized cells. Forms a tough, waterproof barrier against desiccation, bacteria, and chemicals. Epidermis renews every 25-45 days.",
+      "englishSentence": "The stratum corneum sheds dead cells continuously (desquamation), replacing itself every few weeks.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "outermost layer",
+        "dead cells",
+        "keratin",
+        "waterproof",
+        "طبقة قرنية",
+        "خلايا ميتة"
+      ]
+    },
+    {
+      "id": 3372,
+      "term": "stratum spinosum",
+      "arabic": "الطبقة الشوكية",
+      "latin": "stratum spinosum",
+      "pronunciation": "ستراتوم سبينوسم",
+      "definition": "طبقة من البشرة فوق الطبقة القاعدية مباشرة. تتكون من عدة طبقات من الخلايا المترابطة بالديسموسومات. تحتوي على خلايا لانجرهانس وتُنتج البروتينات الهيكلية.",
+      "definition_en": "A layer of the epidermis just above the basal layer. Made of several layers of cells connected by desmosomes. Contains Langerhans cells and produces structural proteins.",
+      "englishSentence": "The stratum spinosum provides structural strength to the epidermis through its network of connecting desmosomes.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "desmosomes",
+        "Langerhans cells",
+        "structural",
+        "طبقة شوكية"
+      ]
+    },
+    {
+      "id": 3373,
+      "term": "stratum granulosum",
+      "arabic": "الطبقة الحبيبية",
+      "latin": "stratum granulosum",
+      "pronunciation": "ستراتوم غرانيولوسم",
+      "definition": "طبقة من البشرة حيث تبدأ الخلايا بتجميع حبيبات الكيراتين وتبدأ بالموت (موت مبرمج). يتشكل هنا الحاجز الدهني الضروري لمنع فقدان الماء.",
+      "definition_en": "The layer of the epidermis where cells accumulate keratin granules and begin to die (apoptosis). The lipid barrier essential for preventing water loss forms here.",
+      "englishSentence": "In the stratum granulosum, cells begin to die as they move away from the blood supply in the dermis.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "keratin granules",
+        "apoptosis",
+        "lipid barrier",
+        "طبقة حبيبية"
+      ]
+    },
+    {
+      "id": 3374,
+      "term": "stratum lucidum",
+      "arabic": "الطبقة الشفافة",
+      "latin": "stratum lucidum",
+      "pronunciation": "ستراتوم لوسيدم",
+      "definition": "طبقة رقيقة شفافة من الخلايا الميتة الموجودة فقط في الجلد السميك (راحتا اليدين وأخمصا القدمين). تقع بين الطبقة الحبيبية والطبقة القرنية.",
+      "definition_en": "A thin, clear layer of dead cells found only in thick skin (palms and soles). Located between the stratum granulosum and stratum corneum.",
+      "englishSentence": "The stratum lucidum is visible only in the thick skin of the palms and soles where extra protection is needed.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "clear layer",
+        "thick skin",
+        "palms",
+        "soles",
+        "طبقة شفافة",
+        "جلد سميك"
+      ]
+    },
+    {
+      "id": 3375,
+      "term": "keratinocytes",
+      "arabic": "الكيراتينوسيت (خلايا الكيراتين)",
+      "latin": "keratinocyti",
+      "pronunciation": "كيراتينوسايتس",
+      "definition": "الخلايا الأكثر وفرةً في البشرة (تشكّل 90% من خلايا البشرة). تُصنّع الكيراتين وهو بروتين ليفي صلب يُعطي البشرة قوتها ومقاومتها للماء.",
+      "definition_en": "The most abundant cells of the epidermis (90%). Produce keratin, a tough fibrous protein that gives the epidermis its strength and waterproof quality.",
+      "englishSentence": "Keratinocytes migrate from the base of the epidermis to the surface, gradually filling with keratin and dying.",
+      "type": "cell_type",
+      "chapter": 23,
+      "keywords": [
+        "keratin production",
+        "most abundant",
+        "epidermis",
+        "كيراتينوسيت",
+        "كيراتين"
+      ]
+    },
+    {
+      "id": 3376,
+      "term": "keratin",
+      "arabic": "الكيراتين",
+      "latin": "keratinum",
+      "pronunciation": "كيراتين",
+      "definition": "بروتين ليفي صلب يُنتجه الكيراتينوسيت. يُشكّل الحاجز الواقي للبشرة والشعر والأظافر. يجعل الجلد مقاوماً للماء وحاجزاً أمام مسببات الأمراض والمواد الكيميائية.",
+      "definition_en": "A tough fibrous protein produced by keratinocytes. Forms the protective barrier of the epidermis, hair, and nails. Makes skin waterproof and resistant to pathogens and chemicals.",
+      "englishSentence": "Keratin is the same protein found in hair and nails, giving them their tough, protective properties.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "fibrous protein",
+        "waterproof",
+        "hair",
+        "nails",
+        "كيراتين",
+        "بروتين ليفي"
+      ]
+    },
+    {
+      "id": 3377,
+      "term": "melanocytes",
+      "arabic": "الخلايا الصباغية (الميلانوسيت)",
+      "latin": "melanocyti",
+      "pronunciation": "ميلانوسايتس",
+      "definition": "خلايا متخصصة في الطبقة القاعدية من البشرة تُنتج صبغة الميلانين. تنظّم الجينات إنتاجها. يزداد إنتاجها عند التعرض للأشعة فوق البنفسجية للحماية من أضرارها.",
+      "definition_en": "Specialized cells in the basal layer of the epidermis that produce the pigment melanin. Genetically regulated activity. Increase melanin production upon UV exposure to protect against damage.",
+      "englishSentence": "Melanocytes transfer melanin granules to surrounding keratinocytes, providing UV protection for all skin cells.",
+      "type": "cell_type",
+      "chapter": 23,
+      "keywords": [
+        "melanin production",
+        "UV protection",
+        "pigment cells",
+        "ميلانوسيت",
+        "خلية صباغية"
+      ]
+    },
+    {
+      "id": 3378,
+      "term": "melanin",
+      "arabic": "الميلانين",
+      "latin": "melaninum",
+      "pronunciation": "ميلانين",
+      "definition": "صبغة بنية-سوداء اللون تُنتجها الخلايا الصباغية. تُحدّد لون الجلد والشعر وقزحية العين. تحمي الخلايا من أضرار الأشعة فوق البنفسجية عن طريق امتصاصها. أصحاب البشرة الداكنة لديهم ميلانين أكثر.",
+      "definition_en": "A brown-black pigment produced by melanocytes. Determines skin, hair, and iris color. Protects cells from UV damage by absorbing radiation. People with dark skin have more melanin.",
+      "englishSentence": "Melanin absorbs UV radiation and converts it to heat, protecting skin cell DNA from mutation.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "pigment",
+        "skin color",
+        "UV protection",
+        "hair color",
+        "ميلانين",
+        "صبغة"
+      ]
+    },
+    {
+      "id": 3379,
+      "term": "Langerhans cells",
+      "arabic": "خلايا لانجرهانس",
+      "latin": "cellulae Langerhansii",
+      "pronunciation": "لانغيرهانز سيلز",
+      "definition": "خلايا مناعية متشعبة الشكل في طبقة البشرة الشوكية. تنشأ من نخاع العظم الأحمر وهي متنقلة. تبتلع المواد الغريبة كالبكتيريا وتنتقل إلى العقد الليمفاوية لتُقدّم المستضدات للخلايا الليمفاوية وتُفعّل الاستجابة المناعية.",
+      "definition_en": "Dendritic (branched) immune cells in the epidermis arising from red bone marrow. Mobile, can phagocytize bacteria entering through skin breaks, then migrate to lymph nodes to present antigens to lymphocytes.",
+      "englishSentence": "Langerhans cells are the skin's immune sentinels, detecting foreign invaders and initiating immune responses.",
+      "type": "cell_type",
+      "chapter": 23,
+      "keywords": [
+        "immune cells",
+        "dendritic",
+        "antigen presentation",
+        "خلايا لانجرهانس",
+        "مناعة"
+      ]
+    },
+    {
+      "id": 3380,
+      "term": "Merkel cells",
+      "arabic": "خلايا ميركل",
+      "latin": "cellulae Merkelii",
+      "pronunciation": "ميركيل سيلز",
+      "definition": "خلايا مستقبلة للمس الخفيف موجودة في الطبقة القاعدية من البشرة. ترتبط بأطراف عصبية حسية وتُرسل إشارات اللمس الخفيف إلى الدماغ.",
+      "definition_en": "Sensory receptor cells for light touch located in the stratum basale of the epidermis. Associated with nerve endings that send light touch signals to the brain.",
+      "englishSentence": "Merkel cells in the fingertips are especially sensitive to light touch and texture discrimination.",
+      "type": "cell_type",
+      "chapter": 23,
+      "keywords": [
+        "light touch",
+        "sensory receptor",
+        "basal layer",
+        "خلايا ميركل",
+        "لمس خفيف"
+      ]
+    },
+    {
+      "id": 3381,
+      "term": "papillary layer",
+      "arabic": "الطبقة الحليمية (للأدمة)",
+      "latin": "stratum papillare",
+      "pronunciation": "بابيلاري ليير",
+      "definition": "الطبقة السطحية الرقيقة من الأدمة المتموجة على شكل حليمات جلدية (بصمات الأصابع). غنية بالشعيرات الدموية لتغذية البشرة. تحتوي على مستقبلات لمسية (أجسام مايسنر).",
+      "definition_en": "The thin superficial layer of the dermis with dermal papillae creating fingerprints. Rich in capillaries that nourish the epidermis. Contains Meissner's corpuscles (light touch receptors).",
+      "englishSentence": "The dermal papillae of the papillary layer create the unique fingerprint patterns used for identification.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "dermal papillae",
+        "fingerprints",
+        "capillaries",
+        "Meissner's",
+        "طبقة حليمية",
+        "بصمة"
+      ]
+    },
+    {
+      "id": 3382,
+      "term": "reticular layer",
+      "arabic": "الطبقة الشبكية (للأدمة)",
+      "latin": "stratum reticulare",
+      "pronunciation": "ريتيكيولار ليير",
+      "definition": "الطبقة الأعمق والأسمك من الأدمة. نسيج ضام كثيف غير منتظم يحتوي على ألياف كولاجين ومرنة كثيفة تمنح الجلد قوته ومرونته. تحتوي على أجسام باسيني (مستقبلات الضغط العميق).",
+      "definition_en": "The deeper, thicker layer of the dermis. Dense irregular connective tissue with abundant collagen and elastic fibers providing skin strength and elasticity. Contains Pacinian corpuscles (deep pressure receptors).",
+      "englishSentence": "The reticular layer's collagen and elastin fibers give the skin its ability to stretch and recoil.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "deep layer",
+        "collagen",
+        "elastic fibers",
+        "Pacinian",
+        "طبقة شبكية",
+        "قوة جلد"
+      ]
+    },
+    {
+      "id": 3383,
+      "term": "subcutaneous tissue",
+      "arabic": "النسيج تحت الجلد (تحت الأدمة)",
+      "latin": "tela subcutanea",
+      "pronunciation": "سابكيوتينيوس تيشو",
+      "definition": "الطبقة العميقة أسفل الأدمة تُعرف أيضاً بالهيبودرمس أو اللفافة السطحية. تتكون من نسيج ضام هلامي ونسيج دهني. تربط الجلد بالأنسجة الكامنة وتختزن الطاقة وتوفر العزل الحراري وتمتص الصدمات.",
+      "definition_en": "The deep layer below the dermis, also called hypodermis or superficial fascia. Composed of areolar and adipose tissue. Connects skin to underlying structures, stores fat for energy, insulation, and cushioning.",
+      "englishSentence": "Subcutaneous tissue injection sites like the abdomen and thigh are used for insulin administration.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "hypodermis",
+        "adipose",
+        "insulation",
+        "energy storage",
+        "تحت الجلد",
+        "هيبودرمس"
+      ]
+    },
+    {
+      "id": 3384,
+      "term": "hypodermis",
+      "arabic": "ما تحت الجلد (الهيبودرمس)",
+      "latin": "hypodermis",
+      "pronunciation": "هايبودِرمس",
+      "definition": "مرادف للنسيج تحت الجلد. يقع أسفل الأدمة ويتكون من نسيج ضام هلامي ودهني. يصل الجلد بالأنسجة العميقة ويُعدّ موقع الحقن تحت الجلد.",
+      "definition_en": "Synonym for subcutaneous tissue. Located below the dermis, composed of areolar and adipose connective tissue. Connects skin to deep tissues; site of subcutaneous injections.",
+      "englishSentence": "The hypodermis contains large blood vessels and nerves that supply the overlying skin.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "below dermis",
+        "subcutaneous",
+        "injection site",
+        "هيبودرمس",
+        "تحت جلد"
+      ]
+    },
+    {
+      "id": 3385,
+      "term": "carotene",
+      "arabic": "الكاروتين",
+      "latin": "carotinum",
+      "pronunciation": "كاروتين",
+      "definition": "صبغة صفراء-برتقالية تُسهم في لون الجلد. توجد في البشرة والنسيج الدهني تحت الجلد. سلف فيتامين أ. يكثر في الجلد الأصفر كالأسيويين وفي الأشخاص الذين يتناولون كميات كبيرة من الجزر والبطاطا الحلوة.",
+      "definition_en": "A yellow-orange pigment contributing to skin color. Found in the epidermis and subcutaneous adipose tissue. A precursor to vitamin A. Prominent in Asian skin tone and in those eating large amounts of carrots.",
+      "englishSentence": "Eating too many carrots can cause the skin to turn slightly orange due to excess carotene accumulation.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "yellow-orange pigment",
+        "skin color",
+        "vitamin A precursor",
+        "كاروتين",
+        "صبغة صفراء"
+      ]
+    },
+    {
+      "id": 3386,
+      "term": "oxyhemoglobin",
+      "arabic": "الأوكسي هيموغلوبين",
+      "latin": "oxyhemoglobinum",
+      "pronunciation": "أوكسي هيموغلوبين",
+      "definition": "الهيموغلوبين المحمّل بالأكسجين الذي يُعطي الدم والجلد لوناً وردياً-أحمراً. يتأثر لون الجلد بكمية الدم في الشعيرات الدموية الجلدية.",
+      "definition_en": "Oxygen-carrying hemoglobin that gives blood and skin its pink-red color. Skin color is influenced by the amount of blood in the dermal capillaries.",
+      "englishSentence": "In fair-skinned people, the pink-red skin tone comes from oxyhemoglobin showing through the translucent epidermis.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "hemoglobin",
+        "skin color",
+        "pink",
+        "red",
+        "أوكسي هيموغلوبين",
+        "لون جلد"
+      ]
+    },
+    {
+      "id": 3387,
+      "term": "hair follicle",
+      "arabic": "جريب الشعر (بصيلة الشعرة)",
+      "latin": "folliculus pili",
+      "pronunciation": "هير فوليكل",
+      "definition": "هيكل جلدي يُنتج الشعر. يحدث الانقسام الخلوي في جذر الشعر. تُنتج الخلايا الجديدة الكيراتين ثم تموت وتُشكّل عمود الشعرة. الشعر وظيفته العزل الحراري وحماية الفتحات من الغبار.",
+      "definition_en": "A skin structure that produces hair. Mitosis occurs in the hair root; new cells produce keratin, die, and form the hair shaft. Hair provides insulation and protects openings from dust.",
+      "englishSentence": "Each hair follicle goes through cycles of growth, rest, and shedding throughout a person's lifetime.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "hair production",
+        "mitosis",
+        "keratin",
+        "hair root",
+        "بصيلة شعر",
+        "جريب"
+      ]
+    },
+    {
+      "id": 3388,
+      "term": "arrector pili muscle",
+      "arabic": "العضلة الرافعة للشعرة",
+      "latin": "musculus arrector pili",
+      "pronunciation": "أريكتور بايلاي ماسل",
+      "definition": "عضلة ملساء صغيرة مرتبطة ببصيلة الشعرة. عند تقلصها (بفعل البرد أو الخوف) تُشيّب الشعر ويظهر ما يُعرف بـ'قشعريرة الجلد' أو 'جلد الأوز'.",
+      "definition_en": "A small smooth muscle attached to a hair follicle. When it contracts (due to cold or fear), it makes the hair stand up and causes goosebumps (cutis anserina).",
+      "englishSentence": "The arrector pili muscle contracts in the cold to raise hairs, trapping warm air and reducing heat loss.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "smooth muscle",
+        "goosebumps",
+        "hair erection",
+        "رافعة شعر",
+        "قشعريرة"
+      ]
+    },
+    {
+      "id": 3389,
+      "term": "nail",
+      "arabic": "الظفر",
+      "latin": "unguis",
+      "pronunciation": "نيل",
+      "definition": "تراكيب صفيحية صلبة تغطي نهايات الأصابع. مكوّنة من خلايا متقرنة ميتة. تُصنّع في جذر الظفر بالانقسام الخلوي. تحمي أطراف الأصابع وتُيسّر القبض على الأشياء الدقيقة.",
+      "definition_en": "Hard plate-like structures covering the distal ends of fingers and toes. Made of dead keratinized cells produced in the nail root by mitosis. Protect fingertips and enable gripping small objects.",
+      "englishSentence": "Nails grow about 3mm per month; fingernails grow faster than toenails.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "keratin",
+        "nail root",
+        "finger protection",
+        "ظفر",
+        "إصبع"
+      ]
+    },
+    {
+      "id": 3390,
+      "term": "Meissner's corpuscles",
+      "arabic": "أجسام مايسنر",
+      "latin": "corpuscula Meissneri",
+      "pronunciation": "مايسنيرز كوربوسولز",
+      "definition": "مستقبلات حسية للمس الخفيف والملمس توجد في الحليمات الجلدية للأدمة الحليمية. تكثر في الجلد الحساس كأطراف الأصابع والشفتين.",
+      "definition_en": "Sensory receptors for light touch and texture located in the dermal papillae of the papillary dermis. Abundant in sensitive skin like fingertips and lips.",
+      "englishSentence": "Meissner's corpuscles in the fingertips allow us to read braille and detect fine textures.",
+      "type": "receptor",
+      "chapter": 23,
+      "keywords": [
+        "light touch",
+        "texture",
+        "fingertips",
+        "sensory receptor",
+        "أجسام مايسنر",
+        "لمس خفيف"
+      ]
+    },
+    {
+      "id": 3391,
+      "term": "Pacinian corpuscles",
+      "arabic": "أجسام باسيني",
+      "latin": "corpuscula Pacini",
+      "pronunciation": "باسينيان كوربوسولز",
+      "definition": "مستقبلات حسية للضغط العميق والاهتزاز توجد في الطبقة الشبكية من الأدمة والنسيج تحت الجلد. كبيرة وبصلية الشكل.",
+      "definition_en": "Sensory receptors for deep pressure and vibration located in the reticular layer of the dermis and subcutaneous tissue. Large, onion-shaped structures.",
+      "englishSentence": "Pacinian corpuscles allow us to detect vibrations such as those produced by power tools or musical instruments.",
+      "type": "receptor",
+      "chapter": 23,
+      "keywords": [
+        "deep pressure",
+        "vibration",
+        "dermis",
+        "sensory receptor",
+        "أجسام باسيني",
+        "ضغط عميق"
+      ]
+    },
+    {
+      "id": 3392,
+      "term": "free nerve endings",
+      "arabic": "النهايات العصبية الحرة",
+      "latin": "terminations nervosae liberae",
+      "pronunciation": "فري نيرف إندينغز",
+      "definition": "أكثر مستقبلات الجلد الحسية شيوعاً وانتشاراً. تستجيب للألم والحرارة والبرودة واللمس الخفيف. غير محاطة بأي كبسولة.",
+      "definition_en": "The most common and widespread sensory receptors in the skin. Respond to pain, temperature (heat and cold), and light touch. Not enclosed in any capsule.",
+      "englishSentence": "Free nerve endings detect pain and temperature, triggering protective reflexes when tissue damage occurs.",
+      "type": "receptor",
+      "chapter": 23,
+      "keywords": [
+        "pain",
+        "temperature",
+        "nociceptor",
+        "نهايات عصبية حرة",
+        "ألم"
+      ]
+    },
+    {
+      "id": 3393,
+      "term": "sebaceous glands",
+      "arabic": "الغدد الدهنية (الزيتية)",
+      "latin": "glandulae sebaceae",
+      "pronunciation": "سيبيشاس غلاندز",
+      "definition": "غدد إفرازية قنوية مرتبطة ببصيلات الشعر. تُفرز الزهم (مادة دهنية) في قنوات الشعر أو مباشرة على سطح الجلد. يمنع الزهم جفاف الجلد والشعر ويثبّط نمو البكتيريا. انسداد القناة يُسبّب حبة الشباب (البثور).",
+      "definition_en": "Exocrine glands associated with hair follicles. Secrete sebum (oily substance) into hair canals or directly onto skin. Sebum prevents skin and hair from drying and inhibits bacterial growth. Blockage causes acne.",
+      "englishSentence": "Sebaceous glands are most numerous on the face and scalp, making these areas prone to acne and oiliness.",
+      "type": "organ",
+      "chapter": 23,
+      "keywords": [
+        "sebum",
+        "oil glands",
+        "acne",
+        "hair follicle",
+        "غدة دهنية",
+        "زهم"
+      ]
+    },
+    {
+      "id": 3394,
+      "term": "sebum",
+      "arabic": "الزهم",
+      "latin": "sebum",
+      "pronunciation": "سيبم",
+      "definition": "المادة الزيتية التي تُفرزها الغدد الدهنية. تُرطّب الجلد والشعر وتثبّط نمو البكتيريا على سطح الجلد. إذا انسدت القناة يتشكل رأس أبيض (whitehead) يتحوّل إلى رأس أسود (blackhead) عند أكسدته.",
+      "definition_en": "The oily substance secreted by sebaceous glands. Moisturizes skin and hair, and inhibits bacterial growth on the skin surface. Duct blockage causes whiteheads (oxidize to blackheads) and acne.",
+      "englishSentence": "Sebum keeps skin and hair from drying out, but excess production can clog pores and cause acne.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "oil",
+        "moisturizer",
+        "antibacterial",
+        "acne",
+        "زهم",
+        "دهن جلد"
+      ]
+    },
+    {
+      "id": 3395,
+      "term": "ceruminous glands",
+      "arabic": "الغدد الصملاخية",
+      "latin": "glandulae ceruminosae",
+      "pronunciation": "سيروميناس غلاندز",
+      "definition": "غدد مُعدّلة من الغدد العَرَقية المُفرِزة. توجد في قناة الأذن الخارجية. تُفرز الصملاخ (شمع الأذن) الذي يمنع جفاف طبلة الأذن ويُزيل الجزيئات الغريبة من القناة ويمنع دخول الحشرات.",
+      "definition_en": "Modified apocrine sweat glands located in the external ear canal. Secrete cerumen (earwax) that prevents drying of the eardrum, removes foreign particles from the canal, and deters insects.",
+      "englishSentence": "Ceruminous glands produce earwax that traps dust and bacteria before they can reach the delicate eardrum.",
+      "type": "organ",
+      "chapter": 23,
+      "keywords": [
+        "cerumen",
+        "earwax",
+        "ear canal",
+        "غدة صملاخية",
+        "شمع أذن"
+      ]
+    },
+    {
+      "id": 3396,
+      "term": "cerumen",
+      "arabic": "الصملاخ (شمع الأذن)",
+      "latin": "cerumen",
+      "pronunciation": "سيرومن",
+      "definition": "المادة الشمعية التي تُفرزها الغدد الصملاخية في قناة الأذن. تحمي طبلة الأذن من الجفاف وتُزيل الغبار والجزيئات الغريبة والحشرات. تُفرز بصفة مستمرة ثم تُطرح طبيعياً.",
+      "definition_en": "The waxy substance secreted by ceruminous glands in the ear canal. Protects the eardrum from drying, traps and removes dust, foreign particles, and insects. Continuously secreted and naturally expelled.",
+      "englishSentence": "Cerumen (earwax) has antimicrobial properties that help protect the ear canal from infection.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "earwax",
+        "ear protection",
+        "antimicrobial",
+        "صملاخ",
+        "شمع أذن"
+      ]
+    },
+    {
+      "id": 3397,
+      "term": "apocrine sweat glands",
+      "arabic": "الغدد العَرَقية المُفرِزة (الأبوكرينية)",
+      "latin": "glandulae sudoriferae apocrinae",
+      "pronunciation": "أبوكرين سويت غلاندز",
+      "definition": "غدد عَرَقية مُعدَّلة تُشبه الغدد الرائحية. توجد في الإبطين والمنطقة التناسلية. تنشط عند البلوغ. تُفرز إفرازاً سميكاً يحتوي على أحماض دهنية وبروتينات. الإفراز نفسه عديم الرائحة لكن تحلّله بكتيرياً يُسبّب رائحة العرق.",
+      "definition_en": "Modified scent glands in axillae and genital area. Activated at puberty; secrete thick fluid containing fatty acids and proteins. Secretion itself is odorless; bacterial decomposition causes body odor.",
+      "englishSentence": "Apocrine sweat glands are stimulated by emotional stress and hormonal changes rather than body temperature.",
+      "type": "organ",
+      "chapter": 23,
+      "keywords": [
+        "body odor",
+        "puberty",
+        "axilla",
+        "stress",
+        "غدة أبوكرينية",
+        "عرق"
+      ]
+    },
+    {
+      "id": 3398,
+      "term": "eccrine sweat glands",
+      "arabic": "الغدد العَرَقية الميروكرينية (الإفرازية)",
+      "latin": "glandulae sudoriferae merocrina",
+      "pronunciation": "إيكرين سويت غلاندز",
+      "definition": "أكثر الغدد العَرَقية عدداً وانتشاراً في جسم الإنسان. توجد في جميع أنحاء الجسم وأكثرها على الوجه وراحتي اليدين وأخمصي القدمين. تُنشَّط بالحرارة الخارجية العالية والتمرين. العرق مائي (99% ماء مع NaCl ويوريا). دورها الرئيسي تنظيم درجة الحرارة بالتبخر.",
+      "definition_en": "The most numerous sweat glands found all over the body, most on face, palms, soles. Activated by high temperature or exercise. Produce watery sweat (99% water with NaCl and urea). Primary role: thermoregulation.",
+      "englishSentence": "Eccrine sweat glands cool the body through evaporative cooling; a person can produce up to 10 liters of sweat per day.",
+      "type": "organ",
+      "chapter": 23,
+      "keywords": [
+        "thermoregulation",
+        "sweat",
+        "cooling",
+        "most numerous",
+        "غدة ميروكرينية",
+        "تنظيم حرارة"
+      ]
+    },
+    {
+      "id": 3399,
+      "term": "vasoconstriction",
+      "arabic": "انقباض الأوعية الدموية",
+      "latin": "vasoconstrictio",
+      "pronunciation": "فازوكونستريكشن",
+      "definition": "تضيّق الأوعية الدموية بانقباض العضلة الملساء في جدرانها. في الجلد يحدث في البرد لتقليل تدفق الدم إلى الجلد والحفاظ على الحرارة في مركز الجسم. كذلك يحدث في حالات الإجهاد لتحويل الدم إلى الأعضاء الحيوية.",
+      "definition_en": "Narrowing of blood vessels by smooth muscle contraction. In the skin, occurs in cold to reduce dermal blood flow and conserve heat in the body core. Also occurs during stress to shunt blood to vital organs.",
+      "englishSentence": "Skin vasoconstriction during cold exposure is why skin looks pale and feels cold in winter.",
+      "type": "process",
+      "chapter": 23,
+      "keywords": [
+        "cold response",
+        "heat conservation",
+        "smooth muscle",
+        "انقباض أوعية",
+        "برد"
+      ]
+    },
+    {
+      "id": 3400,
+      "term": "vasodilation",
+      "arabic": "توسع الأوعية الدموية",
+      "latin": "vasodilatio",
+      "pronunciation": "فازوداليشن",
+      "definition": "توسّع الأوعية الدموية بارتخاء العضلة الملساء في جدرانها. في الجلد يحدث في الحر لزيادة تدفق الدم إلى السطح وفقدان الحرارة. يُسبّب احمرار الجلد في الحر.",
+      "definition_en": "Widening of blood vessels by smooth muscle relaxation. In the skin, occurs in warm temperatures to increase dermal blood flow, bringing heat to the surface for dissipation. Causes skin flushing.",
+      "englishSentence": "Vasodilation of skin vessels during exercise increases heat loss, preventing dangerous overheating.",
+      "type": "process",
+      "chapter": 23,
+      "keywords": [
+        "heat dissipation",
+        "warm response",
+        "flushing",
+        "توسع أوعية",
+        "حرارة"
+      ]
+    },
+    {
+      "id": 3401,
+      "term": "vitamin D synthesis",
+      "arabic": "تصنيع فيتامين د",
+      "latin": "synthesis vitamini D",
+      "pronunciation": "فايتامين دي سينثيسيس",
+      "definition": "عملية يحوّل فيها الجلد بتأثير أشعة فوق البنفسجية مقدمة فيتامين د (7-ديهيدروكوليسترول) إلى كوليكالسيفيرول (فيتامين د3). تُكملها الكلى والكبد. فيتامين د ضروري لامتصاص الكالسيوم وصحة العظام.",
+      "definition_en": "The process by which UV radiation converts a skin precursor (7-dehydrocholesterol) to cholecalciferol (vitamin D3). Completed by kidneys and liver. Vitamin D is essential for calcium absorption and bone health.",
+      "englishSentence": "Fifteen minutes of sun exposure daily is enough for most people to synthesize adequate vitamin D in the skin.",
+      "type": "process",
+      "chapter": 23,
+      "keywords": [
+        "UV radiation",
+        "calcium absorption",
+        "bone health",
+        "cholecalciferol",
+        "فيتامين د",
+        "تصنيع"
+      ]
+    },
+    {
+      "id": 3402,
+      "term": "first degree burn",
+      "arabic": "الحرق من الدرجة الأولى",
+      "latin": "combustio gradus primi",
+      "pronunciation": "فيرست ديغري بيرن",
+      "definition": "الحرق الذي يؤثر فقط على البشرة (الطبقة الخارجية من الجلد). يُسبّب احمراراً وألماً وانتفاخاً خفيفاً دون تكوّن فقاعات. يلتئم من تلقاء نفسه في 3-5 أيام. مثال: حروق الشمس الخفيفة.",
+      "definition_en": "A burn affecting only the epidermis. Causes redness, pain, and mild swelling without blistering. Heals spontaneously in 3-5 days. Example: mild sunburn.",
+      "englishSentence": "A first degree burn from touching a hot pan causes temporary redness and pain but heals quickly.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "epidermis",
+        "redness",
+        "sunburn",
+        "superficial",
+        "حرق درجة أولى",
+        "بشرة"
+      ]
+    },
+    {
+      "id": 3403,
+      "term": "second degree burn",
+      "arabic": "الحرق من الدرجة الثانية",
+      "latin": "combustio gradus secundi",
+      "pronunciation": "سيكوند ديغري بيرن",
+      "definition": "الحرق الذي يؤثر على البشرة والجزء السطحي من الأدمة. يُسبّب تكوّن فقاعات مائية وألماً شديداً واحمراراً. يلتئم بشكل كامل دون ندوب إذا عولج جيداً. خطر العدوى مرتفع.",
+      "definition_en": "A burn affecting the epidermis and part of the dermis. Causes blistering, severe pain, and redness. Heals completely without scarring if well treated. High infection risk.",
+      "englishSentence": "A second degree burn from steam or boiling water causes painful blisters and requires medical treatment.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "blistering",
+        "partial dermis",
+        "partial thickness",
+        "حرق درجة ثانية",
+        "فقاعات"
+      ]
+    },
+    {
+      "id": 3404,
+      "term": "third degree burn",
+      "arabic": "الحرق من الدرجة الثالثة",
+      "latin": "combustio gradus tertii",
+      "pronunciation": "ثيرد ديغري بيرن",
+      "definition": "الحرق الكامل العمق الذي يُدمّر البشرة والأدمة وقد يصل إلى الأنسجة الكامنة. لا يُسبّب ألماً في منطقة الحرق نفسها لتلف الأعصاب. يُسبّب ندوباً وقد يحتاج إلى زرع جلد. مميت إذا غطّى مساحة كبيرة.",
+      "definition_en": "Full thickness burn destroying the epidermis, dermis, and possibly underlying tissues. No pain in burned area due to nerve damage. Causes scarring and may require skin grafting. Fatal if covering large areas.",
+      "englishSentence": "Third degree burns require skin grafting because the tissue is so damaged it cannot regenerate on its own.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "full thickness",
+        "nerve damage",
+        "skin graft",
+        "scar",
+        "حرق درجة ثالثة",
+        "حرق كامل"
+      ]
+    },
+    {
+      "id": 3405,
+      "term": "desquamation",
+      "arabic": "التقشّر (سقوط الخلايا الجلدية)",
+      "latin": "desquamatio",
+      "pronunciation": "ديسكواميشن",
+      "definition": "عملية التخلص الطبيعي المستمر من الخلايا الميتة في الطبقة القرنية من البشرة. تُستبدل البشرة بالكامل كل 25-45 يوماً. تحدث بسرعة أكبر في بعض الأمراض الجلدية.",
+      "definition_en": "The continuous natural shedding of dead cells from the stratum corneum of the epidermis. Entire epidermis replaced every 25-45 days. Accelerated in some skin conditions.",
+      "englishSentence": "Desquamation is a normal process that removes dead cells and renews the skin surface every few weeks.",
+      "type": "process",
+      "chapter": 23,
+      "keywords": [
+        "shedding",
+        "skin renewal",
+        "stratum corneum",
+        "تقشر",
+        "تجدد جلد"
+      ]
+    },
+    {
+      "id": 3406,
+      "term": "elastin fibers",
+      "arabic": "الألياف المرنة",
+      "latin": "fibrae elasticae",
+      "pronunciation": "إيلاستين فايبرز",
+      "definition": "بروتين الأدمة المرن الذي يسمح للجلد بالتمدد والعودة إلى شكله الأصلي. مع التقدم في السن تتدهور هذه الألياف فتظهر التجاعيد ويفقد الجلد مرونته.",
+      "definition_en": "Elastic protein in the dermis that allows the skin to stretch and recoil back to its original shape. Deteriorates with aging, causing wrinkles and loss of skin elasticity.",
+      "englishSentence": "Loss of elastin fibers with aging explains why elderly skin wrinkles and doesn't spring back when stretched.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "elasticity",
+        "recoil",
+        "aging",
+        "wrinkles",
+        "ألياف مرنة",
+        "مرونة جلد"
+      ]
+    },
+    {
+      "id": 3407,
+      "term": "acne",
+      "arabic": "حب الشباب (العُد)",
+      "latin": "acne vulgaris",
+      "pronunciation": "أكني",
+      "definition": "حالة جلدية ناتجة عن انسداد بصيلات الشعر والغدد الدهنية بالزهم والخلايا الميتة وتكاثر بكتيريا. يظهر كرؤوس بيضاء أو سوداء أو بثور ملتهبة. أكثر شيوعاً في مرحلة المراهقة بسبب ارتفاع الهرمونات.",
+      "definition_en": "A skin condition caused by blocked hair follicles and sebaceous glands with sebum, dead cells, and bacterial proliferation. Appears as whiteheads, blackheads, or inflamed pustules. Most common in adolescence.",
+      "englishSentence": "Acne during puberty is caused by increased androgen hormones that stimulate excess sebum production.",
+      "type": "disease",
+      "chapter": 23,
+      "keywords": [
+        "sebum",
+        "bacteria",
+        "adolescence",
+        "inflammation",
+        "حب شباب",
+        "بثور"
+      ]
+    },
+    {
+      "id": 3408,
+      "term": "cyanosis",
+      "arabic": "الزُّرقة (السيانوز)",
+      "latin": "cyanosis",
+      "pronunciation": "سايانوسيس",
+      "definition": "تلوّن الجلد والأغشية المخاطية بلون مزرق ناتج عن انخفاض نسبة الأكسجين في الدم (نقص الهيموغلوبين المُشبع). علامة على مشاكل في الجهاز التنفسي أو القلبي الوعائي.",
+      "definition_en": "Bluish discoloration of skin and mucous membranes due to decreased blood oxygen (reduced oxyhemoglobin). A sign of respiratory or cardiovascular problems.",
+      "englishSentence": "Cyanosis of the lips and fingertips indicates inadequate oxygen delivery to body tissues.",
+      "type": "disease",
+      "chapter": 23,
+      "keywords": [
+        "bluish skin",
+        "oxygen deficiency",
+        "respiratory",
+        "زرقة",
+        "نقص أكسجين"
+      ]
+    },
+    {
+      "id": 3409,
+      "term": "jaundice",
+      "arabic": "اليرقان",
+      "latin": "icterus",
+      "pronunciation": "جونديس",
+      "definition": "اصفرار الجلد والأغشية المخاطية والصلبة (بياض العين) ناتج عن تراكم البيليروبين في الدم والأنسجة. يُشير إلى مشاكل في الكبد أو القنوات الصفراوية أو زيادة تحلل كريات الدم الحمراء.",
+      "definition_en": "Yellowing of skin, mucous membranes, and sclerae due to bilirubin accumulation in blood and tissues. Indicates liver problems, bile duct obstruction, or excessive red blood cell destruction.",
+      "englishSentence": "Jaundice in newborns is common and usually resolves within a week as the liver matures.",
+      "type": "disease",
+      "chapter": 23,
+      "keywords": [
+        "bilirubin",
+        "liver",
+        "yellow skin",
+        "اصفرار",
+        "يرقان"
+      ]
+    },
+    {
+      "id": 3410,
+      "term": "albinism",
+      "arabic": "المهق (البُهق الكامل)",
+      "latin": "albinismus",
+      "pronunciation": "ألبينيزم",
+      "definition": "حالة وراثية تتسم بغياب أو نقص شديد في إنتاج الميلانين بسبب خلل في إنزيم التيروسيناز. يظهر الجلد والشعر والعيون فاقدة للون. يزداد خطر التلف بالأشعة فوق البنفسجية وسرطان الجلد.",
+      "definition_en": "A genetic condition characterized by absent or greatly reduced melanin production due to a defect in the enzyme tyrosinase. Results in unpigmented skin, hair, and eyes. Increases UV damage and skin cancer risk.",
+      "englishSentence": "People with albinism must protect their skin carefully from sun exposure due to lack of UV-absorbing melanin.",
+      "type": "disease",
+      "chapter": 23,
+      "keywords": [
+        "melanin deficiency",
+        "genetic",
+        "tyrosinase",
+        "مهق",
+        "نقص ميلانين"
+      ]
+    },
+    {
+      "id": 3411,
+      "term": "skeletal system",
+      "arabic": "الجهاز الهيكلي",
+      "latin": "systema skeletale",
+      "pronunciation": "سكيليتال سيستم",
+      "definition": "الجهاز المكوّن من العظام والغضاريف والمفاصل والأربطة. يوفر الدعم والحماية وإطار الحركة وتخزين المعادن وإنتاج خلايا الدم.",
+      "definition_en": "Body system composed of bones, cartilage, joints, and ligaments. Provides support, protection, movement framework, mineral storage, and blood cell production.",
+      "englishSentence": "The skeletal system is the body's framework, supporting soft tissues and enabling movement.",
+      "type": "system",
+      "chapter": 23,
+      "keywords": [
+        "bones",
+        "cartilage",
+        "joints",
+        "ligaments",
+        "هيكل",
+        "عظام"
+      ]
+    },
+    {
+      "id": 3412,
+      "term": "compact bone",
+      "arabic": "العظم الكثيف (القشري)",
+      "latin": "substantia compacta ossis",
+      "pronunciation": "كومباكت بون",
+      "definition": "الطبقة الخارجية الصلبة والكثيفة للعظم. منظمة في وحدات بنيوية تُسمى الأوستيونات (أنظمة هافرز). مصفوفتها مكوّنة من أملاح الكالسيوم وألياف الكولاجين. توفر صلابة العظم ومقاومته للضغط.",
+      "definition_en": "The outer hard, dense layer of bone. Organized in structural units called osteons (Haversian systems). Matrix composed of calcium salts and collagen. Provides bone rigidity and compressive strength.",
+      "englishSentence": "Compact bone forms the hard outer shell that gives bone its strength to withstand everyday mechanical stress.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "Haversian system",
+        "calcium",
+        "dense",
+        "hard",
+        "عظم كثيف",
+        "قشري"
+      ]
+    },
+    {
+      "id": 3413,
+      "term": "spongy bone",
+      "arabic": "العظم الإسفنجي (التربيقي)",
+      "latin": "substantia spongiosa ossis",
+      "pronunciation": "سبونجي بون",
+      "definition": "العظم المسامي الموجود في نهايات العظام الطويلة وداخل العظام المسطحة. يحتوي على مساحات كثيرة مملوءة بنخاع العظم الأحمر المسؤول عن إنتاج خلايا الدم. خفيف لكن قوي.",
+      "definition_en": "Porous bone located at the ends of long bones and inside flat bones. Many spaces filled with red bone marrow responsible for blood cell production. Lightweight but strong.",
+      "englishSentence": "Spongy bone's lattice structure provides strength while minimizing weight, like a honeycomb.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "red marrow",
+        "hematopoiesis",
+        "porous",
+        "trabecular",
+        "عظم إسفنجي",
+        "نخاع أحمر"
+      ]
+    },
+    {
+      "id": 3414,
+      "term": "long bones",
+      "arabic": "العظام الطويلة",
+      "latin": "ossa longa",
+      "pronunciation": "لونغ بونز",
+      "definition": "عظام عادةً أطول من عرضها، لها جسم (ديافيز) وطرفان (إبيفيز). تتكون بشكل رئيسي من عظم كثيف. أمثلة: عظمة الفخذ والعضد والساق والساعد والأصابع.",
+      "definition_en": "Bones typically longer than wide with a shaft (diaphysis) and two ends (epiphyses). Composed mainly of compact bone. Examples: femur, humerus, tibia, fibula, radius, ulna, phalanges.",
+      "englishSentence": "Long bones act as levers that amplify the force of muscle contractions to produce movement.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "femur",
+        "humerus",
+        "shaft",
+        "lever",
+        "عظام طويلة",
+        "فخذ"
+      ]
+    },
+    {
+      "id": 3415,
+      "term": "short bones",
+      "arabic": "العظام القصيرة",
+      "latin": "ossa brevia",
+      "pronunciation": "شورت بونز",
+      "definition": "عظام مكعبية الشكل تقريباً تتكون أساساً من عظم إسفنجي. أمثلة: عظام الرسغ (الكاربال) وعظام الكاحل (الطرسال).",
+      "definition_en": "Roughly cube-shaped bones composed mainly of spongy bone. Examples: carpals (wrist bones) and tarsals (ankle bones).",
+      "englishSentence": "The short bones of the wrist allow gliding movements that make fine hand movements possible.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "carpals",
+        "tarsals",
+        "cube-shaped",
+        "عظام قصيرة",
+        "رسغ"
+      ]
+    },
+    {
+      "id": 3416,
+      "term": "flat bones",
+      "arabic": "العظام المسطحة",
+      "latin": "ossa plana",
+      "pronunciation": "فلات بونز",
+      "definition": "عظام رقيقة ومسطحة وعادةً منحنية. تتكون من طبقتين من العظم الكثيف تحيطان بطبقة من العظم الإسفنجي (الديبلوي). توفر مساحة واسعة لارتباط العضلات وحماية الأعضاء. أمثلة: عظام الجمجمة والأضلاع والقص والكتف.",
+      "definition_en": "Thin, flattened, usually curved bones. Two compact bone layers surrounding a spongy bone layer (diploe). Provide large muscle attachment areas and organ protection. Examples: skull, ribs, sternum, scapula.",
+      "englishSentence": "Flat bones like the sternum are ideal sites for red bone marrow and blood cell production in adults.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "skull",
+        "ribs",
+        "sternum",
+        "scapula",
+        "عظام مسطحة",
+        "جمجمة"
+      ]
+    },
+    {
+      "id": 3417,
+      "term": "irregular bones",
+      "arabic": "العظام غير المنتظمة",
+      "latin": "ossa irregularia",
+      "pronunciation": "إيريغيولار بونز",
+      "definition": "عظام ذات أشكال معقدة لا تندرج في الفئات الأخرى. أمثلة: الفقرات وعظام الورك وبعض عظام الوجه.",
+      "definition_en": "Bones with complex shapes that don't fit into other classification categories. Examples: vertebrae, hip bones, and some facial bones.",
+      "englishSentence": "The irregular shape of vertebrae allows them to both protect the spinal cord and support body weight.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "vertebrae",
+        "complex shape",
+        "فقرات",
+        "عظام غير منتظمة"
+      ]
+    },
+    {
+      "id": 3418,
+      "term": "sesamoid bones",
+      "arabic": "العظام السمسمانية",
+      "latin": "ossa sesamoidea",
+      "pronunciation": "سيساموييد بونز",
+      "definition": "عظام صغيرة مدمجة في الأوتار. أكبرها الرضفة (الركبة). تحمي الأوتار من التآكل وتُحسّن الرفع الميكانيكي للعضلات.",
+      "definition_en": "Small bones embedded in tendons. The largest is the patella (kneecap). Protect tendons from wear and improve mechanical leverage of muscles.",
+      "englishSentence": "The patella is the largest sesamoid bone; it protects the knee tendon and improves the leverage of the quadriceps.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "patella",
+        "tendon",
+        "leverage",
+        "عظام سمسمانية",
+        "رضفة"
+      ]
+    },
+    {
+      "id": 3419,
+      "term": "diaphysis",
+      "arabic": "جسم العظم (الديافيز)",
+      "latin": "diaphysis",
+      "pronunciation": "دايافيسيس",
+      "definition": "جسم (شافت) العظم الطويل. يتكون من عظم كثيف ويحيط بالتجويف النخاعي الذي يحتوي على نخاع العظم الأصفر (دهون) في البالغين.",
+      "definition_en": "The shaft of a long bone composed of compact bone surrounding the medullary cavity that contains yellow marrow (fat) in adults.",
+      "englishSentence": "The diaphysis of the femur must withstand enormous bending forces every time we walk or run.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "shaft",
+        "compact bone",
+        "medullary cavity",
+        "جسم عظم",
+        "شافت"
+      ]
+    },
+    {
+      "id": 3420,
+      "term": "epiphysis",
+      "arabic": "طرف العظم (الإبيفيز)",
+      "latin": "epiphysis",
+      "pronunciation": "إيبيفيسيس",
+      "definition": "طرف العظم الطويل، يتكون أساساً من عظم إسفنجي مغطى بطبقة رقيقة من العظم الكثيف. يُغطى سطحه المفصلي بالغضروف الهياليني. موقع لوح النمو (الإبيفيزي) في الأطفال.",
+      "definition_en": "The end of a long bone composed mainly of spongy bone covered by thin compact bone. Its joint surface is covered with hyaline articular cartilage. Site of epiphyseal plate in children.",
+      "englishSentence": "The epiphysis of long bones is where joints form and where red bone marrow produces blood cells.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "bone end",
+        "spongy bone",
+        "articular cartilage",
+        "طرف عظم",
+        "إبيفيز"
+      ]
+    },
+    {
+      "id": 3421,
+      "term": "periosteum",
+      "arabic": "السمحاق",
+      "latin": "periosteum",
+      "pronunciation": "بيريوستيم",
+      "definition": "غشاء نسيج ضام ليفي يُغطي السطح الخارجي للعظم (عدا الأسطح المفصلية). يحتوي على أوعية دموية وأعصاب وخلايا عظمية. موقع ارتباط الأوتار والأربطة. ضروري لنمو العظم وإصلاحه.",
+      "definition_en": "A fibrous connective tissue membrane covering the external bone surface (except articular surfaces). Contains blood vessels, nerves, and bone cells. Attachment site for tendons and ligaments. Essential for bone growth and repair.",
+      "englishSentence": "The periosteum is richly innervated, which is why bone fractures and periostitis are so painful.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "outer membrane",
+        "tendons",
+        "growth",
+        "repair",
+        "سمحاق",
+        "غشاء عظم"
+      ]
+    },
+    {
+      "id": 3422,
+      "term": "endosteum",
+      "arabic": "النخاميص (الغشاء الداخلي للعظم)",
+      "latin": "endosteum",
+      "pronunciation": "إندوستيم",
+      "definition": "غشاء رقيق يُبطّن التجويف النخاعي وجميع التجاويف الداخلية للعظم. يحتوي على خلايا عظمية بانية وهادمة. نشط في نمو العظم وإعادة تشكيله.",
+      "definition_en": "A thin membrane lining the medullary cavity and all internal bone cavities. Contains osteoblasts and osteoclasts. Active in bone growth and remodeling.",
+      "englishSentence": "The endosteum lines the medullary cavity and contributes to bone remodeling throughout life.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "inner membrane",
+        "osteoblasts",
+        "remodeling",
+        "نخاميص",
+        "غشاء داخلي"
+      ]
+    },
+    {
+      "id": 3423,
+      "term": "articular cartilage",
+      "arabic": "الغضروف المفصلي",
+      "latin": "cartilago articularis",
+      "pronunciation": "آرتيكيولار كارتيليج",
+      "definition": "غضروف هياليني يُغطي أسطح العظام المفصلية. يُقلل من الاحتكاك ويمتص الصدمات في المفاصل الزليلية. لا يُصلَح جيداً إذا تلف لأنه لا أوعية دموية فيه.",
+      "definition_en": "Hyaline cartilage covering the articular surfaces of bones. Reduces friction and absorbs shock in synovial joints. Does not repair well when damaged due to its avascular nature.",
+      "englishSentence": "The articular cartilage of the knee deteriorates in osteoarthritis, causing pain and limited mobility.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "hyaline cartilage",
+        "friction reduction",
+        "joint surface",
+        "غضروف مفصلي",
+        "مفصل"
+      ]
+    },
+    {
+      "id": 3424,
+      "term": "medullary cavity",
+      "arabic": "التجويف النخاعي",
+      "latin": "cavitas medullaris",
+      "pronunciation": "ميديولاري كافيتي",
+      "definition": "التجويف الأسطواني في جسم العظم الطويل. يحتوي على نخاع العظم الأصفر (دهون) في البالغين وعلى نخاع العظم الأحمر (لإنتاج خلايا الدم) في الرضع.",
+      "definition_en": "The cylindrical cavity in the shaft of a long bone. Contains yellow marrow (fat) in adults and red marrow (for blood cell formation) in infants.",
+      "englishSentence": "In children, the medullary cavity contains red bone marrow for blood cell production, which is replaced by fat in adults.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "yellow marrow",
+        "red marrow",
+        "shaft cavity",
+        "تجويف نخاعي",
+        "نخاع عظم"
+      ]
+    },
+    {
+      "id": 3425,
+      "term": "red bone marrow",
+      "arabic": "نخاع العظم الأحمر",
+      "latin": "medulla ossium rubra",
+      "pronunciation": "ريد بون ماروو",
+      "definition": "نسيج نخاعي نشط موجود في التجاويف الإسفنجية لبعض العظام. يُنتج جميع أنواع خلايا الدم (كريات حمراء وبيضاء وصفائح دموية) عبر عملية تكوين الدم (الهيماتوبويسيس).",
+      "definition_en": "Active marrow tissue found in the spongy cavities of certain bones. Produces all blood cell types (RBCs, WBCs, platelets) through hematopoiesis.",
+      "englishSentence": "Red bone marrow in flat bones like the sternum and pelvis produces millions of blood cells every second.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "hematopoiesis",
+        "blood cells",
+        "spongy bone",
+        "نخاع أحمر",
+        "دم"
+      ]
+    },
+    {
+      "id": 3426,
+      "term": "yellow bone marrow",
+      "arabic": "نخاع العظم الأصفر",
+      "latin": "medulla ossium flava",
+      "pronunciation": "يلو بون ماروو",
+      "definition": "نسيج نخاعي خامل يتكون أساساً من خلايا دهنية. يملأ التجويف النخاعي في عظام البالغين. يمكن تحوّله إلى نخاع أحمر في حالات فقدان الدم الشديد.",
+      "definition_en": "Inactive marrow tissue composed mainly of fat cells. Fills the medullary cavity of adult bones. Can convert back to red marrow in severe blood loss.",
+      "englishSentence": "Yellow bone marrow serves as a fat reserve that can be converted back to red marrow during severe anemia.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "fat storage",
+        "inactive marrow",
+        "energy reserve",
+        "نخاع أصفر",
+        "دهون"
+      ]
+    },
+    {
+      "id": 3427,
+      "term": "osteon",
+      "arabic": "الأوستيون (نظام هافرز)",
+      "latin": "osteon",
+      "pronunciation": "أوستيون",
+      "definition": "الوحدة البنيوية الأساسية للعظم الكثيف. يتكون من قناة مركزية (هافرز) محاطة بحلقات متحدة المركز من النسيج العظمي (الصفائح) وبها صُهيريجات وأوستيوسيت وقنيات.",
+      "definition_en": "The basic structural unit of compact bone. Consists of a central (Haversian) canal surrounded by concentric rings of bone matrix (lamellae) with lacunae, osteocytes, and canaliculi.",
+      "englishSentence": "The osteon is like a tiny pillar of bone; its cylindrical structure makes compact bone incredibly strong.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "Haversian system",
+        "lamellae",
+        "compact bone unit",
+        "أوستيون",
+        "هافرز"
+      ]
+    },
+    {
+      "id": 3428,
+      "term": "Haversian canal",
+      "arabic": "قناة هافرز (المركزية)",
+      "latin": "canalis Haversii",
+      "pronunciation": "هافيرسيان كانال",
+      "definition": "القناة المركزية الطولية في كل أوستيون تحتوي على الأوعية الدموية والأعصاب. تُغذي خلايا العظم (الأوستيوسيت) عبر الصُّهيريجات والقنيات.",
+      "definition_en": "The central longitudinal canal in each osteon containing blood vessels and nerves. Nourishes bone cells (osteocytes) through the lacunae and canaliculi.",
+      "englishSentence": "Blood vessels in the Haversian canal supply nutrients to osteocytes buried deep within the compact bone matrix.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "central canal",
+        "blood vessels",
+        "nerves",
+        "قناة هافرز",
+        "مركزية"
+      ]
+    },
+    {
+      "id": 3429,
+      "term": "Volkmann's canals",
+      "arabic": "قنوات فولكمان",
+      "latin": "canales perforantes",
+      "pronunciation": "فولكمانز كانالز",
+      "definition": "قنوات عمودية على قنوات هافرز تمر من السمحاق إلى النخاميص عبر العظم الكثيف. تنقل الأوعية الدموية والأعصاب بصورة عمودية لربط القنوات المركزية ببعضها.",
+      "definition_en": "Canals perpendicular to Haversian canals passing from periosteum to endosteum through compact bone. Carry blood vessels and nerves connecting central canals to each other and to the bone surface.",
+      "englishSentence": "Volkmann's canals create a network connecting Haversian canals, ensuring nutrients reach all osteocytes.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "perforating canals",
+        "perpendicular",
+        "blood vessels",
+        "قنوات فولكمان",
+        "عمودية"
+      ]
+    },
+    {
+      "id": 3430,
+      "term": "lamellae",
+      "arabic": "الصفائح العظمية",
+      "latin": "lamellae osseae",
+      "pronunciation": "لاميلاي",
+      "definition": "حلقات متحدة المركز من المصفوفة العظمية المعدنة تحيط بالقناة المركزية في الأوستيون. كل صفيحة مؤلفة من ألياف كولاجين تتعامد مع الصفيحة المجاورة مما يُعطي العظم قوةً استثنائية.",
+      "definition_en": "Concentric rings of mineralized bone matrix surrounding the central canal in an osteon. Each lamella has collagen fibers perpendicular to adjacent lamellae, giving bone exceptional strength.",
+      "englishSentence": "The concentric arrangement of lamellae in the osteon makes compact bone resistant to torsional forces.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "concentric rings",
+        "matrix",
+        "osteon rings",
+        "صفائح عظمية",
+        "حلقات متحدة"
+      ]
+    },
+    {
+      "id": 3431,
+      "term": "lacunae",
+      "arabic": "الصُّهيريجات",
+      "latin": "lacunae osseae",
+      "pronunciation": "لاكيونيي",
+      "definition": "تجاويف أو فراغات صغيرة في النسيج العظمي أو الغضروفي تحتوي على الخلايا الناضجة (أوستيوسيت في العظم، كوندروسيت في الغضروف). مرتبطة ببعضها عبر القنيات.",
+      "definition_en": "Small cavities or spaces in bone or cartilage tissue that house the mature cells (osteocytes in bone, chondrocytes in cartilage). Connected to each other through canaliculi.",
+      "englishSentence": "Each lacuna houses one osteocyte, which maintains its surrounding bone matrix and communicates through canaliculi.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "cell pockets",
+        "osteocytes",
+        "chondrocytes",
+        "صهيريجات",
+        "تجاويف خلوية"
+      ]
+    },
+    {
+      "id": 3432,
+      "term": "canaliculi",
+      "arabic": "القنيات (الأنيبيبات الدقيقة العظمية)",
+      "latin": "canaliculi ossei",
+      "pronunciation": "كانيليكيولاي",
+      "definition": "قنوات دقيقة تشع من القناة المركزية إلى الصُّهيريجات وتربطها ببعضها. تشكّل شبكة للتبادل الغذائي والتواصل بين الأوستيوسيتات والقناة المركزية.",
+      "definition_en": "Tiny canals radiating from the central canal to the lacunae, connecting them to each other. Form a transport network for nutrient exchange and communication between osteocytes and central canal.",
+      "englishSentence": "Canaliculi form a microscopic highway system through bone, delivering nutrients and removing waste from buried osteocytes.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "transport system",
+        "nutrient exchange",
+        "tiny canals",
+        "قنيات",
+        "نقل غذاء"
+      ]
+    },
+    {
+      "id": 3433,
+      "term": "epiphyseal plate",
+      "arabic": "لوح النمو (الصفيحة المشاشية)",
+      "latin": "lamina epiphysialis",
+      "pronunciation": "إيبيفيزيال بليت",
+      "definition": "طبقة من الغضروف الهياليني توجد بين جسم العظم والطرف في العظام الطويلة النامية. هي موقع النمو الطولي للعظم في الأطفال والمراهقين. تتعظّم بالكامل في مرحلة البلوغ لتُصبح الخط المشاشي.",
+      "definition_en": "A layer of hyaline cartilage between the diaphysis and epiphysis of growing long bones. Site of longitudinal bone growth in children and adolescents. Completely ossifies at adulthood becoming the epiphyseal line.",
+      "englishSentence": "Damage to the epiphyseal plate in children can permanently stunt bone growth in that limb.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "growth plate",
+        "hyaline cartilage",
+        "longitudinal growth",
+        "لوح نمو",
+        "مشاشية"
+      ]
+    },
+    {
+      "id": 3434,
+      "term": "endochondral ossification",
+      "arabic": "التعظّم الغضروفي",
+      "latin": "ossificatio endochondralis",
+      "pronunciation": "إندوكوندرال أوسيفيكيشن",
+      "definition": "عملية تكوين معظم عظام الجسم على نموذج غضروفي هياليني. يُستبدل الغضروف تدريجياً بنسيج عظمي. هذه هي الطريقة الرئيسية لتشكّل العظام الطويلة.",
+      "definition_en": "The process of forming most body bones on a hyaline cartilage model. Cartilage is gradually replaced by bone tissue. The primary method of long bone formation.",
+      "englishSentence": "During endochondral ossification, cartilage acts as a temporary scaffold that is progressively replaced by bone.",
+      "type": "process",
+      "chapter": 23,
+      "keywords": [
+        "cartilage template",
+        "bone formation",
+        "long bones",
+        "تعظم غضروفي"
+      ]
+    },
+    {
+      "id": 3435,
+      "term": "intramembranous ossification",
+      "arabic": "التعظّم الغشائي",
+      "latin": "ossificatio intramembranosa",
+      "pronunciation": "إنترامِمبرانوس أوسيفيكيشن",
+      "definition": "عملية تكوين عظام معينة مباشرةً من غشاء ليفي دون نموذج غضروفي. تُشكّل بهذه الطريقة عظام الجمجمة والترقوة.",
+      "definition_en": "The process of bone formation directly from a fibrous membrane without a cartilage model. Forms skull bones and the clavicle.",
+      "englishSentence": "Intramembranous ossification forms the flat bones of the skull, starting from centers of ossification in the fibrous membrane.",
+      "type": "process",
+      "chapter": 23,
+      "keywords": [
+        "fibrous membrane",
+        "skull bones",
+        "clavicle",
+        "تعظم غشائي",
+        "جمجمة"
+      ]
+    },
+    {
+      "id": 3436,
+      "term": "bone remodeling",
+      "arabic": "إعادة تشكّل العظم",
+      "latin": "remodelatio ossis",
+      "pronunciation": "بون ريمودلينغ",
+      "definition": "عملية مستمرة مدى الحياة تتضمن تزامن بناء العظم بواسطة الأوستيوبلاست وهدمه بواسطة الأوستيوكلاست. تُكيّف العظام حسب القوى المؤثرة عليها وتُنظّم مستوى الكالسيوم في الدم.",
+      "definition_en": "A continuous lifelong process involving balanced bone building by osteoblasts and resorption by osteoclasts. Adapts bones to mechanical forces and regulates blood calcium levels.",
+      "englishSentence": "Bone remodeling replaces the entire skeleton approximately every 10 years throughout adult life.",
+      "type": "process",
+      "chapter": 23,
+      "keywords": [
+        "osteoblasts",
+        "osteoclasts",
+        "calcium regulation",
+        "إعادة تشكل",
+        "بنيان عظم"
+      ]
+    },
+    {
+      "id": 3437,
+      "term": "fracture",
+      "arabic": "الكسر",
+      "latin": "fractura",
+      "pronunciation": "فراكتشر",
+      "definition": "تكسّر العظم بسبب الضغط أو الصدمة أو الأمراض. أنواعه: مغلق (جلد سليم) ومفتوح أو مركّب (يخترق الجلد)، منسحق وأخضر وحلزوني وعرضي وضغطي.",
+      "definition_en": "A break in bone due to force, trauma, or disease. Types: closed (skin intact), open/compound (skin penetrated), comminuted, greenstick, spiral, transverse, compression.",
+      "englishSentence": "A stress fracture occurs when repetitive force gradually weakens bone, common in athletes.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "break",
+        "closed",
+        "open",
+        "comminuted",
+        "كسر",
+        "رضح"
+      ]
+    },
+    {
+      "id": 3438,
+      "term": "fracture repair",
+      "arabic": "إصلاح الكسر",
+      "latin": "reparatio fracturae",
+      "pronunciation": "فراكتشر ريبير",
+      "definition": "عملية التئام الكسر في أربع مراحل: 1-تشكّل الورم الدموي، 2-تشكّل الكالس الغضروفي الليفي، 3-تشكّل الكالس العظمي، 4-إعادة التشكّل. يستغرق الكسر البسيط 6-8 أسابيع.",
+      "definition_en": "Bone healing in four stages: 1-hematoma formation, 2-fibrocartilaginous callus, 3-bony callus formation, 4-bone remodeling. Simple fracture takes 6-8 weeks.",
+      "englishSentence": "Fracture repair requires adequate calcium, vitamin D, and blood supply to form a strong bony callus.",
+      "type": "process",
+      "chapter": 23,
+      "keywords": [
+        "hematoma",
+        "callus",
+        "healing",
+        "التئام كسر",
+        "كالس"
+      ]
+    },
+    {
+      "id": 3439,
+      "term": "hematoma",
+      "arabic": "الورم الدموي",
+      "latin": "haematoma",
+      "pronunciation": "هيماتوما",
+      "definition": "تراكم الدم خارج الأوعية الدموية في الأنسجة. يتشكّل في المرحلة الأولى من إصلاح الكسر عند تمزّق الأوعية الدموية. يُوفر إطار الجلطة الأولية لعملية الإصلاح.",
+      "definition_en": "Accumulation of blood outside blood vessels in tissues. Forms in the first stage of fracture repair when blood vessels are torn. Provides the initial clot framework for the repair process.",
+      "englishSentence": "The hematoma formed after a fracture contains growth factors that initiate the healing cascade.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "blood clot",
+        "fracture healing",
+        "first stage",
+        "ورم دموي",
+        "دم"
+      ]
+    },
+    {
+      "id": 3440,
+      "term": "axial skeleton",
+      "arabic": "الهيكل المحوري",
+      "latin": "skeleton axiale",
+      "pronunciation": "أكسيال سكيليتون",
+      "definition": "القسم المركزي من الهيكل العظمي يتكون من 80 عظمة. يشمل: الجمجمة والعظام المرتبطة بها (العظيمات السمعية وعظمة اللامي) والعمود الفقري والقفص الصدري (القص والأضلاع).",
+      "definition_en": "The central portion of the skeleton consisting of 80 bones. Includes: skull and associated bones (auditory ossicles, hyoid), vertebral column, and bony thorax (sternum, ribs).",
+      "englishSentence": "The axial skeleton forms the central axis of the body and protects the brain and spinal cord.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "skull",
+        "vertebral column",
+        "sternum",
+        "ribs",
+        "هيكل محوري",
+        "80 عظمة"
+      ]
+    },
+    {
+      "id": 3441,
+      "term": "appendicular skeleton",
+      "arabic": "الهيكل الطرفي",
+      "latin": "skeleton appendiculare",
+      "pronunciation": "أبينديكيولار سكيليتون",
+      "definition": "قسم الهيكل العظمي الذي يُمكّن الحركة والتلاعب بالأشياء. يتكون من 126 عظمة ويشمل: حزام الكتف والطرفين العلويين وحزام الحوض والطرفين السفليين.",
+      "definition_en": "The portion of the skeleton enabling movement and object manipulation. Consists of 126 bones including: pectoral girdle, upper limbs, pelvic girdle, and lower limbs.",
+      "englishSentence": "The appendicular skeleton enables us to reach, grasp, walk, and run through its system of bones and joints.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "limbs",
+        "pectoral girdle",
+        "pelvic girdle",
+        "هيكل طرفي",
+        "126 عظمة"
+      ]
+    },
+    {
+      "id": 3442,
+      "term": "skull",
+      "arabic": "الجمجمة",
+      "latin": "cranium",
+      "pronunciation": "سكال",
+      "definition": "مجموعة من 22 عظمة تحمي الدماغ وأعضاء الحواس. تنقسم إلى قحف (8 عظمات تحيط بالدماغ) وعظام وجه (14 عظمة). معظمها مترابطة بمفاصل ثابتة (الدروز) ما عدا الفك السفلي.",
+      "definition_en": "A collection of 22 bones protecting the brain and sense organs. Divided into cranium (8 bones encasing brain) and facial bones (14 bones). Most joined by immovable sutures except the mandible.",
+      "englishSentence": "The skull's 22 bones form a rigid case that protects the brain from all directions.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "cranium",
+        "facial bones",
+        "brain protection",
+        "جمجمة",
+        "قحف"
+      ]
+    },
+    {
+      "id": 3443,
+      "term": "frontal bone",
+      "arabic": "العظم الجبهي",
+      "latin": "os frontale",
+      "pronunciation": "فرونتال بون",
+      "definition": "عظمة واحدة تشكّل الجبهة والسقف الأمامي للجمجمة وسقف محجري العينين. تحتوي على الجيوب الجبهية. تُلتقي بالعظمتين الجداريتين عند الدرز الإكليلي.",
+      "definition_en": "A single bone forming the forehead, anterior cranial roof, and orbital roofs. Contains the frontal sinuses. Meets the parietal bones at the coronal suture.",
+      "englishSentence": "The frontal bone protects the frontal lobes of the brain and forms the prominent brow ridge.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "forehead",
+        "frontal sinus",
+        "coronal suture",
+        "عظم جبهي",
+        "جبهة"
+      ]
+    },
+    {
+      "id": 3444,
+      "term": "parietal bones",
+      "arabic": "العظمتان الجداريتان",
+      "latin": "ossa parietalia",
+      "pronunciation": "باريتال بونز",
+      "definition": "عظمتان تُشكّلان معظم سقف الجمجمة وجانبيها. تلتقيان في المنتصف عند الدرز السهمي وتتلاقيان مع العظم الجبهي عند الدرز الإكليلي ومع العظم القفوي عند الدرز اللامدي.",
+      "definition_en": "Two bones forming most of the cranial roof and sides. Meet at the midline at the sagittal suture; meet the frontal bone at the coronal suture and occipital bone at the lambdoid suture.",
+      "englishSentence": "The parietal bones form the dome of the skull that houses the large parietal lobes of the brain.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "cranial roof",
+        "sagittal suture",
+        "skull sides",
+        "عظم جداري",
+        "جمجمة"
+      ]
+    },
+    {
+      "id": 3445,
+      "term": "temporal bones",
+      "arabic": "العظمتان الصدغيتان",
+      "latin": "ossa temporalia",
+      "pronunciation": "تيمبورال بونز",
+      "definition": "عظمتان تُشكّلان الجزء السفلي الجانبي من الجمجمة. تحتويان على القناة السمعية الخارجية وتجويف الأذن الوسطى والداخلية. توفران ارتكازاً لمفصل الفك الصدغي الفكي.",
+      "definition_en": "Two bones forming the lower lateral cranium. Contain the external auditory canal and middle and inner ear cavities. Provide articulation for the temporomandibular (jaw) joint.",
+      "englishSentence": "The temporal bones house the delicate structures of hearing and balance within their petrous portions.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "ear",
+        "auditory canal",
+        "TMJ",
+        "عظم صدغي",
+        "أذن"
+      ]
+    },
+    {
+      "id": 3446,
+      "term": "occipital bone",
+      "arabic": "العظم القفوي",
+      "latin": "os occipitale",
+      "pronunciation": "أوكسيبيتال بون",
+      "definition": "العظم الموجود في مؤخرة وقاع الجمجمة. يحتوي على الثقبة العظمى (foramen magnum) التي يمر من خلالها الحبل الشوكي. له لقمتان يرتكز عليهما الرأس فوق الفقرة الأطلسية.",
+      "definition_en": "The bone forming the posterior and inferior cranium. Contains the foramen magnum (opening for spinal cord). Has occipital condyles articulating with atlas (C1).",
+      "englishSentence": "The foramen magnum in the occipital bone is the passageway through which the brain connects to the spinal cord.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "foramen magnum",
+        "occipital condyles",
+        "posterior skull",
+        "عظم قفوي",
+        "قفا"
+      ]
+    },
+    {
+      "id": 3447,
+      "term": "sphenoid bone",
+      "arabic": "العظم الوتدي",
+      "latin": "os sphenoidale",
+      "pronunciation": "سفينويد بون",
+      "definition": "عظمة مجناحية الشكل في قاعدة الجمجمة تُعدّ حجر الزاوية في الجمجمة. تُفصل الجزء الأمامي عن الخلفي من قاع الجمجمة. تحتوي على السرج التركي الذي يحوي الغدة النخامية.",
+      "definition_en": "A butterfly-shaped bone at the base of the skull considered the keystone of the skull. Separates anterior from posterior cranial floor. Contains the sella turcica housing the pituitary gland.",
+      "englishSentence": "The sphenoid bone's sella turcica cradles the pituitary gland, the master endocrine gland.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "skull base",
+        "sella turcica",
+        "pituitary",
+        "عظم وتدي",
+        "قاعدة جمجمة"
+      ]
+    },
+    {
+      "id": 3448,
+      "term": "ethmoid bone",
+      "arabic": "العظم الغربالي",
+      "latin": "os ethmoidale",
+      "pronunciation": "إيثمويد بون",
+      "definition": "عظمة هشة في قاعدة الجمجمة الأمامية بين محجري العينين. تُشكّل سقف التجويف الأنفي وجزءاً من الحاجز الأنفي. تحتوي على الصفيحة المثقوبة (cribriform plate) التي تمر منها ألياف العصب الشمي.",
+      "definition_en": "A delicate bone in the anterior cranial floor between the eye orbits. Forms the nasal cavity roof and part of the nasal septum. Contains the cribriform plate through which olfactory nerve fibers pass.",
+      "englishSentence": "The olfactory nerves pass through the cribriform plate of the ethmoid bone to reach the brain.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "nasal cavity",
+        "cribriform plate",
+        "olfactory",
+        "عظم غربالي",
+        "شم"
+      ]
+    },
+    {
+      "id": 3449,
+      "term": "mandible",
+      "arabic": "الفك السفلي",
+      "latin": "mandibula",
+      "pronunciation": "مانديبل",
+      "definition": "العظم الوحيد المتحرك في الجمجمة. يُشكّل الفك السفلي ويحمل الأسنان السفلية. يُفصّل مع العظم الصدغي في مفصل الفك الصدغي الفكي (TMJ). ضروري للمضغ والكلام.",
+      "definition_en": "The only freely movable bone of the skull. Forms the lower jaw and bears lower teeth. Articulates with the temporal bone at the temporomandibular joint (TMJ). Essential for chewing and speech.",
+      "englishSentence": "The mandible is the strongest and largest facial bone, forming the chin and lower jaw.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "lower jaw",
+        "teeth",
+        "TMJ",
+        "chewing",
+        "فك سفلي",
+        "مضغ"
+      ]
+    },
+    {
+      "id": 3450,
+      "term": "maxillae",
+      "arabic": "عظما الفك العلوي",
+      "latin": "maxillae",
+      "pronunciation": "ماكسيلاي",
+      "definition": "عظمتان مزدوجتان تُشكّلان الفك العلوي وحافته تحمل الأسنان العلوية. هما أكبر عظام الوجه. تُشكّلان معظم الحنك العظمي الصلب وأرضية محجري العينين وجدران التجويف الأنفي.",
+      "definition_en": "Paired bones forming the upper jaw bearing the upper teeth. The largest facial bones. Form most of the hard palate, floor of the orbits, and walls of the nasal cavity.",
+      "englishSentence": "A cleft palate results from the failure of the two maxillae to fuse during fetal development.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "upper jaw",
+        "hard palate",
+        "upper teeth",
+        "فك علوي",
+        "حنك"
+      ]
+    },
+    {
+      "id": 3451,
+      "term": "zygomatic bones",
+      "arabic": "عظما الوجنة",
+      "latin": "ossa zygomatica",
+      "pronunciation": "زايغوماتيك بونز",
+      "definition": "عظمتان تُشكّلان بروز الخد وحافة الحجاج الوجنية. تتمفصلان مع العظم الصدغي لتُكوّنا القوس الوجني.",
+      "definition_en": "Paired bones forming the cheekbone prominence and lateral orbital margin. Articulate with temporal bones to form the zygomatic arch.",
+      "englishSentence": "A fractured zygomatic bone causes the characteristic 'sunken cheek' deformity seen after facial trauma.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "cheekbone",
+        "zygomatic arch",
+        "orbit",
+        "عظمة وجنة",
+        "خد"
+      ]
+    },
+    {
+      "id": 3452,
+      "term": "hyoid bone",
+      "arabic": "عظمة اللامي",
+      "latin": "os hyoideum",
+      "pronunciation": "هايويد بون",
+      "definition": "العظمة الوحيدة في الجسم التي لا تتمفصل مع أي عظمة أخرى. تقع في العنق أسفل اللسان معلّقة بأربطة. تُوفر قاعدة ارتكاز لعضلات اللسان والحنجرة. الشكل U يُشبه حرف اليونانية υ (ابسيلون).",
+      "definition_en": "The only bone in the body not articulating with any other bone. Located in the neck below the tongue, suspended by ligaments. Provides a base for tongue and larynx muscles.",
+      "englishSentence": "A fractured hyoid bone is a classic indicator of manual strangulation in forensic investigations.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "tongue muscles",
+        "suspended",
+        "neck",
+        "عظمة اللامي",
+        "لسان"
+      ]
+    },
+    {
+      "id": 3453,
+      "term": "paranasal sinuses",
+      "arabic": "الجيوب الأنفية الملحقة",
+      "latin": "sinus paranasales",
+      "pronunciation": "باراناسال سينوسيز",
+      "definition": "تجاويف هوائية مُبطّنة بغشاء مخاطي في عظام الجمجمة وتفتح في التجويف الأنفي. أربعة منها: الجبهي والوتدي والغربالي والفكي العلوي (الأكبر). تُخفّف وزن الجمجمة وتُصدّي للصوت وتُدفّئ الهواء وتُرطّبه.",
+      "definition_en": "Air-filled cavities lined with mucous membrane in skull bones opening into the nasal cavity. Four pairs: frontal, sphenoid, ethmoid, maxillary (largest). Lighten skull, resonate voice, warm and humidify air.",
+      "englishSentence": "Sinusitis is inflammation of the paranasal sinuses, causing facial pain, pressure, and nasal congestion.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "sinusitis",
+        "nasal cavity",
+        "voice resonance",
+        "جيوب أنفية",
+        "التهاب جيوب"
+      ]
+    },
+    {
+      "id": 3454,
+      "term": "sutures",
+      "arabic": "الدروز",
+      "latin": "suturae cranii",
+      "pronunciation": "سوتشرز",
+      "definition": "مفاصل ليفية ثابتة تربط عظام الجمجمة عند البالغين. أهمها: الدرز الإكليلي (جبهي-جداري)، الدرز السهمي (بين الجداريتين)، الدرز اللامدي (جداري-قفوي)، الدرز الحرشفي (جداري-صدغي).",
+      "definition_en": "Fibrous immovable joints connecting skull bones in adults. Major sutures: coronal (frontal-parietal), sagittal (between parietals), lambdoid (parietal-occipital), squamous (parietal-temporal).",
+      "englishSentence": "Skull sutures are completely fused by adulthood, making the cranium a rigid, protective case for the brain.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "cranial sutures",
+        "immovable joints",
+        "coronal",
+        "sagittal",
+        "دروز",
+        "مفاصل ثابتة"
+      ]
+    },
+    {
+      "id": 3455,
+      "term": "fontanels",
+      "arabic": "اليوافيخ (النوافذ)",
+      "latin": "fonticuli cranii",
+      "pronunciation": "فونتانيلز",
+      "definition": "مناطق من النسيج الضام الليفي تبقى بين عظام جمجمة الرضيع حيث لم يكتمل التعظّم. تسمح بضغط رأس الجنين أثناء الولادة وبنمو الدماغ بعدها. تُغلق جميعها بالتعظّم بحلول عمر السنتين.",
+      "definition_en": "Areas of fibrous connective tissue remaining between skull bones at birth where ossification is incomplete. Permit skull compression during birth and brain growth after birth. All close by age 2.",
+      "englishSentence": "The anterior fontanel (soft spot) allows doctors to assess brain pressure in infants before the skull fully ossifies.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "soft spots",
+        "infant skull",
+        "brain growth",
+        "اليوافيخ",
+        "رأس رضيع"
+      ]
+    },
+    {
+      "id": 3456,
+      "term": "vertebral column",
+      "arabic": "العمود الفقري",
+      "latin": "columna vertebralis",
+      "pronunciation": "فيرتيبرال كولم",
+      "definition": "هيكل عظمي مركزي يتكون من 26 فقرة: 7 عنقية + 12 صدرية + 5 قطنية + العجز (5 ملتحمة) + العصعص (3-5 ملتحمة). يحمي الحبل الشوكي ويدعم الجسم ويُيسّر الحركة.",
+      "definition_en": "A central bone structure consisting of 26 vertebrae: 7 cervical + 12 thoracic + 5 lumbar + sacrum (5 fused) + coccyx (3-5 fused). Protects spinal cord, supports body, enables movement.",
+      "englishSentence": "The vertebral column's S-shape curvature distributes body weight efficiently and absorbs walking impacts.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "vertebrae",
+        "spinal cord",
+        "cervical",
+        "thoracic",
+        "lumbar",
+        "عمود فقري",
+        "فقرات"
+      ]
+    },
+    {
+      "id": 3457,
+      "term": "cervical vertebrae",
+      "arabic": "الفقرات العنقية",
+      "latin": "vertebrae cervicales",
+      "pronunciation": "سيرفيكال فيرتيبري",
+      "definition": "سبع فقرات (C1-C7) تُشكّل العمود الفقري في منطقة الرقبة. الأصغر بين الفقرات. تتميز بوجود ثقوب في النتوءات العرضية لمرور الشريان الفقري. الفقرتان الأولى والثانية (الأطلس والمحور) فريدتان.",
+      "definition_en": "Seven vertebrae (C1-C7) forming the cervical spine. Smallest vertebrae with a larger spinal canal. Characterized by transverse foramen for vertebral artery. First two (atlas and axis) are unique.",
+      "englishSentence": "Whiplash injury typically damages the cervical vertebrae and their surrounding ligaments during sudden neck acceleration.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "C1-C7",
+        "neck",
+        "atlas",
+        "axis",
+        "فقرات عنقية",
+        "رقبة"
+      ]
+    },
+    {
+      "id": 3458,
+      "term": "atlas",
+      "arabic": "الأطلس (الفقرة العنقية الأولى C1)",
+      "latin": "atlas",
+      "pronunciation": "أطلاس",
+      "definition": "الفقرة العنقية الأولى (C1) المسؤولة عن دعم الجمجمة. تفتقر إلى جسم فقري ونتوء شوكي. تُتيح حركة الإيماء (الإيماء بالرأس بقول نعم) من خلال مفصلها مع اللقمتين القفويتين.",
+      "definition_en": "The first cervical vertebra (C1) that supports the skull. Lacks a vertebral body and spinous process. Allows nodding movement (saying 'yes') through its articulation with the occipital condyles.",
+      "englishSentence": "The atlas is named after the Greek titan who held up the heavens, as it supports the weight of the skull.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "C1",
+        "skull support",
+        "nodding",
+        "occipital condyles",
+        "أطلس",
+        "فقرة أولى"
+      ]
+    },
+    {
+      "id": 3459,
+      "term": "axis",
+      "arabic": "المحور (الفقرة العنقية الثانية C2)",
+      "latin": "axis",
+      "pronunciation": "أكسيس",
+      "definition": "الفقرة العنقية الثانية (C2) التي تمتلك نتوءاً علوياً يُسمى الشُّكّة (السن) يعمل كمحور لدوران الأطلس والجمجمة. يُتيح حركة التعرف (الدوران الجانبي - قول لا).",
+      "definition_en": "The second cervical vertebra (C2) with a superior projection called the dens (odontoid process) that acts as a pivot for rotation of atlas and skull. Enables rotation (saying 'no').",
+      "englishSentence": "A fracture of the dens on the axis can be fatal because the dens could compress the brainstem.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "C2",
+        "dens",
+        "pivot",
+        "rotation",
+        "محور",
+        "شكّة",
+        "دوران رأس"
+      ]
+    },
+    {
+      "id": 3460,
+      "term": "thoracic vertebrae",
+      "arabic": "الفقرات الصدرية",
+      "latin": "vertebrae thoracicae",
+      "pronunciation": "ثوراسيك فيرتيبري",
+      "definition": "اثنتا عشرة فقرة (T1-T12) في منطقة الصدر. تتمفصل مع الأضلاع وهي أكبر من الفقرات العنقية لكنها أصغر من القطنية. نتوءاتها الشوكية طويلة وتتجه للأسفل.",
+      "definition_en": "Twelve vertebrae (T1-T12) in the chest region. Articulate with ribs; larger than cervical but smaller than lumbar. Spinous processes long and directed inferiorly.",
+      "englishSentence": "The thoracic vertebrae articulate with all 12 pairs of ribs to form the posterior wall of the bony thorax.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "T1-T12",
+        "ribs articulation",
+        "chest",
+        "فقرات صدرية",
+        "صدر"
+      ]
+    },
+    {
+      "id": 3461,
+      "term": "lumbar vertebrae",
+      "arabic": "الفقرات القطنية",
+      "latin": "vertebrae lumbales",
+      "pronunciation": "لامبار فيرتيبري",
+      "definition": "خمس فقرات (L1-L5) في منطقة أسفل الظهر. أكبر وأقوى الفقرات لأنها تتحمل وزن الجسم بالكامل فوقها. أجسامها ضخمة ونتوءاتها الشوكية عريضة وأفقية.",
+      "definition_en": "Five vertebrae (L1-L5) in the lower back. The largest, strongest vertebrae because they bear the most weight. Massive bodies and broad, horizontal spinous processes.",
+      "englishSentence": "Lumbar vertebrae are common sites of herniated discs due to the enormous compressive forces they bear.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "L1-L5",
+        "lower back",
+        "largest",
+        "weight bearing",
+        "فقرات قطنية",
+        "أسفل ظهر"
+      ]
+    },
+    {
+      "id": 3462,
+      "term": "sacrum",
+      "arabic": "العجز",
+      "latin": "os sacrum",
+      "pronunciation": "سيكرم",
+      "definition": "عظمة مثلثية مكوّنة من خمس فقرات ملتحمة (S1-S5). تُشكّل الجدار الخلفي للحوض. تتمفصل مع L5 أعلاه ومع العصعص أسفله. الرافعة العجزية تشتهر في التناسلية والولادة.",
+      "definition_en": "A triangular bone formed by five fused vertebrae (S1-S5). Forms the posterior wall of the pelvis. Articulates with L5 above and coccyx below. Sacral promontory is an important obstetric landmark.",
+      "englishSentence": "The sacrum forms the posterior boundary of the pelvis and transmits body weight to the hip bones.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "fused vertebrae",
+        "pelvis",
+        "S1-S5",
+        "عجز",
+        "حوض"
+      ]
+    },
+    {
+      "id": 3463,
+      "term": "coccyx",
+      "arabic": "العصعص",
+      "latin": "os coccygis",
+      "pronunciation": "كوكسيكس",
+      "definition": "العظمة في أسفل العمود الفقري مكوّنة من 3-5 فقرات ملتحمة. ما تبقى من الذيل التطوري. توفر دعماً محدوداً لأعضاء الحوض. مؤلم عند كسره.",
+      "definition_en": "The tailbone at the base of the vertebral column formed by 3-5 fused vertebrae. Vestigial tail remnant. Provides slight support to pelvic organs. Very painful when fractured.",
+      "englishSentence": "The coccyx is a remnant of the tail found in other mammals and can be fractured by a hard fall on the buttocks.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "tailbone",
+        "fused",
+        "vestigial",
+        "عصعص",
+        "ذيل"
+      ]
+    },
+    {
+      "id": 3464,
+      "term": "intervertebral discs",
+      "arabic": "الأقراص الفقرية",
+      "latin": "disci intervertebrales",
+      "pronunciation": "إنتيرفيرتيبرال ديسكس",
+      "definition": "وسائد من الغضروف الليفي بين الفقرات. تتكون من حلقة ليفية خارجية (annulus fibrosus) ونواة هلامية داخلية (nucleus pulposus). تعمل كممتصات للصدمات وتُيسّر الحركة.",
+      "definition_en": "Fibrocartilage pads between vertebrae. Consist of outer fibrous ring (annulus fibrosus) and inner gel center (nucleus pulposus). Act as shock absorbers and allow movement.",
+      "englishSentence": "A herniated disc occurs when the nucleus pulposus ruptures through the annulus fibrosus, compressing nearby nerves.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "shock absorber",
+        "nucleus pulposus",
+        "annulus fibrosus",
+        "herniated disc",
+        "قرص فقري",
+        "انزلاق"
+      ]
+    },
+    {
+      "id": 3465,
+      "term": "scoliosis",
+      "arabic": "الجنف (انحراف العمود الفقري جانبياً)",
+      "latin": "scoliosis",
+      "pronunciation": "سكوليوسيس",
+      "definition": "انحناء جانبي غير طبيعي في العمود الفقري. أكثر شيوعاً في مرحلة المراهقة لدى الإناث. يُسبّب عدم تناسق الكتفين والضلوع والوركين. قد يؤثر على التنفس إذا كان شديداً.",
+      "definition_en": "An abnormal lateral curvature of the vertebral column. More common in adolescent females. Causes uneven shoulders, ribs, and hips. May affect breathing if severe.",
+      "englishSentence": "School scoliosis screenings catch early cases before the lateral curvature becomes severe and requires surgery.",
+      "type": "disease",
+      "chapter": 23,
+      "keywords": [
+        "lateral curvature",
+        "spine deformity",
+        "adolescence",
+        "جنف",
+        "انحناء"
+      ]
+    },
+    {
+      "id": 3466,
+      "term": "kyphosis",
+      "arabic": "الحدب (التقوّس الصدري)",
+      "latin": "kyphosis",
+      "pronunciation": "كايفوسيس",
+      "definition": "انحناء مفرط للمنطقة الصدرية من العمود الفقري للخلف مما يُعطي مظهر 'الظهر المقوّس' أو 'الحدباء'. يُسبّبه هشاشة العظام وانهيار الفقرات أو ضعف العضلات.",
+      "definition_en": "An exaggerated thoracic posterior curvature of the vertebral column giving a 'hunchback' appearance. Caused by osteoporosis with vertebral collapse or muscle weakness.",
+      "englishSentence": "Kyphosis in elderly women is often caused by osteoporosis leading to compression fractures of thoracic vertebrae.",
+      "type": "disease",
+      "chapter": 23,
+      "keywords": [
+        "hunchback",
+        "thoracic curvature",
+        "osteoporosis",
+        "حدب",
+        "ظهر محدب"
+      ]
+    },
+    {
+      "id": 3467,
+      "term": "lordosis",
+      "arabic": "القعس (التقوّس القطني المفرط)",
+      "latin": "lordosis",
+      "pronunciation": "لوردوسيس",
+      "definition": "انحناء مفرط للمنطقة القطنية من العمود الفقري للأمام مما يُعطي مظهر 'الظهر المنحني للأمام' أو الحوض المائل. شائع عند السمنة والحمل.",
+      "definition_en": "An accentuated lumbar anterior curvature giving a 'swayback' appearance with a tilted pelvis. Common in obesity and pregnancy.",
+      "englishSentence": "Temporary lordosis during pregnancy is normal as the center of gravity shifts forward with the growing uterus.",
+      "type": "disease",
+      "chapter": 23,
+      "keywords": [
+        "swayback",
+        "lumbar curvature",
+        "pregnancy",
+        "قعس",
+        "أسفل ظهر"
+      ]
+    },
+    {
+      "id": 3468,
+      "term": "sternum",
+      "arabic": "القص",
+      "latin": "sternum",
+      "pronunciation": "ستيرنم",
+      "definition": "العظمة الوسطى في مقدمة الصدر. تتكون من ثلاثة أجزاء: المقبض (الجزء العلوي)، والجسم (الجزء الأكبر، يتمفصل مع الأضلاع 2-7)، والناتئ الخنجري (الجزء السفلي). موقع بزل نخاع العظم لدى البالغين.",
+      "definition_en": "The central bone in the anterior chest wall. Three parts: manubrium (superior), body (bulk, articulates ribs 2-7), xiphoid process (inferior). Site of red bone marrow aspiration in adults.",
+      "englishSentence": "CPR compressions are applied to the sternum to compress the heart between the sternum and vertebral column.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "manubrium",
+        "body",
+        "xiphoid",
+        "chest",
+        "قص",
+        "صدر"
+      ]
+    },
+    {
+      "id": 3469,
+      "term": "manubrium",
+      "arabic": "المقبض (الجزء العلوي من القص)",
+      "latin": "manubrium sterni",
+      "pronunciation": "مانيوبريم",
+      "definition": "الجزء العلوي المثلث للقص. يتمفصل مع الترقوتين والضلعين الأولين. يُحدّد الشق الوداجي (السمة القصية) في مركز حافته العليا.",
+      "definition_en": "The triangular superior portion of the sternum. Articulates with the clavicles and first two ribs. Characterized by the jugular notch (sternal notch) at the center of its superior border.",
+      "englishSentence": "The jugular notch of the manubrium is a palpable landmark used to locate the trachea.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "sternum top",
+        "clavicle",
+        "jugular notch",
+        "مقبض قص",
+        "قصي"
+      ]
+    },
+    {
+      "id": 3470,
+      "term": "xiphoid process",
+      "arabic": "الناتئ الخنجري",
+      "latin": "processus xiphoideus",
+      "pronunciation": "زيفويد بروسيس",
+      "definition": "الجزء الأصغر والأدنى من القص. غضروفي في الشباب ويتعظّم حول سن 40. يُوفر ارتكازاً لعضلات البطن. معلَم تشريحي لتحديد مستوى الحجاب الحاجز.",
+      "definition_en": "The smallest, most inferior part of the sternum. Cartilaginous in youth, ossifies around age 40. Provides attachment for abdominal muscles. Anatomical landmark for locating the diaphragm level.",
+      "englishSentence": "During CPR, pressure should be applied above the xiphoid process to avoid fracturing this fragile projection.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "inferior sternum",
+        "diaphragm level",
+        "CPR landmark",
+        "ناتئ خنجري",
+        "قص"
+      ]
+    },
+    {
+      "id": 3471,
+      "term": "true ribs",
+      "arabic": "الأضلاع الحقيقية",
+      "latin": "costae verae",
+      "pronunciation": "ترو ريبز",
+      "definition": "الأضلاع السبعة الأولى (1-7) التي ترتبط مباشرةً بالقص عبر غضاريفها الضلعية. تُشكّل الجزء الأمامي الرئيسي من القفص الصدري.",
+      "definition_en": "The first seven pairs of ribs (1-7) that attach directly to the sternum through their own costal cartilages. Form the main anterior portion of the bony thorax.",
+      "englishSentence": "True ribs directly protect the heart and lungs through their rigid connection to the sternum.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "ribs 1-7",
+        "sternum attachment",
+        "costal cartilage",
+        "أضلاع حقيقية",
+        "صدر"
+      ]
+    },
+    {
+      "id": 3472,
+      "term": "false ribs",
+      "arabic": "الأضلاع الكاذبة",
+      "latin": "costae spuriae",
+      "pronunciation": "فولس ريبز",
+      "definition": "الأضلاع الخمسة السفلية (8-12) التي لا ترتبط مباشرةً بالقص. الأضلاع 8-10 ترتبط بالغضروف الضلعي للضلع السابع، والأضلاع 11-12 هي الأضلاع العائمة (لا ارتباط أمامي).",
+      "definition_en": "The lower five pairs of ribs (8-12) that do not attach directly to sternum. Ribs 8-10 attach to costal cartilage of rib 7; ribs 11-12 are floating ribs (no anterior attachment).",
+      "englishSentence": "The false ribs allow more thoracic expansion during deep breathing compared to the true ribs.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "ribs 8-12",
+        "indirect attachment",
+        "floating ribs",
+        "أضلاع كاذبة",
+        "عائمة"
+      ]
+    },
+    {
+      "id": 3473,
+      "term": "costal cartilage",
+      "arabic": "الغضروف الضلعي",
+      "latin": "cartilago costalis",
+      "pronunciation": "كوستال كارتيليج",
+      "definition": "غضروف هياليني يمتد من الطرف الأمامي للضلع إلى القص. يسمح للقفص الصدري بالتمدد والتقلص أثناء التنفس ويُخفّف الصدمات.",
+      "definition_en": "Hyaline cartilage extending from the anterior end of a rib to the sternum. Allows the bony thorax to expand and contract during breathing and absorbs shocks.",
+      "englishSentence": "Costal cartilage provides the flexibility needed for the rib cage to expand during deep inhalation.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "rib connection",
+        "thorax flexibility",
+        "breathing",
+        "غضروف ضلعي",
+        "تنفس"
+      ]
+    },
+    {
+      "id": 3474,
+      "term": "pectoral girdle",
+      "arabic": "حزام الكتف (الحزام الصدري)",
+      "latin": "cingulum pectorale",
+      "pronunciation": "بيكتورال غيردل",
+      "definition": "يتكون من الترقوة والكتف على كل جانب. يربط الأطراف العلوية بالهيكل المحوري. يتصل بالهيكل المحوري فقط عند القبضة (مفصل قصي-ترقوي).",
+      "definition_en": "Consists of the clavicle and scapula on each side. Connects upper limbs to the axial skeleton. Connects to the axial skeleton only at the manubrium (sternoclavicular joint).",
+      "englishSentence": "The pectoral girdle's loose attachment to the axial skeleton allows the arm to move in almost any direction.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "clavicle",
+        "scapula",
+        "shoulder girdle",
+        "حزام كتف",
+        "كتف"
+      ]
+    },
+    {
+      "id": 3475,
+      "term": "clavicle",
+      "arabic": "الترقوة",
+      "latin": "clavicula",
+      "pronunciation": "كلافيكل",
+      "definition": "عظمة على شكل S في منطقة الكتف. تمتد من القص (المفصل القصي-الترقوي) إلى الكتف (المفصل الأخرمي-الترقوي). الرابط الوحيد بين الطرف العلوي والهيكل المحوري. أكثر العظام عرضةً للكسر.",
+      "definition_en": "S-shaped collarbone extending from sternum (sternoclavicular joint) to scapula (acromioclavicular joint). The only direct bony link between upper limb and axial skeleton. Most commonly fractured bone.",
+      "englishSentence": "The clavicle is the most commonly broken bone, typically fractured when falling on an outstretched arm.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "collarbone",
+        "most fractured",
+        "shoulder",
+        "ترقوة",
+        "كسر"
+      ]
+    },
+    {
+      "id": 3476,
+      "term": "scapula",
+      "arabic": "لوح الكتف",
+      "latin": "scapula",
+      "pronunciation": "سكابيولا",
+      "definition": "عظمة مسطحة مثلثية الشكل في الجزء الخلفي العلوي من الصدر. تتمفصل مع العضد لتُشكّل مفصل الكتف (الغلينوهيومرال). توفر ارتكازاً للعديد من عضلات الكتف والذراع.",
+      "definition_en": "Flat triangular bone on the posterior upper thorax. Articulates with the humerus to form the shoulder (glenohumeral) joint. Provides attachment for many shoulder and arm muscles.",
+      "englishSentence": "The scapula's socket (glenoid cavity) is shallow, allowing wide shoulder movement but making it prone to dislocation.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "shoulder blade",
+        "glenoid cavity",
+        "shoulder joint",
+        "لوح كتف",
+        "كتف"
+      ]
+    },
+    {
+      "id": 3477,
+      "term": "humerus",
+      "arabic": "عظمة العضد",
+      "latin": "humerus",
+      "pronunciation": "هيوميرس",
+      "definition": "العظمة الطويلة الوحيدة في الذراع العلوي. يتمفصل رأسه الكروي مع الحفرة الغلينويدية للكتف. يتمفصل أسفله مع الكعبرة والزند في الكوع.",
+      "definition_en": "The single long bone of the upper arm. Its spherical head articulates with the glenoid cavity of the scapula. Its distal end articulates with the radius and ulna at the elbow.",
+      "englishSentence": "A surgical neck fracture of the humerus is common in elderly people after a fall.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "upper arm",
+        "shoulder joint",
+        "elbow",
+        "عضد",
+        "ذراع"
+      ]
+    },
+    {
+      "id": 3478,
+      "term": "radius",
+      "arabic": "الكعبرة",
+      "latin": "radius",
+      "pronunciation": "ريديوس",
+      "definition": "العظمة الجانبية (إبهامية) في الساعد. تُشارك في تكوين مفصل الكوع ومفصل الرسغ. أكبر في محيطها من الزند. تدور حول الزند لتُنتج الاستلقاء والإبطان.",
+      "definition_en": "The lateral (thumb-side) forearm bone. Participates in elbow and wrist joint formation. Larger distally than proximally. Rotates around ulna to produce supination and pronation.",
+      "englishSentence": "A Colles' fracture of the distal radius is the most common wrist fracture, typically from falling on an outstretched hand.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "forearm",
+        "lateral",
+        "wrist joint",
+        "كعبرة",
+        "ساعد"
+      ]
+    },
+    {
+      "id": 3479,
+      "term": "ulna",
+      "arabic": "الزند",
+      "latin": "ulna",
+      "pronunciation": "أولنا",
+      "definition": "العظمة الإنسية (خنصرية) في الساعد. تُشكّل المفصل الرئيسي مع العضد في الكوع. أكبر في محيطها من الكعبرة قريباً. نتوء الكوع (الزجّ) هو الجزء المحسوس في المرفق.",
+      "definition_en": "The medial (little-finger-side) forearm bone. Forms the primary joint with humerus at the elbow. Larger proximally than distally. The olecranon process is the palpable 'point of the elbow'.",
+      "englishSentence": "The olecranon of the ulna forms the point of the elbow and prevents hyperextension of the forearm.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "forearm",
+        "medial",
+        "elbow",
+        "olecranon",
+        "زند",
+        "مرفق"
+      ]
+    },
+    {
+      "id": 3480,
+      "term": "carpals",
+      "arabic": "عظام الرسغ",
+      "latin": "ossa carpi",
+      "pronunciation": "كاربالز",
+      "definition": "ثماني عظمات قصيرة في الرسغ مرتبة في صفين: أربع قريبة وأربع بعيدة. تُيسّر ثني الرسغ ودورانه وتُمتّص الصدمات.",
+      "definition_en": "Eight short bones of the wrist arranged in two rows: four proximal and four distal. Allow wrist flexion, extension, and rotation, and absorb shocks.",
+      "englishSentence": "The scaphoid carpal bone is the most frequently fractured wrist bone, often from falling on an outstretched hand.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "wrist bones",
+        "eight bones",
+        "scaphoid",
+        "عظام رسغ",
+        "رسغ"
+      ]
+    },
+    {
+      "id": 3481,
+      "term": "metacarpals",
+      "arabic": "عظام المشط (ما بين الرسغ والأصابع)",
+      "latin": "ossa metacarpi",
+      "pronunciation": "ميتاكاربالز",
+      "definition": "خمس عظمات طويلة في راحة اليد مُرقّمة 1-5 من الإبهام إلى الخنصر. تتمفصل مع عظام الرسغ قريباً ومع السلاميات بُعداً.",
+      "definition_en": "Five long bones of the palm of the hand numbered I-V from thumb to little finger. Articulate with carpals proximally and with proximal phalanges distally.",
+      "englishSentence": "A boxer's fracture typically breaks the 5th metacarpal from striking with a closed fist.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "palm",
+        "hand bones",
+        "five bones",
+        "عظام مشط",
+        "راحة اليد"
+      ]
+    },
+    {
+      "id": 3482,
+      "term": "phalanges",
+      "arabic": "السلاميات (عظام الأصابع)",
+      "latin": "phalanges",
+      "pronunciation": "فالانجيز",
+      "definition": "عظمات الأصابع. أصابع اليد لكل منها ثلاث سلاميات (قريبة وسطى وبعيدة) ما عدا الإبهام (قريبة وبعيدة فقط). أصابع القدم مشابهة.",
+      "definition_en": "The finger and toe bones. Each finger has three phalanges (proximal, middle, distal) except the thumb which has two (proximal and distal). Toes are similar.",
+      "englishSentence": "The phalanges of the fingers allow precise gripping and manipulation of objects.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "finger bones",
+        "proximal",
+        "middle",
+        "distal",
+        "سلاميات",
+        "أصابع"
+      ]
+    },
+    {
+      "id": 3483,
+      "term": "os coxae",
+      "arabic": "عظم الورك (عظمة الحوض)",
+      "latin": "os coxae",
+      "pronunciation": "أوس كوكساي",
+      "definition": "عظمة الحوض الكبيرة تُشكّل كل جانب من حزام الحوض. تتكون من ثلاث عظمات ملتحمة: الحرقفة والعانة والجلوس. تتمفصل مع العجز خلفاً ومع الفخذ في حق الورك.",
+      "definition_en": "The hip bone forming each side of the pelvic girdle. Composed of three fused bones: ilium, ischium, and pubis. Articulates with sacrum posteriorly and femur at acetabulum.",
+      "englishSentence": "The three bones of the os coxae fuse at the acetabulum, forming the socket of the hip joint.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "hip bone",
+        "ilium",
+        "ischium",
+        "pubis",
+        "عظم ورك",
+        "حوض"
+      ]
+    },
+    {
+      "id": 3484,
+      "term": "ilium",
+      "arabic": "الحرقفة",
+      "latin": "ilium",
+      "pronunciation": "إيليم",
+      "definition": "الجزء الأكبر والعلوي من عظم الورك. قمته تُشكّل قمة الحرقفة الملموسة (العرف). يتمفصل مع العجز من الخلف. يُوفر ارتكازاً لعضلات الأرداف والعضلات المثبتة للحوض.",
+      "definition_en": "The largest and most superior part of the hip bone. Its crest forms the palpable iliac crest. Articulates with sacrum posteriorly. Provides attachment for gluteal and pelvic-stabilizing muscles.",
+      "englishSentence": "The iliac crest is a common bone marrow biopsy site and is used to harvest bone grafts.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "iliac crest",
+        "hip",
+        "sacrum",
+        "حرقفة",
+        "عرف حرقفي"
+      ]
+    },
+    {
+      "id": 3485,
+      "term": "ischium",
+      "arabic": "العجان (الجلسة)",
+      "latin": "ischium",
+      "pronunciation": "إيسكيم",
+      "definition": "الجزء السفلي الخلفي من عظم الورك. درنة الجلسة هي البروز الذي نجلس عليه. الشوكة الوركية مهمة في التوليد لتحديد قطر الحوض.",
+      "definition_en": "The posterior inferior part of the hip bone. The ischial tuberosity is the bony projection we sit on. The ischial spine is important in obstetrics for assessing pelvic diameter.",
+      "englishSentence": "We sit on our ischial tuberosities; they bear the weight of the body when seated.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "ischial tuberosity",
+        "sitting bone",
+        "ischial spine",
+        "عجان",
+        "جلسة"
+      ]
+    },
+    {
+      "id": 3486,
+      "term": "pubis",
+      "arabic": "عظمة العانة",
+      "latin": "pubis",
+      "pronunciation": "بيوبيس",
+      "definition": "الجزء الأمامي السفلي من عظم الورك. يُشكّل الجدار الأمامي للحوض. يلتقي مع عظمة العانة المقابلة في ارتفاق العانة (مفصل غضروفي).",
+      "definition_en": "The anterior inferior part of the hip bone. Forms the anterior wall of the pelvis. Meets the opposite pubis at the pubic symphysis (a cartilaginous joint).",
+      "englishSentence": "The pubic symphysis slightly widens during pregnancy under the influence of the hormone relaxin to facilitate childbirth.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "pubic symphysis",
+        "anterior pelvis",
+        "pregnancy",
+        "عانة",
+        "ارتفاق العانة"
+      ]
+    },
+    {
+      "id": 3487,
+      "term": "acetabulum",
+      "arabic": "حق الورك (التجويف الحقي)",
+      "latin": "acetabulum",
+      "pronunciation": "أستابيولم",
+      "definition": "التجويف الكأسي الكبير في عظم الورك يُشكّل مفصل الورك. يتكوّن عند التقاء الحرقفة والعجان والعانة. يستقبل رأس عظمة الفخذ في مفصل الورك الكروي.",
+      "definition_en": "The deep cup-shaped socket in the hip bone forming the hip joint. Formed at the junction of ilium, ischium, and pubis. Receives the femoral head in the ball-and-socket hip joint.",
+      "englishSentence": "The depth of the acetabulum provides stability to the hip joint while allowing a wide range of movement.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "hip socket",
+        "femoral head",
+        "hip joint",
+        "حق ورك",
+        "تجويف حقي"
+      ]
+    },
+    {
+      "id": 3488,
+      "term": "femur",
+      "arabic": "عظمة الفخذ",
+      "latin": "femur",
+      "pronunciation": "فيمر",
+      "definition": "أطول وأثقل عظمة في الجسم. تمتد من مفصل الورك إلى مفصل الركبة. رأسها الكروي يتمفصل مع حق الورك. تحمل كامل وزن الجسم عند الوقوف. كسرها خطير جداً عند المسنين.",
+      "definition_en": "The longest and heaviest bone in the body. Extends from hip to knee joint. Its spherical head articulates with acetabulum. Bears entire body weight when standing. Fractures are serious in elderly.",
+      "englishSentence": "Hip fractures involving the femur are a leading cause of death in elderly women with osteoporosis.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "thigh bone",
+        "longest bone",
+        "hip joint",
+        "فخذ",
+        "أطول عظمة"
+      ]
+    },
+    {
+      "id": 3489,
+      "term": "patella",
+      "arabic": "الرضفة (عظمة الركبة)",
+      "latin": "patella",
+      "pronunciation": "باتيلا",
+      "definition": "أكبر العظام السمسمانية في الجسم. مدمجة في وتر عضلة الرباعية الفخذية. تحمي مفصل الركبة من الأمام وتُحسّن الرفع الميكانيكي لعضلة الرباعية.",
+      "definition_en": "The largest sesamoid bone in the body. Embedded in the quadriceps tendon. Protects the knee joint anteriorly and improves the mechanical leverage of the quadriceps muscle.",
+      "englishSentence": "Knee cap (patella) dislocation is common in sports and can be reduced manually.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "kneecap",
+        "sesamoid",
+        "quadriceps",
+        "رضفة",
+        "ركبة"
+      ]
+    },
+    {
+      "id": 3490,
+      "term": "tibia",
+      "arabic": "القصبة (عظمة الساق الكبيرة)",
+      "latin": "tibia",
+      "pronunciation": "تيبيا",
+      "definition": "العظمة الأكبر والإنسية في الساق. تحمل وزن الجسم. تتمفصل مع الفخذ في مفصل الركبة ومع الشظية ومع الكاحل. الحرف الإنسي للقصبة (shinbone) ملموس تحت الجلد.",
+      "definition_en": "The larger medial leg bone supporting body weight. Articulates with femur at knee joint, fibula, and ankle. The medial surface (shinbone) is subcutaneous and easily palpable.",
+      "englishSentence": "Shin splints are a common overuse injury involving pain along the tibia, often in runners and soldiers.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "shinbone",
+        "weight bearing",
+        "medial leg",
+        "قصبة",
+        "ساق"
+      ]
+    },
+    {
+      "id": 3491,
+      "term": "fibula",
+      "arabic": "الشظية",
+      "latin": "fibula",
+      "pronunciation": "فيبيولا",
+      "definition": "العظمة الصغيرة الجانبية في الساق. لا تتمفصل مع الفخذ ولا تحمل وزن الجسم. ترتكز عليها عضلات القدم والكاحل. تُشكّل النتوء الجانبي للكاحل.",
+      "definition_en": "The slender lateral leg bone. Does not articulate with femur and does not bear body weight. Provides attachment for foot and ankle muscles. Forms the lateral ankle malleolus.",
+      "englishSentence": "The fibula is often used as a donor bone graft site because its loss doesn't significantly impair walking.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "lateral leg",
+        "non-weight bearing",
+        "ankle",
+        "شظية",
+        "كاحل"
+      ]
+    },
+    {
+      "id": 3492,
+      "term": "tarsals",
+      "arabic": "عظام الرسغ القدمي (الكاحل)",
+      "latin": "ossa tarsi",
+      "pronunciation": "تارسالز",
+      "definition": "سبع عظمات قصيرة في الكاحل والقدم الخلفية. أكبرها عظمة الكعب (calcaneus) ثم الكاحل (talus). تتحمل وزن الجسم وتُوفر ارتكازاً ثابتاً للوقوف والمشي.",
+      "definition_en": "Seven short bones of the ankle and posterior foot. Largest is calcaneus (heel) then talus. Bear body weight and provide a stable base for standing and walking.",
+      "englishSentence": "The tarsals provide stability and shock absorption as we walk, run, and jump.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "ankle bones",
+        "calcaneus",
+        "talus",
+        "seven bones",
+        "عظام كاحل",
+        "كعب"
+      ]
+    },
+    {
+      "id": 3493,
+      "term": "calcaneus",
+      "arabic": "عظمة الكعب",
+      "latin": "calcaneus",
+      "pronunciation": "كالكانيوس",
+      "definition": "أكبر عظمات الكاحل. تُحوّل وزن الجسم إلى الأرض وتُوفر ارتكازاً لوتر أخيل (وتر العرقوب). كسر الكعب شائع عند القفز من ارتفاع.",
+      "definition_en": "The largest tarsal bone. Transfers body weight to the ground and provides attachment for the Achilles tendon. Calcaneal fractures are common from jumping from height.",
+      "englishSentence": "The calcaneus bears the initial impact of each step and absorbs much of the force of walking.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "heel bone",
+        "Achilles tendon",
+        "weight transfer",
+        "كعب",
+        "وتر أخيل"
+      ]
+    },
+    {
+      "id": 3494,
+      "term": "metatarsals",
+      "arabic": "عظام مشط القدم",
+      "latin": "ossa metatarsi",
+      "pronunciation": "ميتاتارسالز",
+      "definition": "خمس عظمات طويلة في الجزء الأوسط من القدم مُرقّمة 1-5 من الإبهام إلى الخنصر. تتمفصل مع عظام الكاحل قريباً ومع السلاميات بُعداً.",
+      "definition_en": "Five long bones of the mid-foot numbered I-V from big toe to little toe. Articulate with tarsals proximally and phalanges distally.",
+      "englishSentence": "High-heeled shoes place excessive pressure on the metatarsals, leading to metatarsalgia and stress fractures.",
+      "type": "bone",
+      "chapter": 23,
+      "keywords": [
+        "foot bones",
+        "mid-foot",
+        "five bones",
+        "مشط قدم",
+        "قدم"
+      ]
+    },
+    {
+      "id": 3495,
+      "term": "arches of the foot",
+      "arabic": "قنطرات (أقواس) القدم",
+      "latin": "arcus pedis",
+      "pronunciation": "آرتشيز أوف ذا فوت",
+      "definition": "ثلاث أقواس عظمية في القدم تمتصّ الصدمات: القوس الطولي الإنسي (الأعلى والأكثر أهمية)، الطولي الجانبي (أخفض)، والعرضي. تتحملها الأربطة والأوتار. القدم المسطحة تُعاني من تعب ومشاكل العمود الفقري.",
+      "definition_en": "Three bony arches of the foot absorbing shock: medial longitudinal (highest, most important), lateral longitudinal (lower), and transverse. Supported by ligaments and tendons. Flat feet cause fatigue and spine problems.",
+      "englishSentence": "The medial arch of the foot is supported by the plantar fascia; its inflammation causes plantar fasciitis.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "foot arch",
+        "flat foot",
+        "plantar fascia",
+        "أقواس قدم",
+        "قدم مسطحة"
+      ]
+    },
+    {
+      "id": 3496,
+      "term": "joint",
+      "arabic": "المفصل",
+      "latin": "articulatio",
+      "pronunciation": "جوينت",
+      "definition": "نقطة تلاقي عظمتين أو أكثر. يُتيح الحركة ويُثبّت العظام معاً. تُصنّف المفاصل حسب بنيتها (ليفية أو غضروفية أو زليلية) أو وظيفتها (ثابتة أو شبه متحركة أو متحركة حرة).",
+      "definition_en": "The point where two or more bones meet. Enables movement and holds bones together. Classified by structure (fibrous, cartilaginous, synovial) or function (synarthrosis, amphiarthrosis, diarthrosis).",
+      "englishSentence": "All bones except the hyoid articulate with at least one other bone at a joint.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "articulation",
+        "movement",
+        "bones",
+        "مفصل",
+        "تمفصل"
+      ]
+    },
+    {
+      "id": 3497,
+      "term": "synovial joint",
+      "arabic": "المفصل الزليلي",
+      "latin": "articulatio synovialis",
+      "pronunciation": "سينوفيال جوينت",
+      "definition": "أكثر مفاصل الجسم حركةً. يتميز بوجود: غضروف مفصلي هياليني، تجويف مفصلي مملوء بالسائل الزليلي، محفظة مفصلية ليفية مُبطّنة بالغشاء الزليلي، وأربطة معززة.",
+      "definition_en": "The most freely movable joints. Features: hyaline articular cartilage, joint cavity with synovial fluid, fibrous capsule lined with synovial membrane, and reinforcing ligaments.",
+      "englishSentence": "Synovial joints like the knee and hip allow free movement while being supported by ligaments and cartilage.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "freely movable",
+        "synovial fluid",
+        "joint capsule",
+        "مفصل زليلي",
+        "حر الحركة"
+      ]
+    },
+    {
+      "id": 3498,
+      "term": "ball-and-socket joint",
+      "arabic": "المفصل الكروي الحقي",
+      "latin": "articulatio spheroidea",
+      "pronunciation": "بول آند سوكيت جوينت",
+      "definition": "مفصل زليلي متعدد المحاور يتكون من رأس كروي من عظمة يتمفصل مع حفرة كأسية من عظمة أخرى. يُتيح الحركة في جميع المحاور بما فيها الدوران. أمثلته مفصل الكتف والورك.",
+      "definition_en": "A multiaxial synovial joint where a spherical head of one bone fits into a round socket of another. Allows movement in all axes including rotation. Examples: shoulder and hip joints.",
+      "englishSentence": "The ball-and-socket hip joint provides the most stable range of motion in the body.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "shoulder",
+        "hip",
+        "multiaxial",
+        "rotation",
+        "كروي حقي",
+        "كتف ورك"
+      ]
+    },
+    {
+      "id": 3499,
+      "term": "hinge joint",
+      "arabic": "المفصل المفصلي (الرزّي)",
+      "latin": "articulatio ginglymus",
+      "pronunciation": "هينج جوينت",
+      "definition": "مفصل زليلي أحادي المحور يُتيح الحركة في اتجاه واحد فقط (الانثناء والمد) كحركة مفصل الباب. أمثلته: الكوع والركبة والكاحل والمفاصل بين سلاميات الأصابع.",
+      "definition_en": "A uniaxial synovial joint allowing movement in one plane only (flexion and extension), like a door hinge. Examples: elbow, knee, ankle, and interphalangeal joints.",
+      "englishSentence": "The knee is a hinge joint that primarily flexes and extends, although it also allows slight rotation when flexed.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "uniaxial",
+        "flexion",
+        "extension",
+        "elbow",
+        "knee",
+        "مفصل رزّي",
+        "كوع"
+      ]
+    },
+    {
+      "id": 3500,
+      "term": "pivot joint",
+      "arabic": "المفصل المحوري",
+      "latin": "articulatio trochoidea",
+      "pronunciation": "بيفوت جوينت",
+      "definition": "مفصل زليلي أحادي المحور يُتيح الدوران حول محور طولي فقط. أمثلته: مفصل الأطلس-المحور (دوران الرأس) والمفصل الكعبري-الزندي القريب (الاستلقاء والإبطان).",
+      "definition_en": "A uniaxial synovial joint allowing rotation around a longitudinal axis only. Examples: atlas-axis joint (head rotation) and proximal radioulnar joint (supination/pronation).",
+      "englishSentence": "The pivot joint between atlas and axis allows you to shake your head 'no'.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "rotation",
+        "uniaxial",
+        "atlas-axis",
+        "radioulnar",
+        "مفصل محوري",
+        "دوران"
+      ]
+    },
+    {
+      "id": 3501,
+      "term": "osteoporosis",
+      "arabic": "هشاشة العظام",
+      "latin": "osteoporosis",
+      "pronunciation": "أوستيوبوروسيس",
+      "definition": "حالة يُصبح فيها العظم رقيقاً وهشاً بسبب انخفاض كثافته. أكثر شيوعاً عند النساء بعد انقطاع الطمث بسبب نقص الإستروجين. أسبابه: نقص الكالسيوم وفيتامين د والتمرين والإستروجين والتدخين. يُسبّب الكسور المرضية.",
+      "definition_en": "A condition where bone becomes thin and fragile due to decreased density. More common in post-menopausal women due to estrogen deficiency. Causes: calcium, vitamin D, exercise, estrogen deficiency, smoking.",
+      "englishSentence": "Osteoporosis is called a 'silent disease' because bone loss occurs without symptoms until a fracture occurs.",
+      "type": "disease",
+      "chapter": 23,
+      "keywords": [
+        "thin bones",
+        "estrogen",
+        "calcium deficiency",
+        "fracture risk",
+        "هشاشة عظام",
+        "كالسيوم"
+      ]
+    },
+    {
+      "id": 3502,
+      "term": "pubic symphysis",
+      "arabic": "ارتفاق العانة",
+      "latin": "symphysis pubica",
+      "pronunciation": "بيوبيك سيمفيسيس",
+      "definition": "مفصل غضروفي يربط عظمتي العانة في مقدمة الحوض. وسادته الغضروفية الليفية تسمح بقدر محدود من الحركة. يتمدد أثناء الولادة بتأثير هرمون الريلاكسين.",
+      "definition_en": "A cartilaginous joint connecting the two pubic bones at the front of the pelvis. Its fibrocartilage pad allows limited movement. Widens during childbirth under relaxin hormone influence.",
+      "englishSentence": "Pain at the pubic symphysis during pregnancy is common as relaxin softens the ligaments for childbirth.",
+      "type": "concept",
+      "chapter": 23,
+      "keywords": [
+        "fibrocartilage",
+        "pelvis",
+        "childbirth",
+        "relaxin",
+        "ارتفاق عانة",
+        "حوض"
+      ]
+    }
+  ]
+}
